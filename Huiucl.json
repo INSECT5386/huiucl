@@ -14,7 +14,8 @@
       "s": "ㅅ",
       "h": "ㅎ",
       "l": "ㄹ",
-      "c": "ㄲ"
+      "c": "ㄲ",
+      "t": "ㄸ"
     }
   },
   "대명사": {
@@ -39,14 +40,14 @@
     }
   },
   "조동사": {
-    "laca": "~할 수 있다",
-    "sacha": "~하는 것이 좋겠다.",
-    "saca": "~해야 한다",
-    "macla": {
+    "luca": "~할 수 있다",
+    "sana": "~하는 것이 좋겠다.",
+    "casa": "~해야 한다",
+    "clu": {
       "뜻": "~이다",
       "변형": {
-        "smacla": "~하고 있다.",
-        "lmacla": "당하다/되다."
+        "clusl": "~하고 있다.",
+        "clunl": "당하다/되다."
       }
     },
     "aca": {
@@ -98,6 +99,12 @@
     "ma -": {
       "뜻": "-도",
       "예": "ma u macla uiususu (나도 사람이다.)"
+    },
+    "-sl": {
+      "뜻": "진행형"
+    },
+    "-nl": {
+      "뜻": "피동형"
     }
   },
   "연결어미 및 구성요소": {
@@ -143,516 +150,490 @@
   },
   "기본명사": {
     "물건": {
-      "nacacl": {
+      "catuatl": {
         "뜻": "가구"
       },
-      "micicl": {
-        "뜻": "게시판"
-      },
-      "nicl": {
-        "뜻": "기념품"
-      },
-      "inucl": {
-        "뜻": "다리미"
-      },
-      "hicl": {
+      "hantl": {
         "뜻": "담요"
       },
-      "caccl": {
-        "뜻": "대용품"
-      },
-      "sunacl": {
+      "tlutl": {
         "뜻": "도구"
       },
-      "cucicl": {
+      "maitl": {
         "뜻": "돈"
       },
-      "umcl": {
+      "caitl": {
         "뜻": "동전"
       },
-      "cuicl": {
+      "cuitl": {
         "뜻": "막대기"
       },
-      "ascl": {
+      "uatl": {
         "뜻": "망"
       },
-      "mumcl": {
+      "multl": {
         "뜻": "무기"
       },
-      "uhicl": {
+      "huatl": {
         "뜻": "버튼"
       },
-      "cacacl": {
+      "tanatl": {
         "뜻": "봉투"
       },
-      "acicl": {
+      "cusantl": {
         "뜻": "부품"
       },
-      "sacl": {
-        "뜻": "비누"
-      },
-      "samcl": {
+      "nu hancultl la nusmu": {
         "뜻": "성냥"
       },
-      "ihmicl": {
-        "뜻": "세면대"
-      },
-      "cascl": {
+      "castl": {
         "뜻": "수건"
       },
-      "cicl": {
+      "catlatl": {
         "뜻": "시계"
       },
-      "inmacl": {
+      "sulmatl": {
         "뜻": "쓰레기"
       },
-      "uicl": {
+      "huitl": {
         "뜻": "연료"
       },
-      "mihcl": {
-        "뜻": "예비품"
-      },
-      "minucl": {
-        "뜻": "의자"
-      },
-      "humcl": {
+      "lamuhantl": {
         "뜻": "이불"
-      },
-      "uhcl": {
+      }, 
+      "untl": {
         "뜻": "자원"
       },
-      "hucl": {
+      "hutl": {
         "뜻": "장비"
       },
-      "ihsucl": {
+      "auntl": {
         "뜻": "재료"
       },
-      "micacl": {
+      "cunhatl": {
         "뜻": "저울"
       },
-      "cacl": {
+      "catl": {
         "뜻": "접시"
       },
-      "accl": {
+      "ahilutl": {
         "뜻": "종이"
       },
-      "cihcl": {
+      "maistl": {
         "뜻": "지갑"
       },
-      "cuncl": {
+      "ahilucaitl": {
         "뜻": "지폐"
       },
-      "micl": {
+      "casitl": {
+        "뜻": "우주선"
+      },
+      "hihutl": {
+        "뜻": "자동차"
+      },
+      "mitl": {
         "뜻": "짐"
       },
-      "ucucl": {
+      "tutl": {
         "뜻": "책"
       },
-      "uclacl": {
-        "뜻": "책상"
+      "munact": {
+        "뜻": "칼"
       },
-      "uccl": {
+      "astl": {
+        "뜻": "탁자"
+      },
+      "caltl": {
         "뜻": "카드"
       },
-      "numucl": {
-        "뜻": "카메라"
-      },
-      "uhacl": {
+      "uhatl": {
         "뜻": "텔레비전"
       },
-      "acucl": {
-        "뜻": "티슈"
-      },
-      "hascl": {
+      "ahilulatl": {
         "뜻": "화장지"
       },
-      "amacl": {
+      "tlustl": {
         "뜻": "가방"
       },
-      "sicucl": {
+      "alitl": {
         "뜻": "작품"
       },
-      "hucacl": {
+      "tlasitl": {
         "뜻": "잔"
       }
     },
     "자연": {
       "광물": {
-        "nuccl": {
+        "nu cual la stalu": {
           "뜻": "강철"
         },
-        "incl": {
+        "cual": {
           "뜻": "철"
         },
-        "inicl": {
+        "tal": {
           "뜻": "돌"
         },
-        "uncl": {
+        "huitl-tal": {
           "뜻": "석탄"
         }
       },
       "현상/에너지": {
-        "sisacl": {
+        "huisul": {
           "뜻": "바람"
         },
-        "sicl": {
+        "tansul": {
           "뜻": "번개"
         },
-        "saccl": {
+        "suicul": {
           "뜻": "무지개"
         },
-        "niscl": {
+        "hancul": {
           "뜻": "불"
         },
-        "nuiucl": {
+        "munul": {
           "뜻": "비"
         },
-        "caccl": {
+        "tanshul": {
           "뜻": "전기"
         },
-        "amcl": {
+        "amacul": {
           "뜻": "천둥"
         },
-        "macl": {
+        "macul": {
           "뜻": "소리"
         },
-        "sisucl": {
+        "siucul": {
           "뜻": "열"
         },
-        "acnacl": {
+        "acacul": {
           "뜻": "연기"
         },
-        "sucl": {
+        "sucul": {
           "뜻": "현상"
         },
-        "iscl": {
+        "hamanul": {
           "뜻": "에너지"
         },
-        "umicl": {
+        "hantul": {
           "뜻": "지진"
         }
       },
       "환경": {
-        "uiicl": {
+        "machu-hamucl": {
           "뜻": "가뭄"
-        },
-        "haccl": {
+        }, 
+        "nu hamucl la muina": {
           "뜻": "강"
         },
-        "ahcl": {
+        "nu hamucl la nusmu": {
           "뜻": "개울"
         },
-        "acucl": {
+        "nal": {
           "뜻": "공기"
         },
-        "amcicl": {
+        "amical": {
           "뜻": "바다"
         },
-        "masacl": {
+        "mascal": {
           "뜻": "사막"
         },
-        "nucl": {
+        "haunal": {
           "뜻": "산"
         },
-        "ihcl": {
+        "hical": {
           "뜻": "숲"
         },
-        "usacl": {
+        "usacal": {
           "뜻": "저수지"
         },
-        "uicicl": {
+        "alinal": {
           "뜻": "지형"
         },
-        "sahcl": {
+        "sahcal": {
           "뜻": "평원"
         },
-        "umhucl": {
+        "slamucal": {
           "뜻": "해변"
         },
-        "samucl": {
+        "samucal": {
           "뜻": "해안"
         },
-        "uhmucl": {
+        "uhunal": {
           "뜻": "호수"
         },
-        "ucnicl": {
+        "nu mumsa na muina": {
           "뜻": "홍수"
         },
-        "sincl": {
+        "haunal un hancul": {
           "뜻": "화산"
         },
-        "nacucl": {
+        "tiomal": {
           "뜻": "지역"
         },
-        "siccl": {
+        "sical": {
           "뜻": "환경",
           "변형": {
-            "siccl": "환경적"
+            "ta sical": "환경적"
           }
         },
-        "siscl": {
+        "tamlal": {
           "뜻": "온도"
         },
-        "날씨": {
-          "sumcl": {
-            "뜻": "구름"
-          },
-          "hacl": {
-            "뜻": "날씨"
-          },
-          "cuhcl": {
-            "뜻": "눈(내리는)"
-          }
+        "sumcal": {
+          "뜻": "구름"
+        },
+        "hacal": {
+          "뜻": "날씨"
+        },
+        "cucal": {
+          "뜻": "눈(내리는)"
         }
       },
       "행성/위성/항성": {
-        "ancl": {
+        "ansl": {
           "뜻": "태양"
         },
-        "huiacl": {
+        "huiasl": {
           "뜻": "수성"
         },
-        "macucl": {
+        "macusl": {
           "뜻": "금성"
         },
-        "husacl": {
+        "husasl": {
           "뜻": "지구"
         },
-        "mamucl": {
+        "mamusl": {
           "뜻": "화성"
         },
-        "hacucl": {
+        "hacusl": {
           "뜻": "목성"
         },
-        "cahcl": {
+        "casl": {
           "뜻": "토성"
         },
-        "nascl": {
+        "nasl": {
           "뜻": "천왕성"
         },
-        "iccl": {
+        "icsl": {
           "뜻": "해왕성"
         },
-        "hihcl": {
+        "hisl": {
           "뜻": "명왕성"
         },
-        "acacl": {
+        "acasl": {
           "뜻": "별"
         },
-        "cicacl": {
+        "naisl": {
           "뜻": "달"
         },
-        "sacicl": {
+        "antisl": {
           "뜻": "행성"
         }
       },
       "생물": {
         "동물": {
-          "usicl": {
+          "muth": {
             "뜻": "가축"
           },
-          "namucl": {
+          "tanth": {
             "뜻": "개"
           },
-          "hunacl": {
+          "anth": {
             "뜻": "고양이"
           },
-          "casacl": {
+          "cath": {
             "뜻": "닭"
           },
-          "umucl": {
+          "umucth": {
             "뜻": "곤충"
           },
-          "achucl": {
+          "achuth": {
             "뜻": "곰"
           },
-          "nacl": {
+          "nath": {
             "뜻": "도마뱀"
           },
-          "icacl": {
+          "alth": {
             "뜻": "동물"
           },
-          "ciscl": {
+          "cisath": {
             "뜻": "돼지"
           },
-          "uhcucl": {
+          "uhucth": {
             "뜻": "뱀"
           },
-          "ascucl": {
+          "asuth": {
             "뜻": "새"
           },
-          "sascl": {
+          "sacth": {
             "뜻": "소"
           },
-          "ismacl": {
+          "smath": {
             "뜻": "양"
           },
-          "sunicl": {
+          "unith": {
             "뜻": "오리"
           },
-          "usmacl": {
+          "nu umucth la nalla": {
             "뜻": "해충"
           }
         },
         "식물": {
-          "uhucl": {
+          "uhuch": {
             "뜻": "꽃"
           },
-          "uchucl": {
+          "chuch": {
             "뜻": "나무"
           },
-          "hiccl": {
+          "hich": {
             "뜻": "덤불"
           },
-          "unsucl": {
+          "unsuch": {
             "뜻": "식물"
           },
-          "cahucl": {
+          "cauch": {
             "뜻": "씨앗"
           },
-          "uiacl": {
+          "uich": {
             "뜻": "야채"
           },
-          "icsicl": {
+          "sich": {
             "뜻": "잡초"
           },
-          "suncl": {
+          "sunch": {
             "뜻": "줄기"
           }
         },
         "장기/기관": {
-          "cucl": {
+          "cucil": {
             "뜻": "껍질"
           },
-          "usnicl": {
+          "ucil": {
             "뜻": "뇌"
           },
-          "sinicl": {
+          "sincil": {
             "뜻": "눈(동물의)"
           },
-          "hahcl": {
+          "hacil": {
             "뜻": "다리(동물의)"
           },
-          "ihicl": {
+          "hicil": {
             "뜻": "근육"
           },
-          "mihacl": {
+          "mihacil": {
             "뜻": "발"
           },
-          "uchacl": {
+          "uchacil": {
             "뜻": "뿌리"
           },
-          "unhacl": {
+          "unhacil": {
             "뜻": "손"
           },
-          "ucacl": {
+          "ucacil": {
             "뜻": "신경"
           },
-          "naccl": {
+          "nacil": {
             "뜻": "위"
           },
-          "macacl": {
+          "macacil": {
             "뜻": "이빨"
           },
-          "masicl": {
+          "mascil": {
             "뜻": "장기(내장)"
           },
-          "muhucl": {
+          "muhucil": {
             "뜻": "털"
           },
-          "asicl": {
+          "ascil": {
             "뜻": "피"
           },
-          "saccl": {
+          "sacil": {
             "뜻": "세포"
           }
         },
-        "inacl": {
+        "inacil": {
           "뜻": "생물",
           "변형": {
-            "inacl": "생물적"
+            "ta inacil": "생물적"
           }
         },
-        "ucsucl": {
-          "뜻": "생물학"
-        },
-        "ahucl": {
+        "ahucil": {
           "뜻": "유기체"
         },
-        "nihicl": {
+        "shicil": {
           "뜻": "유전"
         },
-        "icicl": {
+        "shicil-achicl": {
           "뜻": "유전자"
         },
-        "ninicl": {
+        "ninicil": {
           "뜻": "생태계"
         },
-        "mamcl": {
+        "mu la nunhi": {
           "뜻": "서식시"
         },
-        "muncl": {
+        "muncil": {
           "뜻": "흙"
         },
-        "unacl": {
+        "unacil": {
           "뜻": "소화"
         },
-        "musucl": {
+        "musucil": {
           "뜻": "화석"
         }
       },
       "물질": {
-        "unucl": {
+        "atlachl": {
           "뜻": "탄소"
         },
-        "nihcl": {
+        "nihchl": {
           "뜻": "단백질"
         },
-        "achicl": {
+        "achichl": {
           "뜻": "물질"
         },
-        "asacl": {
+        "asachl": {
           "뜻": "분자"
         },
-        "uchicl": {
+        "uchichl": {
           "뜻": "산(산성용액)"
         },
-        "cuscl": {
+        "cuschl": {
           "뜻": "산소"
         },
-        "nicucl": {
+        "nicuchl": {
           "뜻": "원소"
         },
-        "haccl": {
+        "hacchl": {
           "뜻": "입자"
         },
-        "unmicl": {
+        "unmichl": {
           "뜻": "전자"
         }
       },
       "사고/부상/병": {
-        "isucl": {
+        "isuch": {
           "뜻": "독"
         },
-        "acsicl": {
+        "asich": {
           "뜻": "상처"
         },
-        "acmicl": {
+        "acmich": {
           "뜻": "재난"
         },
-        "mucl": {
+        "much": {
           "뜻": "사고"
         },
-        "achicl": {
+        "achich": {
           "뜻": "암"
         },
-        "ihucl": {
+        "huch": {
           "뜻": "증상"
         },
-        "misucl": {
+        "misuch": {
           "뜻": "질병"
         },
-        "inmucl": {
+        "inmuch": {
           "뜻": "중독"
         }
       },
@@ -696,1050 +677,1039 @@
       }
     },
     "장소": {
-      "umhacl": {
+      "umhas": {
         "뜻": "거리"
       },
-      "hucicl": {
+      "hucis": {
         "뜻": "공원"
       },
-      "humacl": {
+      "humas": {
         "뜻": "광장"
       },
-      "hiscl": {
+      "mu ucmist": {
         "뜻": "극장"
       },
-      "icsacl": {
+      "icsas": {
         "뜻": "길"
       },
-      "ihsacl": {
+      "ihsas": {
         "뜻": "내부"
       },
-      "ahicl": {
+      "ahis": {
         "뜻": "대피소"
       },
-      "cuccl": {
+      "cus": {
         "뜻": "도로"
       },
-      "sucucl": {
+      "mu tutl": {
         "뜻": "도서관"
       },
-      "hamcl": {
+      "hams": {
         "뜻": "도시"
       },
-      "mumucl": {
+      "mumus": {
         "뜻": "마구간"
       },
-      "sumucl": {
+      "sumus": {
         "뜻": "마을"
       },
-      "acmucl": {
+      "acmus": {
         "뜻": "박물관"
       },
-      "ucmucl": {
+      "mu misuch": {
         "뜻": "병원"
       },
-      "musacl": {
+      "mu hamucl la nalla": {
         "뜻": "술집"
       },
-      "amicl": {
+      "amis": {
         "뜻": "시골"
       },
-      "acacl": {
+      "acas": {
         "뜻": "시설"
       },
-      "muccl": {
+      "mu isnuct": {
         "뜻": "식당"
       },
-      "hihacl": {
+      "hihas": {
         "뜻": "아파트"
       },
-      "amucl": {
+      "amus": {
         "뜻": "역"
       },
-      "muscl": {
-        "뜻": "욕실"
-      },
-      "hacucl": {
+      "hacus": {
         "뜻": "장소"
       },
-      "uihacl": {
+      "uihas": {
         "뜻": "집"
       },
-      "hinicl": {
+      "hinis": {
         "뜻": "카페"
       },
-      "cincl": {
+      "cins": {
         "뜻": "화장실"
       },
-      "incacl": {
+      "incas": {
         "뜻": "회사"
       },
-      "uscl": {
+      "lucs": {
         "뜻": "고향"
       },
-      "numicl": {
+      "numis": {
         "뜻": "다리(건너는)"
       },
-      "huccl": {
+      "hucs": {
         "뜻": "항공사"
       },
-      "icucl": {
-        "뜻": "묘"
-      },
-      "maccl": {
+      "macs": {
         "뜻": "항구"
       }
     },
     "학문": {
       "철학": {
-        "nuhicl": {
+        "nutah": {
           "뜻": "철학"
         },
-        "ciccl": {
+        "cictah": {
           "뜻": "관점"
         },
-        "samacl": {
+        "samatah": {
           "뜻": "가치"
         },
-        "mahacl": {
+        "manatah": {
           "뜻": "본능"
         },
-        "nucucl": {
+        "nucutah": {
           "뜻": "운명"
         },
-        "amhicl": {
+        "amitah": {
           "뜻": "의식"
         },
-        "cihicl": {
+        "citah": {
           "뜻": "편견"
         },
-        "suscl": {
+        "sustah": {
           "뜻": "폭력"
         }
       },
       "수학": {
-        "namcl": {
+        "namctah": {
           "뜻": "숫자"
         },
-        "cisucl": {
+        "cisuctah": {
           "뜻": "수학"
         },
-        "isnicl": {
+        "nictah": {
           "뜻": "각도"
         },
-        "ucnucl": {
+        "nuctah": {
           "뜻": "비율"
         },
-        "sacucl": {
+        "sacuctah": {
           "뜻": "확률"
         },
-        "nihucl": {
+        "huctah": {
           "뜻": "평균"
         },
-        "ihcucl": {
+        "cuctah": {
           "뜻": "변수"
         }
       },
       "이외 학문": {
-        "acsicl": {
+        "acsitah": {
           "뜻": "역사"
         },
-        "nahcl": {
+        "natah": {
           "뜻": "심리학"
         },
-        "cicucl": {
+        "cicutah": {
           "뜻": "물리학"
         },
-        "icmucl": {
+        "icmutah": {
           "뜻": "경제학"
         },
-        "cacacl": {
+        "usutah": {
+          "뜻": "생물학"
+        },
+        "cacatah": {
           "뜻": "과학"
         },
-        "hacacl": {
+        "hutah": {
+          "뜻": "줄거리"
+        },
+        "hacatah": {
           "뜻": "논리학"
         },
-        "ucsacl": {
+        "ucsatah": {
           "뜻": "문학"
         },
-        "acmucl": {
+        "acmutah": {
           "뜻": "지리학"
         },
-        "cunicl": {
+        "nuhutah": {
+          "뜻": "혼합"
+        },
+        "unmutah": {
+          "뜻": "화학"
+        },
+        "cunitah": {
           "뜻": "가설"
         },
-        "ichicl": {
+        "chitah": {
           "뜻": "논문"
         },
-        "suhcl": {
+        "sutah": {
           "뜻": "이론"
         },
-        "uhnicl": {
+        "unitah": {
           "뜻": "개념"
         },
-        "ascacl": {
+        "ascatah": {
           "뜻": "가능성"
         },
-        "amhucl": {
+        "amutah": {
           "뜻": "학회"
         },
-        "numcl": {
+        "numtah": {
           "뜻": "성분"
         },
-        "uhsucl": {
+        "uhsutah": {
           "뜻": "원리"
         },
-        "nacicl": {
+        "nacitah": {
           "뜻": "견적"
         },
-        "hincl": {
+        "hintah": {
           "뜻": "결과"
         },
-        "nuhcl": {
+        "nultah": {
           "뜻": "회로"
         },
-        "sihacl": {
+        "sitah": {
           "뜻": "특성"
         }
       }
     },
     "사회": {
       "인간/가정": {
-        "asnucl": {
+        "asnuhl": {
           "뜻": "교수"
         },
-        "hahicl": {
+        "hahl": {
           "뜻": "가족"
         },
-        "ahacl": {
+        "ahahl": {
           "뜻": "가정"
         },
-        "huhcl": {
+        "huhl": {
           "뜻": "개인"
         },
-        "nacacl": {
+        "nacahl": {
           "뜻": "경찰"
         },
-        "mascl": {
+        "mashl": {
           "뜻": "관객"
         },
-        "mahucl": {
+        "mahuhl": {
           "뜻": "국민"
         },
-        "suicl": {
+        "suihl": {
           "뜻": "군인"
         },
-        "uinacl": {
+        "uinahl": {
           "뜻": "군중"
         },
-        "ahsicl": {
+        "ahsihl": {
           "뜻": "대통령"
         },
-        "usucl": {
+        "usuhl": {
           "뜻": "대리인"
         },
-        "umacl": {
+        "umahl": {
           "뜻": "동료"
         },
-        "cunucl": {
+        "cunuhl": {
           "뜻": "배우"
         },
-        "hisacl": {
+        "hisahl": {
           "뜻": "변호사"
         },
-        "miscl": {
+        "mishl": {
           "뜻": "보행자"
         },
-        "inmicl": {
+        "inmihl": {
           "뜻": "부모"
         },
-        "icmicl": {
+        "icmihl": {
           "뜻": "사람"
         },
-        "uncicl": {
+        "uncihl": {
           "뜻": "상관"
         },
-        "maccl": {
+        "machl": {
           "뜻": "상인"
         },
-        "unsacl": {
+        "unsahl": {
           "뜻": "선임"
         },
-        "nuhacl": {
+        "nuhahl": {
           "뜻": "성직자"
         },
-        "unsicl": {
+        "unsihl": {
           "뜻": "소방관"
         },
-        "icnucl": {
+        "icnuhl": {
           "뜻": "시민"
         },
-        "hacicl": {
+        "hacihl": {
           "뜻": "시장(사람)"
         },
-        "camcl": {
+        "camhl": {
           "뜻": "시인"
         },
-        "humicl": {
+        "humihl": {
           "뜻": "아버지"
         },
-        "muhacl": {
+        "muhahl": {
           "뜻": "아이"
         },
-        "ihmucl": {
+        "ihmuhl": {
           "뜻": "어머니"
         },
-        "uscucl": {
+        "uscuhl": {
           "뜻": "예술가"
         },
-        "nasacl": {
+        "sahl": {
           "뜻": "왕"
         },
-        "cuhicl": {
+        "cuhihl": {
           "뜻": "운전사"
         },
-        "sihcl": {
+        "sihl": {
           "뜻": "의사"
         },
-        "ascicl": {
+        "ascihl": {
           "뜻": "이웃"
         },
-        "ucsicl": {
+        "ucsihl": {
           "뜻": "인류"
         },
-        "achucl": {
+        "achuhl": {
           "뜻": "인물"
         },
-        "amnacl": {
+        "amnahl": {
           "뜻": "인종"
         },
-        "cucacl": {
+        "cucahl": {
           "뜻": "임원"
         },
-        "mincl": {
+        "minhl": {
           "뜻": "입문자"
         },
-        "aclucl": {
+        "acluhl": {
           "뜻": "자매"
         },
-        "macacl": {
+        "macahl": {
           "뜻": "전문가"
         },
-        "usnacl": {
+        "insuhl": {
+          "뜻": "아기"
+        },
+        "sihuhl": {
+          "뜻": "예술가"
+        },
+        "ahnahl": {
+          "뜻": "요리사"
+        },
+        "usnahl": {
           "뜻": "조부모"
         },
-        "minacl": {
+        "minahl": {
           "뜻": "주민"
         },
-        "sisicl": {
+        "sisihl": {
           "뜻": "천문학자"
         },
-        "uihicl": {
+        "uihihl": {
           "뜻": "청소년"
         },
-        "uicucl": {
+        "uicuhl": {
           "뜻": "친구"
         },
-        "inhacl": {
+        "inhahl": {
           "뜻": "피해자"
         },
-        "nihacl": {
+        "nihahl": {
           "뜻": "하급자"
         },
-        "nacicl": {
+        "nacihl": {
           "뜻": "학자"
         },
-        "hihicl": {
+        "hihl": {
           "뜻": "할머니"
         },
-        "sasicl": {
+        "sasihl": {
           "뜻": "할아버지"
         },
-        "amhacl": {
+        "amhahl": {
           "뜻": "환자"
         },
-        "minicl": {
+        "minihl": {
           "뜻": "남매"
         },
-        "iclacl": {
+        "iclahl": {
           "뜻": "형제"
         },
-        "nuicl": {
+        "nuihl": {
           "뜻": "연인"
         },
-        "accicl": {
+        "accihl": {
           "뜻": "원수"
         },
-        "sicacl": {
+        "sicahl": {
           "뜻": "승객"
         },
-        "uisacl": {
+        "uisahl": {
           "뜻": "신참"
         }
       },
       "경제/제도": {
-        "icnacl": {
+        "icnaml": {
           "뜻": "경력"
         },
-        "umnucl": {
+        "umnuml": {
           "뜻": "계급"
         },
-        "isicl": {
+        "isiml": {
           "뜻": "국가"
         },
-        "uiucl": {
+        "uiuml": {
           "뜻": "국경"
         },
-        "sumicl": {
+        "sumiml": {
           "뜻": "벌금"
         },
-        "insacl": {
+        "insaml": {
           "뜻": "범죄"
         },
-        "susucl": {
+        "susuml": {
           "뜻": "보조금"
         },
-        "usmicl": {
+        "usmiml": {
           "뜻": "보험"
         },
-        "acnicl": {
+        "acniml": {
           "뜻": "비용"
         },
-        "uncucl": {
+        "uncuml": {
           "뜻": "소득"
         },
-        "huncl": {
+        "hunml": {
           "뜻": "요금"
         },
-        "umcacl": {
+        "umcaml": {
           "뜻": "이익"
         },
-        "nucicl": {
+        "nuciml": {
           "뜻": "이자"
         },
-        "ucmacl": {
+        "ucmaml": {
           "뜻": "자금"
         },
-        "cumucl": {
+        "cumuml": {
           "뜻": "재산"
         },
-        "huicl": {
+        "huiml": {
           "뜻": "전략"
         },
-        "asucl": {
+        "asuml": {
           "뜻": "제국"
         },
-        "ihcacl": {
+        "ihcaml": {
           "뜻": "제도"
         }
       }
     },
     "외부/내부/방향/위치": {
-      "ahsucl": {
+      "mas": {
         "뜻": "아래"
       },
-      "camucl": {
+      "nas": {
         "뜻": "위"
       },
-      "ahsacl": {
+      "sas": {
         "뜻": "외부"
       },
-      "suiucl": {
+      "tas": {
         "뜻": "내부"
       },
-      "camacl": {
+      "has": {
         "뜻": "위치"
       },
-      "husucl": {
+      "cas": {
         "뜻": "측면"
       }
     },
-    "amnucl": {
+    "amnuct": {
       "뜻": "간식"
     },
-    "acsacl": {
+    "acsact": {
       "뜻": "목록"
     },
-    "inhucl": {
+    "inhuct": {
       "뜻": "강점"
     },
-    "nuscl": {
+    "nusct": {
       "뜻": "계기"
     },
-    "hamicl": {
+    "hamict": {
       "뜻": "고기"
     },
-    "munucl": {
+    "munuct": {
       "뜻": "고무"
     },
-    "naccl": {
+    "nacct": {
       "뜻": "공예"
     },
-    "umnacl": {
+    "umnact": {
       "뜻": "광택"
     },
-    "cuhacl": {
+    "cuhact": {
       "뜻": "균형"
     },
-    "micucl": {
+    "micuct": {
       "뜻": "근원"
     },
-    "ichucl": {
+    "ichuct": {
       "뜻": "기계"
     },
-    "iclicl": {
+    "iclict": {
       "뜻": "기관(기계)"
     },
-    "husicl": {
+    "husict": {
       "뜻": "기름"
     },
-    "huiicl": {
+    "huiict": {
       "뜻": "기술"
     },
-    "uclicl": {
+    "uclict": {
       "뜻": "기준"
     },
-    "usnucl": {
+    "usnuct": {
       "뜻": "기회"
     },
-    "hahucl": {
+    "hahuct": {
       "뜻": "꿈"
     },
-    "iclucl": {
+    "icluct": {
       "뜻": "끝"
     },
-    "muhicl": {
+    "muhict": {
       "뜻": "단계"
     },
-    "huscl": {
+    "husct": {
       "뜻": "단어"
     },
-    "succl": {
+    "succt": {
       "뜻": "대안"
     },
-    "masucl": {
+    "masuct": {
       "뜻": "등가"
     },
-    "humucl": {
+    "humuct": {
       "뜻": "등불"
     },
-    "amcucl": {
+    "amcuct": {
       "뜻": "매체"
     },
-    "ihnucl": {
+    "ihnuct": {
       "뜻": "면"
     },
-    "insicl": {
+    "insict": {
       "뜻": "명성"
     },
-    "hasicl": {
+    "hasict": {
       "뜻": "명예"
     },
-    "ucicl": {
+    "ucict": {
       "뜻": "모습"
     },
-    "uhsacl": {
+    "uhsact": {
       "뜻": "문"
     },
-    "huhacl": {
+    "huhact": {
       "뜻": "문맥"
     },
-    "nuncl": {
+    "nunct": {
       "뜻": "문장"
     },
-    "umsucl": {
+    "umsuct": {
       "뜻": "물체"
     },
-    "aclacl": {
+    "aclact": {
       "뜻": "바닥"
     },
-    "nusucl": {
+    "nusuct": {
       "뜻": "박자"
     },
-    "ihcicl": {
+    "ihcict": {
       "뜻": "방식"
     },
-    "musicl": {
+    "musict": {
       "뜻": "범주"
     },
-    "uinucl": {
+    "uinuct": {
       "뜻": "부분"
     },
-    "sahacl": {
+    "sahact": {
       "뜻": "비명"
     },
-    "suiacl": {
+    "suiact": {
       "뜻": "뼈대"
     },
-    "sahicl": {
+    "sahict": {
       "뜻": "선택지"
     },
-    "hamacl": {
+    "hamact": {
       "뜻": "세부"
     },
-    "hahacl": {
+    "hahact": {
       "뜻": "소설"
     },
-    "cicicl": {
+    "cicict": {
       "뜻": "순서"
     },
-    "muhcl": {
+    "muhct": {
       "뜻": "시력"
     },
-    "hasucl": {
+    "hasuct": {
       "뜻": "신화"
     },
-    "mahicl": {
+    "hoct": {
+      "뜻": "신"
+    },
+    "mahict": {
       "뜻": "실제"
     },
-    "insucl": {
-      "뜻": "아기"
-    },
-    "cinacl": {
+    "cinact": {
       "뜻": "예시"
     },
-    "macicl": {
+    "macilct": {
       "뜻": "위기"
     },
-    "isnucl": {
+    "isnuct": {
       "뜻": "음식"
     },
-    "umcucl": {
+    "umcuct": {
       "뜻": "음악"
     },
-    "cusicl": {
+    "cusict": {
       "뜻": "장애물"
     },
-    "sasacl": {
+    "sasact": {
       "뜻": "전설"
     },
-    "asnacl": {
+    "asnact": {
       "뜻": "절정"
     },
-    "unhicl": {
+    "unhict": {
       "뜻": "정도"
     },
-    "hunucl": {
+    "hunuct": {
       "뜻": "주름"
     },
-    "cuiicl": {
+    "cuict": {
       "뜻": "주제"
     },
-    "cisacl": {
+    "cisact": {
       "뜻": "줄"
     },
-    "huhucl": {
-      "뜻": "줄거리"
-    },
-    "hinucl": {
+    "hinuct": {
       "뜻": "창문"
     },
-    "munacl": {
-      "뜻": "칼"
-    },
-    "mamicl": {
+    "mamict": {
       "뜻": "함정"
     },
-    "nahacl": {
+    "nahact": {
       "뜻": "행동"
     },
-    "achacl": {
+    "achact": {
       "뜻": "화면"
     },
-    "sacacl": {
+    "sacalct": {
       "뜻": "후자"
     },
-    "기본명사": {
-      "nahicl": {
-        "뜻": "가을"
-      },
-      "incicl": {
-        "뜻": "감동"
-      },
-      "sihicl": {
-        "뜻": "감정"
-      },
-      "uclucl": {
-        "뜻": "강의"
-      },
-      "sumacl": {
-        "뜻": "검은색"
-      },
-      "hisucl": {
-        "뜻": "겨울"
-      },
-      "ninacl": {
-        "뜻": "계절"
-      },
-      "cucucl": {
-        "뜻": "고대"
-      },
-      "umnicl": {
-        "뜻": "고통"
-      },
-      "uhmacl": {
-        "뜻": "과잉"
-      },
-      "niccl": {
-        "뜻": "교통"
-      },
-      "isnacl": {
-        "뜻": "규칙"
-      },
-      "umcicl": {
-        "뜻": "극단"
-      },
-      "uscacl": {
-        "뜻": "기후"
-      },
-      "icsucl": {
-        "뜻": "남색"
-      },
-      "mahcl": {
-        "뜻": "내일"
-      },
-      "cusacl": {
-        "뜻": "노란색"
-      },
-      "acsucl": {
-        "뜻": "능력"
-      },
-      "ihmacl": {
-        "뜻": "단체"
-      },
-      "cumcl": {
-        "뜻": "대다수"
-      },
-      "unicl": {
-        "뜻": "맛"
-      },
-      "camicl": {
-        "뜻": "매일"
-      },
-      "misacl": {
-        "뜻": "모둠"
-      },
-      "asmacl": {
-        "뜻": "목적"
-      },
-      "ihsicl": {
-        "뜻": "무게"
-      },
-      "casucl": {
-        "뜻": "민주주의"
-      },
-      "ahnicl": {
-        "뜻": "믿음"
-      },
-      "aclicl": {
-        "뜻": "밤"
-      },
-      "cahacl": {
-        "뜻": "방법"
-      },
-      "icmacl": {
-        "뜻": "배역"
-      },
-      "suiicl": {
-        "뜻": "보라색"
-      },
-      "uihucl": {
-        "뜻": "봄"
-      },
-      "icnicl": {
-        "뜻": "부서"
-      },
-      "mihucl": {
-        "뜻": "분야"
-      },
-      "nunacl": {
-        "뜻": "분위기"
-      },
-      "unmacl": {
-        "뜻": "불안감"
-      },
-      "namacl": {
-        "뜻": "빨간색"
-      },
-      "mumacl": {
-        "뜻": "사건"
-      },
-      "sucicl": {
-        "뜻": "사명감"
-      },
-      "nahucl": {
-        "뜻": "사상"
-      },
-      "nuiacl": {
-        "뜻": "사생활"
-      },
-      "numacl": {
-        "뜻": "사회"
-      },
-      "ihnacl": {
-        "뜻": "산성"
-      },
-      "nacucl": {
-        "뜻": "산업"
-      },
-      "acsacl": {
-        "뜻": "상태"
-      },
-      "uncacl": {
-        "뜻": "상황"
-      },
-      "hicicl": {
-        "뜻": "색"
-      },
-      "hicucl": {
-        "뜻": "성격"
-      },
-      "iscacl": {
-        "뜻": "성과"
-      },
-      "miccl": {
-        "뜻": "성별"
-      },
-      "nunucl": {
-        "뜻": "세계"
-      },
-      "samicl": {
-        "뜻": "세대"
-      },
-      "ahcucl": {
-        "뜻": "소지품"
-      },
-      "cunacl": {
-        "뜻": "손해"
-      },
-      "ahcicl": {
-        "뜻": "수도"
-      },
-      "cacucl": {
-        "뜻": "시간"
-      },
-      "inhicl": {
-        "뜻": "시합"
-      },
-      "ahcacl": {
-        "뜻": "신용"
-      },
-      "uisicl": {
-        "뜻": "아침"
-      },
-      "hacicl": {
-        "뜻": "양자역학"
-      },
-      "sacicl": {
-        "뜻": "어제"
-      },
-      "huiucl": {
-        "뜻": "언어"
-      },
-      "mihicl": {
-        "뜻": "여름"
-      },
-      "uicacl": {
-        "뜻": "열정"
-      },
-      "muiacl": {
-        "뜻": "영상"
-      },
-      "cinucl": {
-        "뜻": "영토"
-      },
-      "mucacl": {
-        "뜻": "영향"
-      },
-      "ucmicl": {
-        "뜻": "영화"
-      },
-      "sihucl": {
-        "뜻": "예술사"
-      },
-      "cumicl": {
-        "뜻": "오늘"
-      },
-      "amcacl": {
-        "뜻": "왕국"
-      },
-      "amsucl": {
-        "뜻": "외간"
-      },
-      "acmacl": {
-        "뜻": "요리"
-      },
-      "ahnacl": {
-        "뜻": "요리사"
-      },
-      "casicl": {
-        "뜻": "우주선"
-      },
-      "cusucl": {
-        "뜻": "의견"
-      },
-      "nasucl": {
-        "뜻": "이름"
-      },
-      "namicl": {
-        "뜻": "이유"
-      },
-      "ihnicl": {
-        "뜻": "이점"
-      },
-      "macicl": {
-        "뜻": "인기"
-      },
-      "acnucl": {
-        "뜻": "일과"
-      },
-      "mumicl": {
-        "뜻": "자격증"
-      },
-      "hihucl": {
-        "뜻": "자동차"
-      },
-      "nasicl": {
-        "뜻": "자료"
-      },
-      "sicicl": {
-        "뜻": "자세"
-      },
-      "amacl": {
-        "뜻": "자유"
-      },
-      "iscucl": {
-        "뜻": "잠재력"
-      },
-      "nisacl": {
-        "뜻": "잡일"
-      },
-      "ismucl": {
-        "뜻": "잡지"
-      },
-      "cihucl": {
-        "뜻": "쟁점"
-      },
-      "nisucl": {
-        "뜻": "저녁"
-      },
-      "hicacl": {
-        "뜻": "적의"
-      },
-      "mucicl": {
-        "뜻": "절차"
-      },
-      "hasacl": {
-        "뜻": "점심"
-      },
-      "asnicl": {
-        "뜻": "조건"
-      },
-      "nucacl": {
-        "뜻": "조항"
-      },
-      "ahmucl": {
-        "뜻": "종교"
-      },
-      "sunucl": {
-        "뜻": "좌표"
-      },
-      "nicacl": {
-        "뜻": "주소"
-      },
-      "sacacl": {
-        "뜻": "주황색"
-      },
-      "ahmacl": {
-        "뜻": "중심지"
-      },
-      "suhicl": {
-        "뜻": "지원"
-      },
-      "ahnucl": {
-        "뜻": "직업"
-      },
-      "hacacl": {
-        "뜻": "진로"
-      },
-      "huhicl": {
-        "뜻": "집단"
-      },
-      "mucucl": {
-        "뜻": "초록색"
-      },
-      "accucl": {
-        "뜻": "최대"
-      },
-      "ahmicl": {
-        "뜻": "최소"
-      },
-      "municl": {
-        "뜻": "태도"
-      },
-      "suhacl": {
-        "뜻": "통학"
-      },
-      "cahicl": {
-        "뜻": "특권"
-      },
-      "sasucl": {
-        "뜻": "파란색"
-      },
-      "uhnacl": {
-        "뜻": "편지"
-      },
-      "sacucl": {
-        "뜻": "표면"
-      },
-      "ismicl": {
-        "뜻": "표준"
-      },
-      "umsicl": {
-        "뜻": "품질"
-      },
-      "susacl": {
-        "뜻": "풍습"
-      },
-      "muiucl": {
-        "뜻": "하얀색"
-      },
-      "usmucl": {
-        "뜻": "혁명"
-      },
-      "nunicl": {
-        "뜻": "혜택"
-      },
-      "hinacl": {
-        "뜻": "호감"
-      },
-      "nusacl": {
-        "뜻": "호기심"
-      },
-      "uhsicl": {
-        "뜻": "혼돈"
-      },
-      "muicl": {
-        "뜻": "혼란"
-      },
-      "nuhucl": {
-        "뜻": "혼합"
-      },
-      "unmucl": {
-        "뜻": "화학"
-      },
-      "asmucl": {
-        "뜻": "환승"
-      },
-      "ichacl": {
-        "뜻": "휴가"
-      },
-      "cuiacl": {
-        "뜻": "희망"
-      },
-      "macucl": {
-        "뜻": "힘"
-      }
+    "nahict": {
+      "뜻": "가을"
+    },
+    "incict": {
+      "뜻": "감동"
+    },
+    "sihict": {
+      "뜻": "감정"
+    },
+    "ucluct": {
+      "뜻": "강의"
+    },
+    "sumaclt": {
+      "뜻": "검은색"
+    },
+    "hisuct": {
+      "뜻": "겨울"
+    },
+    "ninact": {
+      "뜻": "계절"
+    },
+    "cuct": {
+      "뜻": "고대"
+    },
+    "umnict": {
+      "뜻": "고통"
+    },
+    "uhmact": {
+      "뜻": "과잉"
+    },
+    "nicct": {
+      "뜻": "교통"
+    },
+    "isnact": {
+      "뜻": "규칙"
+    },
+    "umcict": {
+      "뜻": "극단"
+    },
+    "uscact": {
+      "뜻": "기후"
+    },
+    "icsuclt": {
+      "뜻": "남색"
+    },
+    "mahct": {
+      "뜻": "내일"
+    },
+    "cusaclt": {
+      "뜻": "노란색"
+    },
+    "acsuct": {
+      "뜻": "능력"
+    },
+    "ihmact": {
+      "뜻": "단체"
+    },
+    "cumct": {
+      "뜻": "대다수"
+    },
+    "unict": {
+      "뜻": "맛"
+    },
+    "camict": {
+      "뜻": "매일"
+    },
+    "misact": {
+      "뜻": "모둠"
+    },
+    "asmact": {
+      "뜻": "목적"
+    },
+    "ihsict": {
+      "뜻": "무게"
+    },
+    "casuct": {
+      "뜻": "민주주의"
+    },
+    "ahnict": {
+      "뜻": "믿음"
+    },
+    "aclict": {
+      "뜻": "밤"
+    },
+    "cahact": {
+      "뜻": "방법"
+    },
+    "icmact": {
+      "뜻": "배역"
+    },
+    "suiiclt": {
+      "뜻": "보라색"
+    },
+    "uihuct": {
+      "뜻": "봄"
+    },
+    "icnict": {
+      "뜻": "부서"
+    },
+    "mihuct": {
+      "뜻": "분야"
+    },
+    "nunact": {
+      "뜻": "분위기"
+    },
+    "unmact": {
+      "뜻": "불안감"
+    },
+    "namaclt": {
+      "뜻": "빨간색"
+    },
+    "mumact": {
+      "뜻": "사건"
+    },
+    "sucict": {
+      "뜻": "사명감"
+    },
+    "nahuct": {
+      "뜻": "사상"
+    },
+    "nuiact": {
+      "뜻": "사생활"
+    },
+    "numact": {
+      "뜻": "사회"
+    },
+    "ihnact": {
+      "뜻": "산성"
+    },
+    "nacuct": {
+      "뜻": "산업"
+    },
+    "acsanct": {
+      "뜻": "상태"
+    },
+    "uncact": {
+      "뜻": "상황"
+    },
+    "ciclt": {
+      "뜻": "색"
+    },
+    "hicuct": {
+      "뜻": "성격"
+    },
+    "iscact": {
+      "뜻": "성과"
+    },
+    "micct": {
+      "뜻": "성별"
+    },
+    "nunuct": {
+      "뜻": "세계"
+    },
+    "samict": {
+      "뜻": "세대"
+    },
+    "ahcuct": {
+      "뜻": "소지품"
+    },
+    "cunact": {
+      "뜻": "손해"
+    },
+    "ahcict": {
+      "뜻": "수도"
+    },
+    "catlat": {
+      "뜻": "시간"
+    },
+    "inhict": {
+      "뜻": "시합"
+    },
+    "ahcact": {
+      "뜻": "신용"
+    },
+    "uisict": {
+      "뜻": "아침"
+    },
+    "hacict": {
+      "뜻": "양자역학"
+    },
+    "sacict": {
+      "뜻": "어제"
+    },
+    "huiuct": {
+      "뜻": "언어"
+    },
+    "mihict": {
+      "뜻": "여름"
+    },
+    "uicact": {
+      "뜻": "열정"
+    },
+    "muiact": {
+      "뜻": "영상"
+    },
+    "cinuct": {
+      "뜻": "영토"
+    },
+    "mucact": {
+      "뜻": "영향"
+    },
+    "ucmist": {
+      "뜻": "영화"
+    },
+    "cumict": {
+      "뜻": "오늘"
+    },
+    "isiml un sahl": {
+      "뜻": "왕국"
+    },
+    "amsuct": {
+      "뜻": "외간"
+    },
+    "acmact": {
+      "뜻": "요리"
+    },
+    "cusuct": {
+      "뜻": "의견"
+    },
+    "nasuct": {
+      "뜻": "이름"
+    },
+    "namict": {
+      "뜻": "이유"
+    },
+    "ihnict": {
+      "뜻": "이점"
+    },
+    "macict": {
+      "뜻": "인기"
+    },
+    "acnuct": {
+      "뜻": "일과"
+    },
+    "mumict": {
+      "뜻": "자격증"
+    },
+    "nasict": {
+      "뜻": "자료"
+    },
+    "sicict": {
+      "뜻": "자세"
+    },
+    "amact": {
+      "뜻": "자유"
+    },
+    "iscuct": {
+      "뜻": "잠재력"
+    },
+    "nisact": {
+      "뜻": "잡일"
+    },
+    "ismuct": {
+      "뜻": "잡지"
+    },
+    "cihuct": {
+      "뜻": "쟁점"
+    },
+    "nisuct": {
+      "뜻": "저녁"
+    },
+    "hicact": {
+      "뜻": "적의"
+    },
+    "mucict": {
+      "뜻": "절차"
+    },
+    "hasact": {
+      "뜻": "점심"
+    },
+    "asnict": {
+      "뜻": "조건"
+    },
+    "nucact": {
+      "뜻": "조항"
+    },
+    "ahmuct": {
+      "뜻": "종교"
+    },
+    "sunuct": {
+      "뜻": "좌표"
+    },
+    "nicact": {
+      "뜻": "주소"
+    },
+    "sacaclt": {
+      "뜻": "주황색"
+    },
+    "ahmact": {
+      "뜻": "중심지"
+    },
+    "suhict": {
+      "뜻": "지원"
+    },
+    "ahnuct": {
+      "뜻": "직업"
+    },
+    "hacact": {
+      "뜻": "진로"
+    },
+    "huhict": {
+      "뜻": "집단"
+    },
+    "mucuclt": {
+      "뜻": "초록색"
+    },
+    "accuct": {
+      "뜻": "최대"
+    },
+    "ahmict": {
+      "뜻": "최소"
+    },
+    "munict": {
+      "뜻": "태도"
+    },
+    "suhact": {
+      "뜻": "통학"
+    },
+    "cahict": {
+      "뜻": "특권"
+    },
+    "sasuclt": {
+      "뜻": "파란색"
+    },
+    "uhnact": {
+      "뜻": "편지"
+    },
+    "sacuct": {
+      "뜻": "표면"
+    },
+    "ismict": {
+      "뜻": "표준"
+    },
+    "umsict": {
+      "뜻": "품질"
+    },
+    "susact": {
+      "뜻": "풍습"
+    },
+    "muiuclt": {
+      "뜻": "하얀색"
+    },
+    "usmuct": {
+      "뜻": "혁명"
+    },
+    "nunict": {
+      "뜻": "혜택"
+    },
+    "hinact": {
+      "뜻": "호감"
+    },
+    "nusact": {
+      "뜻": "호기심"
+    },
+    "uhsict": {
+      "뜻": "혼돈"
+    },
+    "muict": {
+      "뜻": "혼란"
+    },
+    "asmuct": {
+      "뜻": "환승"
+    },
+    "ichact": {
+      "뜻": "휴가"
+    },
+    "cuiact": {
+      "뜻": "희망"
+    },
+    "macuct": {
+      "뜻": "힘"
     }
   },
   "동사": {
@@ -2359,7 +2329,8 @@
       "nalmu": {
         "nu nalmu": "기념",
         "la nalmu": "기념한",
-        "na nalmu": "기념하게"
+        "na nalmu": "기념하게",
+        "li nalmu": "기념품"
       }
     },
     "haslu": {
@@ -2649,7 +2620,8 @@
       "milna": {
         "nu milna": "대체",
         "la milna": "대체한",
-        "na milna": "대체하게"
+        "na milna": "대체하게",
+        "li milna": "대용품"
       }
     },
     "nilsu": {
@@ -3615,7 +3587,10 @@
       "sismu": {
         "nu sismu": "세척",
         "la sismu": "세척한",
-        "na sismu": "세척하게"
+        "na sismu": "세척하게",
+        "li sismu": "비누",
+        "li catsis": "세면대",
+        "mu sismu": "욕실"
       }
     },
     "samli": {
@@ -5843,6 +5818,73 @@
         "nu hacla": "비추는 것",
         "la hacla": "비춘",
         "na hacla": "비추게"
+      }
+    },
+    "clama": {
+      "뜻": "태어나다",
+      "clama": {
+        "nu clama": "탄생",
+        "la clama": "태어난",
+        "na clama": "태어나게"
+      }
+    },
+    "tlasa": {
+      "뜻": "게시하다",
+      "tlasa": {
+        "nu tlasa": "게시",
+        "la tlasa": "게시한",
+        "na tlasa": "게시한",
+        "li tlasa": "게시판"
+      }
+    },
+    "calca": {
+      "뜻": "다리다",
+      "calca": {
+        "nu calca": "다리는 것",
+        "la calca": "다린",
+        "na calca": "다리게",
+        "li calca": "다리미"
+      }
+    },
+    "clata": {
+      "뜻": "촬영하다",
+      "clata": {
+        "nu clata": "촬영",
+        "la clata": "촬영한",
+        "na clata": "촬영하게",
+        "li clata": "카메라"
+      }
+    },
+    "hallu": {
+      "뜻": "보다",
+      "hallu": {
+        "nu hallu": "보는 것",
+        "la hallu": "본",
+        "na hallu": "보게"
+      }
+    },
+    "stalu": {
+      "뜻": "강하다",
+      "stalu": {
+        "nu stalu": "강함",
+        "la stalu": "강한",
+        "na stalu": "강하게"
+      }
+    },
+    "hanta": {
+      "뜻": "흔들리다",
+      "hanta": {
+        "nu hanta": "흔들림",
+        "la hanta": "흔들린",
+        "na hanta": "흔들리게"
+      }
+    },
+    "nalla": {
+      "뜻": "해롭다",
+      "nalla": {
+        "nu nalla": "해로움",
+        "la nalla": "해로운",
+        "na nalla": "해롭게"
       }
     }
   }
