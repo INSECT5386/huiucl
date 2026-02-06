@@ -2,80 +2,86 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>HUIUCL Database v4.0</title>
+    <title>HUIUCL CORE ARCHIVE v5.0</title>
     <style>
         :root {
-            --bg: #f8f9fa;
-            --header-bg: #2d2d2d;
-            --accent: #d4a373;
-            --text: #333;
-            --border: #e9ecef;
+            --bg: #f5f3f0;
+            --card: #ffffff;
+            --accent: #a68b6a;
+            --primary: #2c2c2c;
+            --secondary: #767676;
+            --border: #e0ddd5;
         }
 
-        body { font-family: 'Pretendard', -apple-system, sans-serif; background: var(--bg); color: var(--text); margin: 0; }
+        body { font-family: 'Pretendard', -apple-system, sans-serif; background: var(--bg); color: var(--primary); margin: 0; line-height: 1.6; }
         
-        /* UI 복구 및 개선 */
-        nav { background: var(--header-bg); padding: 1rem; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        nav .nav-container { max-width: 1200px; margin: 0 auto; display: flex; gap: 20px; }
-        nav a { color: #fff; text-decoration: none; font-weight: 500; cursor: pointer; opacity: 0.8; transition: 0.3s; }
-        nav a:hover { opacity: 1; color: var(--accent); }
+        /* Navigation */
+        nav { background: var(--primary); padding: 1rem 0; position: sticky; top: 0; z-index: 1000; box-shadow: 0 2px 15px rgba(0,0,0,0.1); }
+        .nav-container { max-width: 1100px; margin: 0 auto; display: flex; justify-content: center; gap: 40px; }
+        nav a { color: #fff; text-decoration: none; font-weight: 600; font-size: 0.9rem; letter-spacing: 2px; cursor: pointer; opacity: 0.7; transition: 0.3s; }
+        nav a:hover, nav a.active { opacity: 1; color: var(--accent); }
 
-        header { background: #fff; padding: 40px 20px; text-align: center; border-bottom: 1px solid var(--border); }
-        h1 { margin: 0; letter-spacing: 10px; font-weight: 300; color: #1a1a1a; }
-        .version { font-size: 0.8rem; color: #aaa; margin-top: 10px; }
+        /* Header */
+        header { background: #fff; padding: 60px 20px; text-align: center; border-bottom: 1px solid var(--border); }
+        h1 { margin: 0; letter-spacing: 12px; font-weight: 200; color: var(--primary); font-size: 2.5rem; }
+        .sub-header { color: var(--secondary); font-size: 0.8rem; margin-top: 15px; letter-spacing: 3px; text-transform: uppercase; }
 
-        .container { max-width: 1200px; margin: 30px auto; padding: 0 20px; }
+        .container { max-width: 1100px; margin: 40px auto; padding: 0 20px; }
         
-        .search-wrapper { margin-bottom: 30px; position: relative; }
-        .search-box { width: 100%; padding: 18px 25px; border: 1px solid #ddd; border-radius: 50px; font-size: 1.1rem; box-sizing: border-box; outline: none; box-shadow: 0 4px 15px rgba(0,0,0,0.05); transition: 0.3s; }
-        .search-box:focus { border-color: var(--accent); box-shadow: 0 4px 20px rgba(212, 163, 115, 0.2); }
+        /* Dictionary Styling */
+        .search-box { width: 100%; padding: 20px 30px; border: 1px solid var(--border); border-radius: 40px; font-size: 1.1rem; box-sizing: border-box; outline: none; background: #fff; box-shadow: 0 5px 20px rgba(0,0,0,0.03); transition: 0.3s; margin-bottom: 30px; }
+        .search-box:focus { border-color: var(--accent); box-shadow: 0 5px 25px rgba(166, 139, 106, 0.15); }
 
-        .table-card { background: #fff; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
+        .table-card { background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 10px 40px rgba(0,0,0,0.04); border: 1px solid var(--border); }
         table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-        th { background: #fdfcfb; padding: 18px; text-align: left; font-size: 0.85rem; color: #888; text-transform: uppercase; border-bottom: 2px solid var(--border); }
+        th { background: #faf9f7; padding: 20px; text-align: left; font-size: 0.75rem; color: #999; letter-spacing: 1px; border-bottom: 2px solid var(--border); }
         td { padding: 20px; border-bottom: 1px solid var(--border); vertical-align: top; word-break: break-all; }
 
-        .word-cell { width: 20%; font-size: 1.15rem; font-weight: 700; color: #1a1a1a; }
-        .meaning-cell { width: 60%; }
-        .cat-cell { width: 20%; text-align: right; font-size: 0.75rem; color: #bbb; }
+        .word-cell { width: 25%; font-size: 1.2rem; font-weight: 700; color: var(--primary); }
+        .meaning-cell { width: 55%; }
+        .path-cell { width: 20%; text-align: right; font-size: 0.7rem; color: #bbb; text-transform: uppercase; }
 
-        .ko-text { font-size: 1.05rem; font-weight: 600; color: var(--accent); margin-bottom: 5px; }
-        .en-text { font-size: 0.95rem; color: #666; }
-        .usage-box { margin-top: 12px; padding: 10px; background: #f9f9f9; border-radius: 6px; border-left: 3px solid #ddd; font-size: 0.85rem; color: #777; }
+        .ko-text { font-size: 1.1rem; font-weight: 600; color: var(--accent); margin-bottom: 4px; }
+        .en-text { font-size: 0.95rem; color: var(--secondary); }
+        .usage-box { margin-top: 12px; padding: 12px; background: #fdfcfb; border: 1px solid #f0eee9; border-left: 4px solid var(--accent); font-size: 0.85rem; color: #555; }
         
-        .sub-row { background: #fcfcfc; }
-        .sub-mark { color: var(--accent); margin-right: 5px; }
+        /* Grammar Section Styling */
+        .grammar-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(450px, 1fr)); gap: 20px; }
+        .grammar-card { background: #fff; padding: 30px; border-radius: 12px; border: 1px solid var(--border); box-shadow: 0 5px 15px rgba(0,0,0,0.02); }
+        .grammar-card h2 { margin-top: 0; font-size: 1.3rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 20px; font-weight: 400; }
+        .rule-item { margin-bottom: 15px; }
+        .rule-name { font-weight: 700; color: var(--primary); display: block; margin-bottom: 3px; font-size: 0.95rem; }
+        .rule-desc { font-size: 0.9rem; color: var(--secondary); display: block; }
 
         section { display: none; }
-        section.active { display: block; }
+        section.active { display: block; animation: fadeIn 0.4s ease-out; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     </style>
 </head>
 <body>
 
 <nav>
     <div class="nav-container">
-        <a onclick="showTab('dictionary')">DICTIONARY</a>
-        <a onclick="showTab('grammar')">GRAMMAR</a>
+        <a id="btn-dict" class="active" onclick="showTab('dictionary')">DICTIONARY</a>
+        <a id="btn-gram" onclick="showTab('grammar')">GRAMMAR</a>
     </div>
 </nav>
 
 <header>
     <h1>HUIUCL</h1>
-    <div class="version">CORE ARCHIVE v4.0 (STRICT MAPPING)</div>
+    <div class="sub-header">Systemized Linguistic Archive v5.0</div>
 </header>
 
 <div class="container">
     <section id="dictionary" class="active">
-        <div class="search-wrapper">
-            <input type="text" id="searchInput" class="search-box" placeholder="단어, 뜻, 파생어, 분류를 입력하세요..." oninput="render()">
-        </div>
+        <input type="text" id="searchInput" class="search-box" placeholder="Search words, meanings, or categories..." oninput="render()">
         <div class="table-card">
             <table>
                 <thead>
                     <tr>
-                        <th>Word</th>
-                        <th>Meaning & Usage</th>
-                        <th style="text-align:right">Category</th>
+                        <th>WORD</th>
+                        <th>MEANING & USAGE</th>
+                        <th style="text-align:right">CATEGORY</th>
                     </tr>
                 </thead>
                 <tbody id="dictBody"></tbody>
@@ -84,23 +90,30 @@
     </section>
 
     <section id="grammar">
-        <div id="grammarContent"></div>
+        <div id="grammarContent" class="grammar-grid">
+            </div>
     </section>
 </div>
 
 <script>
-    let rawData = {};
+    let db = {};
 
     function showTab(id) {
         document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
+        document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
         document.getElementById(id).classList.add('active');
+        document.getElementById('btn-' + (id === 'dictionary' ? 'dict' : 'gram')).classList.add('active');
     }
 
     window.onload = () => {
-        fetch('Huiucl.json').then(res => res.json()).then(data => {
-            rawData = data;
-            render();
-        });
+        fetch('Huiucl.json')
+            .then(res => res.json())
+            .then(data => {
+                db = data;
+                render();
+                renderGrammar();
+            })
+            .catch(err => console.error("JSON 로드 실패:", err));
     };
 
     function render() {
@@ -108,97 +121,114 @@
         const body = document.getElementById('dictBody');
         body.innerHTML = '';
 
-        for (const cat in rawData) {
+        for (const cat in db) {
             if (cat === "Settings") continue;
-            deepSearch(rawData[cat], cat, query);
+            processCategory(db[cat], cat, query);
         }
     }
 
-    function deepSearch(obj, path, query) {
+    function processCategory(obj, path, query) {
         if (path.includes("Grammar_Rules")) return;
 
         for (const key in obj) {
             const val = obj[key];
             if (!val) continue;
 
-            // 1. 단어 데이터 판별 로직 (morpheme sa- 같은 케이스 대응)
-            const info = extractInfo(key, val);
+            const info = getInfo(key, val);
 
             if (info.isWord) {
-                if (match(info.word, info.ko, info.en, path, query)) {
-                    append(info.word, info.ko, info.en, info.usage, path);
+                if ((info.word + info.ko + info.en + path).toLowerCase().includes(query)) {
+                    appendRow(info, path);
                 }
-                
                 // 파생어 처리
                 if (val.derivations) {
                     for (const dk in val.derivations) {
-                        append(dk, val.derivations[dk], "", "", path, true);
+                        appendRow({ word: dk, ko: val.derivations[dk], en: "", usage: "" }, path, true);
                     }
                 }
-
-                // 시제 변형(tense_variants) 등 내부 재귀
+                // 시제 변형 등 내부 재귀
                 if (typeof val === 'object' && val.tense_variants) {
-                    deepSearch(val.tense_variants, path + " > " + key, query);
+                    processCategory(val.tense_variants, path + " > " + key, query);
                 }
-            } 
-            // 2. 하위 카테고리인 경우 계속 탐색
-            else if (typeof val === 'object') {
-                deepSearch(val, path + " > " + key, query);
+            } else if (typeof val === 'object') {
+                processCategory(val, path + " > " + key, query);
             }
         }
     }
 
-    function extractInfo(key, val) {
+    function getInfo(key, val) {
         let res = { isWord: false, word: key, ko: "", en: "", usage: "" };
 
-        // 케이스 A: 단순 문자열 (Pronouns 등)
         if (typeof val === 'string') {
             res.isWord = true;
             res.ko = val;
-        } 
-        // 케이스 B: 객체형 (Auxiliary_Verbs, Affixes 등)
-        else if (typeof val === 'object') {
-            // morpheme: "sa-" 같은 역구조 대응
-            if (val.morpheme) {
-                res.word = val.morpheme;
-                res.ko = val.meaning_ko || val.ko || val.definition || "";
-                res.en = val.meaning_en || val.en || "";
-            } else {
-                res.ko = val.meaning_ko || val.ko || val.뜻 || val.definition || "";
-                res.en = val.meaning_en || val.en || "";
-            }
-            res.usage = val.usage || val.note || "";
+        } else if (typeof val === 'object') {
+            // morpheme 키가 있으면 그것을 단어로 취급
+            if (val.morpheme) res.word = val.morpheme;
             
-            // ko나 en이 오브젝트로 나오는 것 방지
-            if (typeof res.ko === 'object') res.ko = res.ko.ko || res.ko.meaning_ko || "";
-            if (typeof res.en === 'object') res.en = res.en.en || res.en.meaning_en || "";
+            res.ko = val.meaning_ko || val.ko || val.뜻 || val.definition || "";
+            res.en = val.meaning_en || val.en || "";
+            res.usage = val.usage || val.note || "";
+
+            // 객체 안의 객체 에러 방지 (강제 문자열화)
+            const clean = (v) => (typeof v === 'object' ? (v.ko || v.meaning_ko || v.en || JSON.stringify(v)) : v);
+            res.ko = clean(res.ko);
+            res.en = clean(res.en);
+            res.usage = clean(res.usage);
 
             if (res.ko || res.en) res.isWord = true;
         }
         return res;
     }
 
-    function match(w, k, e, p, q) {
-        return (w+k+e+p).toLowerCase().includes(q);
-    }
-
-    function append(w, ko, en, use, path, isSub) {
+    function appendRow(info, path, isSub) {
         const body = document.getElementById('dictBody');
         const row = body.insertRow();
-        if (isSub) row.className = 'sub-row';
+        if (isSub) row.style.background = "#fcfcfc";
 
-        let meaning = `<div class="ko-text">${ko}</div>`;
-        if (en) meaning += `<div class="en-text">${en}</div>`;
-        if (use) {
-            const useStr = typeof use === 'object' ? (use.ko || use.en || JSON.stringify(use)) : use;
-            meaning += `<div class="usage-box"><strong>USAGE:</strong> ${useStr}</div>`;
-        }
+        let meaningHtml = `<div class="ko-text">${info.ko}</div>`;
+        if (info.en) meaningHtml += `<div class="en-text">${info.en}</div>`;
+        if (info.usage) meaningHtml += `<div class="usage-box"><strong>NOTE:</strong> ${info.usage}</div>`;
 
         row.innerHTML = `
-            <td class="word-cell">${isSub ? '<span class="sub-mark">↳</span>' : ''}${w}</td>
-            <td class="meaning-cell">${meaning}</td>
-            <td class="cat-cell">${path}</td>
+            <td class="word-cell" style="${isSub ? 'padding-left:40px; font-size:1rem; opacity:0.7;' : ''}">
+                ${isSub ? '↳ ' : ''}${info.word}
+            </td>
+            <td class="meaning-cell">${meaningHtml}</td>
+            <td class="path-cell">${path}</td>
         `;
+    }
+
+    function renderGrammar() {
+        const container = document.getElementById('grammarContent');
+        let html = "";
+
+        // 1. Settings 데이터 처리
+        if (db.Settings) {
+            html += `<div class="grammar-card">
+                <h2>General System</h2>
+                <div class="rule-item"><span class="rule-name">Word Order</span><span class="rule-desc">${db.Settings.Syntax.Word_Order.join(', ')}</span></div>
+                <div class="rule-item"><span class="rule-name">Imperative</span><span class="rule-desc">${db.Settings.Syntax.Imperative["2"]}</span></div>
+                <div class="rule-item"><span class="rule-name">Phonology</span><span class="rule-desc">Vowels: ${Object.keys(db.Settings.Phonology.Vowels).join(', ')} / Consonants: ${Object.keys(db.Settings.Phonology.Consonants).join(', ')}</span></div>
+            </div>`;
+        }
+
+        // 2. 트리 전체를 뒤져서 Grammar_Rules 수집
+        function collect(obj, path) {
+            for (const key in obj) {
+                if (key === "Grammar_Rules") {
+                    html += `<div class="grammar-card"><h2>${path} Rules</h2>`;
+                    for (const r in obj[key]) {
+                        html += `<div class="rule-item"><span class="rule-name">${r}</span><span class="rule-desc">${obj[key][r]}</span></div>`;
+                    }
+                    html += `</div>`;
+                } else if (typeof obj[key] === 'object' && key !== "Settings") {
+                    collect(obj[key], path ? path + " > " + key : key);
+                }
+            }
+        }
+        collect(db, "");
+        container.innerHTML = html || "<p style='grid-column: 1/-1; text-align:center; padding:50px;'>No grammar rules found.</p>";
     }
 </script>
 </body>
