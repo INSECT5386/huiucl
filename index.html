@@ -21,13 +21,13 @@
             margin: 0; padding: 0; line-height: 1.6;
         }
 
-        /* 네비게이션 */
+        /* 네비게이션: ARCHIVE를 맨 뒤로 이동 */
         nav {
             position: sticky; top: 0; background: rgba(249, 247, 242, 0.9);
             backdrop-filter: blur(10px); padding: 20px; text-align: center;
             border-bottom: 1px solid var(--border-color); z-index: 100;
         }
-        nav a { margin: 0 15px; text-decoration: none; color: var(--primary-color); font-weight: 500; font-size: 0.9rem; }
+        nav a { margin: 0 15px; text-decoration: none; color: var(--primary-color); font-weight: 500; font-size: 0.9rem; transition: 0.2s; }
         nav a:hover { color: var(--accent-color); }
 
         header { text-align: center; padding: 60px 20px; }
@@ -40,33 +40,42 @@
 
         @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 
-        /* 소설(Archive) 스타일 */
-        .story-card { background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); }
-        .story-line { margin-bottom: 30px; }
-        .huiucl-text { font-size: 1.2rem; color: var(--accent-color); font-weight: 600; margin-bottom: 5px; }
-        .korean-text { font-size: 1rem; color: #777; border-left: 2px solid var(--border-color); padding-left: 15px; }
-
-        /* 사전 스타일 */
+        /* 사전(DICTIONARY) 스타일 */
         .search-container { margin-bottom: 30px; display: flex; gap: 10px; }
         input[type="text"] { flex: 1; padding: 12px 24px; border: 1px solid var(--border-color); border-radius: 30px; outline: none; }
         .filter-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: 30px; }
         button { background: var(--card-bg); border: 1px solid var(--border-color); padding: 6px 16px; cursor: pointer; border-radius: 20px; font-size: 0.85rem; }
         button.active { background: var(--accent-color); color: white; border-color: var(--accent-color); }
-        
         .table-wrapper { background: var(--card-bg); border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.05); }
         table { width: 100%; border-collapse: collapse; }
         th, td { padding: 15px 20px; text-align: left; border-bottom: 1px solid var(--bg-color); }
         th { background: #f1eee6; font-size: 0.9rem; color: #777; }
         .word-cell { font-weight: bold; color: var(--accent-color); }
-        .variation-row { background-color: var(--variation-bg); font-size: 0.9rem; color: #888; }
+
+        /* 문법(GRAMMAR) 스타일 */
+        .card { background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); margin-bottom: 20px; }
+
+        /* 아카이브(ARCHIVE) 스타일: 리스트 & 뷰어 */
+        .archive-layout { display: flex; gap: 30px; }
+        .story-list { width: 250px; flex-shrink: 0; }
+        .story-item { 
+            padding: 15px; background: var(--card-bg); margin-bottom: 10px; 
+            border-radius: 10px; cursor: pointer; border: 1px solid var(--border-color);
+            font-size: 0.9rem; transition: 0.2s;
+        }
+        .story-item:hover, .story-item.active { border-color: var(--accent-color); color: var(--accent-color); background: #fdfcf9; }
+        .story-content { flex: 1; background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); min-height: 400px; }
+        .story-line { margin-bottom: 25px; }
+        .huiucl-text { font-size: 1.2rem; color: var(--accent-color); font-weight: 600; margin-bottom: 5px; }
+        .korean-text { font-size: 1rem; color: #777; border-left: 2px solid var(--border-color); padding-left: 15px; }
     </style>
 </head>
 <body>
 
 <nav>
-    <a href="#" onclick="showSection('archive')">ARCHIVE</a>
     <a href="#" onclick="showSection('dictionary')">DICTIONARY</a>
     <a href="#" onclick="showSection('grammar')">GRAMMAR</a>
+    <a href="#" onclick="showSection('archive')">ARCHIVE</a>
 </nav>
 
 <header>
@@ -75,21 +84,7 @@
 </header>
 
 <div class="container">
-    <section id="archive" class="active">
-        <div class="story-card">
-            <h2 style="font-weight: 300; margin-bottom: 40px; text-align: center;">기록 01: 탄생</h2>
-            <div class="story-line">
-                <div class="huiucl-text">unal cinicl, si hamolhilasna clamam.</div>
-                <div class="korean-text">우주와 하몰히라스나가 태어났다.</div>
-            </div>
-            <div class="story-line">
-                <div class="huiucl-text">su u clum hocl.</div>
-                <div class="korean-text">그는 신이었다.</div>
-            </div>
-        </div>
-    </section>
-
-    <section id="dictionary">
+    <section id="dictionary" class="active">
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="단어 혹은 의미 검색..." onkeyup="renderTable()">
         </div>
@@ -107,15 +102,26 @@
     </section>
 
     <section id="grammar">
-        <div class="story-card">
+        <div class="card">
             <h2 style="font-weight: 300;">Basic Grammar</h2>
             <p><strong>1. 어순:</strong> 주어-동사(SV) 또는 주어-동사-목적어(SVO)</p>
-            <p><strong>2. 명령문:</strong> 동사를 문장 맨 앞에 위치</p>
+            <p><strong>2. 명령문:</strong> 동사를 맨 앞에 위치</p>
             <p><strong>3. 시제:</strong> 과거형 <code>-m</code>, 미래형 <code>-n</code></p>
             <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 20px 0;">
             <h3>Phoneme (음소)</h3>
-            <p><strong>Vowels:</strong> a(아), i(이), u(우)</p>
+            <p><strong>Vowels:</strong> a, i, u</p>
             <p><strong>Consonants:</strong> m, n, s, h, l, c(ㄲ), t(ㄸ)</p>
+        </div>
+    </section>
+
+    <section id="archive">
+        <div class="archive-layout">
+            <div class="story-list">
+                <div class="story-item active" onclick="loadStory(0, this)">01. 탄생</div>
+                <div class="story-item" onclick="loadStory(1, this)">02. 준비 중...</div>
+            </div>
+            <div class="story-content" id="storyViewer">
+                </div>
         </div>
     </section>
 </div>
@@ -124,21 +130,60 @@
     let conlangData = {};
     let currentCategory = '모두';
 
-    // 섹션 전환 함수
+    // 섹션 전환
     function showSection(id) {
         document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
         document.getElementById(id).classList.add('active');
     }
 
-    // JSON 로드 (파일명: Huiucl.json)
-    fetch('Huiucl.json')
-        .then(res => res.json())
-        .then(data => {
-            conlangData = data;
-            initButtons();
-            renderTable();
-        });
+    // 소설 데이터 로드 및 전환
+    const stories = [
+        {
+            title: "기록 01: 탄생",
+            lines: [
+                { h: "unal cinicl, si hamolhilasna clamam.", k: "우주와 하몰히라스나가 태어났다." },
+                { h: "su u clum hocl.", k: "그는 신이었다." }
+            ]
+        },
+        {
+            title: "기록 02: (내용을 추가하세요)",
+            lines: [
+                { h: "...", k: "다음 이야기를 준비 중입니다." }
+            ]
+        }
+    ];
 
+    function loadStory(index, el) {
+        if(el) {
+            document.querySelectorAll('.story-item').forEach(item => item.classList.remove('active'));
+            el.classList.add('active');
+        }
+        
+        const story = stories[index];
+        let html = `<h2 style="font-weight:300; margin-bottom:40px; text-align:center;">${story.title}</h2>`;
+        story.lines.forEach(line => {
+            html += `
+                <div class="story-line">
+                    <div class="huiucl-text">${line.h}</div>
+                    <div class="korean-text">${line.k}</div>
+                </div>`;
+        });
+        document.getElementById('storyViewer').innerHTML = html;
+    }
+
+    // 초기 실행
+    window.onload = () => {
+        loadStory(0);
+        fetch('Huiucl.json')
+            .then(res => res.json())
+            .then(data => {
+                conlangData = data;
+                initButtons();
+                renderTable();
+            });
+    };
+
+    // --- 사전 로직 (기존과 동일) ---
     function initButtons() {
         const container = document.getElementById('categoryButtons');
         Object.keys(conlangData).forEach(key => {
@@ -168,9 +213,7 @@
             if (key === "설정" || key === "변형") continue;
             const item = obj[key];
             if (item && typeof item === 'object' && item.hasOwnProperty('뜻')) {
-                if (key.toLowerCase().includes(search) || item.뜻.toLowerCase().includes(search)) {
-                    addRow(key, item.뜻, path, false);
-                }
+                if (key.toLowerCase().includes(search) || item.뜻.toLowerCase().includes(search)) addRow(key, item.뜻, path, false);
                 if (item[key] && typeof item[key] === 'object') processVariations(item[key], `${path} > ${key}`, search);
             } else if (typeof item === 'string') {
                 if (key.toLowerCase().includes(search) || item.toLowerCase().includes(search)) addRow(key, item, path, false);
@@ -184,16 +227,13 @@
         for (const vKey in vObj) {
             const vVal = vObj[vKey];
             const meaning = typeof vVal === 'string' ? vVal : (vVal.뜻 || "");
-            if (vKey.toLowerCase().includes(search) || meaning.toLowerCase().includes(search)) {
-                addRow(vKey, meaning, path, true);
-            }
+            if (vKey.toLowerCase().includes(search) || meaning.toLowerCase().includes(search)) addRow(vKey, meaning, path, true);
             if (typeof vVal === 'object' && vVal[vKey]) processVariations(vVal[vKey], `${path} > ${vKey}`, search);
         }
     }
 
     function addRow(word, meaning, path, isVar) {
         const row = document.getElementById('dictBody').insertRow();
-        if (isVar) row.className = 'variation-row';
         row.innerHTML = `<td class="word-cell">${isVar ? '↳ ' : ''}${word}</td><td>${meaning}</td><td style="font-size:0.7rem; color:#ccc;">${path}</td>`;
     }
 </script>
