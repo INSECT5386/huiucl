@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Huiucl Dictionary</title>
+    <style>
+        :root {
+            --bg-color: #f9f7f2;      /* 메인 베이지 배경 */
+            --card-bg: #ffffff;       /* 화이트 카드 */
+            --primary-color: #5d5b54;  /* 진한 회갈색 (텍스트) */
+            --accent-color: #d4a373;   /* 포인트 컬러 (베이지 브라운) */
+            --border-color: #e0ddd5;
+            --variation-bg: #faf9f6;   /* 변형 단어 배경색 */
+        }
+
+        body { 
+            font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif; 
+            background-color: var(--bg-color); 
+            color: var(--primary-color); 
+            margin: 0; 
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+
+        header { text-align: center; margin-bottom: 40px; }
+        h1 { font-weight: 300; letter-spacing: 5px; color: var(--accent-color); margin-bottom: 10px; }
+        .sub-title { font-size: 0.9rem; color: #999; }
+
+        /* 검색창 섹션 */
+        .search-container { 
+            max-width: 600px; 
+            margin: 0 auto 30px auto; 
+            display: flex;
+            gap: 10px;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 12px 24px;
+            border: 1px solid var(--border-color);
+            border-radius: 30px;
+            outline: none;
+            background-color: var(--card-bg);
+            font-size: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+        }
+        input[type="text"]:focus { border-color: var(--accent-color); box-shadow: 0 2px 10px rgba(212, 163, 115, 0.2); }
+
+        /* 카테고리 버튼 */
+        .filter-container { 
+            display: flex; 
+            flex-wrap: wrap; 
+            justify-content: center; 
+            gap: 8px; 
+            margin-bottom: 40px; 
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        button { 
+            background: var(--card-bg); 
+            border: 1px solid var(--border-color); 
+            color: var(--primary-color); 
+            padding: 6px 16px; 
+            cursor: pointer; 
+            border-radius: 20px; 
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        button:hover, button.active { 
+            background: var(--accent-color); 
+            color: white; 
+            border-color: var(--accent-color); 
+        }
+
+        /* 테이블 디자인 */
+        .table-wrapper {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        }
+        table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+        th, td { padding: 15px 20px; text-align: left; border-bottom: 1px solid var(--bg-color); overflow: hidden; text-overflow: ellipsis; }
+        th { background: #f1eee6; font-weight: 600; font-size: 0.9rem; color: #777; }
+        tr:last-child td { border-bottom: none; }
+        
+        .word-cell { font-weight: bold; color: var(--accent-color); font-size: 1.1rem; }
+        .path-cell { font-size: 0.75rem; color: #bbb; }
+        
+        /* 변형(Variation) 행 스타일 */
+        .variation-row { background-color: var(--variation-bg); }
+        .variation-icon { color: #ccc; margin-right: 8px; font-weight: normal; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>HUIUCL</h1>
+    <div class="sub-title">온라인 사전</div>
+</header>
+
+<div class="search-container">
+    <input type="text" id="searchInput" placeholder="찾고 싶은 단어나 뜻을 입력하세요..." onkeyup="filterData()">
+</div>
+
+<div class="filter-container" id="categoryButtons">
+    <button onclick="changeCategory('모두', this)" class="active">모두 보기</button>
+</div>
+
+<div class="table-wrapper">
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 35%;">단어 (Huiucl)</th>
+                <th style="width: 35%;">의미 (Korean)</th>
+                <th style="width: 30%;">분류</th>
+            </tr>
+        </thead>
+        <tbody id="dictBody">
+            <tr><td colspan="3" style="text-align:center; padding:50px; color:#ccc;">데이터를 불러오는 중입니다...</td></tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    let conlangData = {};
+    let currentCategory = '모두';
+
+    // 1. JSON 로드
+    fetch('Conlang_1.json')
+        .then(res => res.json())
+        .then(data => {
+            conlangData = data;
+            initButtons();
+            renderTable();
+        })
+        .catch(err => {
+            console.error("Error loading JSON:", err);
+            document.getElementById('dictBody').innerHTML = '<tr><td colspan="3" style="text-align:center; color:red; padding:50px;">데이터 로드 실패 (CORS 정책 혹은 파일명을 확인하세요)</td></tr>';
+        });
+
+    function initButtons() {
+        const container = document.getElementById('categoryButtons');
+        // '설정'을 제외한 최상위 키들로 버튼 생성
+        Object.keys(conlangData).forEach(key => {
+            if (key === "설정") return;
+            const btn = document.createElement('button');
+            btn.innerText = key;
+            btn.onclick = (e) => changeCategory(key, e.target);
+            container.appendChild(btn);
+        });
+    }
+
+    function changeCategory(key, target) {
+        document.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+        target.classList.add('active');
+        currentCategory = key;
+        renderTable();
+    }
+
+    function filterData() {
+        renderTable();
+    }
+
+    // 테이블 렌더링 함수
+    function renderTable() {
+        const body = document.getElementById('dictBody');
+        const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+        body.innerHTML = '';
+
+        const targets = currentCategory === '모두' 
+            ? Object.keys(conlangData).filter(k => k !== "설정") 
+            : [currentCategory];
+
+        targets.forEach(cat => {
+            traverse(conlangData[cat], cat, searchTerm);
+        });
+
+        if (body.innerHTML === '') {
+            body.innerHTML = '<tr><td colspan="3" style="text-align:center; padding:50px; color:#999;">검색 결과가 없습니다.</td></tr>';
+        }
+    }
+
+    /**
+     * 데이터를 재귀적으로 탐색하는 함수
+     * @param {Object} obj - 탐색할 객체
+     * @param {String} path - 현재 카테고리 경로
+     * @param {String} search - 검색어
+     */
+    function traverse(obj, path, search) {
+        for (const key in obj) {
+            if (key === "설정" || key === "변형") continue;
+
+            const item = obj[key];
+            
+            // Case A: 직접 "뜻"을 가진 객체인 경우
+            if (item && typeof item === 'object' && item.hasOwnProperty('뜻')) {
+                const word = key;
+                const meaning = item.뜻;
+                
+                if (word.toLowerCase().includes(search) || meaning.toLowerCase().includes(search)) {
+                    addRow(word, meaning, path, false);
+                }
+
+                // 단어 내부에 동일한 이름의 '변형 객체'가 있는지 확인 (예: sachi 안의 sachi)
+                if (item[key] && typeof item[key] === 'object') {
+                    processVariations(item[key], `${path} > ${key}`, search);
+                }
+            } 
+            // Case B: 값이 단순 문자열인 경우 (단어: 뜻)
+            else if (typeof item === 'string') {
+                if (key.toLowerCase().includes(search) || item.toLowerCase().includes(search)) {
+                    addRow(key, item, path, false);
+                }
+            }
+            // Case C: 하위 카테고리 객체인 경우 (뜻이 없고 다른 객체들을 포함)
+            else if (typeof item === 'object') {
+                traverse(item, `${path} > ${key}`, search);
+            }
+        }
+    }
+
+    /**
+     * 변형(Variation) 데이터를 처리하는 함수 (중첩된 li henna 등 대응)
+     */
+    function processVariations(vObj, path, search) {
+        for (const vKey in vObj) {
+            const vVal = vObj[vKey];
+            
+            if (typeof vVal === 'string') {
+                if (vKey.toLowerCase().includes(search) || vVal.toLowerCase().includes(search)) {
+                    addRow(vKey, vVal, path, true);
+                }
+            } else if (vVal && typeof vVal === 'object') {
+                // 변형 내부에 또 뜻과 객체가 있는 경우 (예: li henna)
+                if (vVal.뜻) {
+                    if (vKey.toLowerCase().includes(search) || vVal.뜻.toLowerCase().includes(search)) {
+                        addRow(vKey, vVal.뜻, path, true);
+                    }
+                    // 더 깊은 변형이 있다면 재귀 호출
+                    if (vVal[vKey]) processVariations(vVal[vKey], `${path} > ${vKey}`, search);
+                } else {
+                    processVariations(vVal, path, search);
+                }
+            }
+        }
+    }
+
+    function addRow(word, meaning, path, isVariation) {
+        const body = document.getElementById('dictBody');
+        const row = body.insertRow();
+        if (isVariation) row.className = 'variation-row';
+
+        row.innerHTML = `
+            <td class="word-cell" style="${isVariation ? 'padding-left: 40px; color: #999; font-size: 0.95rem;' : ''}">
+                ${isVariation ? '<span class="variation-icon">↳</span>' : ''}${word}
+            </td>
+            <td style="${isVariation ? 'color: #777;' : ''}">${meaning}</td>
+            <td class="path-cell">${path}</td>
+        `;
+    }
+</script>
+
+</body>
+</html>
