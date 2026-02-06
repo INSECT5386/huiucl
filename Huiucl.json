@@ -1,936 +1,696 @@
 {
-  "설정": {
-    "문법": [
-      "주어-동사",
-      "주어-동사-목적어"
-    ],
-    "2": "동사를 맨 앞에 쓰면 명령이된다",
-    "3": {
-      "a": "아",
-      "i": "이",
-      "u": "우",
-      "m": "ㅁ",
-      "n": "ㄴ",
-      "s": "ㅅ",
-      "h": "ㅎ",
-      "l": "ㄹ",
-      "c": "ㄲ",
-      "t": "ㄸ"
+  "Settings": {
+    "Syntax": {
+      "Word_Order": ["S-V", "S-V-O"],
+      "Imperative": {
+        "1": "Verb-initial position marks the imperative mood.",
+        "2": "동사가 문장 맨 앞에 오면 명령법을 나타냅니다."
+      }
+    },
+    "Phonology": {
+      "Vowels": {
+        "a": "[a]",
+        "i": "[i]",
+        "u": "[u]"
+      },
+      "Consonants": {
+        "m": "[m]",
+        "n": "[n]",
+        "s": "[s]",
+        "h": "[h]",
+        "l": "[l]",
+        "c": "[k']",
+        "t": "[t']"
+      }
     }
   },
-  "대명사": {
-    "1": {
-      "a": "나",
-      "as": "우리"
+  "Pronouns": {
+    "1st_Person": {
+      "a": "I (singular)",
+      "as": "We (plural)"
     },
-    "2": {
-      "i": "너",
-      "is": "너희들"
+    "2nd_Person": {
+      "i": "You (singular)",
+      "is": "You (plural)"
     },
-    "3": {
-      "u": "그",
-      "la": "그것",
-      "las": "그들"
+    "3rd_Person": {
+      "u": "He/She (animate)",
+      "ua": "It (inanimate)",
+      "us": "They"
     },
-    "이외": {
-      "isa": "이것",
-      "isas": "이것들",
-      "asa": "저것",
-      "asas": "저것들"
+    "Demonstratives": {
+      "isa": "This",
+      "isas": "These",
+      "asa": "That",
+      "asas": "Those"
     }
   },
-  "조동사": {
-    "luca": "~할 수 있다",
-    "sana": "~하는 것이 좋겠다.",
-    "casa": "~해야 한다",
+  "Auxiliary_Verbs": {
+    "luca": {"en": "can / be able to (Potential)", "ko": "할 수 있다"},
+    "sana": {"en": "should / had better (Hortative)", "ko": "하는 것이 좋겠다"},
+    "casa": {"en":"must / have to (Obligative)", "ko": "해야 한다"},
     "clu": {
-      "뜻": "~이다",
-      "변형": {
-        "clusl": "~하고 있다.",
-        "clunl": "당하다/되다."
+      "definition": {
+        "en":"to be (Copula)",
+        "ko":"~이다"
+      },
+      "aspect_voice": {
+        "clusl": {"en": "be -ing (Progressive)", "ko": "하고 있다"},
+        "clunl": {"en": "be -ed (Passive voice)", "ko": "당하다/되다"}
       }
     },
     "aca": {
-      "뜻": "~하다",
-      "변형": {
+      "definition": {"en":"to do (Dummy verb)", "ko": "하다"},
+      "tense_variants": {
         "acam": {
-          "뜻": "~했다",
-          "예시": "(동사나 형용사가 없는 경우 사용)(동사/형용사가 있는 경우, 동사/형용사의 과거형 사용.)"
+          "definition": {"en": "did (Past)", "ko": "했다"},
+          "usage": {
+            "en": "Used as a past-tense carrier when no other verb/adjective is present.",
+            "ko": "다른 동사나 형용사가 없을 때 과거 시제를 나타내는 용도로 사용됩니다."
+          }
         },
         "acac": {
-          "뜻": "~할 것이다",
-          "예시": "(동사나 형용사가 없는 경우. (동사/형용사가 있는 경우, 동사/형용사의 미래형 사용.)"
+          "definition": {"en": "will do (Future)", "ko": "할 것이다"},
+          "usage": {
+            "en": "Used as a future-tense carrier when no other verb/adjective is present.",
+            "ko": "다른 동사나 형용사가 없을 때 미래 시제를 나타내는 데 사용됩니다."
+          }
         }
       },
-      "예시": "(동사나 형용사가 없는 경우에만 이렇게 사용한다.)"
+      "note": "Acts as a pro-verb or dummy verb in the absence of a main predicate."
     },
     "ina": {
-      "뜻": "하고 싶다/원하다",
-      "변형": {
-        "inam": "하고 싶었다"
+      "definition": {"en": "want to / desire (Desiderative)", "ko": "하고 싶다/원하다"},
+      "variants": {
+        "inam": {"en": "wanted to (Past desiderative)", "ko": "하고 싶었다"}
       }
     }
   },
-  "인사/감탄사": {
-    "aclh": "안녕하세요(만날 때)",
-    "saclh": "안녕하세요(헤어질 때)",
-    "achl": "미안",
-    "lachl": "고마워",
-    "nalh": "네",
-    "acalh": "아니요"
+"Greetings_and_Interjections": {
+    "aclh": "Hello / Good morning (Salutation on arrival)",
+    "saclh": "Goodbye (Salutation on departure)",
+    "achl": "Sorry / Apology",
+    "lachl": "Thank you / Gratitude",
+    "nalh": "Yes / Affirmation",
+    "acalh": "No / Negation"
   },
-  "접사 및 조사": {
-    "un -": {
-      "뜻": "소유격 (~의)",
-      "예": "li linmi un a (나의 교과서)"
+  "Affixes_and_Particles": {
+    "Possessive (소유격)": {
+      "morpheme": "-un-",
+      "meaning_ko": "~의 (소유)",
+      "meaning_en": "Possession (belonging to)",
+      "example": "li linmi un a (나의 교과서 / my textbook)"
     },
-    "su -": {
-      "뜻": "서술 조사 (~은/는)",
-      "예": "su a macla uiususu (나는 사람이다)"
+    "Genitive_Attributive (속성격)": {
+      "morpheme": "-uln-",
+      "meaning_ko": "~의 (속성/관계)",
+      "meaning_en": "Attribute / Relation",
+      "example": "sitah uln hihutl (자동차의 특성 / The characteristic of the car)"
     },
-    "si -": {
-      "뜻": "주격 (이/가)",
-      "예": "si u hachi(그가 수리하다)"
+    "Topic_Marker (서술/주제 조사)": {
+      "morpheme": "su-",
+      "meaning_ko": "~은/는",
+      "meaning_en": "Topic marker",
+      "example": "su a macla uiususu (나는 사람이다 / As for me, I am a person)"
     },
-    "sa -": {
-      "뜻": "목적어 (을/를)",
-      "예": "su a ninhac sa la (나는 그것을 재현할 것이다.)"
+    "Nominative (주격)": {
+      "morpheme": "si-",
+      "meaning_ko": "~이/가",
+      "meaning_en": "Subject marker (Nominative)",
+      "example": "si u hachi (그가 수리하다 / He repairs)"
     },
-    "ma -": {
-      "뜻": "-도",
-      "예": "ma u macla uiususu (나도 사람이다.)"
+    "Accusative (목적격)": {
+      "morpheme": "sa-",
+      "meaning_ko": "~을/를",
+      "meaning_en": "Object marker (Accusative)",
+      "example": "su a ninhac sa la (나는 그것을 재현할 것이다 / I will reproduce it)"
     },
-    "-sl": {
-      "뜻": "진행형"
-    },
-    "-nl": {
-      "뜻": "피동형"
+    "Additive (첨가 조사)": {
+      "morpheme": "ma-",
+      "meaning_ko": "-도",
+      "meaning_en": "Also / Too / Additive",
+      "example": "ma u macla uiususu (그도 사람이다 / He is also a person)"
     }
   },
-  "연결어미 및 구성요소": {
+  "Conjunctions_and_Particles": {
     "inul": {
-      "뜻": "그리고"
+      "meaning_ko": "그리고",
+      "meaning_en": "And (Conjunction)",
+      "category": "Conjunction"
     },
     "uial": {
-      "뜻": "그러면"
+      "meaning_ko": "그러면",
+      "meaning_en": "Then / If so (Conditional)",
+      "category": "Conjunction"
     },
     "aial": {
-      "뜻": "그러며"
+      "meaning_ko": "그러며",
+      "meaning_en": "While / And also (Simultaneous)",
+      "category": "Conjunction"
     },
     "isal": {
-      "뜻": "하지만"
+      "meaning_ko": "하지만",
+      "meaning_en": "But / However (Adversative)",
+      "category": "Conjunction"
     },
     "thal": {
-      "뜻": "그러자"
+      "meaning_ko": "그러자",
+      "meaning_en": "And then / Thereupon (Sequential)",
+      "category": "Conjunction"
     },
     "ail": {
-      "뜻": "-아니/때문에"
+      "meaning_ko": "-니 / 때문에",
+      "meaning_en": "Because / Since (Causal)",
+      "category": "Particle"
     },
     "inal": {
-      "뜻": "~에게"
+      "meaning_ko": "~에게",
+      "meaning_en": "To (Dative - Recipient)",
+      "category": "Case Particle"
     },
     "unil": {
-      "뜻": "~으로('물건' 으로)"
+      "meaning_ko": "~으로 (도구/수단)",
+      "meaning_en": "By / Using (Instrumental)",
+      "category": "Case Particle"
     },
     "til": {
-      "뜻": "~으로 ('장소' 으로)"
+      "meaning_ko": "~으로 (장소/방향)",
+      "meaning_en": "To / Toward (Allative)",
+      "category": "Case Particle"
     },
     "unal": {
-      "뜻": "~에서"
+      "meaning_ko": "~에서",
+      "meaning_en": "At / From (Locative/Ablative)",
+      "category": "Case Particle"
     },
-    "inil": {"뜻": "~위해"},
-    "tiul": {"뜻": "~동안"}
+    "inil": {
+      "meaning_ko": "~위해",
+      "meaning_en": "For / In order to (Benefactive/Final)",
+      "category": "Particle"
+    },
+    "tiul": {
+      "meaning_ko": "~동안",
+      "meaning_en": "During / While (Temporal)",
+      "category": "Particle"
+    }
   },
-  "기본부사": {
+  "Basic_Adverbs": {
     "ahai": {
-      "뜻": "부정",
-      "변형": "'ha"
+      "meaning_ko": "부정 (아니/안)",
+      "meaning_en": "Not (Negation)",
+      "variant": "'ha"
     },
-    "ulai": "가까이",
-    "amaci": "매우",
-    "seni": "멀리",
-    "laci": "부분적으로",
-    "haci": "아직",
-    "lai": "오래",
-    "hamai": "완전히",
-    "nisi": "이미",
-    "inli": "이전",
-    "ili": "이후",
-    "alai": "절대 / 전혀",
-    "alnai": "심지어",
-    "saci": "자주",
-    "luci": "가끔",
-    "taci": "왜",
-    "maci": "어떻게",
-    "muni": "겨우",
-    "hanci": "다시",
-    "anci": "오직",
-    "itci": "곧",
-    "mici": "갑자기",
-    "tuci": "마침내",
-    "lunci": "항상",
-    "asci": "동시에",
-    "slaci": "특히",
-    "nuci": "꽤/제법",
-    "talci": "조금/약간",
-    "itici": "아마도",
-    "sulci": "서로",
-    "claci": "함께",
-    "halci": "따로",
-    "alti": "우연히",
-    "na cinact": "예시로",
-    "alci": "아주",
-    "anlci": "벌써",
-    "nuaci": "먼저",
-    "tanci": "그냥",
-    "asanci": "스스로",
-    "lamci": "반드시"
+    "alai": { "meaning_ko": "절대 / 전혀", "meaning_en": "Never / At all" },
+    "amaci": { "meaning_ko": "매우", "meaning_en": "Very / Greatly" },
+    "alci": { "meaning_ko": "아주", "meaning_en": "Quite / Highly" },
+    "nuci": { "meaning_ko": "꽤 / 제법", "meaning_en": "Fairly / Pretty" },
+    "talci": { "meaning_ko": "조금 / 약간", "meaning_en": "A little / Slightly" },
+    "ulai": { "meaning_ko": "가까이", "meaning_en": "Near / Close" },
+    "seni": { "meaning_ko": "멀리", "meaning_en": "Far / Distantly" },
+    "haci": { "meaning_ko": "아직", "meaning_en": "Still / Yet" },
+    "nisi": { "meaning_ko": "이미", "meaning_en": "Already" },
+    "anlci": { "meaning_ko": "벌써", "meaning_en": "Already (with surprise)" },
+    "itci": { "meaning_ko": "곧", "meaning_en": "Soon" },
+    "inli": { "meaning_ko": "이전", "meaning_en": "Before / Previously" },
+    "ili": { "meaning_ko": "이후", "meaning_en": "After / Later" },
+    "lunci": { "meaning_ko": "항상", "meaning_en": "Always" },
+    "saci": { "meaning_ko": "자주", "meaning_en": "Often" },
+    "luci": { "meaning_ko": "가끔", "meaning_en": "Sometimes / Occasionally" },
+    "hanci": { "meaning_ko": "다시", "meaning_en": "Again" },
+    "hamai": { "meaning_ko": "완전히", "meaning_en": "Completely / Fully" },
+    "laci": { "meaning_ko": "부분적으로", "meaning_en": "Partially" },
+    "taci": { "meaning_ko": "왜", "meaning_en": "Why (Interrogative)" },
+    "maci": { "meaning_ko": "어떻게", "meaning_en": "How (Interrogative/Manner)" },
+    "itici": { "meaning_ko": "아마도", "meaning_en": "Maybe / Perhaps" },
+    "lamci": { "meaning_ko": "반드시", "meaning_en": "Necessarily / Surely" },
+    "asci": { "meaning_ko": "동시에", "meaning_en": "Simultaneously" },
+    "claci": { "meaning_ko": "함께", "meaning_en": "Together" },
+    "halci": { "meaning_ko": "따로", "meaning_en": "Separately" },
+    "sulci": { "meaning_ko": "서로", "meaning_en": "Each other / Mutually" },
+    "slaci": { "meaning_ko": "특히", "meaning_en": "Especially / Particularly" },
+    "anci": { "meaning_ko": "오직", "meaning_en": "Only" },
+    "muni": { "meaning_ko": "겨우", "meaning_en": "Barely / Only just" },
+    "tanci": { "meaning_ko": "그냥", "meaning_en": "Just / Merely" },
+    "asanci": { "meaning_ko": "스스로", "meaning_en": "By oneself / Spontaneously" },
+    "alti": { "meaning_ko": "우연히", "meaning_en": "By chance / Accidentally" },
+    "tuci": { "meaning_ko": "마침내", "meaning_en": "Finally / At last" },
+    "nuaci": { "meaning_ko": "먼저", "meaning_en": "First / Firstly" },
+    "na cinact": { "meaning_ko": "예시로", "meaning_en": "For example", "note": "na + cinact(example)" }
   },
-  "기본명사": {
-    "물건": {
+  "Basic_Nouns": {
+    "Objects": {
       "catuatl": {
-        "뜻": "가구"
+        "meaning_ko": "가구",
+        "meaning_en": "furniture"
       },
       "hantl": {
-        "뜻": "담요"
+        "meaning_ko": "담요",
+        "meaning_en": "blanket"
       },
       "tlutl": {
-        "뜻": "도구"
+        "meaning_ko": "도구",
+        "meaning_en": "tool / instrument"
       },
       "maitl": {
-        "뜻": "돈"
+        "meaning_ko": "돈",
+        "meaning_en": "money / currency"
       },
       "caitl": {
-        "뜻": "동전"
+        "meaning_ko": "동전",
+        "meaning_en": "coin"
       },
       "cuitl": {
-        "뜻": "막대기"
+        "meaning_ko": "막대기",
+        "meaning_en": "stick / rod"
       },
       "uatl": {
-        "뜻": "망"
+        "meaning_ko": "망",
+        "meaning_en": "net / mesh"
       },
       "multl": {
-        "뜻": "무기"
+        "meaning_ko": "무기",
+        "meaning_en": "weapon"
       },
       "huatl": {
-        "뜻": "버튼"
+        "meaning_ko": "버튼",
+        "meaning_en": "button"
       },
       "tanatl": {
-        "뜻": "봉투"
+        "meaning_ko": "봉투",
+        "meaning_en": "envelope / bag"
       },
       "cusantl": {
-        "뜻": "부품"
+        "meaning_ko": "부품",
+        "meaning_en": "part / component"
       },
       "nu hancultl la nusmu": {
-        "뜻": "성냥"
+        "meaning_ko": "성냥",
+        "meaning_en": "match (igniter)"
       },
       "castl": {
-        "뜻": "수건"
+        "meaning_ko": "수건",
+        "meaning_en": "towel"
       },
       "catlatl": {
-        "뜻": "시계"
+        "meaning_ko": "시계",
+        "meaning_en": "clock / watch"
       },
       "sulmatl": {
-        "뜻": "쓰레기"
+        "meaning_ko": "쓰레기",
+        "meaning_en": "trash / garbage / waste"
       },
       "huitl": {
-        "뜻": "연료"
+        "meaning_ko": "연료",
+        "meaning_en": "fuel"
       },
       "lamuhantl": {
-        "뜻": "이불"
-      }, 
+        "meaning_ko": "이불",
+        "meaning_en": "duvet / comforter / thick blanket",
+        "analysis": "Possibly related to 'hantl' (blanket)"
+      },
       "untl": {
-        "뜻": "자원"
+        "meaning_ko": "자원",
+        "meaning_en": "resource"
       },
       "hutl": {
-        "뜻": "장비"
+        "meaning_ko": "장비",
+        "meaning_en": "equipment / gear"
       },
       "auntl": {
-        "뜻": "재료"
+        "meaning_ko": "재료",
+        "meaning_en": "material / ingredient"
       },
       "cunhatl": {
-        "뜻": "저울"
+        "meaning_ko": "저울",
+        "meaning_en": "scale / balance"
       },
       "catl": {
-        "뜻": "접시"
+        "meaning_ko": "접시",
+        "meaning_en": "plate / dish"
       },
       "ahilutl": {
-        "뜻": "종이"
+        "meaning_ko": "종이",
+        "meaning_en": "paper"
       },
       "maistl": {
-        "뜻": "지갑"
+        "meaning_ko": "지갑",
+        "meaning_en": "wallet / purse",
+        "analysis": "Possibly related to 'maitl' (money)"
       },
       "ahilucaitl": {
-        "뜻": "지폐"
+        "meaning_ko": "지폐",
+        "meaning_en": "banknote / paper money",
+        "analysis": "ahilutl (paper) + caitl (coin)"
       },
       "casitl": {
-        "뜻": "우주선"
+        "meaning_ko": "우주선",
+        "meaning_en": "spaceship / spacecraft"
       },
       "hihutl": {
-        "뜻": "자동차"
+        "meaning_ko": "자동차",
+        "meaning_en": "car / automobile"
       },
       "mitl": {
-        "뜻": "짐"
+        "meaning_ko": "짐",
+        "meaning_en": "luggage / load / cargo"
       },
       "tutl": {
-        "뜻": "책"
+        "meaning_ko": "책",
+        "meaning_en": "book"
       },
       "munact": {
-        "뜻": "칼"
+        "meaning_ko": "칼",
+        "meaning_en": "knife / blade"
       },
       "astl": {
-        "뜻": "탁자"
+        "meaning_ko": "탁자",
+        "meaning_en": "table / desk"
       },
       "caltl": {
-        "뜻": "카드"
+        "meaning_ko": "카드",
+        "meaning_en": "card"
       },
       "uhatl": {
-        "뜻": "텔레비전"
+        "meaning_ko": "텔레비전",
+        "meaning_en": "television / TV"
       },
       "ahilulatl": {
-        "뜻": "화장지"
+        "meaning_ko": "화장지",
+        "meaning_en": "toilet paper / tissue",
+        "analysis": "Derived from 'ahilutl' (paper)"
       },
       "tlustl": {
-        "뜻": "가방"
+        "meaning_ko": "가방",
+        "meaning_en": "bag / backpack",
+        "analysis": "Possibly related to 'tlutl' (tool) + '-s-' (containment/utility)"
       },
       "alitl": {
-        "뜻": "작품"
+        "meaning_ko": "작품",
+        "meaning_en": "work of art / masterpiece"
       },
       "tlasitl": {
-        "뜻": "잔"
+        "meaning_ko": "잔",
+        "meaning_en": "cup / glass / goblet"
       }
     },
-    "자연": {
-      "광물": {
-        "nu cual la stalu": {
-          "뜻": "강철"
-        },
-        "cual": {
-          "뜻": "철"
-        },
-        "tal": {
-          "뜻": "돌"
-        },
-        "huitl-tal": {
-          "뜻": "석탄"
-        }
+    "Biology": {
+      "Animals": {
+        "alth": { "meaning_ko": "동물", "meaning_en": "Animal (General term)" },
+        "muth": { "meaning_ko": "가축", "meaning_en": "Livestock / Domestic animal" },
+        "tanth": { "meaning_ko": "개", "meaning_en": "Dog" },
+        "anth": { "meaning_ko": "고양이", "meaning_en": "Cat" },
+        "sacth": { "meaning_ko": "소", "meaning_en": "Cow / Ox / Cattle" },
+        "cisath": { "meaning_ko": "돼지", "meaning_en": "Pig / Swine" },
+        "smath": { "meaning_ko": "양", "meaning_en": "Sheep" },
+        "cath": { "meaning_ko": "닭", "meaning_en": "Chicken / Fowl" },
+        "unith": { "meaning_ko": "오리", "meaning_en": "Duck" },
+        "asuth": { "meaning_ko": "새", "meaning_en": "Bird" },
+        "achuth": { "meaning_ko": "곰", "meaning_en": "Bear" },
+        "uhucth": { "meaning_ko": "뱀", "meaning_en": "Snake / Serpent" },
+        "nath": { "meaning_ko": "도마뱀", "meaning_en": "Lizard" },
+        "umucth": { "meaning_ko": "곤충", "meaning_en": "Insect / Bug" },
+        "nu umucth la nalla": { "meaning_ko": "해충", "meaning_en": "Pest / Harmful insect" }
       },
-      "현상/에너지": {
-        "huisul": {
-          "뜻": "바람"
-        },
-        "tansul": {
-          "뜻": "번개"
-        },
-        "suicul": {
-          "뜻": "무지개"
-        },
-        "hancul": {
-          "뜻": "불"
-        },
-        "munul": {
-          "뜻": "비"
-        },
-        "tanshul": {
-          "뜻": "전기"
-        },
-        "amacul": {
-          "뜻": "천둥"
-        },
-        "macul": {
-          "뜻": "소리"
-        },
-        "siucul": {
-          "뜻": "열"
-        },
-        "acacul": {
-          "뜻": "연기"
-        },
-        "sucul": {
-          "뜻": "현상"
-        },
-        "hamanul": {
-          "뜻": "에너지"
-        },
-        "hantul": {
-          "뜻": "지진"
-        }
+      "Plants": {
+        "unsuch": { "meaning_ko": "식물", "meaning_en": "Plant (General term)" },
+        "uhuch": { "meaning_ko": "꽃", "meaning_en": "Flower / Blossom" },
+        "chuch": { "meaning_ko": "나무", "meaning_en": "Tree" },
+        "hich": { "meaning_ko": "덤불", "meaning_en": "Bush / Shrub" },
+        "cauch": { "meaning_ko": "씨앗", "meaning_en": "Seed" },
+        "sunch": { "meaning_ko": "줄기", "meaning_en": "Stem / Stalk" },
+        "uich": { "meaning_ko": "야채", "meaning_en": "Vegetable" },
+        "sich": { "meaning_ko": "잡초", "meaning_en": "Weed" }
       },
-      "환경": {
-        "machu-hamucl": {
-          "뜻": "가뭄"
-        }, 
-        "nu hamucl la muina": {
-          "뜻": "강"
-        },
-        "nu hamucl la nusmu": {
-          "뜻": "개울"
-        },
-        "nal": {
-          "뜻": "공기"
-        },
-        "amical": {
-          "뜻": "바다"
-        },
-        "mascal": {
-          "뜻": "사막"
-        },
-        "haunal": {
-          "뜻": "산"
-        },
-        "hical": {
-          "뜻": "숲"
-        },
-        "usacal": {
-          "뜻": "저수지"
-        },
-        "alinal": {
-          "뜻": "지형"
-        },
-        "sahcal": {
-          "뜻": "평원"
-        },
-        "slamucal": {
-          "뜻": "해변"
-        },
-        "samucal": {
-          "뜻": "해안"
-        },
-        "uhunal": {
-          "뜻": "호수"
-        },
-        "nu mumsa na muina": {
-          "뜻": "홍수"
-        },
-        "haunal un hancul": {
-          "뜻": "화산"
-        },
-        "tiomal": {
-          "뜻": "지역"
-        },
-        "sical": {
-          "뜻": "환경",
-          "변형": {
-            "ta sical": "환경적"
-          }
-        },
-        "tamlal": {
-          "뜻": "온도"
-        },
-        "sumcal": {
-          "뜻": "구름"
-        },
-        "hacal": {
-          "뜻": "날씨"
-        },
-        "cucal": {
-          "뜻": "눈(내리는)"
-        }
+      "Organs_and_Body_Parts": {
+        "ucil": { "meaning_ko": "뇌", "meaning_en": "Brain" },
+        "sincil": { "meaning_ko": "눈 (동물의)", "meaning_en": "Eye" },
+        "hicil": { "meaning_ko": "근육", "meaning_en": "Muscle" },
+        "cucil": { "meaning_ko": "껍질", "meaning_en": "Shell / Skin / Bark" },
+        "hacil": { "meaning_ko": "다리 (동물의)", "meaning_en": "Leg" },
+        "mihacil": { "meaning_ko": "발", "meaning_en": "Foot" },
+        "unhacil": { "meaning_ko": "손", "meaning_en": "Hand" },
+        "uchacil": { "meaning_ko": "뿌리", "meaning_en": "Root" },
+        "ucacil": { "meaning_ko": "신경", "meaning_en": "Nerve" },
+        "nacil": { "meaning_ko": "위", "meaning_en": "Stomach" },
+        "macacil": { "meaning_ko": "이빨", "meaning_en": "Tooth" },
+        "mascil": { "meaning_ko": "장기 (내장)", "meaning_en": "Internal Organ / Viscera" },
+        "muhucil": { "meaning_ko": "털", "meaning_en": "Hair / Fur / Feather" },
+        "ascil": { "meaning_ko": "피", "meaning_en": "Blood" },
+        "sacil": { "meaning_ko": "세포", "meaning_en": "Cell" }
       },
-      "행성/위성/항성": {
-        "ansl": {
-          "뜻": "태양/n년"
+      "Biology_Concepts": {
+        "inacil": { 
+          "meaning_ko": "생물", "meaning_en": "Living thing / Organism",
+          "derivation": { "ta inacil": "biological / 생물적" }
         },
-        "huiasl": {
-          "뜻": "수성"
-        },
-        "macusl": {
-          "뜻": "금성"
-        },
-        "husasl": {
-          "뜻": "지구"
-        },
-        "mamusl": {
-          "뜻": "화성"
-        },
-        "hacusl": {
-          "뜻": "목성"
-        },
-        "casl": {
-          "뜻": "토성"
-        },
-        "nasl": {
-          "뜻": "천왕성"
-        },
-        "icsl": {
-          "뜻": "해왕성"
-        },
-        "hisl": {
-          "뜻": "명왕성"
-        },
-        "acasl": {
-          "뜻": "별"
-        },
-        "naisl": {
-          "뜻": "달"
-        },
-        "antisl": {
-          "뜻": "행성"
-        }
+        "ahucil": { "meaning_ko": "유기체", "meaning_en": "Organism" },
+        "shicil": { "meaning_ko": "유전", "meaning_en": "Heredity / Inheritance" },
+        "shicil-achicl": { "meaning_ko": "유전자", "meaning_en": "Gene" },
+        "ninicil": { "meaning_ko": "생태계", "meaning_en": "Ecosystem" },
+        "mu la nunhi": { "meaning_ko": "서식지", "meaning_en": "Habitat" },
+        "unacil": { "meaning_ko": "소화", "meaning_en": "Digestion" },
+        "musucil": { "meaning_ko": "화석", "meaning_en": "Fossil" }
       },
-      "생물": {
-        "동물": {
-          "muth": {
-            "뜻": "가축"
-          },
-          "tanth": {
-            "뜻": "개"
-          },
-          "anth": {
-            "뜻": "고양이"
-          },
-          "cath": {
-            "뜻": "닭"
-          },
-          "umucth": {
-            "뜻": "곤충"
-          },
-          "achuth": {
-            "뜻": "곰"
-          },
-          "nath": {
-            "뜻": "도마뱀"
-          },
-          "alth": {
-            "뜻": "동물"
-          },
-          "cisath": {
-            "뜻": "돼지"
-          },
-          "uhucth": {
-            "뜻": "뱀"
-          },
-          "asuth": {
-            "뜻": "새"
-          },
-          "sacth": {
-            "뜻": "소"
-          },
-          "smath": {
-            "뜻": "양"
-          },
-          "unith": {
-            "뜻": "오리"
-          },
-          "nu umucth la nalla": {
-            "뜻": "해충"
-          }
-        },
-        "식물": {
-          "uhuch": {
-            "뜻": "꽃"
-          },
-          "chuch": {
-            "뜻": "나무"
-          },
-          "hich": {
-            "뜻": "덤불"
-          },
-          "unsuch": {
-            "뜻": "식물"
-          },
-          "cauch": {
-            "뜻": "씨앗"
-          },
-          "uich": {
-            "뜻": "야채"
-          },
-          "sich": {
-            "뜻": "잡초"
-          },
-          "sunch": {
-            "뜻": "줄기"
-          }
-        },
-        "장기/기관": {
-          "cucil": {
-            "뜻": "껍질"
-          },
-          "ucil": {
-            "뜻": "뇌"
-          },
-          "sincil": {
-            "뜻": "눈(동물의)"
-          },
-          "hacil": {
-            "뜻": "다리(동물의)"
-          },
-          "hicil": {
-            "뜻": "근육"
-          },
-          "mihacil": {
-            "뜻": "발"
-          },
-          "uchacil": {
-            "뜻": "뿌리"
-          },
-          "unhacil": {
-            "뜻": "손"
-          },
-          "ucacil": {
-            "뜻": "신경"
-          },
-          "nacil": {
-            "뜻": "위"
-          },
-          "macacil": {
-            "뜻": "이빨"
-          },
-          "mascil": {
-            "뜻": "장기(내장)"
-          },
-          "muhucil": {
-            "뜻": "털"
-          },
-          "ascil": {
-            "뜻": "피"
-          },
-          "sacil": {
-            "뜻": "세포"
-          }
-        },
-        "inacil": {
-          "뜻": "생물",
-          "변형": {
-            "ta inacil": "생물적"
-          }
-        },
-        "ahucil": {
-          "뜻": "유기체"
-        },
-        "shicil": {
-          "뜻": "유전"
-        },
-        "shicil-achicl": {
-          "뜻": "유전자"
-        },
-        "ninicil": {
-          "뜻": "생태계"
-        },
-        "mu la nunhi": {
-          "뜻": "서식시"
-        },
-        "muncil": {
-          "뜻": "흙"
-        },
-        "unacil": {
-          "뜻": "소화"
-        },
-        "musucil": {
-          "뜻": "화석"
-        }
+      "Matter_and_Substances": {
+        "achichl": { "meaning_ko": "물질", "meaning_en": "Matter / Substance" },
+        "nicuchl": { "meaning_ko": "원소", "meaning_en": "Element" },
+        "asachl": { "meaning_ko": "분자", "meaning_en": "Molecule" },
+        "hacchl": { "meaning_ko": "입자", "meaning_en": "Particle" },
+        "unmichl": { "meaning_ko": "전자", "meaning_en": "Electron" },
+        "atlachl": { "meaning_ko": "탄소", "meaning_en": "Carbon" },
+        "cuschl": { "meaning_ko": "산소", "meaning_en": "Oxygen" },
+        "nihchl": { "meaning_ko": "단백질", "meaning_en": "Protein" },
+        "uchichl": { "meaning_ko": "산 (산성 용액)", "meaning_en": "Acid" }
       },
-      "물질": {
-        "atlachl": {
-          "뜻": "탄소"
-        },
-        "nihchl": {
-          "뜻": "단백질"
-        },
-        "achichl": {
-          "뜻": "물질"
-        },
-        "asachl": {
-          "뜻": "분자"
-        },
-        "uchichl": {
-          "뜻": "산(산성용액)"
-        },
-        "cuschl": {
-          "뜻": "산소"
-        },
-        "nicuchl": {
-          "뜻": "원소"
-        },
-        "hacchl": {
-          "뜻": "입자"
-        },
-        "unmichl": {
-          "뜻": "전자"
-        }
+      "Health_and_Accidents": {
+        "much": { "meaning_ko": "사고", "meaning_en": "Accident" },
+        "acmich": { "meaning_ko": "재난", "meaning_en": "Disaster / Catastrophe" },
+        "asich": { "meaning_ko": "상처", "meaning_en": "Wound / Injury" },
+        "misuch": { "meaning_ko": "질병", "meaning_en": "Disease / Sickness" },
+        "huch": { "meaning_ko": "증상", "meaning_en": "Symptom" },
+        "isuch": { "meaning_ko": "독", "meaning_en": "Poison / Venom" },
+        "inmuch": { "meaning_ko": "중독", "meaning_en": "Addiction / Poisoning" },
+        "achich": { "meaning_ko": "암", "meaning_en": "Cancer" }
       },
-      "사고/부상/병": {
-        "isuch": {
-          "뜻": "독"
-        },
-        "asich": {
-          "뜻": "상처"
-        },
-        "acmich": {
-          "뜻": "재난"
-        },
-        "much": {
-          "뜻": "사고"
-        },
-        "achich": {
-          "뜻": "암"
-        },
-        "huch": {
-          "뜻": "증상"
-        },
-        "misuch": {
-          "뜻": "질병"
-        },
-        "inmuch": {
-          "뜻": "중독"
-        }
-      },
-      "이외": {
-        "nincl": {
-          "뜻": "대륙"
-        },
-        "isacl": {
-          "뜻": "모래"
-        },
-        "hamucl": {
-          "뜻": "물"
-        },
-        "uhcicl": {
-          "뜻": "액체"
-        },
-        "amsicl": {
-          "뜻": "고체"
-        },
-        "cinicl": {
-          "뜻": "우주"
-        },
-        "ihacl": {
-          "뜻": "하늘"
-        },
-        "acicl": {
-          "뜻": "빛"
-        },
-        "hunicl": {
-          "뜻": "어둠"
-        },
-        "nisicl": {
-          "뜻": "영양"
-        },
-        "umhicl": {
-          "뜻": "유리"
-        },
-        "uinicl": {
-          "뜻": "풍경"
-        }
+      "Miscellaneous_Nature": {
+        "cinicl": { "meaning_ko": "우주", "meaning_en": "Universe / Outer Space" },
+        "ihacl": { "meaning_ko": "하늘", "meaning_en": "Sky" },
+        "nincl": { "meaning_ko": "대륙", "meaning_en": "Continent" },
+        "uinicl": { "meaning_ko": "풍경", "meaning_en": "Scenery / Landscape" },
+        "acicl": { "meaning_ko": "빛", "meaning_en": "Light" },
+        "hunicl": { "meaning_ko": "어둠", "meaning_en": "Darkness" },
+        "hamucl": { "meaning_ko": "물", "meaning_en": "Water" },
+        "uhcicl": { "meaning_ko": "액체", "meaning_en": "Liquid" },
+        "amsicl": { "meaning_ko": "고체", "meaning_en": "Solid" },
+        "muncl": { "meaning_ko": "흙", "meaning_en": "Soil / Ground" },
+        "isacl": { "meaning_ko": "모래", "meaning_en": "Sand" },
+        "umhicl": { "meaning_ko": "유리", "meaning_en": "Glass" },
+        "nisicl": { "meaning_ko": "영양", "meaning_en": "Nutrition" }
       }
     },
-    "장소": {
-      "umhas": {
-        "뜻": "거리"
-      },
-      "hucis": {
-        "뜻": "공원"
-      },
-      "humas": {
-        "뜻": "광장"
-      },
-      "mu ucmist": {
-        "뜻": "극장"
-      },
-      "icsas": {
-        "뜻": "길"
-      },
-      "ihsas": {
-        "뜻": "내부"
-      },
-      "ahis": {
-        "뜻": "대피소"
-      },
-      "cus": {
-        "뜻": "도로"
-      },
-      "mu tutl": {
-        "뜻": "도서관"
-      },
-      "hams": {
-        "뜻": "도시"
-      },
-      "mumus": {
-        "뜻": "마구간"
-      },
-      "sumus": {
-        "뜻": "마을"
-      },
-      "acmus": {
-        "뜻": "박물관"
-      },
-      "mu misuch": {
-        "뜻": "병원"
-      },
-      "mu hamucl la nalla": {
-        "뜻": "술집"
-      },
-      "amis": {
-        "뜻": "시골"
-      },
-      "acas": {
-        "뜻": "시설"
-      },
-      "mu isnuct": {
-        "뜻": "식당"
-      },
-      "hihas": {
-        "뜻": "아파트"
-      },
-      "amus": {
-        "뜻": "역"
-      },
-      "hacus": {
-        "뜻": "장소"
-      },
-      "uihas": {
-        "뜻": "집"
-      },
-      "hinis": {
-        "뜻": "카페"
-      },
-      "cins": {
-        "뜻": "화장실"
-      },
-      "incas": {
-        "뜻": "회사"
-      },
-      "lucs": {
-        "뜻": "고향"
-      },
-      "numis": {
-        "뜻": "다리(건너는)"
-      },
-      "hucs": {
-        "뜻": "항공사"
-      },
-      "macs": {
-        "뜻": "항구"
+    "Places_and_Locations": {
+      "hacus": { "meaning_ko": "장소", "meaning_en": "Place / Location" },
+      "hams": { "meaning_ko": "도시", "meaning_en": "City" },
+      "sumus": { "meaning_ko": "마을", "meaning_en": "Village / Town" },
+      "amis": { "meaning_ko": "시골", "meaning_en": "Countryside / Rural area" },
+      "lucs": { "meaning_ko": "고향", "meaning_en": "Hometown" },
+      "uihas": { "meaning_ko": "집", "meaning_en": "House / Home" },
+      "hihas": { "meaning_ko": "아파트", "meaning_en": "Apartment" },
+      "ihsas": { "meaning_ko": "내부", "meaning_en": "Interior / Inside" },
+      "umhas": { "meaning_ko": "거리", "meaning_en": "Street" },
+      "icsas": { "meaning_ko": "길", "meaning_en": "Road / Path" },
+      "cus": { "meaning_ko": "도로", "meaning_en": "Roadway / Highway" },
+      "numis": { "meaning_ko": "다리(건너는)", "meaning_en": "Bridge" },
+      "hucis": { "meaning_ko": "공원", "meaning_en": "Park" },
+      "humas": { "meaning_ko": "광장", "meaning_en": "Square / Plaza" },
+      "amus": { "meaning_ko": "역", "meaning_en": "Station" },
+      "macs": { "meaning_ko": "항구", "meaning_en": "Port / Harbor" },
+      "hucs": { "meaning_ko": "항공사", "meaning_en": "Airline" },
+      "incas": { "meaning_ko": "회사", "meaning_en": "Company / Office" },
+      "acas": { "meaning_ko": "시설", "meaning_en": "Facility" },
+      "ahis": { "meaning_ko": "대피소", "meaning_en": "Shelter" },
+      "cins": { "meaning_ko": "화장실", "meaning_en": "Toilet / Restroom" },
+      "hinis": { "meaning_ko": "카페", "meaning_en": "Cafe" },
+      "mu_Compound_Places": {
+        "mu tutl": { "meaning_ko": "도서관", "meaning_en": "Library" },
+        "mu ucmist": { "meaning_ko": "극장", "meaning_en": "Theater" },
+        "mu misuch": { "meaning_ko": "병원", "meaning_en": "Hospital" },
+        "mu isnuct": { "meaning_ko": "식당", "meaning_en": "Restaurant" },
+        "mu hamucl la nalla": { "meaning_ko": "술집", "meaning_en": "Pub / Bar" },
+        "acmus": { "meaning_ko": "박물관", "meaning_en": "Museum" },
+        "mumus": { "meaning_ko": "마구간", "meaning_en": "Stable" }
       }
     },
-    "학문": {
-      "철학": {
+    "Academics": {
+      "Philosophy": {
         "nutah": {
-          "뜻": "철학"
+          "meaning_ko": "철학",
+          "meaning_en": "Philosophy"
         },
         "cictah": {
-          "뜻": "관점"
+          "meaning_ko": "관점",
+          "meaning_en": "Perspective / Viewpoint"
         },
         "samatah": {
-          "뜻": "가치"
+          "meaning_ko": "가치",
+          "meaning_en": "Value / Worth"
         },
         "manatah": {
-          "뜻": "본능"
+          "meaning_ko": "본능",
+          "meaning_en": "Instinct"
         },
         "nucutah": {
-          "뜻": "운명"
+          "meaning_ko": "운명",
+          "meaning_en": "Fate / Destiny"
         },
         "amitah": {
-          "뜻": "의식"
+          "meaning_ko": "의식",
+          "meaning_en": "Consciousness / Awareness"
         },
         "citah": {
-          "뜻": "편견"
+          "meaning_ko": "편견",
+          "meaning_en": "Prejudice / Bias"
         },
         "sustah": {
-          "뜻": "폭력"
+          "meaning_ko": "폭력",
+          "meaning_en": "Violence"
         }
       },
-      "수학": {
-        "namctah": {
-          "뜻": "숫자"
-        },
+      "Mathematics": {
         "cisuctah": {
-          "뜻": "수학"
+          "meaning_ko": "수학",
+          "meaning_en": "Mathematics"
         },
-        "nictah": {
-          "뜻": "각도"
-        },
-        "nuctah": {
-          "뜻": "비율"
-        },
-        "sacuctah": {
-          "뜻": "확률"
-        },
-        "huctah": {
-          "뜻": "평균"
+        "namctah": {
+          "meaning_ko": "숫자",
+          "meaning_en": "Number / Digit"
         },
         "cuctah": {
-          "뜻": "변수"
+          "meaning_ko": "변수",
+          "meaning_en": "Variable"
+        },
+        "nuctah": {
+          "meaning_ko": "비율",
+          "meaning_en": "Ratio / Proportion"
+        },
+        "nictah": {
+          "meaning_ko": "각도",
+          "meaning_en": "Angle"
+        },
+        "huctah": {
+          "meaning_ko": "평균",
+          "meaning_en": "Average / Mean"
+        },
+        "sacuctah": {
+          "meaning_ko": "확률",
+          "meaning_en": "Probability"
         }
       },
-      "이외 학문": {
-        "acsitah": {
-          "뜻": "역사"
-        },
-        "natah": {
-          "뜻": "심리학"
+      "General_Fields": {
+        "cacatah": {
+          "meaning_ko": "과학",
+          "meaning_en": "Science"
         },
         "cicutah": {
-          "뜻": "물리학"
-        },
-        "icmutah": {
-          "뜻": "경제학"
+          "meaning_ko": "물리학",
+          "meaning_en": "Physics"
         },
         "usutah": {
-          "뜻": "생물학"
-        },
-        "cacatah": {
-          "뜻": "과학"
-        },
-        "hutah": {
-          "뜻": "줄거리"
-        },
-        "hacatah": {
-          "뜻": "논리학"
-        },
-        "ucsatah": {
-          "뜻": "문학"
+          "meaning_ko": "생물학",
+          "meaning_en": "Biology"
         },
         "acmutah": {
-          "뜻": "지리학"
+          "meaning_ko": "지리학",
+          "meaning_en": "Geography"
+        },
+        "icmutah": {
+          "meaning_ko": "경제학",
+          "meaning_en": "Economics"
+        },
+        "hacatah": {
+          "meaning_ko": "논리학",
+          "meaning_en": "Logic"
+        },
+        "natah": {
+          "meaning_ko": "심리학",
+          "meaning_en": "Psychology"
+        },
+        "acsitah": {
+          "meaning_ko": "역사",
+          "meaning_en": "History"
+        },
+        "ucsatah": {
+          "meaning_ko": "문학",
+          "meaning_en": "Literature"
+        },
+        "hutah": {
+          "meaning_ko": "줄거리",
+          "meaning_en": "Plot / Storyline"
         },
         "muhli-cunitah": {
-          "뜻": "역설",
-          "변형": {
-            "ta muhli-cunitah": "역설적"
+          "meaning_ko": "역설",
+          "meaning_en": "Paradox",
+          "derivation": {
+            "ta muhli-cunitah": "paradoxical / 역설적"
           }
-        },
-        "nuhutah": {
-          "뜻": "혼합"
-        },
+        }
+      },
+      "Research_and_Theory": {
         "unmutah": {
-          "뜻": "화학"
-        },
-        "cunitah": {
-          "뜻": "가설"
-        },
-        "chitah": {
-          "뜻": "논문"
-        },
-        "sutah": {
-          "뜻": "이론"
+          "meaning_ko": "화학",
+          "meaning_en": "Chemistry"
         },
         "unitah": {
-          "뜻": "개념"
+          "meaning_ko": "개념",
+          "meaning_en": "Concept"
         },
-        "ascatah": {
-          "뜻": "가능성"
+        "cunitah": {
+          "meaning_ko": "가설",
+          "meaning_en": "Hypothesis"
         },
-        "amutah": {
-          "뜻": "학회"
-        },
-        "numtah": {
-          "뜻": "성분"
+        "sutah": {
+          "meaning_ko": "이론",
+          "meaning_en": "Theory"
         },
         "uhsutah": {
-          "뜻": "원리"
+          "meaning_ko": "원리",
+          "meaning_en": "Principle"
         },
-        "nacitah": {
-          "뜻": "견적"
+        "chitah": {
+          "meaning_ko": "논문",
+          "meaning_en": "Thesis / Academic Paper"
+        },
+        "amutah": {
+          "meaning_ko": "학회",
+          "meaning_en": "Academic Society / Conference"
         },
         "hintah": {
-          "뜻": "결과"
-        },
-        "nultah": {
-          "뜻": "회로"
+          "meaning_ko": "결과",
+          "meaning_en": "Result / Outcome"
         },
         "sitah": {
-          "뜻": "특성"
+          "meaning_ko": "특성",
+          "meaning_en": "Characteristic / Property"
+        },
+        "numtah": {
+          "meaning_ko": "성분",
+          "meaning_en": "Ingredient / Component"
+        },
+        "nuhutah": {
+          "meaning_ko": "혼합",
+          "meaning_en": "Mixture / Blend"
+        },
+        "nultah": {
+          "meaning_ko": "회로",
+          "meaning_en": "Circuit"
+        },
+        "ascatah": {
+          "meaning_ko": "가능성",
+          "meaning_en": "Possibility / Potential"
+        },
+        "nacitah": {
+          "meaning_ko": "견적",
+          "meaning_en": "Estimate / Quote"
         }
       }
     },
