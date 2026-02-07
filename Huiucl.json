@@ -95,38 +95,38 @@
     "acalh": "No / Negation"
   },
   "Affixes_and_Particles": {
-    "Possessive (소유격)": {
-      "morpheme": "un",
+    "un": {
+      "type": "Possessive (소유격)",
       "meaning_ko": "~의 (소유)",
       "meaning_en": "Possession (belonging to)",
       "example": "li linmi un a (나의 교과서 / my textbook)"
     },
-    "Genitive_Attributive (속성격)": {
-      "morpheme": "uln",
+    "uln": {
+      "type": "Genitive_Attributive (속성격)",
       "meaning_ko": "~의 (속성/관계)",
       "meaning_en": "Attribute / Relation",
       "example": "sitah uln hihutl (자동차의 특성 / The characteristic of the car)"
     },
-    "Topic_Marker (서술/주제 조사)": {
-      "morpheme": "su",
+    "su": {
+      "type": "Topic_Marker (서술/주제 조사)",
       "meaning_ko": "~은/는",
       "meaning_en": "Topic marker",
       "example": "su a macla uiususu (나는 사람이다 / As for me, I am a person)"
     },
-    "Nominative (주격)": {
-      "morpheme": "si",
+    "si": {
+      "type": "Nominative (주격)",
       "meaning_ko": "~이/가",
       "meaning_en": "Subject marker (Nominative)",
       "example": "si u hachi (그가 수리하다 / He repairs)"
     },
-    "Accusative (목적격)": {
-      "morpheme": "sa",
+    "sa": {
+      "type": "Accusative (목적격)",
       "meaning_ko": "~을/를",
       "meaning_en": "Object marker (Accusative)",
       "example": "su a ninhac sa la (나는 그것을 재현할 것이다 / I will reproduce it)"
     },
-    "Additive (첨가 조사)": {
-      "morpheme": "ma",
+    "ma": {
+      "type": "Additive (첨가 조사)",
       "meaning_ko": "-도",
       "meaning_en": "Also / Too / Additive",
       "example": "ma u macla uiususu (그도 사람이다 / He is also a person)"
