@@ -46,31 +46,31 @@
     }
   },
   "Auxiliary_Verbs": {
-    "luca": {"en": "can / be able to (Potential)", "ko": "할 수 있다"},
-    "sana": {"en": "should / had better (Hortative)", "ko": "하는 것이 좋겠다"},
-    "casa": {"en":"must / have to (Obligative)", "ko": "해야 한다"},
+    "luca": {"meaning_en": "can / be able to (Potential)", "meaning_ko": "할 수 있다"},
+    "sana": {"meaning_en": "should / had better (Hortative)", "meaning_ko": "하는 것이 좋겠다"},
+    "casa": {"meaning_en":"must / have to (Obligative)", "meaning_ko": "해야 한다"},
     "clu": {
       "definition": {
-        "en":"to be (Copula)",
-        "ko":"~이다"
+        "meaning_en":"to be (Copula)",
+        "meaning_ko":"~이다"
       },
       "aspect_voice": {
-        "clusl": {"en": "be -ing (Progressive)", "ko": "하고 있다"},
-        "clunl": {"en": "be -ed (Passive voice)", "ko": "당하다/되다"}
+        "clusl": {"meaning_en": "be -ing (Progressive)", "meaning_ko": "하고 있다"},
+        "clunl": {"meaning_en": "be -ed (Passive voice)", "meaning_ko": "당하다/되다"}
       }
     },
     "aca": {
-      "definition": {"en":"to do (Dummy verb)", "ko": "하다"},
+      "definition": {"meaning_en":"to do (Dummy verb)", "meaning_ko": "하다"},
       "tense_variants": {
         "acam": {
-          "definition": {"en": "did (Past)", "ko": "했다"},
+          "definition": {"meaning_en": "did (Past)", "meaning_ko": "meaning_했다"},
           "usage": {
             "en": "Used as a past-tense carrier when no other verb/adjective is present.",
             "ko": "다른 동사나 형용사가 없을 때 과거 시제를 나타내는 용도로 사용됩니다."
           }
         },
-        "acan": {
-          "definition": {"en": "will do (Future)", "ko": "할 것이다"},
+        "acac": {
+          "definition": {"meaning_en": "will do (Future)", "meaning_ko": "할 것이다"},
           "usage": {
             "en": "Used as a future-tense carrier when no other verb/adjective is present.",
             "ko": "다른 동사나 형용사가 없을 때 미래 시제를 나타내는 데 사용됩니다."
@@ -80,9 +80,9 @@
       "note": "Acts as a pro-verb or dummy verb in the absence of a main predicate."
     },
     "ina": {
-      "definition": {"en": "want to / desire (Desiderative)", "ko": "하고 싶다/원하다"},
+      "definition": {"meaning_en": "want to / desire (Desiderative)", "meaning_ko": "하고 싶다/원하다"},
       "variants": {
-        "inam": {"en": "wanted to (Past desiderative)", "ko": "하고 싶었다"}
+        "inam": {"meaning_en": "wanted to (Past desiderative)", "meaning_ko": "하고 싶었다"}
       }
     }
   },
@@ -96,37 +96,37 @@
   },
   "Affixes_and_Particles": {
     "Possessive (소유격)": {
-      "morpheme": "-un-",
+      "morpheme": "un",
       "meaning_ko": "~의 (소유)",
       "meaning_en": "Possession (belonging to)",
       "example": "li linmi un a (나의 교과서 / my textbook)"
     },
     "Genitive_Attributive (속성격)": {
-      "morpheme": "-uln-",
+      "morpheme": "uln",
       "meaning_ko": "~의 (속성/관계)",
       "meaning_en": "Attribute / Relation",
       "example": "sitah uln hihutl (자동차의 특성 / The characteristic of the car)"
     },
     "Topic_Marker (서술/주제 조사)": {
-      "morpheme": "su-",
+      "morpheme": "su",
       "meaning_ko": "~은/는",
       "meaning_en": "Topic marker",
       "example": "su a macla uiususu (나는 사람이다 / As for me, I am a person)"
     },
     "Nominative (주격)": {
-      "morpheme": "si-",
+      "morpheme": "si",
       "meaning_ko": "~이/가",
       "meaning_en": "Subject marker (Nominative)",
       "example": "si u hachi (그가 수리하다 / He repairs)"
     },
     "Accusative (목적격)": {
-      "morpheme": "sa-",
+      "morpheme": "sa",
       "meaning_ko": "~을/를",
       "meaning_en": "Object marker (Accusative)",
       "example": "su a ninhac sa la (나는 그것을 재현할 것이다 / I will reproduce it)"
     },
     "Additive (첨가 조사)": {
-      "morpheme": "ma-",
+      "morpheme": "ma",
       "meaning_ko": "-도",
       "meaning_en": "Also / Too / Additive",
       "example": "ma u macla uiususu (그도 사람이다 / He is also a person)"
@@ -552,6 +552,7 @@
         "acsitah": { "meaning_ko": "역사", "meaning_en": "History" },
         "ucsatah": { "meaning_ko": "문학", "meaning_en": "Literature" },
         "hutah": { "meaning_ko": "줄거리", "meaning_en": "Plot / Storyline" },
+        "inith": {"meaning_ko": "양자역학", "meaning_en": "quantum mechanics"},
         "muhli-cunitah": { 
           "meaning_ko": "역설", 
           "meaning_en": "Paradox",
@@ -572,7 +573,8 @@
         "nuhutah": { "meaning_ko": "혼합", "meaning_en": "Mixture / Blend" },
         "nultah": { "meaning_ko": "회로", "meaning_en": "Circuit" },
         "ascatah": { "meaning_ko": "가능성", "meaning_en": "Possibility / Potential" },
-        "nacitah": { "meaning_ko": "견적", "meaning_en": "Estimate / Quote" }
+        "nacitah": { "meaning_ko": "견적", "meaning_en": "Estimate / Quote" },
+        "icatah": {"meaning_ko": "기술", "meaning_en": "technology"}
       }
     },
     "Society": {
@@ -5446,4 +5448,3 @@
     }
   }
 }
-
