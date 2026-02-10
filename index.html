@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HUIUCL Online Archive</title>
     <style>
+        /* 폰트 정의: conlang_PUA.ttf 로드 */
+        @font-face {
+            font-family: 'HuiuclFont';
+            src: url('conlang_PUA.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
         :root {
             --bg-color: #f9f7f2;
             --card-bg: #ffffff;
@@ -12,16 +20,18 @@
             --accent-color: #d4a373;
             --border-color: #e0ddd5;
             --variation-bg: #faf9f6;
+            /* 기본 폰트 스택 설정 */
+            --main-font: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+            --conlang-font: 'HuiuclFont', sans-serif;
         }
 
         body { 
-            font-family: 'Pretendard', sans-serif; 
+            font-family: var(--main-font); 
             background-color: var(--bg-color); 
             color: var(--primary-color); 
             margin: 0; padding: 0; line-height: 1.6;
         }
 
-        /* 네비게이션: ARCHIVE를 맨 뒤로 이동 */
         nav {
             position: sticky; top: 0; background: rgba(249, 247, 242, 0.9);
             backdrop-filter: blur(10px); padding: 20px; text-align: center;
@@ -31,8 +41,9 @@
         nav a:hover { color: var(--accent-color); }
 
         header { text-align: center; padding: 60px 20px; }
-        h1 { font-weight: 300; letter-spacing: 8px; color: var(--accent-color); margin: 0; }
-        .sub-title { font-size: 0.9rem; color: #999; margin-top: 10px; }
+        /* 헤더 타이틀에 인공어 폰트 적용 */
+        h1 { font-family: var(--conlang-font); font-weight: 300; letter-spacing: 8px; color: var(--accent-color); margin: 0; }
+        .sub-title { font-size: 0.9rem; color: #999; margin-top: 10px; font-family: var(--main-font); }
 
         .container { max-width: 900px; margin: 0 auto; padding: 0 20px 100px; }
         section { display: none; }
@@ -50,12 +61,15 @@
         table { width: 100%; border-collapse: collapse; }
         th, td { padding: 15px 20px; text-align: left; border-bottom: 1px solid var(--bg-color); }
         th { background: #f1eee6; font-size: 0.9rem; color: #777; }
-        .word-cell { font-weight: bold; color: var(--accent-color); }
+        
+        /* 사전 단어 셀에 인공어 폰트 적용 */
+        .word-cell { font-family: var(--conlang-font); font-weight: bold; color: var(--accent-color); }
 
         /* 문법(GRAMMAR) 스타일 */
         .card { background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); margin-bottom: 20px; }
+        code { font-family: var(--conlang-font); background: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
 
-        /* 아카이브(ARCHIVE) 스타일: 리스트 & 뷰어 */
+        /* 아카이브(ARCHIVE) 스타일 */
         .archive-layout { display: flex; gap: 30px; }
         .story-list { width: 250px; flex-shrink: 0; }
         .story-item { 
@@ -66,8 +80,10 @@
         .story-item:hover, .story-item.active { border-color: var(--accent-color); color: var(--accent-color); background: #fdfcf9; }
         .story-content { flex: 1; background: var(--card-bg); padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.03); min-height: 400px; }
         .story-line { margin-bottom: 25px; }
-        .huiucl-text { font-size: 1.2rem; color: var(--accent-color); font-weight: 600; margin-bottom: 5px; }
-        .korean-text { font-size: 1rem; color: #777; border-left: 2px solid var(--border-color); padding-left: 15px; }
+        
+        /* 아카이브 인공어 텍스트에 폰트 적용 */
+        .huiucl-text { font-family: var(--conlang-font); font-size: 1.4rem; color: var(--accent-color); font-weight: 600; margin-bottom: 5px; }
+        .korean-text { font-family: var(--main-font); font-size: 1rem; color: #777; border-left: 2px solid var(--border-color); padding-left: 15px; }
     </style>
 </head>
 <body>
@@ -109,8 +125,8 @@
             <p><strong>3. 시제:</strong> 과거형 <code>-m</code>, 미래형 <code>-n</code></p>
             <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 20px 0;">
             <h3>Phoneme (음소)</h3>
-            <p><strong>Vowels:</strong> a, i, u</p>
-            <p><strong>Consonants:</strong> m, n, s, h, l, c(ㄲ), t(ㄸ)</p>
+            <p><strong>Vowels:</strong> <span class="word-cell">a, i, u</span></p>
+            <p><strong>Consonants:</strong> <span class="word-cell">m, n, s, h, l, c(ㄲ), t(ㄸ)</span></p>
         </div>
     </section>
 
@@ -120,8 +136,7 @@
                 <div class="story-item active" onclick="loadStory(0, this)">01. 탄생</div>
                 <div class="story-item" onclick="loadStory(1, this)">02. 준비 중...</div>
             </div>
-            <div class="story-content" id="storyViewer">
-                </div>
+            <div class="story-content" id="storyViewer"></div>
         </div>
     </section>
 </div>
@@ -130,13 +145,11 @@
     let conlangData = {};
     let currentCategory = '모두';
 
-    // 섹션 전환
     function showSection(id) {
         document.querySelectorAll('section').forEach(s => s.classList.remove('active'));
         document.getElementById(id).classList.add('active');
     }
 
-    // 소설 데이터 로드 및 전환
     const stories = [
         {
             title: "기록 01: 탄생",
@@ -171,19 +184,22 @@
         document.getElementById('storyViewer').innerHTML = html;
     }
 
-    // 초기 실행
     window.onload = () => {
         loadStory(0);
-        fetch('Huiucl.json')
-            .then(res => res.json())
+        // Huiucl.json 대신 conlang_pua.json 로드
+        fetch('conlang_pua.json')
+            .then(res => {
+                if(!res.ok) throw new Error('JSON 파일을 찾을 수 없습니다.');
+                return res.json();
+            })
             .then(data => {
                 conlangData = data;
                 initButtons();
                 renderTable();
-            });
+            })
+            .catch(err => console.error('Error loading JSON:', err));
     };
 
-    // --- 사전 로직 (기존과 동일) ---
     function initButtons() {
         const container = document.getElementById('categoryButtons');
         Object.keys(conlangData).forEach(key => {
