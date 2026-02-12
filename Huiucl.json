@@ -1,14 +1,36 @@
 {
+  "설정": {
+      "1":"주어-동사 (자동사 문장/목적어 없는 경우)",
+      "2":"주어-동사-목적어(타동사 문장)",
+      "3":"icmijl lujmijt (사람 경쟁하는)",
+      "4":"icmijl la sacju (사람 피곤한)",
+      "5": "ninmu na jasni (작동하다 불공평하게)",
+      "6": "icjuc ninmujt na jasni (기계 작동하는 불공평하게)",
+      "7": "cinicl un ca (나의 우주), cinicl uln nu lisnu (태초의 우주)",
+      "8": "동사의 과거형은 동사에 'm'를 붙인다.",
+      "9": "동사의 미래형은 동사에 'n'를 붙인다.",
+      "10": "li linmi un ca (나의 교과서)",
+      "11": "cinicl unl nu lisnu (태초의 우주)",
+      "12": "su ca clu icmijl (나는 사람이다)",
+      "13": "si cu jacji(그가 수리하다)",
+      "14": "su ca ninjan sa cua (나는 그것을 재현할 것이다.)",
+      "15": "ma cu clu icmijl (나도 사람이다.)"
+  },
   "음소": {
       "a": "아",
       "i": "이",
       "u": "우",
+      "e": "어",
       "m": "ㅁ",
       "n": "ㄴ",
-      "s": "ㅅ",
-      "h": "ㅎ",
       "l": "ㄹ",
+      "r": "르",
+      "h": "ㅎ",
+      "s": "ㅅ",
+      "j": "ㅈ",
       "c": "ㅋ",
+      "b": "ㅂ",
+      "g": "ㄱ",
       "t": "ㅌ"
   },
   "대명사": {
@@ -62,12 +84,12 @@
     }
   },
   "인사/감탄사": {
-    "alahas": { "뜻": "안녕하세요(만날 때)" },
-    "saclh": { "뜻": "안녕하세요(헤어질 때)" },
-    "achl": { "뜻": "미안" },
-    "lachl": { "뜻": "고마워" },
-    "nalh": { "뜻": "네" },
-    "acalh": { "뜻": "아니요" }
+    "alajas": { "뜻": "안녕하세요(만날 때)" },
+    "saclj": { "뜻": "안녕하세요(헤어질 때)" },
+    "acjl": { "뜻": "미안" },
+    "lacjl": { "뜻": "고마워" },
+    "nalj": { "뜻": "네" },
+    "acalj": { "뜻": "아니요" }
   },
   "접사 및 조사": {
     "un -": {
@@ -94,7 +116,7 @@
     "-nl": {
       "뜻": "피동형"
     },
-    "-ht": {
+    "-jt": {
       "뜻": "현재분사 / -하는"
     },
     "sta -": {
@@ -107,7 +129,7 @@
     "uial": { "뜻": "그러면" },
     "aial": { "뜻": "그러며" },
     "isal": { "뜻": "하지만" },
-    "thal": { "뜻": "그러자" },
+    "tjal": { "뜻": "그러자" },
     "ail": { "뜻": "-아니/때문에" },
     "inal": { "뜻": "~에게" },
     "unil": { "뜻": "~으로('물건' 으로)" },
@@ -117,17 +139,17 @@
     "tiul": {"뜻": "~동안"}
   },
   "기본부사": {
-    "ahai": {
+    "ajai": {
       "뜻": "부정",
-      "변형": "'ha"
+      "변형": "'ja"
     },
     "ulai": { "뜻": "가까이" },
     "amaci": { "뜻": "매우" },
     "sani": { "뜻": "멀리" },
     "laci": { "뜻": "부분적으로" },
-    "haci": { "뜻": "아직" },
+    "jaci": { "뜻": "아직" },
     "lai": { "뜻": "오래" },
-    "hamai": { "뜻": "완전히" },
+    "jamai": { "뜻": "완전히" },
     "nisi": { "뜻": "이미" },
     "inli": { "뜻": "이전" },
     "ili": { "뜻": "이후" },
@@ -138,7 +160,7 @@
     "taci": { "뜻": "왜" },
     "maci": { "뜻": "어떻게" },
     "muni": { "뜻": "겨우" },
-    "hanci": { "뜻": "다시" },
+    "janci": { "뜻": "다시" },
     "anci": { "뜻": "오직" },
     "itci": { "뜻": "곧" },
     "mici": { "뜻": "갑자기" },
@@ -151,7 +173,7 @@
     "itici": { "뜻": "아마도" },
     "sulci": { "뜻": "서로" },
     "claci": { "뜻": "함께" },
-    "halci": { "뜻": "따로" },
+    "jalci": { "뜻": "따로" },
     "alti": { "뜻": "우연히" },
     "na cinac": { "뜻": "예시로" },
     "alci": { "뜻": "아주" },
@@ -166,7 +188,7 @@
       "catuatl": {
         "뜻": "가구"
       },
-      "hantl": {
+      "jantl": {
         "뜻": "담요"
       },
       "tlutl": {
@@ -187,7 +209,7 @@
       "multl": {
         "뜻": "무기"
       },
-      "huatl": {
+      "juatl": {
         "뜻": "버튼"
       },
       "tanatl": {
@@ -196,7 +218,7 @@
       "cusantl": {
         "뜻": "부품"
       },
-      "nu hancultl la nusmu": {
+      "nu jancultl la nusmu": {
         "뜻": "성냥"
       },
       "castl": {
@@ -208,40 +230,40 @@
       "sulmatl": {
         "뜻": "쓰레기"
       },
-      "huitl": {
+      "juitl": {
         "뜻": "연료"
       },
-      "lamuhantl": {
+      "lamujantl": {
         "뜻": "이불"
       }, 
       "untl": {
         "뜻": "자원"
       },
-      "hutl": {
+      "jutl": {
         "뜻": "장비"
       },
       "auntl": {
         "뜻": "재료"
       },
-      "cunhatl": {
+      "cunjatl": {
         "뜻": "저울"
       },
       "catl": {
         "뜻": "접시"
       },
-      "ahilutl": {
+      "ajilutl": {
         "뜻": "종이"
       },
       "maistl": {
         "뜻": "지갑"
       },
-      "ahilucaitl": {
+      "ajilucaitl": {
         "뜻": "지폐"
       },
       "casitl": {
         "뜻": "우주선"
       },
-      "hihutl": {
+      "jijutl": {
         "뜻": "자동차"
       },
       "mitl": {
@@ -259,10 +281,10 @@
       "caltl": {
         "뜻": "카드"
       },
-      "uhatl": {
+      "ujatl": {
         "뜻": "텔레비전"
       },
-      "ahilulatl": {
+      "ajilulatl": {
         "뜻": "화장지"
       },
       "tlustl": {
@@ -286,12 +308,12 @@
         "tal": {
           "뜻": "돌"
         },
-        "huitl-tal": {
+        "juitl-tal": {
           "뜻": "석탄"
         }
       },
       "현상/에너지": {
-        "huisul": {
+        "juisul": {
           "뜻": "바람"
         },
         "tansul": {
@@ -300,13 +322,13 @@
         "suicul": {
           "뜻": "무지개"
         },
-        "hancul": {
+        "jancul": {
           "뜻": "불"
         },
         "munul": {
           "뜻": "비"
         },
-        "tanshul": {
+        "tansjul": {
           "뜻": "전기"
         },
         "amacul": {
@@ -324,21 +346,21 @@
         "sucul": {
           "뜻": "현상"
         },
-        "hamanul": {
+        "jamanul": {
           "뜻": "에너지"
         },
-        "hantul": {
+        "jantul": {
           "뜻": "지진"
         }
       },
       "환경": {
-        "machu-hamucl": {
+        "macju-jamucl": {
           "뜻": "가뭄"
         }, 
-        "nu hamucl la muina": {
+        "nu jamucl la muina": {
           "뜻": "강"
         },
-        "nu hamucl la nusmu": {
+        "nu jamucl la nusmu": {
           "뜻": "개울"
         },
         "nal": {
@@ -350,10 +372,10 @@
         "mascal": {
           "뜻": "사막"
         },
-        "haunal": {
+        "jaunal": {
           "뜻": "산"
         },
-        "hical": {
+        "jical": {
           "뜻": "숲"
         },
         "usacal": {
@@ -362,7 +384,7 @@
         "alinal": {
           "뜻": "지형"
         },
-        "sahcal": {
+        "sajcal": {
           "뜻": "평원"
         },
         "slamucal": {
@@ -371,13 +393,13 @@
         "samucal": {
           "뜻": "해안"
         },
-        "uhunal": {
+        "ujunal": {
           "뜻": "호수"
         },
         "nu mumsa na muina": {
           "뜻": "홍수"
         },
-        "haunal un hancul": {
+        "jaunal un jancul": {
           "뜻": "화산"
         },
         "tiamal": {
@@ -395,7 +417,7 @@
         "sumcal": {
           "뜻": "구름"
         },
-        "hacal": {
+        "jacal": {
           "뜻": "날씨"
         },
         "cucal": {
@@ -406,19 +428,19 @@
         "ansl": {
           "뜻": "태양/n년"
         },
-        "huiasl": {
+        "juiasl": {
           "뜻": "수성"
         },
         "macusl": {
           "뜻": "금성"
         },
-        "husasl": {
+        "jusasl": {
           "뜻": "지구"
         },
         "mamusl": {
           "뜻": "화성"
         },
-        "hacusl": {
+        "jacusl": {
           "뜻": "목성"
         },
         "casl": {
@@ -430,7 +452,7 @@
         "icsl": {
           "뜻": "해왕성"
         },
-        "hisl": {
+        "jisl": {
           "뜻": "명왕성"
         },
         "acasl": {
@@ -445,75 +467,75 @@
       },
       "생물": {
         "동물": {
-          "muth": {
+          "mutj": {
             "뜻": "가축"
           },
-          "tanth": {
+          "tantj": {
             "뜻": "개"
           },
-          "anth": {
+          "antj": {
             "뜻": "고양이"
           },
-          "cath": {
+          "catj": {
             "뜻": "닭"
           },
-          "umucth": {
+          "umuctj": {
             "뜻": "곤충"
           },
-          "achuth": {
+          "acjutj": {
             "뜻": "곰"
           },
-          "nath": {
+          "natj": {
             "뜻": "도마뱀"
           },
-          "alth": {
+          "altj": {
             "뜻": "동물"
           },
-          "cisath": {
+          "cisatj": {
             "뜻": "돼지"
           },
-          "uhucth": {
+          "ujuctj": {
             "뜻": "뱀"
           },
-          "asuth": {
+          "asutj": {
             "뜻": "새"
           },
-          "sacth": {
+          "sactj": {
             "뜻": "소"
           },
-          "smath": {
+          "smatj": {
             "뜻": "양"
           },
-          "unith": {
+          "unitj": {
             "뜻": "오리"
           },
-          "nu umuch la nalla": {
+          "nu umucj la nalla": {
             "뜻": "해충"
           }
         },
         "식물": {
-          "uhuch": {
+          "ujucj": {
             "뜻": "꽃"
           },
-          "chuch": {
+          "cjucj": {
             "뜻": "나무"
           },
-          "hich": {
+          "jicj": {
             "뜻": "덤불"
           },
-          "unsuch": {
+          "unsucj": {
             "뜻": "식물"
           },
-          "cauch": {
+          "caucj": {
             "뜻": "씨앗"
           },
-          "uich": {
+          "uicj": {
             "뜻": "야채"
           },
-          "sich": {
+          "sicj": {
             "뜻": "잡초"
           },
-          "sunch": {
+          "suncj": {
             "뜻": "줄기"
           }
         },
@@ -527,19 +549,19 @@
           "sincil": {
             "뜻": "눈(동물의)"
           },
-          "hacil": {
+          "jacil": {
             "뜻": "다리(동물의)"
           },
-          "hicil": {
+          "jicil": {
             "뜻": "근육"
           },
-          "mihacil": {
+          "mijacil": {
             "뜻": "발"
           },
-          "uchacil": {
+          "ucjacil": {
             "뜻": "뿌리"
           },
-          "unhacil": {
+          "unjacil": {
             "뜻": "손"
           },
           "ucacil": {
@@ -554,7 +576,7 @@
           "mascil": {
             "뜻": "장기(내장)"
           },
-          "muhucil": {
+          "mujucil": {
             "뜻": "털"
           },
           "ascil": {
@@ -570,19 +592,19 @@
             "ta inacil": "생물적"
           }
         },
-        "ahucil": {
+        "ajucil": {
           "뜻": "유기체"
         },
-        "shicil": {
+        "sjicil": {
           "뜻": "유전"
         },
-        "shicil-achicl": {
+        "sjicil-acjicl": {
           "뜻": "유전자"
         },
         "ninicil": {
           "뜻": "생태계"
         },
-        "mu la nunhi": {
+        "mu la nunji": {
           "뜻": "서식시"
         },
         "muncil": {
@@ -596,57 +618,57 @@
         }
       },
       "물질": {
-        "atlachl": {
+        "atlacjl": {
           "뜻": "탄소"
         },
-        "nihchl": {
+        "nijcjl": {
           "뜻": "단백질"
         },
-        "achichl": {
+        "acjicjl": {
           "뜻": "물질"
         },
-        "asachl": {
+        "asacjl": {
           "뜻": "분자"
         },
-        "uchichl": {
+        "ucjicjl": {
           "뜻": "산(산성용액)"
         },
-        "cuschl": {
+        "cuscjl": {
           "뜻": "산소"
         },
-        "nicuchl": {
+        "nicucjl": {
           "뜻": "원소"
         },
-        "hacchl": {
+        "jaccjl": {
           "뜻": "입자"
         },
-        "unmichl": {
+        "unmicjl": {
           "뜻": "전자"
         }
       },
       "사고/부상/병": {
-        "isuch": {
+        "isucj": {
           "뜻": "독"
         },
-        "asich": {
+        "asicj": {
           "뜻": "상처"
         },
-        "acmich": {
+        "acmicj": {
           "뜻": "재난"
         },
-        "much": {
+        "mucj": {
           "뜻": "사고"
         },
-        "achich": {
+        "acjicj": {
           "뜻": "암"
         },
-        "huch": {
+        "jucj": {
           "뜻": "증상"
         },
-        "misuch": {
+        "misucj": {
           "뜻": "질병"
         },
-        "inmuch": {
+        "inmucj": {
           "뜻": "중독"
         }
       },
@@ -657,10 +679,10 @@
         "isacl": {
           "뜻": "모래"
         },
-        "hamucl": {
+        "jamucl": {
           "뜻": "물"
         },
-        "uhcicl": {
+        "ujcicl": {
           "뜻": "액체"
         },
         "amsicl": {
@@ -669,19 +691,19 @@
         "cinicl": {
           "뜻": "우주"
         },
-        "ihacl": {
+        "ijacl": {
           "뜻": "하늘"
         },
         "acicl": {
           "뜻": "빛"
         },
-        "hunicl": {
+        "junicl": {
           "뜻": "어둠"
         },
         "nisicl": {
           "뜻": "영양"
         },
-        "umhicl": {
+        "umjicl": {
           "뜻": "유리"
         },
         "uinicl": {
@@ -690,13 +712,13 @@
       }
     },
     "장소": {
-      "umhas": {
+      "umjas": {
         "뜻": "거리"
       },
-      "hucis": {
+      "jucis": {
         "뜻": "공원"
       },
-      "humas": {
+      "jumas": {
         "뜻": "광장"
       },
       "mu ucmist": {
@@ -705,10 +727,10 @@
       "icsas": {
         "뜻": "길"
       },
-      "ihsas": {
+      "ijsas": {
         "뜻": "내부"
       },
-      "ahis": {
+      "ajis": {
         "뜻": "대피소"
       },
       "cus": {
@@ -717,7 +739,7 @@
       "mu tutl": {
         "뜻": "도서관"
       },
-      "hams": {
+      "jams": {
         "뜻": "도시"
       },
       "mumus": {
@@ -729,10 +751,10 @@
       "acmus": {
         "뜻": "박물관"
       },
-      "mu misuch": {
+      "mu misucj": {
         "뜻": "병원"
       },
-      "mu hamucl la nalla": {
+      "mu jamucl la nalla": {
         "뜻": "술집"
       },
       "amis": {
@@ -744,19 +766,19 @@
       "mu isnuc": {
         "뜻": "식당"
       },
-      "hihas": {
+      "jijas": {
         "뜻": "아파트"
       },
       "amus": {
         "뜻": "역"
       },
-      "hacus": {
+      "jacus": {
         "뜻": "장소"
       },
-      "uihas": {
+      "uijas": {
         "뜻": "집"
       },
-      "hinis": {
+      "jinis": {
         "뜻": "카페"
       },
       "cins": {
@@ -771,7 +793,7 @@
       "numis": {
         "뜻": "다리(건너는)"
       },
-      "hucs": {
+      "jucs": {
         "뜻": "항공사"
       },
       "macs": {
@@ -780,315 +802,315 @@
     },
     "학문": {
       "철학": {
-        "nuhat": {
+        "nujat": {
           "뜻": "철학"
         },
-        "cichat": {
+        "cicjat": {
           "뜻": "관점"
         },
-        "samahat": {
+        "samajat": {
           "뜻": "가치"
         },
-        "manahat": {
+        "manajat": {
           "뜻": "본능"
         },
-        "nucuhat": {
+        "nucujat": {
           "뜻": "운명"
         },
-        "amihat": {
+        "amijat": {
           "뜻": "의식"
         },
-        "cihat": {
+        "cijat": {
           "뜻": "편견"
         },
-        "sushat": {
+        "susjat": {
           "뜻": "폭력"
         }
       },
       "수학": {
-        "namchat": {
+        "namcjat": {
           "뜻": "숫자"
         },
-        "cisuchat": {
+        "cisucjat": {
           "뜻": "수학"
         },
-        "nichat": {
+        "nicjat": {
           "뜻": "각도"
         },
-        "nuchat": {
+        "nucjat": {
           "뜻": "비율"
         },
-        "sacuchat": {
+        "sacucjat": {
           "뜻": "확률"
         },
-        "huchat": {
+        "jucjat": {
           "뜻": "평균"
         },
-        "cuchat": {
+        "cucjat": {
           "뜻": "변수"
         }
       },
       "이외 학문": {
-        "acsihat": {
+        "acsijat": {
           "뜻": "역사"
         },
-        "nahat": {
+        "najat": {
           "뜻": "심리학"
         },
-        "cicuhat": {
+        "cicujat": {
           "뜻": "물리학"
         },
-        "icmuhat": {
+        "icmujat": {
           "뜻": "경제학"
         },
-        "usuhat": {
+        "usujat": {
           "뜻": "생물학"
         },
-        "cacahat": {
+        "cacajat": {
           "뜻": "과학"
         },
-        "huhat": {
+        "jujat": {
           "뜻": "줄거리"
         },
-        "hacahat": {
+        "jacajat": {
           "뜻": "논리학"
         },
-        "ucsahat": {
+        "ucsajat": {
           "뜻": "문학"
         },
-        "acmuhat": {
+        "acmujat": {
           "뜻": "지리학"
         },
-        "muhli-cunihat": {
+        "mujli-cunijat": {
           "뜻": "역설",
           "변형": {
-            "ta muhli-cunihat": "역설적"
+            "ta mujli-cunijat": "역설적"
           }
         },
-        "nuhuhat": {
+        "nujujat": {
           "뜻": "혼합"
         },
-        "unmuhat": {
+        "unmujat": {
           "뜻": "화학"
         },
-        "cunihat": {
+        "cunijat": {
           "뜻": "가설"
         },
-        "chihat": {
+        "cjijat": {
           "뜻": "논문"
         },
-        "suhat": {
+        "sujat": {
           "뜻": "이론"
         },
-        "unihat": {
+        "unijat": {
           "뜻": "개념"
         },
-        "ascahat": {
+        "ascajat": {
           "뜻": "가능성"
         },
-        "amuhat": {
+        "amujat": {
           "뜻": "학회"
         },
-        "numhat": {
+        "numjat": {
           "뜻": "성분"
         },
-        "uhsuhat": {
+        "ujsujat": {
           "뜻": "원리"
         },
-        "nacihat": {
+        "nacijat": {
           "뜻": "견적"
         },
-        "hinhat": {
+        "jinjat": {
           "뜻": "결과"
         },
-        "nulhat": {
+        "nuljat": {
           "뜻": "회로"
         },
-        "sihat": {
+        "sijat": {
           "뜻": "특성"
         }
       }
     },
     "사회": {
       "인간/가정": {
-        "asnuhl": {
+        "asnujl": {
           "뜻": "교수"
         },
-        "hahl": {
+        "jajl": {
           "뜻": "가족"
         },
-        "ahahl": {
+        "ajajl": {
           "뜻": "가정"
         },
-        "huhl": {
+        "jujl": {
           "뜻": "개인"
         },
-        "nacahl": {
+        "nacajl": {
           "뜻": "경찰"
         },
-        "mashl": {
+        "masjl": {
           "뜻": "관객"
         },
-        "mahuhl": {
+        "majujl": {
           "뜻": "국민"
         },
-        "suihl": {
+        "suijl": {
           "뜻": "군인"
         },
-        "uinahl": {
+        "uinajl": {
           "뜻": "군중"
         },
-        "ahsihl": {
+        "ajsijl": {
           "뜻": "대통령"
         },
-        "usuhl": {
+        "usujl": {
           "뜻": "대리인"
         },
-        "umahl": {
+        "umajl": {
           "뜻": "동료"
         },
-        "cunuhl": {
+        "cunujl": {
           "뜻": "배우"
         },
-        "hisahl": {
+        "jisajl": {
           "뜻": "변호사"
         },
-        "mishl": {
+        "misjl": {
           "뜻": "보행자"
         },
-        "inmihl": {
+        "inmijl": {
           "뜻": "부모"
         },
-        "icmihl": {
+        "icmijl": {
           "뜻": "사람"
         },
-        "uncihl": {
+        "uncijl": {
           "뜻": "상관"
         },
-        "machl": {
+        "macjl": {
           "뜻": "상인"
         },
-        "unsahl": {
+        "unsajl": {
           "뜻": "선임"
         },
-        "nuhahl": {
+        "nujajl": {
           "뜻": "성직자"
         },
-        "unsihl": {
+        "unsijl": {
           "뜻": "소방관"
         },
-        "icnuhl": {
+        "icnujl": {
           "뜻": "시민"
         },
-        "hacihl": {
+        "jacijl": {
           "뜻": "시장(사람)"
         },
-        "camhl": {
+        "camjl": {
           "뜻": "시인"
         },
-        "humihl": {
+        "jumijl": {
           "뜻": "아버지"
         },
-        "muhahl": {
+        "mujajl": {
           "뜻": "아이"
         },
-        "ihmuhl": {
+        "ijmujl": {
           "뜻": "어머니"
         },
-        "uscuhl": {
+        "uscujl": {
           "뜻": "예술가"
         },
-        "sahl": {
+        "sajl": {
           "뜻": "왕"
         },
-        "cuhihl": {
+        "cujijl": {
           "뜻": "운전사"
         },
-        "sihl": {
+        "sijl": {
           "뜻": "의사"
         },
-        "ascihl": {
+        "ascijl": {
           "뜻": "이웃"
         },
-        "ucsihl": {
+        "ucsijl": {
           "뜻": "인류"
         },
-        "achuhl": {
+        "acjujl": {
           "뜻": "인물"
         },
-        "amnahl": {
+        "amnajl": {
           "뜻": "인종"
         },
-        "cucahl": {
+        "cucajl": {
           "뜻": "임원"
         },
-        "minhl": {
+        "minjl": {
           "뜻": "입문자"
         },
-        "acluhl": {
+        "aclujl": {
           "뜻": "자매"
         },
-        "macahl": {
+        "macajl": {
           "뜻": "전문가"
         },
-        "insuhl": {
+        "insujl": {
           "뜻": "아기"
         },
-        "sihuhl": {
+        "sijujl": {
           "뜻": "예술가"
         },
-        "ahnahl": {
+        "ajnajl": {
           "뜻": "요리사"
         },
-        "usnahl": {
+        "usnajl": {
           "뜻": "조부모"
         },
-        "minahl": {
+        "minajl": {
           "뜻": "주민"
         },
-        "sisihl": {
+        "sisijl": {
           "뜻": "천문학자"
         },
-        "uihihl": {
+        "uijijl": {
           "뜻": "청소년"
         },
-        "uicuhl": {
+        "uicujl": {
           "뜻": "친구"
         },
-        "inhahl": {
+        "injajl": {
           "뜻": "피해자"
         },
-        "nihahl": {
+        "nijajl": {
           "뜻": "하급자"
         },
-        "nacihl": {
+        "nacijl": {
           "뜻": "학자"
         },
-        "hihl": {
+        "jijl": {
           "뜻": "할머니"
         },
-        "sasihl": {
+        "sasijl": {
           "뜻": "할아버지"
         },
-        "amhahl": {
+        "amjajl": {
           "뜻": "환자"
         },
-        "minihl": {
+        "minijl": {
           "뜻": "남매"
         },
-        "iclahl": {
+        "iclajl": {
           "뜻": "형제"
         },
-        "nuihl": {
+        "nuijl": {
           "뜻": "연인"
         },
-        "accihl": {
+        "accijl": {
           "뜻": "원수"
         },
-        "sicahl": {
+        "sicajl": {
           "뜻": "승객"
         },
-        "uisahl": {
+        "uisajl": {
           "뜻": "신참"
         }
       },
@@ -1123,7 +1145,7 @@
         "uncuml": {
           "뜻": "소득"
         },
-        "hunml": {
+        "junml": {
           "뜻": "요금"
         },
         "umcaml": {
@@ -1138,13 +1160,13 @@
         "cumuml": {
           "뜻": "재산"
         },
-        "huiml": {
+        "juiml": {
           "뜻": "전략"
         },
         "asuml": {
           "뜻": "제국"
         },
-        "ihcaml": {
+        "ijcaml": {
           "뜻": "제도"
         }
       }
@@ -1162,7 +1184,7 @@
       "tas": {
         "뜻": "내부"
       },
-      "has": {
+      "jas": {
         "뜻": "위치"
       },
       "cas": {
@@ -1175,13 +1197,13 @@
     "acsac": {
       "뜻": "목록"
     },
-    "inhuc": {
+    "injuc": {
       "뜻": "강점"
     },
     "nusc": {
       "뜻": "계기"
     },
-    "hamic": {
+    "jamic": {
       "뜻": "고기"
     },
     "munuc": {
@@ -1193,25 +1215,25 @@
     "umnac": {
       "뜻": "광택"
     },
-    "cuhac": {
+    "cujac": {
       "뜻": "균형"
     },
     "micuc": {
       "뜻": "근원"
     },
-    "ichuc": {
+    "icjuc": {
       "뜻": "기계"
     },
     "iclic": {
       "뜻": "기관(기계)"
     },
-    "husic": {
+    "jusic": {
       "뜻": "기름"
     },
     "ic": {
       "뜻": "모든 것"
     },
-    "huic": {
+    "juic": {
       "뜻": "기술"
     },
     "uclic": {
@@ -1220,19 +1242,19 @@
     "usnuc": {
       "뜻": "기회"
     },
-    "hahuc": {
+    "jajuc": {
       "뜻": "꿈"
     },
-    "hac": {
+    "jac": {
       "뜻": "벽"
     },
     "icluc": {
       "뜻": "끝"
     },
-    "muhic": {
+    "mujic": {
       "뜻": "단계"
     },
-    "husc": {
+    "jusc": {
       "뜻": "단어"
     },
     "succ": {
@@ -1241,28 +1263,28 @@
     "masuc": {
       "뜻": "등가"
     },
-    "humuc": {
+    "jumuc": {
       "뜻": "등불"
     },
     "amcuc": {
       "뜻": "매체"
     },
-    "ihnuc": {
+    "ijnuc": {
       "뜻": "면"
     },
     "insic": {
       "뜻": "명성"
     },
-    "hasic": {
+    "jasic": {
       "뜻": "명예"
     },
     "ucic": {
       "뜻": "모습"
     },
-    "uhsac": {
+    "ujsac": {
       "뜻": "문"
     },
-    "huhac": {
+    "jujac": {
       "뜻": "문맥"
     },
     "nunc": {
@@ -1277,7 +1299,7 @@
     "nusuc": {
       "뜻": "박자"
     },
-    "ihcic": {
+    "ijcic": {
       "뜻": "방식"
     },
     "music": {
@@ -1286,34 +1308,34 @@
     "uinuc": {
       "뜻": "부분"
     },
-    "sahac": {
+    "sajac": {
       "뜻": "비명"
     },
     "suiac": {
       "뜻": "뼈대"
     },
-    "sahic": {
+    "sajic": {
       "뜻": "선택지"
     },
-    "hamac": {
+    "jamac": {
       "뜻": "세부"
     },
-    "hahac": {
+    "jajac": {
       "뜻": "소설"
     },
     "cicic": {
       "뜻": "순서"
     },
-    "muhc": {
+    "mujc": {
       "뜻": "시력"
     },
-    "hasuc": {
+    "jasuc": {
       "뜻": "신화"
     },
-    "hilt": {
+    "jilt": {
       "뜻": "신"
     },
-    "mahic": {
+    "majic": {
       "뜻": "실제"
     },
     "cinac": {
@@ -1337,10 +1359,10 @@
     "asnac": {
       "뜻": "절정"
     },
-    "unhic": {
+    "unjic": {
       "뜻": "정도"
     },
-    "hunuc": {
+    "junuc": {
       "뜻": "주름"
     },
     "cuic": {
@@ -1349,28 +1371,28 @@
     "cisac": {
       "뜻": "줄"
     },
-    "hinuc": {
+    "jinuc": {
       "뜻": "창문"
     },
     "mamic": {
       "뜻": "함정"
     },
-    "nahac": {
+    "najac": {
       "뜻": "행동"
     },
-    "achac": {
+    "acjac": {
       "뜻": "화면"
     },
     "sacalc": {
       "뜻": "후자"
     },
-    "nahic": {
+    "najic": {
       "뜻": "가을"
     },
     "incic": {
       "뜻": "감동"
     },
-    "sihic": {
+    "sijic": {
       "뜻": "감정"
     },
     "ucluc": {
@@ -1379,7 +1401,7 @@
     "sumaclt": {
       "뜻": "검은색"
     },
-    "hisuc": {
+    "jisuc": {
       "뜻": "겨울"
     },
     "clac": {
@@ -1397,7 +1419,7 @@
     "umnic": {
       "뜻": "고통"
     },
-    "uhmac": {
+    "ujmac": {
       "뜻": "과잉"
     },
     "nicc": {
@@ -1415,7 +1437,7 @@
     "icsuclt": {
       "뜻": "남색"
     },
-    "mahc": {
+    "majc": {
       "뜻": "내일"
     },
     "cusaclt": {
@@ -1424,7 +1446,7 @@
     "acsuc": {
       "뜻": "능력"
     },
-    "ihmac": {
+    "ijmac": {
       "뜻": "단체"
     },
     "cumc": {
@@ -1442,19 +1464,19 @@
     "asmac": {
       "뜻": "목적"
     },
-    "ihsic": {
+    "ijsic": {
       "뜻": "무게"
     },
     "casuc": {
       "뜻": "민주주의"
     },
-    "ahnic": {
+    "ajnic": {
       "뜻": "믿음"
     },
     "aclic": {
       "뜻": "밤"
     },
-    "cahac": {
+    "cajac": {
       "뜻": "방법"
     },
     "icmac": {
@@ -1463,13 +1485,13 @@
     "suiiclt": {
       "뜻": "보라색"
     },
-    "uihuc": {
+    "uijuc": {
       "뜻": "봄"
     },
     "icnic": {
       "뜻": "부서"
     },
-    "mihuc": {
+    "mijuc": {
       "뜻": "분야"
     },
     "nunac": {
@@ -1487,7 +1509,7 @@
     "sucic": {
       "뜻": "사명감"
     },
-    "nahuc": {
+    "najuc": {
       "뜻": "사상"
     },
     "nuiac": {
@@ -1496,7 +1518,7 @@
     "numac": {
       "뜻": "사회"
     },
-    "ihnac": {
+    "ijnac": {
       "뜻": "산성"
     },
     "nacuc": {
@@ -1511,7 +1533,7 @@
     "ciclt": {
       "뜻": "색"
     },
-    "hicuc": {
+    "jicuc": {
       "뜻": "성격"
     },
     "iscac": {
@@ -1526,37 +1548,37 @@
     "samic": {
       "뜻": "세대"
     },
-    "ahcuc": {
+    "ajcuc": {
       "뜻": "소지품"
     },
     "cunac": {
       "뜻": "손해"
     },
-    "ahcic": {
+    "ajcic": {
       "뜻": "수도"
     },
     "catlat": {
       "뜻": "시간"
     },
-    "inhic": {
+    "injic": {
       "뜻": "시합"
     },
-    "ahcac": {
+    "ajcac": {
       "뜻": "신용"
     },
     "uisic": {
       "뜻": "아침"
     },
-    "hacic": {
+    "jacic": {
       "뜻": "양자역학"
     },
     "sacic": {
       "뜻": "어제"
     },
-    "huiuc": {
+    "juiuc": {
       "뜻": "언어"
     },
-    "mihic": {
+    "mijic": {
       "뜻": "여름"
     },
     "uicac": {
@@ -1577,7 +1599,7 @@
     "cumic": {
       "뜻": "오늘"
     },
-    "isiml un sahl": {
+    "isiml un sajl": {
       "뜻": "왕국"
     },
     "amsuc": {
@@ -1595,7 +1617,7 @@
     "namic": {
       "뜻": "이유"
     },
-    "ihnic": {
+    "ijnic": {
       "뜻": "이점"
     },
     "macic": {
@@ -1625,19 +1647,19 @@
     "ismuc": {
       "뜻": "잡지"
     },
-    "cihuc": {
+    "cijuc": {
       "뜻": "쟁점"
     },
     "nisuc": {
       "뜻": "저녁"
     },
-    "hicac": {
+    "jicac": {
       "뜻": "적의"
     },
     "mucic": {
       "뜻": "절차"
     },
-    "hasac": {
+    "jasac": {
       "뜻": "점심"
     },
     "asnic": {
@@ -1646,7 +1668,7 @@
     "nucac": {
       "뜻": "조항"
     },
-    "ahmuc": {
+    "ajmuc": {
       "뜻": "종교"
     },
     "sunuc": {
@@ -1658,19 +1680,19 @@
     "sacaclt": {
       "뜻": "주황색"
     },
-    "ahmac": {
+    "ajmac": {
       "뜻": "중심지"
     },
-    "suhic": {
+    "sujic": {
       "뜻": "지원"
     },
-    "ahnuc": {
+    "ajnuc": {
       "뜻": "직업"
     },
-    "hacac": {
+    "jacac": {
       "뜻": "진로"
     },
-    "huhic": {
+    "jujic": {
       "뜻": "집단"
     },
     "mucuclt": {
@@ -1679,22 +1701,22 @@
     "accuc": {
       "뜻": "최대"
     },
-    "ahmic": {
+    "ajmic": {
       "뜻": "최소"
     },
     "munic": {
       "뜻": "태도"
     },
-    "suhac": {
+    "sujac": {
       "뜻": "통학"
     },
-    "cahic": {
+    "cajic": {
       "뜻": "특권"
     },
     "sasuclt": {
       "뜻": "파란색"
     },
-    "uhnac": {
+    "ujnac": {
       "뜻": "편지"
     },
     "sacuc": {
@@ -1718,13 +1740,13 @@
     "nunic": {
       "뜻": "혜택"
     },
-    "hinac": {
+    "jinac": {
       "뜻": "호감"
     },
     "nusac": {
       "뜻": "호기심"
     },
-    "uhsic": {
+    "ujsic": {
       "뜻": "혼돈"
     },
     "muic": {
@@ -1733,7 +1755,7 @@
     "asmuc": {
       "뜻": "환승"
     },
-    "ichac": {
+    "icjac": {
       "뜻": "휴가"
     },
     "cuiac": {
@@ -1744,4212 +1766,4198 @@
     }
   },
   "동사": {
-    "huisa": {
+    "jicbi": {
       "뜻": "가난하다",
-      "huisa": {
-        "nu huisa": "가난",
-        "la huisa": "가난한",
-        "na huisa": "가난하게"
+      "jicbi": {
+        "nu jicbi": "가난",
+        "la jicbi": "가난한",
+        "na jicbi": "가난하게"
       }
     },
-    "muasi": {
+    "bujra": {
       "뜻": "엉망이다",
-      "muasi": {
-        "nu muasi": "엉망",
-        "la muasi": "엉망인",
-        "na muasi": "엉망이게"
+      "bujra": {
+        "nu bujra": "엉망",
+        "la bujra": "엉망인",
+        "na bujra": "엉망이게"
       }
     },
-    "maclu": {
+    "tacsa": {
       "뜻": "가능하다",
-      "maclu": {
-        "nu maclu": "가능",
-        "la maclu": "가능한",
-        "na maclu": "가능하게"
+      "tacsa": {
+        "nu tacsa": "가능",
+        "la tacsa": "가능한",
+        "na tacsa": "가능하게"
       }
     },
-    "nicli": {
+    "rashi": {
       "뜻": "가다",
-      "nicli": {
-        "nu nicli": "산책/조깅",
-        "mi nicli": "걷는 자",
-        "mu nicli": "산책로/공원",
-        "na nicli": "걷게/이동하게",
-        "la nicli": "걸은"
+      "rashi": {
+        "nu rashi": "산책/조깅",
+        "mi rashi": "걷는 자",
+        "mu rashi": "산책로/공원",
+        "na rashi": "걷게/이동하게",
+        "la rashi": "걸은"
       }
     },
-    "linmi": {
+    "jaghu": {
       "뜻": "가르치다",
-      "linmi": {
-        "nu linmi": "교육",
-        "la lislin": "교과",
-        "mi linmi": "선생님",
-        "mu linmi": "학교",
-        "a linmi": "학생",
-        "li linmi": "교과서",
-        "na linmi": "가르치게",
-        "la linmi": "가르친"
+      "jaghu": {
+        "nu jaghu": "교육",
+        "mi jaghu": "선생님",
+        "mu jaghu": "학교",
+        "a jaghu": "학생",
+        "li jaghu": "교과서",
+        "na jaghu": "가르치게",
+        "la jaghu": "가르친"
       }
     },
-    "muisa": {
+    "tucja": {
       "뜻": "가압하다",
-      "muisa": {
-        "nu muisa": "가압/압박",
-        "li muisa": "압축기/펌프",
-        "mu muisa": "압력실",
-        "na muisa": "압박하게",
-        "la muisa": "압박한"
+      "tucja": {
+        "nu tucja": "가압/압박",
+        "li tucja": "압축기/펌프",
+        "mu tucja": "압력실",
+        "na tucja": "압박하게",
+        "la tucja": "압박한"
       }
     },
-    "lahni": {
+    "gicgu": {
       "뜻": "가정하다",
-      "lahni": {
-        "nu lahni": "가정",
-        "la lahni": "가정한",
-        "na lahni": "가정하게"
+      "gicgu": {
+        "nu gicgu": "가정",
+        "la gicgu": "가정한",
+        "na gicgu": "가정하게"
       }
     },
-    "lusla": {
+    "simta": {
       "뜻": "가해하다",
-      "lusla": {
-        "nu lusla": "가해",
-        "la lusla": "가해한",
-        "na lusla": "가해하게"
+      "simta": {
+        "nu simta": "가해",
+        "la simta": "가해한",
+        "na simta": "가해하게"
       }
     },
-    "halsa": {
+    "gilte": {
       "뜻": "간과하다",
-      "halsa": {
-        "nu halsa": "간과",
-        "la halsa": "간과한",
-        "na halsa": "간과하게"
+      "gilte": {
+        "nu gilte": "간과",
+        "la gilte": "간과한",
+        "na gilte": "간과하게"
       }
     },
-    "mucli": {
+    "cunme": {
       "뜻": "간단하다",
-      "mucli": {
-        "nu mucli": "간단",
-        "la mucli": "간단한",
-        "na mucli": "간단하게"
+      "cunme": {
+        "nu cunme": "간단",
+        "la cunme": "간단한",
+        "na cunme": "간단하게"
       }
     },
-    "silsa": {
+    "gilci": {
       "뜻": "간섭하다",
-      "silsa": {
-        "nu silsa": "간섭",
-        "la silsa": "간섭한",
-        "na silsa": "간섭하게"
+      "gilci": {
+        "nu gilci": "간섭",
+        "la gilci": "간섭한",
+        "na gilci": "간섭하게"
       }
     },
-    "masma": {
+    "hihja": {
       "뜻": "간청하다",
-      "masma": {
-        "nu masma": "간청",
-        "la masma": "간청한",
-        "na masma": "간청하게"
+      "hihja": {
+        "nu hihja": "간청",
+        "la hihja": "간청한",
+        "na hihja": "간청하게"
       }
     },
-    "hunsi": {
+    "jasla": {
       "뜻": "갈등하다",
-      "hunsi": {
-        "nu hunsi": "갈등",
-        "la hunsi": "갈등한",
-        "na hunsi": "갈등하게"
+      "jasla": {
+        "nu jasla": "갈등",
+        "la jasla": "갈등한",
+        "na jasla": "갈등하게"
       }
     },
-    "nihli": {
+    "lelra": {
       "뜻": "갈망하다",
-      "nihli": {
-        "nu nihli": "갈망",
-        "la nihli": "갈망한",
-        "na nihli": "갈망하게"
+      "lelra": {
+        "nu lelra": "갈망",
+        "la lelra": "갈망한",
+        "na lelra": "갈망하게"
       }
     },
-    "ninsi": {
+    "nijma": {
       "뜻": "감사하다",
-      "ninsi": {
-        "nu ninsi": "감사",
-        "la ninsi": "감사한",
-        "na ninsi": "감사하게"
+      "nijma": {
+        "nu nijma": "감사",
+        "la nijma": "감사한",
+        "na nijma": "감사하게"
       }
     },
-    "nuhni": {
+    "lisha": {
       "뜻": "감소하다",
-      "nuhni": {
-        "nu nuhni": "감소",
-        "la nuhni": "감소한",
-        "na nuhni": "감소하게"
+      "lisha": {
+        "nu lisha": "감소",
+        "la lisha": "감소한",
+        "na lisha": "감소하게"
       }
     },
-    "muhsi": {
+    "mehta": {
       "뜻": "감시하다",
-      "muhsi": {
-        "nu muhsi": "감시",
-        "la muhsi": "감시한",
-        "na muhsi": "감시하게"
+      "mehta": {
+        "nu mehta": "감시",
+        "la mehta": "감시한",
+        "na mehta": "감시하게"
       }
     },
-    "lachu": {
+    "rubha": {
       "뜻": "강렬하다",
-      "lachu": {
-        "nu lachu": "강렬",
-        "la lachu": "강렬한",
-        "na lachu": "강렬하게"
+      "rubha": {
+        "nu rubha": "강렬",
+        "la rubha": "강렬한",
+        "na rubha": "강렬하게"
       }
     },
-    "huhsa": {
+    "nugru": {
       "뜻": "강조하다",
-      "huhsa": {
-        "nu huhsa": "강조",
-        "la huhsa": "강조한",
-        "na huhsa": "강조하게"
+      "nugru": {
+        "nu nugru": "강조",
+        "la nugru": "강조한",
+        "na nugru": "강조하게"
       }
     },
-    "macsa": {
+    "tucna": {
       "뜻": "강의하다",
-      "macsa": {
-        "nu macsa": "강의",
-        "la macsa": "강의한",
-        "na macsa": "강의하게"
+      "tucna": {
+        "nu tucna": "강의",
+        "la tucna": "강의한",
+        "na tucna": "강의하게"
       }
     },
-    "luhsu": {
+    "lahre": {
       "뜻": "개방하다",
-      "luhsu": {
-        "nu luhsu": "개방",
-        "li luhsu": "열쇠/오프너",
-        "na luhsu": "열게",
-        "la luhsu": "연"
+      "lahre": {
+        "nu lahre": "개방",
+        "li lahre": "열쇠/오프너",
+        "na lahre": "열게",
+        "la lahre": "연"
       }
     },
-    "hasnu": {
+    "gijti": {
       "뜻": "개선하다",
-      "hasnu": {
-        "nu hasnu": "개선",
-        "la hasnu": "개선한",
-        "na hasnu": "개선하게"
+      "gijti": {
+        "nu gijti": "개선",
+        "la gijti": "개선한",
+        "na gijti": "개선하게"
       }
     },
-    "nilmu": {
+    "basre": {
       "뜻": "개척하다",
-      "nilmu": {
-        "nu nilmu": "개척",
-        "la nilmu": "개척한",
-        "na nilmu": "개척하게",
-        "mi nilmu": "개척자"
+      "basre": {
+        "nu basre": "개척",
+        "la basre": "개척한",
+        "na basre": "개척하게",
+        "mi basre": "개척자"
       }
     },
-    "samha": {
+    "bibme": {
       "뜻": "개혁하다",
-      "samha": {
-        "nu samha": "개혁",
-        "la samha": "개혁한",
-        "na samha": "개혁하게"
+      "bibme": {
+        "nu bibme": "개혁",
+        "la bibme": "개혁한",
+        "na bibme": "개혁하게"
       }
     },
-    "muinu": {
+    "hamhe": {
       "뜻": "거대하다",
-      "muinu": {
-        "nu muinu": "거대",
-        "la muinu": "거대한",
-        "na muinu": "거대하게"
+      "hamhe": {
+        "nu hamhe": "거대",
+        "la hamhe": "거대한",
+        "na hamhe": "거대하게"
       }
     },
-    "nalma": {
+    "mithe": {
       "뜻": "거래하다",
-      "nalma": {
-        "nu nalma": "거래",
-        "la nalma": "거래한",
-        "na nalma": "거래하게"
+      "mithe": {
+        "nu mithe": "거래",
+        "la mithe": "거래한",
+        "na mithe": "거래하게"
       }
     },
-    "lahmi": {
+    "henri": {
       "뜻": "거절하다",
-      "lahmi": {
-        "nu lahmi": "거절",
-        "la lahmi": "거절한",
-        "na lahmi": "거절하게"
+      "henri": {
+        "nu henri": "거절",
+        "la henri": "거절한",
+        "na henri": "거절하게"
       }
     },
-    "nasna": {
+    "bunru": {
       "뜻": "거주하다",
-      "nasna": {
-        "nu nasna": "거주",
-        "la nasna": "거주한",
-        "na nasna": "거주하게"
+      "bunru": {
+        "nu bunru": "거주",
+        "la bunru": "거주한",
+        "na bunru": "거주하게"
       }
     },
-    "hamsu": {
+    "butsi": {
       "뜻": "걱정하다",
-      "hamsu": {
-        "nu hamsu": "걱정",
-        "la hamsu": "걱정한",
-        "na hamsu": "걱정하게"
+      "butsi": {
+        "nu butsi": "걱정",
+        "la butsi": "걱정한",
+        "na butsi": "걱정하게"
       }
     },
-    "milsa": {
+    "hahja": {
       "뜻": "건강하다",
-      "milsa": {
-        "nu milsa": "건강",
-        "la milsa": "건강한",
-        "na milsa": "건강하게"
+      "hahja": {
+        "nu hahja": "건강",
+        "la hahja": "건강한",
+        "na hahja": "건강하게"
       }
     },
-    "mamsa": {
+    "gicre": {
       "뜻": "건축하다",
-      "macsa": {
-        "nu mamsa": "건축",
-        "la mamsa": "건축한",
-        "na mamsa": "건축하게",
-        "mu mamsa": "건축물/건물",
-        "mamsaml": "건축학",
-        "mi mamsa": "건축가"
+      "gicre": {
+        "nu gicre": "건축",
+        "la gicre": "건축한",
+        "na gicre": "건축하게",
+        "mu gicre": "건축물/건물",
+        "mi gicre": "건축가"
       }
     },
-    "masni": {
+    "tahje": {
       "뜻": "건설하다",
-      "masni": {
-        "nu masni": "건설",
-        "la masni": "건설한",
-        "na masni": "건설하게"
+      "tahje": {
+        "nu tahje": "건설",
+        "la tahje": "건설한",
+        "na tahje": "건설하게"
       }
     },
-    "lilhu": {
+    "secse": {
       "뜻": "검열하다",
-      "lilhu": {
-        "nu lilhu": "검열",
-        "la lilhu": "검열한",
-        "na lilhu": "검열하게"
+      "secse": {
+        "nu secse": "검열",
+        "la secse": "검열한",
+        "na secse": "검열하게"
       }
     },
-    "hihmi": {
+    "hilgu": {
       "뜻": "격려하다",
-      "hihmi": {
-        "nu hihmi": "격려",
-        "la hihmi": "격려한",
-        "na hihmi": "격려하게"
+      "hilgu": {
+        "nu hilgu": "격려",
+        "la hilgu": "격려한",
+        "na hilgu": "격려하게"
       }
     },
-    "nihna": {
+    "rumsa": {
       "뜻": "격리하다",
-      "nihna": {
-        "nu nihna": "격리",
-        "la nihna": "격리한",
-        "na nihna": "격리하게"
+      "rumsa": {
+        "nu rumsa": "격리",
+        "la rumsa": "격리한",
+        "na rumsa": "격리하게"
       }
     },
-    "sasnu": {
+    "hatju": {
       "뜻": "결정하다",
-      "sasnu": {
-        "nu sasnu": "결정",
-        "la sasnu": "결정한",
-        "na sasnu": "결정하게"
+      "hatju": {
+        "nu hatju": "결정",
+        "la hatju": "결정한",
+        "na hatju": "결정하게"
       }
     },
-    "lahna": {
+    "renhe": {
       "뜻": "결핍하다",
-      "lahna": {
-        "nu lahna": "결핍",
-        "la lahna": "결핍한",
-        "na lahna": "결핍하게"
+      "renhe": {
+        "nu renhe": "결핍",
+        "la renhe": "결핍한",
+        "na renhe": "결핍하게"
       }
     },
-    "nihnu": {
+    "sabla": {
       "뜻": "결합하다",
-      "nihnu": {
-        "nu nihnu": "결합",
-        "la nihnu": "결합한",
-        "na nihnu": "결합하게"
+      "sabla": {
+        "nu sabla": "결합",
+        "la sabla": "결합한",
+        "na sabla": "결합하게"
       }
     },
-    "nalna": {
+    "jugni": {
       "뜻": "겸손하다",
-      "nalna": {
-        "nu nalna": "겸손",
-        "la nalna": "겸손한",
-        "na nalna": "겸손하게"
+      "jugni": {
+        "nu jugni": "겸손",
+        "la jugni": "겸손한",
+        "na jugni": "겸손하게"
       }
     },
-    "muhnu": {
+    "libce": {
       "뜻": "경고하다",
-      "muhnu": {
-        "nu muhnu": "경고",
-        "la muhnu": "경고한",
-        "na muhnu": "경고하게"
+      "libce": {
+        "nu libce": "경고",
+        "la libce": "경고한",
+        "na libce": "경고하게"
       }
     },
-    "luhmi": {
+    "susju": {
       "뜻": "경쟁하다",
-      "luhmi": {
-        "nu luhmi": "경쟁",
-        "la luhmi": "경쟁한",
-        "na luhmi": "경쟁하게"
+      "susju": {
+        "nu susju": "경쟁",
+        "la susju": "경쟁한",
+        "na susju": "경쟁하게"
       }
     },
-    "lamsi": {
+    "himsi": {
       "뜻": "경험하다",
-      "lamsi": {
-        "nu lamsi": "경험",
-        "la lamsi": "경험한",
-        "na lamsi": "경험하게"
+      "himsi": {
+        "nu himsi": "경험",
+        "la himsi": "경험한",
+        "na himsi": "경험하게"
       }
     },
-    "huhnu": {
+    "cumru": {
       "뜻": "계산하다",
-      "huhnu": {
-        "nu huhnu": "계산",
-        "la huhnu": "계산한",
-        "na huhnu": "계산하게"
+      "cumru": {
+        "nu cumru": "계산",
+        "la cumru": "계산한",
+        "na cumru": "계산하게"
       }
     },
-    "mulna": {
+    "sabmu": {
       "뜻": "계속하다",
-      "mulna": {
-        "nu mulna": "계속",
-        "la mulna": "계속한",
-        "na mulna": "계속하게"
+      "sabmu": {
+        "nu sabmu": "계속",
+        "la sabmu": "계속한",
+        "na sabmu": "계속하게"
       }
     },
-    "sacla": {
+    "cisci": {
       "뜻": "계획하다",
-      "sacla": {
-        "nu sacla": "계획",
-        "la sacla": "계획한",
-        "na sacla": "계획하게"
+      "cisci": {
+        "nu cisci": "계획",
+        "la cisci": "계획한",
+        "na cisci": "계획하게"
       }
     },
-    "mucla": {
+    "hurci": {
       "뜻": "고귀하다",
-      "mucla": {
-        "nu mucla": "고귀",
-        "la mucla": "고귀한",
-        "na mucla": "고귀하게"
+      "hurci": {
+        "nu hurci": "고귀",
+        "la hurci": "고귀한",
+        "na hurci": "고귀하게"
       }
     },
-    "mamha": {
+    "limni": {
       "뜻": "고소하다",
-      "mamha": {
-        "nu mamha": "고소",
-        "la mamha": "고소한",
-        "na mamha": "고소하게"
+      "limni": {
+        "nu limni": "고소",
+        "la limni": "고소한",
+        "na limni": "고소하게"
       }
     },
-    "nuhmi": {
+    "sebre": {
       "뜻": "고용하다",
-      "nuhmi": {
-        "nu nuhmi": "고용",
-        "la nuhmi": "고용한",
-        "na nuhmi": "고용하게"
+      "sebre": {
+        "nu sebre": "고용",
+        "la sebre": "고용한",
+        "na sebre": "고용하게"
       }
     },
-    "hunli": {
+    "tagje": {
       "뜻": "고정하다",
-      "hunli": {
-        "nu hunli": "고정",
-        "la hunli": "고정한",
-        "na hunli": "고정하게"
+      "tagje": {
+        "nu tagje": "고정",
+        "la tagje": "고정한",
+        "na tagje": "고정하게"
       }
     },
-    "lahlu": {
+    "cugju": {
       "뜻": "고집하다",
-      "lahlu": {
-        "nu lahlu": "고집",
-        "la lahlu": "고집한",
-        "na lahlu": "고집하게"
+      "cugju": {
+        "nu cugju": "고집",
+        "la cugju": "고집한",
+        "na cugju": "고집하게"
       }
     },
-    "susli": {
+    "mughe": {
       "뜻": "공감하다",
-      "susli": {
-        "nu susli": "공감",
-        "la susli": "공감한",
-        "na susli": "공감하게"
+      "mughe": {
+        "nu mughe": "공감",
+        "la mughe": "공감한",
+        "na mughe": "공감하게"
       }
     },
-    "suhnu": {
+    "gehji": {
       "뜻": "공격하다",
-      "suhnu": {
-        "nu suhnu": "공격",
-        "la suhnu": "공격한",
-        "na suhnu": "공격하게"
+      "gehji": {
+        "nu gehji": "공격",
+        "la gehji": "공격한",
+        "na gehji": "공격하게"
       }
     },
-    "nahli": {
+    "nubca": {
       "뜻": "공급하다",
-      "nahli": {
-        "nu nahli": "공급",
-        "la nahli": "공급한",
-        "na nahli": "공급하게"
+      "nubca": {
+        "nu nubca": "공급",
+        "la nubca": "공급한",
+        "na nubca": "공급하게"
       }
     },
-    "sahsu": {
+    "resgi": {
       "뜻": "공부하다",
-      "sahsu": {
-        "nu sahsu": "공부",
-        "la sahsu": "공부한",
-        "na sahsu": "공부하게"
+      "resgi": {
+        "nu resgi": "공부",
+        "la resgi": "공부한",
+        "na resgi": "공부하게"
       }
     },
-    "silma": {
+    "lurna": {
       "뜻": "공손하다",
-      "silma": {
-        "nu silma": "공손",
-        "la silma": "공손한",
-        "na silma": "공손하게"
+      "lurna": {
+        "nu lurna": "공손",
+        "la lurna": "공손한",
+        "na lurna": "공손하게"
       }
     },
-    "lamsa": {
+    "melca": {
       "뜻": "공평하다",
-      "lamsa": {
-        "nu lamsa": "공평",
-        "la lamsa": "공평한",
-        "na lamsa": "공평하게"
+      "melca": {
+        "nu melca": "공평",
+        "la melca": "공평한",
+        "na melca": "공평하게"
       }
     },
-    "hacli": {
+    "gilri": {
       "뜻": "과장하다",
-      "hacli": {
-        "nu hacli": "과장",
-        "la hacli": "과장한",
-        "na hacli": "과장하게"
+      "gilri": {
+        "nu gilri": "과장",
+        "la gilri": "과장한",
+        "na gilri": "과장하게"
       }
     },
-    "nalni": {
+    "habru": {
       "뜻": "관대하다",
-      "nalni": {
-        "nu nalni": "관대",
-        "la nalni": "관대한",
-        "na nalni": "관대하게"
+      "habru": {
+        "nu habru": "관대",
+        "la habru": "관대한",
+        "na habru": "관대하게"
       }
     },
-    "sunmi": {
+    "temci": {
       "뜻": "관여하다",
-      "sunmi": {
-        "nu sunmi": "관여",
-        "la sunmi": "관여한",
-        "na sunmi": "관여하게"
+      "temci": {
+        "nu temci": "관여",
+        "la temci": "관여한",
+        "na temci": "관여하게"
       }
     },
-    "muhmi": {
+    "sibsi": {
       "뜻": "관찰하다",
-      "muhmi": {
-        "nu muhmi": "관찰",
-        "la muhmi": "관찰한",
-        "na muhmi": "관찰하게"
+      "sibsi": {
+        "nu sibsi": "관찰",
+        "la sibsi": "관찰한",
+        "na sibsi": "관찰하게"
       }
     },
-    "lisla": {
+    "tacji": {
       "뜻": "광고하다",
-      "lisla": {
-        "nu lisla": "광고",
-        "la lisla": "광고한",
-        "na lisla": "광고하게"
+      "tacji": {
+        "nu tacji": "광고",
+        "la tacji": "광고한",
+        "na tacji": "광고하게"
       }
     },
-    "lasmu": {
+    "cunti": {
       "뜻": "광범위하다",
-      "lasmu": {
-        "nu lasmu": "광범위",
-        "la lasmu": "광범위한",
-        "na lasmu": "광범위하게"
+      "cunti": {
+        "nu cunti": "광범위",
+        "la cunti": "광범위한",
+        "na cunti": "광범위하게"
       }
     },
-    "munla": {
+    "lujsa": {
       "뜻": "교류하다",
-      "munla": {
-        "nu munla": "교류",
-        "la munla": "교류한",
-        "na munla": "교류하게"
+      "lujsa": {
+        "nu lujsa": "교류",
+        "la lujsa": "교류한",
+        "na lujsa": "교류하게"
       }
     },
-    "huini": {
+    "migma": {
       "뜻": "교정하다",
-      "huini": {
-        "nu huini": "교정",
-        "la huini": "교정한",
-        "na huini": "교정하게"
+      "migma": {
+        "nu migma": "교정",
+        "la migma": "교정한",
+        "na migma": "교정하게"
       }
     },
-    "lasna": {
+    "mibre": {
       "뜻": "교체하다",
-      "lasna": {
-        "nu lasna": "교체",
-        "la lasna": "교체한",
-        "na lasna": "교체하게"
+      "mibre": {
+        "nu mibre": "교체",
+        "la mibre": "교체한",
+        "na mibre": "교체하게"
       }
     },
-    "lucli": {
+    "bucna": {
       "뜻": "교환하다",
-      "lucli": {
-        "nu lucli": "교환",
-        "la lucli": "교환한",
-        "na lucli": "교환하게"
+      "bucna": {
+        "nu bucna": "교환",
+        "la bucna": "교환한",
+        "na bucna": "교환하게"
       }
     },
-    "susla": {
+    "lebse": {
       "뜻": "구매하다",
-      "susla": {
-        "nu susla": "구매",
-        "la susla": "구매한",
-        "na susla": "구매하게"
+      "lebse": {
+        "nu lebse": "구매",
+        "la lebse": "구매한",
+        "na lebse": "구매하게"
       }
     },
-    "mahna": {
+    "selja": {
       "뜻": "구성하다",
-      "mahna": {
-        "nu mahna": "구성",
-        "la mahna": "구성한",
-        "na mahna": "구성하게"
+      "selja": {
+        "nu selja": "구성",
+        "la selja": "구성한",
+        "na selja": "구성하게"
       }
     },
-    "sinlu": {
+    "raghe": {
       "뜻": "구조하다",
-      "sinlu": {
-        "nu sinlu": "구조",
-        "la sinlu": "구조한",
-        "na sinlu": "구조하게"
+      "raghe": {
+        "nu raghe": "구조",
+        "la raghe": "구조한",
+        "na raghe": "구조하게"
       }
     },
-    "sumhi": {
+    "lelhu": {
       "뜻": "귀중하다",
-      "sumhi": {
-        "nu sumhi": "귀중",
-        "la sumhi": "귀중한",
-        "na sumhi": "귀중하게"
+      "lelhu": {
+        "nu lelhu": "귀중",
+        "la lelhu": "귀중한",
+        "na lelhu": "귀중하게"
       }
     },
-    "hihmu": {
+    "tucti": {
       "뜻": "극심하다",
-      "hihmu": {
-        "nu hihmu": "극심",
-        "la hihmu": "극심한",
-        "na hihmu": "극심하게"
+      "tucti": {
+        "nu tucti": "극심",
+        "la tucti": "극심한",
+        "na tucti": "극심하게"
       }
     },
-    "muiha": {
+    "culgu": {
       "뜻": "근거하다",
-      "muiha": {
-        "nu muiha": "근거",
-        "la muiha": "근거한",
-        "na muiha": "근거하게"
+      "culgu": {
+        "nu culgu": "근거",
+        "la culgu": "근거한",
+        "na culgu": "근거하게"
       }
     },
-    "humlu": {
+    "necri": {
       "뜻": "금지하다",
-      "humlu": {
-        "nu humlu": "금지",
-        "la humlu": "금지한",
-        "na humlu": "금지하게"
+      "necri": {
+        "nu necri": "금지",
+        "la necri": "금지한",
+        "na necri": "금지하게"
       }
     },
-    "hunsa": {
+    "tubgi": {
       "뜻": "급여하다",
-      "hunsa": {
-        "nu hunsa": "급여",
-        "la hunsa": "급여한",
-        "na hunsa": "급여하게"
+      "tubgi": {
+        "nu tubgi": "급여",
+        "la tubgi": "급여한",
+        "na tubgi": "급여하게"
       }
     },
-    "nalmu": {
+    "rubgi": {
       "뜻": "기념하다",
-      "nalmu": {
-        "nu nalmu": "기념",
-        "la nalmu": "기념한",
-        "na nalmu": "기념하게",
-        "li nalmu": "기념품"
+      "rubgi": {
+        "nu rubgi": "기념",
+        "la rubgi": "기념한",
+        "na rubgi": "기념하게",
+        "li rubgi": "기념품"
       }
     },
-    "haslu": {
+    "mible": {
       "뜻": "기능하다",
-      "haslu": {
-        "nu haslu": "기능",
-        "la haslu": "기능한",
-        "na haslu": "기능하게"
+      "mible": {
+        "nu mible": "기능",
+        "la mible": "기능한",
+        "na mible": "기능하게"
       }
     },
-    "luhna": {
+    "jurja": {
       "뜻": "기도하다",
-      "luhna": {
-        "nu luhna": "기도",
-        "la luhna": "기도한",
-        "na luhna": "기도하게"
+      "jurja": {
+        "nu jurja": "기도",
+        "la jurja": "기도한",
+        "na jurja": "기도하게"
       }
     },
-    "lilmu": {
+    "nihci": {
       "뜻": "기록하다",
-      "lilmu": {
-        "nu lilmu": "기록",
-        "la lilmu": "기록한",
-        "na lilmu": "기록하게"
+      "nihci": {
+        "nu nihci": "기록",
+        "la nihci": "기록한",
+        "na nihci": "기록하게"
       }
     },
-    "lumsi": {
+    "mijtu": {
       "뜻": "기립하다(일어서다)",
-      "lumsi": {
-        "nu lumsi": "기립",
-        "li lumsi": "받침대/스탠드",
-        "na lumsi": "서게",
-        "la lumsi": "선"
+      "mijtu": {
+        "nu mijtu": "기립",
+        "li mijtu": "받침대/스탠드",
+        "na mijtu": "서게",
+        "la mijtu": "선"
       }
     },
-    "macha": {
+    "calje": {
       "뜻": "기여하다",
-      "macha": {
-        "nu macha": "기여",
-        "la macha": "기여한",
-        "na macha": "기여하게"
+      "calje": {
+        "nu calje": "기여",
+        "la calje": "기여한",
+        "na calje": "기여하게"
       }
     },
-    "silna": {
+    "gesha": {
       "뜻": "기억하다",
-      "silna": {
-        "nu silna": "기억",
-        "la silna": "기억한",
-        "na macha": "기억하게"
+      "gesha": {
+        "nu gesha": "기억",
+        "la gesha": "기억한",
+        "na gesha": "기억하게"
       }
     },
-    "sasli": {
+    "jebhu": {
       "뜻": "기원하다",
-      "sasli": {
-        "nu sasli": "기원",
-        "la sasli": "기원한",
-        "na sasli": "기원하게"
+      "jebhu": {
+        "nu jebhu": "기원",
+        "la jebhu": "기원한",
+        "na jebhu": "기원하게"
       }
     },
-    "mamsu": {
+    "higja": {
       "뜻": "기절하다",
-      "mamsu": {
-        "nu mamsu": "기절",
-        "la mamsu": "기절한",
-        "na mamsu": "기절하게"
+      "higja": {
+        "nu higja": "기절",
+        "la higja": "기절한",
+        "na higja": "기절하게"
       }
     },
-    "nuihu": {
+    "suhba": {
       "뜻": "기증하다",
-      "nuihu": {
-        "nu nuihu": "기증",
-        "la nuihu": "기증한",
-        "na nuihu": "기증하게"
+      "suhba": {
+        "nu suhba": "기증",
+        "la suhba": "기증한",
+        "na suhba": "기증하게"
       }
     },
-    "mamna": {
+    "jersu": {
       "뜻": "긴급하다",
-      "mamna": {
-        "nu mamna": "긴급",
-        "la mamna": "긴급한",
-        "na mamna": "긴급하게"
+      "jersu": {
+        "nu jersu": "긴급",
+        "la jersu": "긴급한",
+        "na jersu": "긴급하게"
       }
     },
-    "humnu": {
+    "jubga": {
       "뜻": "꾸준하다",
-      "humnu": {
-        "nu humnu": "꾸준",
-        "la humnu": "꾸준한",
-        "na humnu": "꾸준하게"
+      "jubga": {
+        "nu jubga": "꾸준",
+        "la jubga": "꾸준한",
+        "na jubga": "꾸준하게"
       }
     },
-    "lahnu": {
+    "jihla": {
       "뜻": "끔찍하다",
-      "lahnu": {
-        "nu lahnu": "끔찍",
-        "la lahnu": "끔찍한",
-        "na lahnu": "끔찍하게"
+      "jihla": {
+        "nu jihla": "끔찍",
+        "la jihla": "끔찍한",
+        "na jihla": "끔찍하게"
       }
     },
-    "lilhi": {
+    "sejme": {
       "뜻": "낙하하다",
-      "lilhi": {
-        "nu lilhi": "낙하/추락",
-        "mi lilhi": "낙하자",
-        "li lilhi": "낙하산",
-        "mu lilhi": "낙하지점",
-        "na lilhi": "떨어지게",
-        "la lilhi": "떨어진"
+      "sejme": {
+        "nu sejme": "낙하/추락",
+        "mi sejme": "낙하자",
+        "li sejme": "낙하산",
+        "mu sejme": "낙하지점",
+        "na sejme": "떨어지게",
+        "la sejme": "떨어진"
       }
     },
-    "sihmu": {
+    "hasbe": {
       "뜻": "난폭하다",
-      "sihmu": {
-        "nu sihmu": "난폭",
-        "la sihmu": "난폭한",
-        "na sihmu": "난폭하게"
+      "hasbe": {
+        "nu hasbe": "난폭",
+        "la hasbe": "난폭한",
+        "na hasbe": "난폭하게"
       }
     },
-    "ninsu": {
+    "tutmu": {
       "뜻": "날다",
-      "ninsu": {
-        "nu ninsu": "비행/항공",
-        "mi ninsu": "비행기 조종자(=파일럿)",
-        "li ninsu": "비행기",
-        "mu ninsu": "활주로/공항",
-        "na ninsu": "비행하게",
-        "la ninsu": "비행한"
+      "tutmu": {
+        "nu tutmu": "비행/항공",
+        "mi tutmu": "비행기 조종자(=파일럿)",
+        "li tutmu": "비행기",
+        "mu tutmu": "활주로/공항",
+        "na tutmu": "비행하게",
+        "la tutmu": "비행한"
       }
     },
-    "nulsa": {
+    "nucsu": {
       "뜻": "낮다",
-      "nulsa": {
-        "na nulsa": "낮게",
-        "la nulsa": "낮은"
+      "nucsu": {
+        "na nucsu": "낮게",
+        "la nucsu": "낮은"
       }
     },
-    "lilsa": {
+    "gecnu": {
       "뜻": "냉정하다",
-      "lilsa": {
-        "nu lilsa": "냉정",
-        "la lilsa": "냉정한",
-        "na lilsa": "냉정하게"
-      }
-    },
-    "nasma": {
-      "뜻": "노력하다",
-      "nasma": {
-        "nu nasma": "노력",
-        "la nasma": "노력한",
-        "na nasma": "노력하게"
-      }
-    },
-    "numna": {
-      "뜻": "노래하다",
-      "numna": {
-        "nu numna": "노래",
-        "la numna": "노래한",
-        "na numna": "노래하게"
-      }
-    },
-    "nuisi": {
-      "뜻": "녹이다",
-      "nuisi": {
-        "la nuisi": "녹인",
-        "na nuisi": "녹이게"
-      }
-    },
-    "namhi": {
-      "뜻": "농사하다",
-      "namhi": {
-        "nu namhi": "농사",
-        "la namhi": "농사한",
-        "na namhi": "농사하게",
-        "li namhi": "농사 도구",
-        "li luonam": "농산물",
-        "li mahnam ": "농약",
-        "mu namhi": "농장"
-      }
-    },
-    "mamsi": {
-      "뜻": "높다",
-      "mamsi": {
-        "na mamsi": "높게",
-        "la mamsi": "높은"
-      }
-    },
-    "muihu": {
-      "뜻": "느끼다",
-      "muihu": {
-        "la muihu": "느낀",
-        "na muihu": "느끼게"
-      }
-    },
-    "suiha": {
-      "뜻": "느리다",
-      "suiha": {
-        "na suiha": "느리게",
-        "la suiha": "느린"
-      }
-    },
-    "linhi": {
-      "뜻": "다양하다",
-      "linhi": {
-        "nu linhi": "다양",
-        "la linhi": "다양한",
-        "na linhi": "다양하게"
-      }
-    },
-    "hunmu": {
-      "뜻": "단단하다",
-      "hunmu": {
-        "nu hunmu": "단단",
-        "la hunmu": "단단한",
-        "na hunmu": "단단하게"
-      }
-    },
-    "lulma": {
-      "뜻": "달성하다",
-      "lulma": {
-        "nu lulma": "달성",
-        "la lulma": "달성한",
-        "na lulma": "달성하게"
-      }
-    },
-    "samsi": {
-      "뜻": "당황하다",
-      "samsi": {
-        "nu samsi": "당황",
-        "la samsi": "당황한",
-        "na samsi": "당황하게"
-      }
-    },
-    "huhsu": {
-      "뜻": "대기하다",
-      "huhsu": {
-        "nu huhsu": "대기/기다림",
-        "mi huhsu": "대기자",
-        "mu huhsu": "대기실/정류장",
-        "na huhsu": "대기하게",
-        "la huhsu": "대기한"
-      }
-    },
-    "hacsa": {
-      "뜻": "대단하다",
-      "hacsa": {
-        "nu hacsa": "대단",
-        "la hacsa": "대단한",
-        "na hacsa": "대단하게"
-      }
-    },
-    "humsi": {
-      "뜻": "대답하다",
-      "humsi": {
-        "nu humsi": "대답",
-        "la humsi": "대답한",
-        "na humsi": "대답하게"
-      }
-    },
-    "hihma": {
-      "뜻": "대립하다",
-      "hihma": {
-        "nu hihma": "대립",
-        "la hihma": "대립한",
-        "na hihma": "대립하게"
-      }
-    },
-    "sasna": {
-      "뜻": "대면하다",
-      "sasna": {
-        "nu sasna": "대면/미팅",
-        "mi sasna": "참석자",
-        "mu sasna": "회의실",
-        "na sasna": "대면하게",
-        "la sasna": "대면한"
-      }
-    },
-    "nunmu": {
-      "뜻": "대접하다",
-      "nunmu": {
-        "nu nunmu": "대접",
-        "la nunmu": "대접한",
-        "na nunmu": "대접하게"
-      }
-    },
-    "milna": {
-      "뜻": "대체하다",
-      "milna": {
-        "nu milna": "대체",
-        "la milna": "대체한",
-        "na milna": "대체하게",
-        "li milna": "대용품"
-      }
-    },
-    "nilsu": {
-      "뜻": "대출하다",
-      "nilsu": {
-        "nu nilsu": "대출",
-        "la nilsu": "대출한",
-        "na nilsu": "대출하게"
-      }
-    },
-    "sacmi": {
-      "뜻": "대표하다",
-      "sacmi": {
-        "nu sacmi": "대표",
-        "la sacmi": "대표한",
-        "na sacmi": "대표하게"
-      }
-    },
-    "halmi": {
-      "뜻": "도발하다",
-      "halmi": {
-        "nu halmi": "도발",
-        "la halmi": "도발한",
-        "na halmi": "도발하게"
-      }
-    },
-    "sumli": {
-      "뜻": "도약하다",
-      "sumli": {
-        "nu sumli": "도약/점프",
-        "mi sumli": "도약자",
-        "li sumli": "트램펄린",
-        "na sumli": "뛰게",
-        "la sumli": "뛴"
-      }
-    },
-    "salsa": {
-      "뜻": "도전하다",
-      "salsa": {
-        "nu salsa": "도전",
-        "la salsa": "도전한",
-        "na salsa": "도전하게",
-        "mi salsa": "도전자"
-      }
-    },
-    "masmi": {
-      "뜻": "도착하다",
-      "masmi": {
-        "nu masmi": "도착",
-        "la masmi": "도착한",
-        "na masmi": "도착하게"
-      }
-    },
-    "lumla": {
-      "뜻": "독립하다",
-      "lumla": {
-        "nu lumla": "독립",
-        "la lumla": "독립한",
-        "na lumla": "독립하게"
-      }
-    },
-    "hinhi": {
-      "뜻": "돕다",
-      "hinhi": {
-        "nu hinhi": "조력/즈원",
-        "mi hinhi": "조력자",
-        "li hinhi": "보조기구",
-        "na hinhi": "도와주게",
-        "la hinhi": "도와준"
-      }
-    },
-    "halhi": {
-      "뜻": "동의하다",
-      "halhi": {
-        "nu halhi": "동의",
-        "la halhi": "동의한",
-        "na halhi": "동의하게"
-      }
-    },
-    "sahna": {
-      "뜻": "동일하다",
-      "sahna": {
-        "nu sahna": "동일",
-        "la sahna": "동일한",
-        "na sahna": "동일하게"
-      }
-    },
-    "mumli": {
-      "뜻": "듣다",
-      "mumli": {
-        "nu mumli": "청취",
-        "mi mumli": "청취자",
-        "li mumli": "이어폰",
-        "na mumli": "듣게",
-        "la mumli": "들은"
-      }
-    },
-    "silnu": {
-      "뜻": "등록하다",
-      "silnu": {
-        "nu silnu": "등록",
-        "la silnu": "등록한",
-        "na silnu": "등록하게"
-      }
-    },
-    "hulnu": {
-      "뜻": "딱딱하다",
-      "hulnu": {
-        "nu hulnu": "딱딱",
-        "la hulnu": "딱딱한",
-        "na hulnu": "딱딱하게"
-      }
-    },
-    "susnu": {
-      "뜻": "때리다",
-      "susnu": {
-        "la susnu": "때린",
-        "na susnu": "때리게"
-      }
-    },
-    "lalhi": {
-      "뜻": "똑똑하다",
-      "lalhi": {
-        "la lalhi": "똑똑한",
-        "na lalhi": "똑똑하게"
-      }
-    },
-    "nulha": {
-      "뜻": "마시다",
-      "nulha": {
-        "nu nulha": "음용",
-        "mi nulha": "음용자",
-        "li nulha": "컵/음료수",
-        "mu nulha": "급수대",
-        "na nulha": "마시게",
-        "la nulha": "마신"
-      }
-    },
-    "nisma": {
-      "뜻": "만족하다",
-      "nisma": {
-        "nu nisma": "만족",
-        "la nisma": "만족한",
-        "na nisma": "만족하게"
-      }
-    },
-    "hilsu": {
-      "뜻": "말하다",
-      "hilsu": {
-        "nu hilsu": "언어/말하기",
-        "mi hilsu": "화자",
-        "li hilsu": "마이크",
-        "na hilsu": "말하게",
-        "la hilsu": "말한"
-      }
-    },
-    "sasni": {
-      "뜻": "매끈하다",
-      "sasni": {
-        "nu sasni": "매끈",
-        "la sasni": "매끈한",
-        "na sasni": "매끈하게"
-      }
-    },
-    "musni": {
-      "뜻": "매장하다",
-      "musni": {
-        "nu musni": "매장",
-        "la musni": "매장한",
-        "na musni": "매장하게"
-      }
-    },
-    "muisi": {
-      "뜻": "맹세하다",
-      "muisi": {
-        "nu muisi": "맹세",
-        "la muisi": "맹세한",
-        "na muisi": "맹세하게"
-      }
-    },
-    "lasnu": {
-      "뜻": "멸종하다",
-      "lasnu": {
-        "nu lasnu": "멸종",
-        "la lasnu": "멸종한",
-        "na lasnu": "멸종하게"
-      }
-    },
-    "nilsa": {
-      "뜻": "명령하다",
-      "nilsa": {
-        "nu nilsa": "명령",
-        "la nilsa": "명령한",
-        "na nilsa": "명령하게"
-      }
-    },
-    "namli": {
-      "뜻": "명백하다",
-      "namli": {
-        "nu namli": "명백",
-        "la namli": "명백한",
-        "na namli": "명백하게"
-      }
-    },
-    "hasna": {
-      "뜻": "모방하다",
-      "hasna": {
-        "nu hasna": "모방/모조",
-        "mi hasna": "모방자",
-        "li hasna": "모조품",
-        "na hasna": "모방하게",
-        "la hasna": "모방한"
-      }
-    },
-    "hunla": {
-      "뜻": "모집하다",
-      "hunla": {
-        "nu hunla": "모집",
-        "la hunla": "모집한",
-        "na hunla": "모집하게"
-      }
-    },
-    "suisa": {
-      "뜻": "모호하다",
-      "suisa": {
-        "nu suisa": "모호",
-        "la suisa": "모호한",
-        "na suisa": "모호하게"
-      }
-    },
-    "linsa": {
-      "뜻": "목격하다",
-      "linsa": {
-        "nu linsa": "목격",
-        "la linsa": "목격한",
-        "na linsa": "목격하게"
-      }
-    },
-    "muhsu": {
-      "뜻": "목표하다",
-      "muhsu": {
-        "nu muhsu": "목표",
-        "la muhsu": "목표한",
-        "na muhsu": "목표하게"
-      }
-    },
-    "mihni": {
-      "뜻": "묘사하다",
-      "mihni": {
-        "nu mihni": "묘사",
-        "la mihni": "묘사한",
-        "na mihni": "묘사하게"
-      }
-    },
-    "lunmi": {
-      "뜻": "무관심하다",
-      "lunmi": {
-        "nu lunmi": "무관심",
-        "la lunmi": "무관심한",
-        "na lunmi": "무관심하게"
-      }
-    },
-    "hamhi": {
-      "뜻": "무력하다",
-      "hamhi": {
-        "nu hamhi": "무력",
-        "la hamhi": "무력한",
-        "na hamhi": "무력하게"
-      }
-    },
-    "hunhi": {
-      "뜻": "무섭다",
-      "hunhi": {
-        "nu hunhi": "공포",
-        "la hunhi": "무섭운",
-        "na hunhi": "무섭게"
-      }
-    },
-    "lumli": {
-      "뜻": "무시하다",
-      "lumli": {
-        "nu lumli": "무시",
-        "la lumli": "무시한",
-        "na lumli": "무시하게"
-      }
-    },
-    "hulsu": {
-      "뜻": "묵살하다",
-      "hulsu": {
-        "nu hulsu": "묵살",
-        "la hulsu": "묵살한",
-        "na hulsu": "묵살하게"
-      }
-    },
-    "nunlu": {
-      "뜻": "문의하다",
-      "nunlu": {
-        "nu nunlu": "문의",
-        "la nunlu": "문의한",
-        "na nunlu": "문의하게"
-      }
-    },
-    "nuili": {
-      "뜻": "미묘하다",
-      "nuili": {
-        "nu nuili": "미묘",
-        "la nuili": "미묘한",
-        "na nuili": "미묘하게"
-      }
-    },
-    "sunha": {
-      "뜻": "미소 짓다",
-      "sunha": {
-        "nu sunha": "미소",
-        "la sunha": "미소 짓는",
-        "na sunha": "미소 짓게"
-      }
-    },
-    "muhli": {
-      "뜻": "반대하다",
-      "muhli": {
-        "nu muhli": "반대",
-        "la muhli": "반대한",
-        "na muhli": "반대하게",
-        "mi muhli": "반대자"
-      }
-    },
-    "sahli": {
-      "뜻": "반복하다",
-      "sahli": {
-        "nu sahli": "반복",
-        "la sahli": "반복한",
-        "na sahli": "반복하게"
-      }
-    },
-    "hamli": {
-      "뜻": "반사하다",
-      "hamli": {
-        "nu hamli": "반사",
-        "la hamli": "반사한",
-        "na hamli": "반사하게"
-      }
-    },
-    "halni": {
-      "뜻": "반응하다",
-      "halni": {
-        "na halni": "반응",
-        "la halni": "반응한"
-      }
-    },
-    "mumnu": {
-      "뜻": "발굴하다",
-      "mumnu": {
-        "nu mumnu": "발굴",
-        "la mumnu": "발굴한",
-        "na mumnu": "발굴하게"
-      }
-    },
-    "ninhu": {
-      "뜻": "발명하다",
-      "ninhu": {
-        "nu ninhu": "발명",
-        "la ninhu": "발명한",
-        "na ninhu": "발명하게"
-      }
-    },
-    "sihla": {
-      "뜻": "발생하다",
-      "sihla": {
-        "nu sihla": "발생",
-        "la sihla": "발생한",
-        "na sihla": "발생하게"
-      }
-    },
-    "hinmi": {
-      "뜻": "발전하다",
-      "hinmi": {
-        "nu hinmi": "발전/발달",
-        "na hinmi": "발전하게",
-        "la hinmi": "발전한"
-      }
-    },
-    "huasa": {
-      "뜻": "방송하다",
-      "huasa": {
-        "nu huasa": "방송",
-        "la huasa": "방송한",
-        "na huasa": "방송하게",
-        "mi huasa": "방송인"
-      }
-    },
-    "sacli": {
-      "뜻": "방어하다",
-      "sacli": {
-        "nu sacli": "방어",
-        "la sacli": "방어한",
-        "na sacli": "방어하게"
-      }
-    },
-    "hamla": {
-      "뜻": "방출하다",
-      "hamla": {
-        "nu hamla": "방출",
-        "la hamla": "방출한",
-        "na hamla": "방출하게"
-      }
-    },
-    "hahmu": {
-      "뜻": "방해하다",
-      "hahmu": {
-        "nu hahmu": "방해",
-        "la hahmu": "방해한",
-        "na hahmu": "방해하게"
-      }
-    },
-    "salma": {
-      "뜻": "배달하다",
-      "salma": {
-        "nu salma": "배달",
-        "la salma": "배달한",
-        "na salma": "배달하게"
-      }
-    },
-    "lalmi": {
-      "뜻": "배열하다",
-      "lalmi": {
-        "nu lalmi": "배열",
-        "la lalmi": "배열한",
-        "na lalmi": "배열하게"
-      }
-    },
-    "hisna": {
-      "뜻": "배출하다",
-      "hisna": {
-        "nu hisna": "배출",
-        "la hisna": "배출한",
-        "na hisna": "배출하게"
-      }
-    },
-    "mulsu": {
-      "뜻": "배회하다",
-      "mulsu": {
-        "nu mulsu": "배회",
-        "la mulsu": "배회한",
-        "na mulsu": "배회하게"
-      }
-    },
-    "hisli": {
-      "뜻": "번역하다",
-      "hisli": {
-        "nu hisli": "번역",
-        "la hisli": "번역한",
-        "na hisli": "번역하게"
-      }
-    },
-    "namhu": {
-      "뜻": "번영하다",
-      "namhu": {
-        "nu namhu": "번영",
-        "la namhu": "번영한",
-        "na namhu": "번영하게"
-      }
-    },
-    "numni": {
-      "뜻": "변화하다",
-      "numni": {
-        "nu numni": "변화",
-        "la numni": "변화한",
-        "na numni": "변화하게"
-      }
-    },
-    "milhi": {
-      "뜻": "보살피다",
-      "milhi": {
-        "nu milhi": "보살핌/복지",
-        "mi milhi": "보호자",
-        "a milhi": "피보호자",
-        "mu milhi": "보호소",
-        "na milhi": "보호하게",
-        "la milhi": "보호한"
-      }
-    },
-    "mihna": {
-      "뜻": "보상하다",
-      "mihna": {
-        "nu mihna": "보상",
-        "la mihna": "보상한",
-        "na mihna": "보상하게"
-      }
-    },
-    "luhsa": {
-      "뜻": "보장하다",
-      "luhsa": {
-        "nu luhsa": "보장",
-        "la luhsa": "보장한",
-        "na luhsa": "보장하게"
-      }
-    },
-    "sihli": {
-      "뜻": "보조하다",
-      "sihli": {
-        "nu sihli": "보조",
-        "la sihli": "보조한",
-        "na sihli": "보조하게"
-      }
-    },
-    "salmu": {
-      "뜻": "보존하다",
-      "salmu": {
-        "nu salmu": "보존",
-        "la salmu": "보존한",
-        "na salmu": "보존하게"
-      }
-    },
-    "lisni": {
-      "뜻": "보증하다",
-      "lisni": {
-        "nu lisni": "보증",
-        "la lisni": "보증한",
-        "na lisni": "보증하게"
-      }
-    },
-    "lumnu": {
-      "뜻": "보충하다",
-      "lumnu": {
-        "nu lumnu": "보충",
-        "la lumnu": "보충한",
-        "na lumnu": "보충하게"
-      }
-    },
-    "luhli": {
-      "뜻": "복용하다",
-      "luhli": {
-        "nu luhli": "복용",
-        "la luhli": "복용한",
-        "na luhli": "복용하게"
-      }
-    },
-    "namsi": {
-      "뜻": "복원하다",
-      "namsi": {
-        "nu namsi": "복원",
-        "la namsi": "복원한",
-        "na namsi": "복원하게"
-      }
-    },
-    "mahsi": {
-      "뜻": "복잡하다",
-      "mahsi": {
-        "nu mahsi": "복잡",
-        "la mahsi": "복잡한",
-        "na mahsi": "복잡하게"
-      }
-    },
-    "nusnu": {
-      "뜻": "복종하다",
-      "nusnu": {
-        "nu nusnu": "복종",
-        "la nusnu": "복종한",
-        "na nusnu": "복종하게"
-      }
-    },
-    "sinmu": {
-      "뜻": "부담하다",
-      "sinmu": {
-        "nu sinmu": "부담",
-        "la sinmu": "부담한",
-        "na sinmu": "부담하게"
-      }
-    },
-    "musmu": {
-      "뜻": "부정하다",
-      "musmu": {
-        "nu musmu": "부정",
-        "la musmu": "부정한",
-        "na musmu": "부정하게"
-      }
-    },
-    "nilha": {
-      "뜻": "부족하다",
-      "nilha": {
-        "nu nilha": "부족",
-        "la nilha": "부족한",
-        "na nilha": "부족하게"
-      }
-    },
-    "sulma": {
-      "뜻": "부화하다",
-      "sulma": {
-        "nu sulma": "부화",
-        "la sulma": "부화한",
-        "na sulma": "부화하게"
-      }
-    },
-    "sihsu": {
-      "뜻": "분노하다",
-      "sihsu": {
-        "nu sihsu": "분노",
-        "la sihsu": "분노한",
-        "na sihsu": "분노하게"
-      }
-    },
-    "mismi": {
-      "뜻": "분류하다",
-      "mismi": {
-        "nu mismi": "분류",
-        "la mismi": "분류한",
-        "na mismi": "분류하게"
-      }
-    },
-    "musnu": {
-      "뜻": "분리하다",
-      "musnu": {
-        "nu musnu": "분리",
-        "la musnu": "분리한",
-        "na musnu": "분리하게"
-      }
-    },
-    "lulha": {
-      "뜻": "분명하다",
-      "lulha": {
-        "nu lulha": "분명",
-        "la lulha": "분명한",
-        "na lulha": "분명하게"
-      }
-    },
-    "samhi": {
-      "뜻": "분배하다",
-      "samhi": {
-        "nu samhi": "분배",
-        "la samhi": "분배한",
-        "na samhi": "분배하게"
-      }
-    },
-    "milnu": {
-      "뜻": "분석하다",
-      "milnu": {
-        "nu milnu": "분석",
-        "la milnu": "분석한",
-        "na milnu": "분석하게"
-      }
-    },
-    "hasni": {
-      "뜻": "불공평하다",
-      "hasni": {
-        "nu hasni": "불공평",
-        "la hasni": "불공평한",
-        "na hasni": "불공평하게"
-      }
-    },
-    "hilna": {
-      "뜻": "불안하다",
-      "hilna": {
-        "nu hilna": "불안",
-        "la hilna": "불안한",
-        "na hilna": "불안하게"
-      }
-    },
-    "nilsi": {
-      "뜻": "불평하다",
-      "nilsi": {
-        "nu nilsi": "불평",
-        "la nilsi": "불평한",
-        "na nilsi": "불평하게"
-      }
-    },
-    "saclu": {
-      "뜻": "붕괴하다",
-      "saclu": {
-        "nu saclu": "붕괴",
-        "la saclu": "붕괴한",
-        "na saclu": "붕괴하게"
-      }
-    },
-    "nicla": {
-      "뜻": "비교하다",
-      "nicla": {
-        "nu nicla": "비교",
-        "la nicla": "비교한",
-        "na nicla": "비교하게"
-      }
-    },
-    "luini": {
-      "뜻": "비난하다",
-      "luini": {
-        "nu luini": "비난",
-        "la luini": "비난한",
-        "na luini": "비난하게"
-      }
-    },
-    "hulha": {
-      "뜻": "비슷하다",
-      "hulha": {
-        "nu hulha": "비슷",
-        "la hulha": "비슷한",
-        "na hulha": "비슷하게"
-      }
-    },
-    "milhu": {
-      "뜻": "비유하다",
-      "milhu": {
-        "nu milhu": "비유",
-        "la milhu": "비유한",
-        "na milhu": "비유하게"
-      }
-    },
-    "lunsi": {
-      "뜻": "비판하다",
-      "lunsi": {
-        "nu lunsi": "비판",
-        "la lunsi": "비판한",
-        "na lunsi": "비판하게"
-      }
-    },
-    "luclu": {
-      "뜻": "빠르다",
-      "luclu": {
-        "na luclu": "빠르게",
-        "la luclu": "빠른"
-      }
-    },
-    "lacla": {
-      "뜻": "사과하다",
-      "lacla": {
-        "nu lacla": "사과",
-        "la lacla": "사과한",
-        "na lacla": "사과하게"
-      }
-    },
-    "lacsa": {
-      "뜻": "사랑하다",
-      "lacsa": {
-        "nu lacsa": "사랑",
-        "la lacsa": "사랑한",
-        "na lacsa": "사랑하게"
-      }
-    },
-    "mahli": {
-      "뜻": "사망하다",
-      "mahli": {
-        "nu mahli": "사망",
-        "mu mahli": "무덤",
-        "na mahli": "죽게",
-        "la mahli": "죽은"
-      }
-    },
-    "malmu": {
-      "뜻": "사육하다",
-      "malmu": {
-        "nu malmu": "사육",
-        "mi malmu": "사육자",
-        "a malmu": "사육 당하는 것",
-        "li malmu": "사육 도구",
-        "mu malmu": "사육장",
-        "na malmu": "사육하게",
-        "la malmu": "사육한"
-      }
-    },
-    "mismu": {
-      "뜻": "산만하다",
-      "mismu": {
-        "nu mismu": "산만",
-        "la mismu": "산만한",
-        "na mismu": "산만하게"
-      }
-    },
-    "misli": {
-      "뜻": "상당하다",
-      "misli": {
-        "nu misli": "상당",
-        "la misli": "상당한",
-        "na misli": "상당하게"
-      }
-    },
-    "mamlu": {
-      "뜻": "상륙하다",
-      "mamlu": {
-        "nu mamlu": "상륙",
-        "la mamlu": "상륙한",
-        "na mamlu": "상륙하게"
-      }
-    },
-    "lamhi": {
-      "뜻": "상상하다",
-      "lamhi": {
-        "nu lamhi": "상상",
-        "la lamhi": "상상한",
-        "na lamhi": "상상하게",
-        "li lamhi": "사진"
-      }
-    },
-    "nismu": {
-      "뜻": "상속하다",
-      "nismu": {
-        "nu nismu": "상속",
-        "la nismu": "상속한",
-        "na nismu": "상속하게"
-      }
-    },
-    "hacmu": {
-      "뜻": "상승하다",
-      "hacmu": {
-        "nu hacmu": "상승",
-        "la hacmu": "상승한",
-        "na hacmu": "상승하게"
-      }
-    },
-    "lunhi": {
-      "뜻": "생각하다",
-      "lunhi": {
-        "nu lunhi": "생각",
-        "la lunhi": "생각한",
-        "na lunhi": "생각하게"
-      }
-    },
-    "sahla": {
-      "뜻": "생산하다",
-      "sahla": {
-        "nu sahla": "생산",
-        "la sahla": "생산한",
-        "na sahla": "생산하게"
-      }
-    },
-    "munsa": {
-      "뜻": "생생하다",
-      "munsa": {
-        "nu munsa": "생생",
-        "la munsa": "생생한",
-        "na munsa": "생생하게"
-      }
-    },
-    "nunhi": {
-      "뜻": "생존하다",
-      "nunhi": {
-        "nu nunhi": "생존/삶",
-        "mi nunhi": "조상",
-        "li nunhi": "생존도구",
-        "na nunhi": "살게",
-        "la nunhi": "산"
-      }
-    },
-    "humli": {
-      "뜻": "서술하다",
-      "humli": {
-        "nu humli": "서술",
-        "la humli": "서술한",
-        "na humli": "서술하게"
-      }
-    },
-    "nahnu": {
-      "뜻": "서식하다",
-      "nahnu": {
-        "nu nahnu": "서식",
-        "la nahnu": "서식한",
-        "na nahnu": "서식하게"
-      }
-    },
-    "mumsu": {
-      "뜻": "석방하다",
-      "mumsu": {
-        "nu mumsu": "석방",
-        "la mumsu": "석방한",
-        "na mumsu": "석방하게"
-      }
-    },
-    "mamhi": {
-      "뜻": "선명하다",
-      "mamhi": {
-        "nu mamhi": "선명",
-        "la mamhi": "선명한",
-        "na mamhi": "선명하게"
-      }
-    },
-    "mulma": {
-      "뜻": "선물하다",
-      "mulma": {
-        "nu mulma": "선물",
-        "la mulma": "선물한",
-        "na mulma": "선물하게"
-      }
-    },
-    "hilmu": {
-      "뜻": "설득하다",
-      "hilmu": {
-        "nu hilmu": "설득",
-        "la hilmu": "설득한",
-        "na hilmu": "설득하게"
-      }
-    },
-    "sulna": {
-      "뜻": "설립하다",
-      "sulna": {
-        "nu sulna": "설립",
-        "la sulna": "설립한",
-        "na sulna": "설립하게"
-      }
-    },
-    "luilu": {
-      "뜻": "설명하다",
-      "luilu": {
-        "nu luilu": "설명",
-        "la luilu": "설명한",
-        "na luilu": "설명하게"
-      }
-    },
-    "hahsu": {
-      "뜻": "설치하다",
-      "hahsu": {
-        "nu hahsu": "설치",
-        "la hahsu": "설치한",
-        "na hahsu": "설치하게"
-      }
-    },
-    "nisnu": {
-      "뜻": "섭취하다",
-      "nisnu": {
-        "nu nisnu": "식사",
-        "mi nisnu": "식객",
-        "li nisnu": "식기",
-        "li muinis": "젓가락",
-        "li munnis": "숟가락",
-        "li husnis": "포크",
-        "mu nisnu": "식당",
-        "na nisnu": "먹게",
-        "la nisnu": "먹은"
-      }
-    },
-    "lulsa": {
-      "뜻": "성공하다",
-      "lulsa": {
-        "nu lulsa": "성공",
-        "la lulsa": "성공한",
-        "na lulsa": "성공하게"
-      }
-    },
-    "milni": {
-      "뜻": "성숙하다",
-      "milni": {
-        "nu milni": "성숙",
-        "la milni": "성숙한",
-        "na milni": "성숙하게"
-      }
-    },
-    "lilsu": {
-      "뜻": "성장하다",
-      "lilsu": {
-        "nu lilsu": "성장/발전",
-        "li lilsu": "비료",
-        "na lilsu": "자라게",
-        "la lilsu": "자란"
-      }
-    },
-    "nihla": {
-      "뜻": "성취하다",
-      "nihla": {
-        "nu nihla": "성취",
-        "la nihla": "성취한",
-        "na nihla": "성취하게"
-      }
-    },
-    "sismu": {
-      "뜻": "세척하다",
-      "sismu": {
-        "nu sismu": "세척",
-        "la sismu": "세척한",
-        "na sismu": "세척하게",
-        "li sismu": "비누",
-        "li catsis": "세면대",
-        "mu sismu": "욕실"
-      }
-    },
-    "samli": {
-      "뜻": "소리 지르다",
-      "samli": {
-        "nu samli": "고성/외침",
-        "mi samli": "소리치는 자",
-        "na samli": "소리치게",
-        "la samli": "소리친"
-      }
-    },
-    "linli": {
-      "뜻": "소박하다",
-      "linli": {
-        "nu linli": "소박",
-        "la linli": "소박한",
-        "na linli": "소박하게"
-      }
-    },
-    "humsu": {
-      "뜻": "소비하다",
-      "humsu": {
-        "nu humsu": "소비",
-        "la humsu": "소비한",
-        "na humsu": "소비하게"
-      }
-    },
-    "mulmi": {
-      "뜻": "소중하다",
-      "mulmi": {
-        "nu mulmi": "소중",
-        "la mulmi": "소중한",
-        "na mulmi": "소중하게"
-      }
-    },
-    "nucla": {
-      "뜻": "속삭이다",
-      "nucla": {
-        "nu nucla": "속삭임",
-        "mi nucla": "속삭이는 자",
-        "na nucla": "속삭이게",
-        "la nucla": "속삭인"
-      }
-    },
-    "linha": {
-      "뜻": "손상하다",
-      "linha": {
-        "nu linha": "손상",
-        "la linha": "손상한",
-        "na linha": "손상하게"
-      }
-    },
-    "sahmu": {
-      "뜻": "손실하다",
-      "sahmu": {
-        "nu sahmu": "손실",
-        "la sahmu": "손실한",
-        "na sahmu": "손실하게"
-      }
-    },
-    "macla": {
-      "뜻": "수락하다",
-      "macla": {
-        "nu macla": "수락",
-        "la macla": "수락한",
-        "na macla": "수락하게"
-      }
-    },
-    "lilnu": {
-      "뜻": "수령하다",
-      "lilnu": {
-        "nu lilnu": "수령/수신",
-        "mi lilnu": "수신자",
-        "li lilnu": "수신기/안테나",
-        "na lilnu": "받게",
-        "la lilnu": "받은"
-      }
-    },
-    "hachi": {
-      "뜻": "수리하다",
-      "hachi": {
-        "nu hachi": "수리",
-        "mi hachi": "수리자",
-        "li hachi": "수리 도구",
-        "mu hachi": "서비스 센터",
-        "na hachi": "수리하게",
-        "la hachi": "수리한"
-      }
-    },
-    "halma": {
-      "뜻": "수사하다",
-      "halma": {
-        "nu halma": "수사",
-        "la halma": "수사한",
-        "na halma": "수사하게"
-      }
-    },
-    "mulha": {
-      "뜻": "수술하다",
-      "mulha": {
-        "nu mulha": "수술",
-        "la mulha": "수술한",
-        "na mulha": "수술하게"
-      }
-    },
-    "huisu": {
-      "뜻": "수여하다",
-      "huisu": {
-        "nu huisu": "수여",
-        "la huisu": "수여한",
-        "na huisu": "수여하게"
-      }
-    },
-    "sulsi": {
-      "뜻": "수용하다/받아들이다",
-      "sulsi": {
-        "nu sulsi": "수용",
-        "la sulsi": "수용한/받아들인",
-        "na sulsi": "수용하게/받아들이게"
-      }
-    },
-    "mumhi": {
-      "뜻": "수정하다",
-      "mumhi": {
-        "nu mumhi": "수정",
-        "la mumhi": "수정한",
-        "na mumhi": "수정하게"
-      }
-    },
-    "hinsa": {
-      "뜻": "수축하다",
-      "hinsa": {
-        "nu hinsa": "수축",
-        "la hinsa": "수축한",
-        "na hinsa": "수축하게"
-      }
-    },
-    "mahni": {
-      "뜻": "수출하다",
-      "mahni": {
-        "nu mahni": "수출",
-        "la mahni": "수출한",
-        "na mahni": "수출하게"
-      }
-    },
-    "luisi": {
-      "뜻": "수확하다",
-      "luisi": {
-        "nu luisi": "수확",
-        "la luisi": "수확한",
-        "na luisi": "수확하게"
-      }
-    },
-    "mahsa": {
-      "뜻": "순환하다",
-      "mahsa": {
-        "nu mahsa": "순환",
-        "la mahsa": "순환한",
-        "na mahsa": "순환하게"
-      }
-    },
-    "ninla": {
-      "뜻": "시도하다",
-      "ninla": {
-        "nu ninla": "시도",
-        "la ninla": "시도한",
-        "na ninla": "시도하게"
-      }
-    },
-    "macmi": {
-      "뜻": "시원하다",
-      "macmi": {
-        "nu macmi": "시원",
-        "la macmi": "시원한",
-        "na macmi": "시원하게"
-      }
-    },
-    "huhmu": {
-      "뜻": "시위하다",
-      "huhmu": {
-        "nu huhmu": "시위",
-        "la huhmu": "시위한",
-        "na huhmu": "시위하게"
-      }
-    },
-    "lisnu": {
-      "뜻": "시작하다",
-      "lisnu": {
-        "nu lisnu": "시작/태초",
-        "la lisnu": "시작한",
-        "na lisnu": "시작하게"
-      }
-    },
-    "munhu": {
-      "뜻": "시청/관찰하다",
-      "munhu": {
-        "nu munhu": "시청/관찰",
-        "mi munhu": "관람객/관찰자",
-        "li munhu": "망원경/모니터",
-        "mu munhu": "관측소",
-        "na munhu": "보게",
-        "la munhu": "본"
-      }
-    },
-    "sinhu": {
-      "뜻": "신성하다",
-      "sinhu": {
-        "nu sinhu": "신성",
-        "la sinhu": "신성한",
-        "na sinhu": "신성하게"
-      }
-    },
-    "hamna": {
-      "뜻": "신중하다",
-      "hamna": {
-        "nu hamna": "신중",
-        "la hamna": "신중한",
-        "na hamna": "신중하게"
-      }
-    },
-    "nusla": {
-      "뜻": "신청하다",
-      "nusla": {
-        "nu nusla": "신청",
-        "la nusla": "신청한",
-        "na nusla": "신청하게"
-      }
-    },
-    "nusma": {
-      "뜻": "신호하다",
-      "nusma": {
-        "nu nusma": "신호",
-        "la nusma": "신호한",
-        "na nusma": "신호하게"
-      }
-    },
-    "sunlu": {
-      "뜻": "실망하다",
-      "sunlu": {
-        "nu sunlu": "실망",
-        "la sunlu": "실망한",
-        "na sunlu": "실망하게"
-      }
-    },
-    "linsu": {
-      "뜻": "실수하다",
-      "linsu": {
-        "nu linsu": "실수",
-        "la linsu": "실수한",
-        "na linsu": "실수하게"
-      }
-    },
-    "naslu": {
-      "뜻": "실시하다",
-      "naslu": {
-        "nu naslu": "실시",
-        "la naslu": "실시한",
-        "na naslu": "실시하게"
-      }
-    },
-    "linlu": {
-      "뜻": "실패하다",
-      "linlu": {
-        "nu linlu": "실패",
-        "la linlu": "실패한",
-        "na linlu": "실패하게"
-      }
-    },
-    "humni": {
-      "뜻": "실험하다",
-      "humni": {
-        "nu humni": "실험",
-        "la humni": "실험한",
-        "na humni": "실험하게"
-      }
-    },
-    "minla": {
-      "뜻": "실현하다",
-      "minla": {
-        "nu minla": "실현",
-        "la minla": "실현한",
-        "na minla": "실현하게"
-      }
-    },
-    "huhlu": {
-      "뜻": "심다",
-      "huhlu": {
-        "nu huhlu": "식재/농경",
-        "mi huhlu": "농부/정원사",
-        "li huhlu": "모종/삽",
-        "mu huhlu": "농장/화단",
-        "na huhlu": "심게",
-        "la huhlu": "심은"
-      }
-    },
-    "malmi": {
-      "뜻": "안내하다",
-      "malmi": {
-        "nu malmi": "안내",
-        "la malmi": "안내한",
-        "na malmi": "안내하게"
-      }
-    },
-    "munsu": {
-      "뜻": "애원하다",
-      "munsu": {
-        "nu munsu": "애원",
-        "la munsu": "애원한",
-        "na munsu": "애원하게"
-      }
-    },
-    "lunma": {
-      "뜻": "약탈하다",
-      "lunma": {
-        "nu lunma": "약탈",
-        "la lunma": "약탈한",
-        "na lunma": "약탈하게"
-      }
-    },
-    "huina": {
-      "뜻": "양치하다",
-      "huina": {
-        "nu huina": "양치",
-        "la huina": "양치한",
-        "na huina": "양치하게",
-        "li huina": "칫솔",
-        "li lamhui": "치약",
-        "li sihhui": "치실"
-      }
-    },
-    "lusnu": {
-      "뜻": "어렵다",
-      "lusnu": {
-        "la lusnu": "어려운",
-        "na lusnu": "어렵게"
-      }
-    },
-    "lilha": {
-      "뜻": "언급하다",
-      "lilha": {
-        "nu lilha": "언급",
-        "la lilha": "언급한",
-        "na lilha": "언급하게"
-      }
-    },
-    "lahla": {
-      "뜻": "얼리다",
-      "lahla": {
-        "la lahla": "얼린",
-        "na lahla": "얼리게"
-      }
-    },
-    "laclu": {
-      "뜻": "엄격하다",
-      "laclu": {
-        "nu laclu": "엄격",
-        "la laclu": "엄격한",
-        "na laclu": "엄격하게"
-      }
-    },
-    "machu": {
-      "뜻": "없다",
-      "machu": {
-        "na machu": "없게",
-        "la machu": "없는"
-      }
-    },
-    "sismi": {
-      "뜻": "여가를 즐기다",
-      "sismi": {
-        "nu sismi": "놀이",
-        "mi sismi": "놀이꾼",
-        "li sismi": "장난감",
-        "mu sismi": "놀이터/놀이공원",
-        "na sismi": "놀게",
-        "la sismi": "여가를 즐긴"
-      }
-    },
-    "silmu": {
-      "뜻": "여행하다",
-      "silmu": {
-        "nu silmu": "여행",
-        "la silmu": "여행한",
-        "na silmu": "여행하게",
-        "mi silmu": "여행자"
-      }
-    },
-    "husmu": {
-      "뜻": "연구하다",
-      "husmu": {
-        "nu husmu": "연구",
-        "la husmu": "연구한",
-        "na husmu": "연구하게",
-        "mu husmu": "연구실"
-      }
-    },
-    "lasla": {
-      "뜻": "연설하다",
-      "lasla": {
-        "nu lasla": "연설",
-        "la lasla": "연설한",
-        "na lasla": "연설하게"
-      }
-    },
-    "hilsa": {
-      "뜻": "연속하다",
-      "hilsa": {
-        "nu hilsa": "연속",
-        "la hilsa": "연속한",
-        "na hilsa": "연속하게"
-      }
-    },
-    "musma": {
-      "뜻": "연합하다",
-      "musma": {
-        "nu musma": "연합",
-        "la musma": "연합한",
-        "na musma": "연합하게"
-      }
-    },
-    "sinsi": {
-      "뜻": "예민하다",
-      "sinsi": {
-        "nu sinsi": "예민",
-        "la sinsi": "예민한",
-        "na sinsi": "예민하게"
-      }
-    },
-    "mulni": {
-      "뜻": "예방하다",
-      "mulni": {
-        "nu mulni": "예방",
-        "la mulni": "예방한",
-        "na mulni": "예방하게"
-      }
-    },
-    "hinma": {
-      "뜻": "예배하다",
-      "hinma": {
-        "nu hinma": "예배",
-        "la hinma": "예배한",
-        "na hinma": "예배하게"
-      }
-    },
-    "macma": {
-      "뜻": "예약하다",
-      "macma": {
-        "nu macma": "예약",
-        "la macma": "예약한",
-        "na macma": "예약하게"
-      }
-    },
-    "halna": {
-      "뜻": "예측하다",
-      "halna": {
-        "nu halna": "예측",
-        "la halna": "예측한",
-        "na halna": "예측하게"
-      }
-    },
-    "susma": {
-      "뜻": "오다",
-      "susma": {
-        "la susma": "온",
-        "na susma": "오게"
-      }
-    },
-    "nalmi": {
-      "뜻": "오만하다",
-      "nalmi": {
-        "nu nalmi": "오만",
-        "la nalmi": "오만한",
-        "na nalmi": "오만하게"
-      }
-    },
-    "suila": {
-      "뜻": "완수하다",
-      "suila": {
-        "nu suila": "완수",
-        "la suila": "완수한",
-        "na suila": "완수하게"
-      }
-    },
-    "huila": {
-      "뜻": "완전하다",
-      "huila": {
-        "nu huila": "완전",
-        "la huila": "완전한",
-        "na huila": "완전하게"
-      }
-    },
-    "lamsu": {
-      "뜻": "요리하다",
-      "lamsu": {
-        "nu lamsu": "요리",
-        "la lamsu": "요리한",
-        "na lamsu": "요리하게",
-        "mi lamsu": "요리사"
-      }
-    },
-    "luhla": {
-      "뜻": "요약하다",
-      "luhla": {
-        "nu luhla": "요약",
-        "la luhla": "요약한",
-        "na luhla": "요약하게"
-      }
-    },
-    "sumsi": {
-      "뜻": "용서하다",
-      "sumsi": {
-        "nu sumsi": "용서",
-        "la sumsi": "용서한",
-        "na sumsi": "용서하게"
-      }
-    },
-    "huhsi": {
-      "뜻": "우려하다",
-      "huhsi": {
-        "nu huhsi": "우려",
-        "la huhsi": "우려한",
-        "na huhsi": "우려하게"
-      }
-    },
-    "nahna": {
-      "뜻": "우세하다",
-      "nahna": {
-        "nu nahna": "우세",
-        "la nahna": "우세한",
-        "na nahna": "우세하게"
-      }
-    },
-    "sahlu": {
-      "뜻": "운동하다",
-      "sahlu": {
-        "nu sahlu": "운동",
-        "la sahlu": "운동한",
-        "na sahlu": "운동하게"
-      }
-    },
-    "hinha": {
-      "뜻": "운반하다",
-      "hinha": {
-        "nu hinha": "운반",
-        "la hinha": "운반한",
-        "na hinha": "운반하게"
-      }
-    },
-    "mihsa": {
-      "뜻": "운송하다",
-      "mihsa": {
-        "nu mihsa": "운송",
-        "la mihsa": "운송한",
-        "na mihsa": "운송하게"
-      }
-    },
-    "silhu": {
-      "뜻": "울다",
-      "silhu": {
-        "nu silhu": "눈물",
-        "la silhu": "운(과거에 울었던)",
-        "na silhu": "울게"
-      }
-    },
-    "sihni": {
-      "뜻": "울부짖다",
-      "sihni": {
-        "la sihni": "울부짖은",
-        "na sihni": "울부짖게"
-      }
-    },
-    "lamla": {
-      "뜻": "울퉁불퉁하다",
-      "lamla": {
-        "nu lamla": "울퉁불퉁",
-        "la lamla": "울퉁불퉁한",
-        "na lamla": "울퉁불퉁하게"
-      }
-    },
-    "nasni": {
-      "뜻": "웃다",
-      "nasni": {
-        "nu nasni": "웃음",
-        "na nasni": "웃게",
-        "la nasni": "웃은"
-      }
-    },
-    "nacmu": {
-      "뜻": "위로하다",
-      "nacmu": {
-        "nu nacmu": "위로",
-        "la nacmu": "위로한",
-        "na nacmu": "위로하게"
-      }
-    },
-    "hacsu": {
-      "뜻": "위반하다",
-      "hacsu": {
-        "nu hacsu": "위반",
-        "la hacsu": "위반한",
-        "na hacsu": "위반하게"
-      }
-    },
-    "linhu": {
-      "뜻": "위장하다",
-      "linhu": {
-        "nu linhu": "위장",
-        "la linhu": "위장한",
-        "na linhu": "위장하게"
-      }
-    },
-    "masla": {
-      "뜻": "위협하다",
-      "masla": {
-        "nu masla": "위협",
-        "la masla": "위협한",
-        "na masla": "위협하게"
-      }
-    },
-    "suclu": {
-      "뜻": "유도하다",
-      "suclu": {
-        "nu suclu": "유도",
-        "la suclu": "유도한",
-        "na suclu": "유도하게"
-      }
-    },
-    "hinmu": {
-      "뜻": "유래하다",
-      "hinmu": {
-        "nu hinmu": "유래",
-        "la hinmu": "유래한",
-        "na hinmu": "유래하게"
-      }
-    },
-    "nahsa": {
-      "뜻": "유발하다",
-      "nahsa": {
-        "nu nahsa": "유발",
-        "la nahsa": "유발한",
-        "na nahsa": "유발하게"
-      }
-    },
-    "mumni": {
-      "뜻": "유연하다",
-      "mumni": {
-        "nu mumni": "유연",
-        "la mumni": "유연한",
-        "na mumni": "유연하게"
-      }
-    },
-    "hamlu": {
-      "뜻": "유일하다",
-      "hamlu": {
-        "nu hamlu": "유일",
-        "la hamlu": "유일한",
-        "na hamlu": "유일하게"
-      }
-    },
-    "mihla": {
-      "뜻": "은폐하다",
-      "mihla": {
-        "nu mihla": "은폐/잠행",
-        "li mihla": "위장망",
-        "mu mihla": "은신처",
-        "na mihla": "숨게",
-        "la mihla": "숨은"
-      }
-    },
-    "husna": {
-      "뜻": "응시하다",
-      "husna": {
-        "nu husna": "응시",
-        "la husna": "응시한",
-        "na husna": "응시하게"
-      }
-    },
-    "salha": {
-      "뜻": "의사소통하다",
-      "salha": {
-        "nu salha": "대화/소통",
-        "mi salha": "대화 상대",
-        "na salha": "대화하게",
-        "la salha": "대화한"
-      }
-    },
-    "hulna": {
-      "뜻": "의심하다",
-      "hulna": {
-        "nu hulna": "의심",
-        "la hulna": "의심한",
-        "na hulna": "의심하게"
-      }
-    },
-    "misla": {
-      "뜻": "의존하다",
-      "misla": {
-        "nu misla": "의존",
-        "la misla": "의존한",
-        "na misla": "의존하게"
-      }
-    },
-    "muclu": {
-      "뜻": "이동하다",
-      "muclu": {
-        "nu muclu": "이동",
-        "la muclu": "이동한",
-        "na muclu": "이동하게"
-      }
-    },
-    "miclu": {
-      "뜻": "이상하다",
-      "miclu": {
-        "nu miclu": "이상",
-        "la miclu": "이상한",
-        "na miclu": "이상하게"
-      }
-    },
-    "muhsa": {
-      "뜻": "이야기하다",
-      "muhsa": {
-        "nu muhsa": "이야기",
-        "la muhsa": "이야기한",
-        "na muhsa": "이야기하게"
-      }
-    },
-    "mahsu": {
-      "뜻": "익숙하다",
-      "mahsu": {
-        "nu mahsu": "익숙",
-        "la mahsu": "익숙한",
-        "na mahsu": "익숙하게"
-      }
-    },
-    "hamhu": {
-      "뜻": "인용하다",
-      "hamhu": {
-        "nu hamhu": "인용",
-        "la hamhu": "인용한",
-        "na hamhu": "인용하게"
-      }
-    },
-    "hunma": {
-      "뜻": "인정하다",
-      "hunma": {
-        "nu hunma": "인정",
-        "la hunma": "인정한",
-        "na hunma": "인정하게"
-      }
-    },
-    "lulhi": {
-      "뜻": "인지하다/눈치채다",
-      "lulhi": {
-        "nu lulhi": "인지/눈치",
-        "la lulhi": "인지한/눈치챈",
-        "na lulhi": "인지하게/눈치채게"
-      }
-    },
-    "licli": {
-      "뜻": "일정하다",
-      "licli": {
-        "nu licli": "일정",
-        "la licli": "일정한",
-        "na licli": "일정하게"
-      }
-    },
-    "sacsu": {
-      "뜻": "일하다",
-      "sacsu": {
-        "nu sacsu": "일",
-        "la sacsu": "일한",
-        "na sacsu": "일하게"
-      }
-    },
-    "nuhli": {
-      "뜻": "읽다",
-      "nuhli": {
-        "nu nuhli": "독해",
-        "mi nuhli": "독자",
-        "na nuhli": "읽게",
-        "la nuhli": "읽은"
-      }
-    },
-    "hinlu": {
-      "뜻": "임기하다",
-      "hinlu": {
-        "nu hinlu": "임기",
-        "la hinlu": "임기한",
-        "na hinlu": "임기하게"
-      }
-    },
-    "hulmu": {
-      "뜻": "입력하다",
-      "hulmu": {
-        "nu hulmu": "입력",
-        "la hulmu": "입력한",
-        "na hulmu": "입력하게"
-      }
-    },
-    "namsu": {
-      "뜻": "입증하다",
-      "namsu": {
-        "nu namsu": "입증",
-        "la namsu": "입증한",
-        "na namsu": "입증하게"
-      }
-    },
-    "huihu": {
-      "뜻": "입학하다",
-      "huihu": {
-        "nu huihu": "입학",
-        "la huihu": "입학한",
-        "na huihu": "입학하게"
-      }
-    },
-    "mamni": {
-      "뜻": "있다",
-      "mamni": {
-        "na mamni": "있게",
-        "la mamni": "있는"
-      }
-    },
-    "hamni": {
-      "뜻": "잊다",
-      "hamni": {
-        "la hamni": "잊은",
-        "na hamni": "잊게"
-      }
-    },
-    "haclu": {
-      "뜻": "자극하다",
-      "haclu": {
-        "nu haclu": "자극",
-        "la haclu": "자극한",
-        "na haclu": "자극하게"
-      }
-    },
-    "nacla": {
-      "뜻": "자리하다(위치하다)",
-      "nacla": {
-        "nu nacla": "자리/위치",
-        "na nacla": "자리하게/위치하게",
-        "la nacla": "자리한/위치한"
-      }
-    },
-    "lusmi": {
-      "뜻": "작곡하다",
-      "lusmi": {
-        "nu lusmi": "작곡",
-        "la lusmi": "작곡한",
-        "na lusmi": "작곡하게"
-      }
-    },
-    "nusmu": {
-      "뜻": "작다",
-      "nusmu": {
-        "na nusmu": "작게",
-        "la nusmu": "작은"
-      }
-    },
-    "ninmu": {
-      "뜻": "작동하다",
-      "ninmu": {
-        "nu ninmu": "작동",
-        "la ninmu": "작동한",
-        "na ninmu": "작동하게"
-      }
-    },
-    "lisma": {
-      "뜻": "작성하다",
-      "lisma": {
-        "nu lisma": "작성/아기",
-        "mi lisma": "작성자",
-        "na lisma": "작성하게",
-        "la lisma": "작성한"
-      }
-    },
-    "sumha": {
-      "뜻": "잔인하다",
-      "sumha": {
-        "nu sumha": "잔인",
-        "la sumha": "잔인한",
-        "na sumha": "잔인하게"
-      }
-    },
-    "nilhu": {
-      "뜻": "장식하다",
-      "nilhu": {
-        "nu nilhu": "장식",
-        "la nilhu": "장식한",
-        "na nilhu": "장식하게"
-      }
-    },
-    "nasmi": {
-      "뜻": "재배하다",
-      "nasmi": {
-        "nu nasmi": "재배",
-        "la nasmi": "재배한",
-        "na nasmi": "재배하게"
-      }
-    },
-    "silni": {
-      "뜻": "재판하다",
-      "silni": {
-        "nu silni": "재판",
-        "la silni": "재판한",
-        "na silni": "재판하게"
-      }
-    },
-    "ninha": {
-      "뜻": "재현하다",
-      "ninha": {
-        "nu ninha": "재현",
-        "la ninha": "재현한",
-        "na ninha": "재현하게"
-      }
-    },
-    "sunhu": {
-      "뜻": "재활용하다",
-      "sunhu": {
-        "nu sunhu": "재활용",
-        "la sunhu": "재활용한",
-        "na sunhu": "재활용하게"
-      }
-    },
-    "misnu": {
-      "뜻": "저장하다",
-      "misnu": {
-        "nu misnu": "저장",
-        "la misnu": "저장한",
-        "na misnu": "저장하게"
-      }
-    },
-    "nunla": {
-      "뜻": "저항하다",
-      "nunla": {
-        "nu nunla": "저항",
-        "la nunla": "저항한",
-        "na nunla": "저항하게"
-      }
-    },
-    "susmu": {
-      "뜻": "적다",
-      "susmu": {
-        "la susmu": "적은",
-        "na susmu": "적게"
-      }
-    },
-    "lacsi": {
-      "뜻": "적응하다",
-      "lacsi": {
-        "nu lacsi": "적응",
-        "la lacsi": "적응한",
-        "na lacsi": "적응하게"
-      }
-    },
-    "hachu": {
-      "뜻": "적절하다",
-      "hachu": {
-        "nu hachu": "적절",
-        "la hachu": "적절한",
-        "na hachu": "적절하게"
-      }
-    },
-    "siclu": {
-      "뜻": "적합하다",
-      "siclu": {
-        "nu siclu": "적합",
-        "la siclu": "적합한",
-        "na siclu": "적합하게",
-        "mi siclu": "적합자"
-      }
-    },
-    "sulhi": {
-      "뜻": "전공하다",
-      "sulhi": {
-        "nu sulhi": "전공",
-        "la sulhi": "전공한",
-        "na sulhi": "전공하게"
-      }
-    },
-    "nulhu": {
-      "뜻": "전달하다",
-      "nulhu": {
-        "nu nulhu": "전달",
-        "la nulhu": "전달한",
-        "na nulhu": "전달하게"
-      }
-    },
-    "hacma": {
-      "뜻": "전송하다",
-      "hacma": {
-        "nu hacma": "전송",
-        "la hacma": "전송한",
-        "na hacma": "전송하게"
-      }
-    },
-    "susni": {
-      "뜻": "전시하다",
-      "susni": {
-        "nu susni": "전시",
-        "la susni": "전시한",
-        "na susni": "전시하게"
-      }
-    },
-    "muhni": {
-      "뜻": "절단하다",
-      "muhni": {
-        "nu muhni": "절단",
-        "li muhni": "칼/가위",
-        "na muhni": "자르게",
-        "la muhni": "자른"
-      }
-    },
-    "nuila": {
-      "뜻": "절망하다",
-      "nuila": {
-        "nu nuila": "절망",
-        "la nuila": "절망한",
-        "na nuila": "절망하게"
-      }
-    },
-    "hilsi": {
-      "뜻": "점령하다",
-      "hilsi": {
-        "nu hilsi": "점령",
-        "la hilsi": "점령한",
-        "na hilsi": "점령하게"
-      }
-    },
-    "hahla": {
-      "뜻": "접근하다",
-      "hahla": {
-        "nu hahla": "접근",
-        "la hahla": "접근한",
-        "na hahla": "접근하게"
-      }
-    },
-    "huilu": {
-      "뜻": "접촉하다",
-      "huilu": {
-        "nu huilu": "접촉/연락",
-        "li huilu": "센서/터치패드",
-        "na huilu": "접촉하게",
-        "la huilu": "접촉한"
-      }
-    },
-    "mahmi": {
-      "뜻": "정돈하다",
-      "mahmi": {
-        "nu mahmi": "정돈",
-        "la mahmi": "정돈한",
-        "na mahmi": "정돈하게"
-      }
-    },
-    "micla": {
-      "뜻": "정복하다",
-      "micla": {
-        "nu micla": "정복",
-        "la micla": "정복한",
-        "na micla": "정복하게"
-      }
-    },
-    "lahli": {
-      "뜻": "정화하다",
-      "lahli": {
-        "nu lahli": "정화",
-        "la lahli": "정화한",
-        "na lahli": "정화하게"
-      }
-    },
-    "lumlu": {
-      "뜻": "정확하다",
-      "lumlu": {
-        "nu lumlu": "정확",
-        "la lumlu": "정확한",
-        "na lumlu": "정확하게"
-      }
-    },
-    "lusli": {
-      "뜻": "제거하다",
-      "lusli": {
-        "nu lusli": "제거",
-        "la lusli": "제거한",
-        "na lusli": "제거하게"
-      }
-    },
-    "lihni": {
-      "뜻": "제공하다",
-      "lihni": {
-        "nu lihni": "제공/기부",
-        "mi lihni": "수혜자",
-        "li lihni": "보급품/선물",
-        "na lihni": "주게",
-        "la lihni": "준"
-      }
-    },
-    "sunmu": {
-      "뜻": "제외하다",
-      "sunmu": {
-        "nu sunmu": "제외",
-        "la sunmu": "제외한",
-        "na sunmu": "제외하게"
-      }
-    },
-    "muihi": {
-      "뜻": "제작하다",
-      "muihi": {
-        "nu muihi": "제작/제조",
-        "mi muihi": "제작자/엔지니어",
-        "li muihi": "제품/작품",
-        "mu muihi": "공장/작업실",
-        "na muihi": "만들게",
-        "la muihi": "만든"
-      }
-    },
-    "mislu": {
-      "뜻": "제출하다",
-      "mislu": {
-        "nu mislu": "제출",
-        "la mislu": "제출한",
-        "na mislu": "제출하게"
-      }
-    },
-    "ninhi": {
-      "뜻": "조각하다",
-      "ninhi": {
-        "nu ninhi": "조각",
-        "la ninhi": "조각한",
-        "na ninhi": "조각하게",
-        "li ninhi": "조각품/조각상"
-      }
-    },
-    "sumsa": {
-      "뜻": "조언하다",
-      "sumsa": {
-        "nu sumsa": "조언",
-        "la sumsa": "조언한",
-        "na sumsa": "조언하게"
-      }
-    },
-    "hahli": {
-      "뜻": "조직하다",
-      "hahli": {
-        "nu hahli": "조직",
-        "la hahli": "조직한",
-        "na hahli": "조직하게"
-      }
-    },
-    "nusmi": {
-      "뜻": "조치하다",
-      "nusmi": {
-        "nu nusmi": "조치",
-        "la nusmi": "조치한",
-        "na nusmi": "조치하게"
-      }
-    },
-    "lihli": {
-      "뜻": "존경하다",
-      "lihli": {
-        "nu lihli": "존경",
-        "la lihli": "존경한",
-        "na lihli": "존경하게"
-      }
-    },
-    "munlu": {
-      "뜻": "졸업하다",
-      "munlu": {
-        "nu munlu": "졸업",
-        "la munlu": "졸업한",
-        "na munlu": "졸업하게"
-      }
-    },
-    "hihlu": {
-      "뜻": "좋다",
-      "hihlu": {
-        "la hihlu": "좋은",
-        "na hihlu": "좋게"
-      }
-    },
-    "hunhu": {
-      "뜻": "주도하다",
-      "hunhu": {
-        "nu hunhu": "주도",
-        "la hunhu": "주도한",
-        "na hunhu": "주도하게"
-      }
-    },
-    "lacli": {
-      "뜻": "주문하다",
-      "lacli": {
-        "nu lacli": "주문",
-        "la lacli": "주문한",
-        "na lacli": "주문하게"
-      }
-    },
-    "sahnu": {
-      "뜻": "주요하다",
-      "sahnu": {
-        "nu sahnu": "주요",
-        "la sahnu": "주요한",
-        "na sahnu": "주요하게"
-      }
-    },
-    "samnu": {
-      "뜻": "주입하다",
-      "samnu": {
-        "nu samnu": "주입/삽입",
-        "mi samnu": "주입기(사람)",
-        "li samnu": "주사기/깔때기",
-        "na samnu": "주입하게",
-        "la samnu": "주입한"
-      }
-    },
-    "muisu": {
-      "뜻": "주장하다",
-      "muisu": {
-        "nu muisu": "주장",
-        "la muisu": "주장한",
-        "na muisu": "주장하게"
-      }
-    },
-    "mulmu": {
-      "뜻": "중대하다",
-      "mulmu": {
-        "nu mulmu": "중대",
-        "la mulmu": "중대한",
-        "na mulmu": "중대하게"
-      }
-    },
-    "humsa": {
-      "뜻": "중요하다",
-      "humsa": {
-        "nu humsa": "중요",
-        "la humsa": "중요한",
-        "na humsa": "중요하게"
-      }
-    },
-    "huisi": {
-      "뜻": "중지하다",
-      "huisi": {
-        "nu huisi": "중지",
-        "la huisi": "중지한",
-        "na huisi": "중지하게"
-      }
-    },
-    "suhsa": {
-      "뜻": "증가하다",
-      "suhsa": {
-        "nu suhsa": "증가",
-        "la suhsa": "증가한",
-        "na suhsa": "증가하게"
-      }
-    },
-    "lisli": {
-      "뜻": "지시하다",
-      "lisli": {
-        "nu lisli": "지시",
-        "la lisli": "지시한",
-        "na lisli": "지시하게"
-      }
-    },
-    "sunma": {
-      "뜻": "지출하다",
-      "sunma": {
-        "nu sunma": "지출",
-        "la sunma": "지출한",
-        "na sunma": "지출하게"
-      }
-    },
-    "lamna": {
-      "뜻": "지탱하다",
-      "lamna": {
-        "nu lamna": "지탱",
-        "la lamna": "지탱한",
-        "na lamna": "지탱하게"
-      }
-    },
-    "nacmi": {
-      "뜻": "지휘하다",
-      "nacmi": {
-        "nu nacmi": "지휘",
-        "la nacmi": "지휘한",
-        "na nacmi": "지휘하게"
-      }
-    },
-    "humhi": {
-      "뜻": "진단하다",
-      "humhi": {
-        "nu humhi": "진단",
-        "la humhi": "진단한",
-        "na humhi": "진단하게"
-      }
-    },
-    "niclu": {
-      "뜻": "진행하다",
-      "niclu": {
-        "nu niclu": "진행",
-        "la niclu": "진행한",
-        "na niclu": "진행하게"
-      }
-    },
-    "nacli": {
-      "뜻": "진화하다",
-      "nacli": {
-        "nu nacli": "진화",
-        "la nacli": "진화한",
-        "na nacli": "진화하게"
-      }
-    },
-    "malna": {
-      "뜻": "질문하다",
-      "malna": {
-        "nu malna": "질문/질의",
-        "mi malna": "답변자",
-        "na malna": "질문하게",
-        "la malna": "질문한"
-      }
-    },
-    "lunsu": {
-      "뜻": "질주하다(달리다)",
-      "lunsu": {
-        "nu lunsu": "질주/레이싱",
-        "mi lunsu": "주자/레이서",
-        "li lunsu": "경주차",
-        "mu lunsu": "트랙/경기장",
-        "na lunsu": "질주하게",
-        "la lunsu": "질주한"
-      }
-    },
-    "linla": {
-      "뜻": "질투하다",
-      "linla": {
-        "nu linla": "질투",
-        "la linla": "질투한",
-        "na linla": "질투하게"
-      }
-    },
-    "nacha": {
-      "뜻": "집중하다",
-      "nacha": {
-        "nu nacha": "집중",
-        "la nacha": "집중한",
-        "na nacha": "집중하게"
-      }
-    },
-    "nunli": {
-      "뜻": "짧다",
-      "nunli": {
-        "la nunli": "짧은",
-        "na nunli": "짧게"
-      }
-    },
-    "muilu": {
-      "뜻": "차다",
-      "muilu": {
-        "la muilu": "찬",
-        "na muilu": "차게"
-      }
-    },
-    "lalha": {
-      "뜻": "차단하다",
-      "lalha": {
-        "nu lalha": "차단",
-        "la lalha": "차단한",
-        "na lalha": "차단하게"
-      }
-    },
-    "macmu": {
-      "뜻": "차지하다",
-      "macmu": {
-        "nu macmu": "차지",
-        "la macmu": "차지한",
-        "na macmu": "차지하게"
-      }
-    },
-    "hahmi": {
-      "뜻": "착석하다",
-      "hahmi": {
-        "nu hahmi": "착석",
-        "li hahmi": "의자/좌석",
-        "na hahmi": "앉게",
-        "la hahmi": "앉은"
-      }
-    },
-    "minha": {
-      "뜻": "착용하다",
-      "minha": {
-        "nu minha": "착용",
-        "li minha": "옷/장비",
-        "na minha": "입게",
-        "la minha": "입은"
-      }
-    },
-    "sisnu": {
-      "뜻": "찬성하다",
-      "sisnu": {
-        "nu sisnu": "찬성",
-        "la sisnu": "찬성한",
-        "na sisnu": "찬성하게",
-        "mi sisnu": "찬성자"
-      }
-    },
-    "halha": {
-      "뜻": "참신하다",
-      "halha": {
-        "nu halha": "참신",
-        "la halha": "참신한",
-        "na halha": "참신하게"
-      }
-    },
-    "lasmi": {
-      "뜻": "참하다",
-      "lasmi": {
-        "nu lasmi": "참",
-        "la lasmi": "참한",
-        "na lasmi": "참하게"
-      }
-    },
-    "nunha": {
-      "뜻": "창피하다",
-      "nunha": {
-        "nu nunha": "창피",
-        "la nunha": "창피한",
-        "na nunha": "창피하게"
-      }
-    },
-    "huiha": {
-      "뜻": "채용하다",
-      "huiha": {
-        "nu huiha": "채용",
-        "la huiha": "채용한",
-        "na huiha": "채용하게"
-      }
-    },
-    "hilmi": {
-      "뜻": "채택하다",
-      "hilmi": {
-        "nu hilmi": "채택",
-        "la hilmi": "채택한",
-        "na hilmi": "채택하게"
-      }
-    },
-    "muslu": {
-      "뜻": "처방하다",
-      "muslu": {
-        "nu muslu": "처방",
-        "la muslu": "처방한",
-        "na muslu": "처방하게"
-      }
-    },
-    "numlu": {
-      "뜻": "첨부하다",
-      "numlu": {
-        "nu numlu": "첨부",
-        "la numlu": "첨부한",
-        "na numlu": "첨부하게"
-      }
-    },
-    "lihsi": {
-      "뜻": "청소하다",
-      "lihsi": {
-        "nu lihsi": "청소",
-        "la lihsi": "청소한",
-        "na lihsi": "청소하게"
-      }
-    },
-    "lalna": {
-      "뜻": "총명하다",
-      "lalna": {
-        "nu lalna": "총명",
-        "la lalna": "총명한",
-        "na lalna": "총명하게"
-      }
-    },
-    "sumla": {
-      "뜻": "추가하다",
-      "sumla": {
-        "nu sumla": "추가",
-        "la sumla": "추가한",
-        "na sumla": "추가하게"
-      }
-    },
-    "lunha": {
-      "뜻": "추구하다",
-      "lunha": {
-        "nu lunha": "추구",
-        "la lunha": "추구한",
-        "na lunha": "추구하게"
-      }
-    },
-    "suslu": {
-      "뜻": "추론하다",
-      "suslu": {
-        "nu suslu": "추론",
-        "la suslu": "추론한",
-        "na suslu": "추론하게"
-      }
-    },
-    "musli": {
-      "뜻": "추종/추적하다",
-      "musli": {
-        "nu musli": "추적/추종",
-        "mi musli": "추적자/팬",
-        "li musli": "추적기",
-        "na musli": "따라가게",
-        "la musli": "따라간"
-      }
-    },
-    "mihma": {
-      "뜻": "추천하다",
-      "mihma": {
-        "nu mihma": "추천",
-        "la mihma": "추천한",
-        "na mihma": "추천하게"
-      }
-    },
-    "mamli": {
-      "뜻": "추최하다",
-      "mamli": {
-        "nu mamli": "추최",
-        "la mamli": "추최한",
-        "na mamli": "추최하게"
-      }
-    },
-    "minma": {
-      "뜻": "축소하다",
-      "minma": {
-        "nu minma": "축소",
-        "la minma": "축소한",
-        "na minma": "축소하게"
-      }
-    },
-    "nulmi": {
-      "뜻": "출발하다",
-      "nulmi": {
-        "nu nulmi": "출발",
-        "la nulmi": "출발한",
-        "na nulmi": "출발하게"
-      }
-    },
-    "lulmu": {
-      "뜻": "출시하다",
-      "lulmu": {
-        "nu lulmu": "출시",
-        "la lulmu": "출시한",
-        "na lulmu": "출시하게"
-      }
-    },
-    "nunsi": {
-      "뜻": "출판하다",
-      "nunsi": {
-        "nu nunsi": "출판",
-        "la nunsi": "출판한",
-        "na nunsi": "출판하게"
-      }
-    },
-    "halhu": {
-      "뜻": "출현하다",
-      "halhu": {
-        "nu halhu": "출현",
-        "la halhu": "출현한",
-        "na halhu": "출현하게"
-      }
-    },
-    "munha": {
-      "뜻": "춥다",
-      "munha": {
-        "la munha": "춥운",
-        "na munha": "춥게"
-      }
-    },
-    "lismi": {
-      "뜻": "충돌하다",
-      "lismi": {
-        "nu lismi": "충돌",
-        "la lismi": "충돌한",
-        "na lismi": "충돌하게"
-      }
-    },
-    "sisma": {
-      "뜻": "충실하다",
-      "sisma": {
-        "nu sisma": "충실",
-        "la sisma": "충실한",
-        "na sisma": "충실하게"
-      }
-    },
-    "sucla": {
-      "뜻": "충전하다",
-      "sucla": {
-        "nu sucla": "충전",
-        "la sucla": "충전한",
-        "na sucla": "충전하게"
-      }
-    },
-    "misni": {
-      "뜻": "취침하다",
-      "misni": {
-        "nu misni": "수면",
-        "li misni": "침구",
-        "mu misni": "침실",
-        "na misni": "잠자게",
-        "la misni": "잔"
-      }
-    },
-    "masnu": {
-      "뜻": "치료하다",
-      "masnu": {
-        "nu masnu": "치료",
-        "la masnu": "치료한",
-        "na masnu": "치료하게"
-      }
-    },
-    "hamha": {
-      "뜻": "칭찬하다",
-      "hamha": {
-        "nu hamha": "칭찬",
-        "la hamha": "칭찬한",
-        "na hamha": "칭찬하게"
-      }
-    },
-    "muina": {
-      "뜻": "크다",
-      "muina": {
-        "na muina": "크게",
-        "la muina": "큰"
-      }
-    },
-    "macli": {
-      "뜻": "탐험하다",
-      "macli": {
-        "nu macli": "탐험",
-        "la macli": "탐험한",
-        "na macli": "탐험하게"
-      }
-    },
-    "munsi": {
-      "뜻": "탑승하다",
-      "munsi": {
-        "nu munsi": "탑승",
-        "la munsi": "탑승한",
-        "na munsi": "탑승하게"
-      }
-    },
-    "nuhsi": {
-      "뜻": "터득하다",
-      "nuhsi": {
-        "nu nuhsi": "터득",
-        "la nuhsi": "터득한",
-        "na nuhsi": "터득하게"
-      }
-    },
-    "sucli": {
-      "뜻": "토론하다",
-      "sucli": {
-        "nu sucli": "토론",
-        "la sucli": "토론한",
-        "na sucli": "토론하게"
-      }
-    },
-    "milmi": {
-      "뜻": "통찰하다",
-      "milmi": {
-        "nu milmi": "통찰",
-        "la milmi": "통찰한",
-        "na milmi": "통찰하게"
-      }
-    },
-    "hahna": {
-      "뜻": "통합하다",
-      "hahna": {
-        "nu hahna": "통합",
-        "la hahna": "통합한",
-        "na hahna": "통합하게"
-      }
-    },
-    "husni": {
-      "뜻": "투자하다",
-      "husni": {
-        "nu husni": "투자",
-        "la husni": "투자한",
-        "na husni": "투자하게"
-      }
-    },
-    "halsu": {
-      "뜻": "투척하다",
-      "halsu": {
-        "nu halsu": "투척/발사",
-        "mi halsu": "투수/발사자",
-        "li halsu": "투사체/공",
-        "na halsu": "던지게",
-        "la halsu": "던진"
-      }
-    },
-    "hismi": {
-      "뜻": "튀기다",
-      "hismi": {
-        "la hismi": "튀긴",
-        "na hismi": "튀기게"
-      }
-    },
-    "nahma": {
-      "뜻": "특별하다",
-      "nahma": {
-        "nu nahma": "특별",
-        "la nahma": "특별한",
-        "na nahma": "특별하게"
-      }
-    },
-    "lalsu": {
-      "뜻": "특정하다",
-      "lalsu": {
-        "nu lalsu": "특정",
-        "la lalsu": "특정한",
-        "na lalsu": "특정하게"
-      }
-    },
-    "hasla": {
-      "뜻": "튼튼하다",
-      "hasla": {
-        "la hasla": "튼튼한",
-        "na hasla": "튼튼하게"
-      }
-    },
-    "hisni": {
-      "뜻": "파괴하다",
-      "hisni": {
-        "nu hisni": "파괴/철거",
-        "mi hisni": "파괴자",
-        "li hisni": "무기/분쇄기",
-        "mu hisni": "유적",
-        "na hisni": "부수게",
-        "la hisni": "부순"
-      }
-    },
-    "muili": {
-      "뜻": "파지하다",
-      "muili": {
-        "nu muili": "파지",
-        "li muili": "손잡이/집게",
-        "na muili": "잡게",
-        "la muili": "잡은"
-      }
-    },
-    "sacmu": {
-      "뜻": "판단하다",
-      "sacmu": {
-        "nu sacmu": "판단",
-        "la sacmu": "판단한",
-        "na sacmu": "판단하게"
-      }
-    },
-    "sasla": {
-      "뜻": "팔다",
-      "sasla": {
-        "la sasla": "판",
-        "na sasla": "팔게"
-      }
-    },
-    "sahsa": {
-      "뜻": "패배하다",
-      "sahsa": {
-        "nu sahsa": "패배",
-        "la sahsa": "패배한",
-        "na sahsa": "패배하게",
-        "mi sahsa": "패배자"
-      }
-    },
-    "silsi": {
-      "뜻": "팽창하다",
-      "silsi": {
-        "nu silsi": "팽창",
-        "la silsi": "팽창한",
-        "na silsi": "팽창하게"
-      }
-    },
-    "sumni": {
-      "뜻": "편리하다",
-      "sumni": {
-        "nu sumni": "편리",
-        "la sumni": "편리한",
-        "na sumni": "편리하게"
-      }
-    },
-    "naclu": {
-      "뜻": "평가하다",
-      "naclu": {
-        "nu naclu": "평가",
-        "la naclu": "평가한",
-        "na naclu": "평가하게"
-      }
-    },
-    "nalhi": {
-      "뜻": "평범하다",
-      "nalhi": {
-        "nu nalhi": "평범",
-        "la nalhi": "평범한",
-        "na nalhi": "평범하게"
-      }
-    },
-    "luhni": {
-      "뜻": "평평하다",
-      "luhni": {
-        "nu luhni": "평평",
-        "la luhni": "평평한",
-        "na luhni": "평평하게"
-      }
-    },
-    "sumna": {
-      "뜻": "폐쇄하다",
-      "sumna": {
-        "nu sumna": "폐쇄",
-        "li sumna": "자물쇠",
-        "mu sumna": "폐쇄 구역",
-        "na sumna": "폐쇄하게",
-        "la sumna": "폐쇄한"
-      }
-    },
-    "mulnu": {
-      "뜻": "포기하다",
-      "mulnu": {
-        "nu mulnu": "포기",
-        "la mulnu": "포기한",
-        "na mulnu": "포기하게"
-      }
-    },
-    "nisni": {
-      "뜻": "포식하다",
-      "nisni": {
-        "nu nisni": "포식",
-        "la nisni": "포식한",
-        "na nisni": "포식하게"
-      }
-    },
-    "hasma": {
-      "뜻": "포함하다",
-      "hasma": {
-        "nu hasma": "포함",
-        "la hasma": "포함한",
-        "na hasma": "포함하게"
-      }
-    },
-    "nilna": {
-      "뜻": "포획하다",
-      "nilna": {
-        "nu nilna": "포획",
-        "mi nilna": "사냥꾼",
-        "a nilna": "사냥감",
-        "li nilna": "그물/덫",
-        "mu nilna": "사냥터",
-        "na nilna": "사냥하게",
-        "la nilna": "사냥한"
-      }
-    },
-    "numsu": {
-      "뜻": "폭로하다",
-      "numsu": {
-        "nu numsu": "폭로",
-        "la numsu": "폭로한",
-        "na numsu": "폭로하게"
-      }
-    },
-    "hinhu": {
-      "뜻": "폭발하다",
-      "hinhu": {
-        "nu hinhu": "폭발",
-        "la hinhu": "폭발한",
-        "na hinhu": "폭발하게"
-      }
-    },
-    "sihna": {
-      "뜻": "표현하다",
-      "sihna": {
-        "nu sihna": "표현",
-        "la sihna": "표현한",
-        "na sihna": "표현하게"
-      }
-    },
-    "sachu": {
-      "뜻": "피곤하다",
-      "sachu": {
-        "na sachu": "피곤하게",
-        "la sachu": "피곤한"
-      }
-    },
-    "lahsi": {
-      "뜻": "피하다",
-      "lahsi": {
-        "nu lahsi": "회피",
-        "la lahsi": "피한",
-        "na lahsi": "피하게"
-      }
-    },
-    "misna": {
-      "뜻": "필요하다",
-      "misna": {
-        "na misna": "필요하게",
-        "la misna": "필요한"
-      }
-    },
-    "hihnu": {
-      "뜻": "할당하다",
-      "hihnu": {
-        "nu hihnu": "할당",
-        "la hihnu": "할당한",
-        "na hihnu": "할당하게"
-      }
-    },
-    "nuhna": {
-      "뜻": "할인하다",
-      "nuhna": {
-        "nu nuhna": "할인",
-        "la nuhna": "할인한",
-        "na nuhna": "할인하게"
-      }
-    },
-    "lachi": {
-      "뜻": "합성하다",
-      "lachi": {
-        "nu lachi": "합성",
-        "la lachi": "합성한",
-        "na lachi": "합성하게"
-      }
-    },
-    "nuhnu": {
-      "뜻": "항의하다",
-      "nuhnu": {
-        "nu nuhnu": "항의",
-        "la nuhnu": "항의한",
-        "na nuhnu": "항의하게"
-      }
-    },
-    "salhu": {
-      "뜻": "해결하다",
-      "salhu": {
-        "nu salhu": "해결",
-        "la salhu": "해결한",
-        "na salhu": "해결하게"
-      }
-    },
-    "nihmi": {
-      "뜻": "해고하다",
-      "nihmi": {
-        "nu nihmi": "해고",
-        "la nihmi": "해고한",
-        "na nihmi": "해고하게"
-      }
-    },
-    "numha": {
-      "뜻": "해산하다",
-      "numha": {
-        "nu numha": "해산",
-        "la numha": "해산한",
-        "na numha": "해산하게"
-      }
-    },
-    "suilu": {
-      "뜻": "행복하다",
-      "suilu": {
-        "nu suilu": "행복",
-        "la suilu": "행복한",
-        "na suilu": "행복하게"
-      }
-    },
-    "husla": {
-      "뜻": "허락하다",
-      "husla": {
-        "nu husla": "허락",
-        "la husla": "허락한",
-        "na husla": "허락하게"
-      }
-    },
-    "humhu": {
-      "뜻": "혁신하다",
-      "humhu": {
-        "nu humhu": "혁신",
-        "la humhu": "혁신한",
-        "na humhu": "혁신하게"
-      }
-    },
-    "suini": {
-      "뜻": "혐오하다",
-      "suini": {
-        "nu suini": "혐오",
-        "la suini": "혐오한",
-        "na suini": "혐오하게"
-      }
-    },
-    "mumla": {
-      "뜻": "협력하다",
-      "mumla": {
-        "nu mumla": "협력",
-        "la mumla": "협력한",
-        "na mumla": "협력하게",
-        "mi mumla": "협력자"
-      }
-    },
-    "hiclu": {
-      "뜻": "협상하다",
-      "hiclu": {
-        "nu hiclu": "협상",
-        "la hiclu": "협상한",
-        "na hiclu": "협상하게"
-      }
-    },
-    "minsa": {
-      "뜻": "호흡하다",
-      "minsa": {
-        "nu minsa": "호흡",
-        "la minsa": "호흡한",
-        "na minsa": "호흡하게"
-      }
-    },
-    "minmu": {
-      "뜻": "화려하다",
-      "minmu": {
-        "nu minmu": "화려",
-        "la minmu": "화려한",
-        "na minmu": "화려하게"
-      }
-    },
-    "sihsi": {
-      "뜻": "확산하다",
-      "sihsi": {
-        "nu sihsi": "확산",
-        "la sihsi": "확산한",
-        "na sihsi": "확산하게"
-      }
-    },
-    "lusma": {
-      "뜻": "확실하다",
-      "lusma": {
-        "nu lusma": "확실",
-        "la lusma": "확실한",
-        "na lusma": "확실하게"
-      }
-    },
-    "minhu": {
-      "뜻": "확정하다",
-      "minhu": {
-        "nu minhu": "확정",
-        "la minhu": "확정한",
-        "na minhu": "확정하게"
-      }
-    },
-    "hinli": {
-      "뜻": "환불하다",
-      "hinli": {
-        "nu hinli": "환불",
-        "la hinli": "환불한",
-        "na hinli": "환불하게"
-      }
-    },
-    "sahsi": {
-      "뜻": "활동하다",
-      "sahsi": {
-        "nu sahsi": "활동",
-        "la sahsi": "활동한",
-        "na sahsi": "활동하게"
-      }
-    },
-    "lulnu": {
-      "뜻": "회복하다",
-      "lulnu": {
-        "nu lulnu": "회복",
-        "la lulnu": "회복한",
-        "na lulnu": "회복하게"
-      }
-    },
-    "luslu": {
-      "뜻": "회상하다",
-      "luslu": {
-        "nu luslu": "회상",
-        "la luslu": "회상한",
-        "na luslu": "회상하게"
-      }
-    },
-    "mihsu": {
-      "뜻": "획득하다",
-      "mihsu": {
-        "nu mihsu": "획득",
-        "la mihsu": "획득한",
-        "na mihsu": "획득하게"
-      }
-    },
-    "lacha": {
-      "뜻": "후회하다",
-      "lacha": {
-        "nu lacha": "후회",
-        "la lacha": "후회한",
-        "na lacha": "후회하게"
-      }
-    },
-    "huili": {
-      "뜻": "훈련하다",
-      "huili": {
-        "nu huili": "훈련",
-        "la huili": "훈련한",
-        "na huili": "훈련하게"
-      }
-    },
-    "milha": {
-      "뜻": "훌륭하다",
-      "milha": {
-        "nu milha": "훌륭",
-        "la milha": "훌륭한",
-        "na milha": "훌륭하게"
-      }
-    },
-    "mihlu": {
-      "뜻": "휴식하다",
-      "mihlu": {
-        "nu mihlu": "휴식",
-        "mu mihlu": "휴게소/쉼터",
-        "na mihlu": "쉬게",
-        "la mihlu": "쉰"
-      }
-    },
-    "mumsa": {
-      "뜻": "흐르다",
-      "mumsa": {
-        "la mumsa": "흐른",
-        "na mumsa": "흐르게"
-      }
-    },
-    "humla": {
-      "뜻": "흡수하다",
-      "humla": {
-        "nu humla": "흡수",
-        "la humla": "흡수한",
-        "na humla": "흡수하게"
-      }
-    },
-    "nuisu": {
-      "뜻": "흥분하다",
-      "nuisu": {
-        "nu nuisu": "흥분",
-        "la nuisu": "흥분한",
-        "na nuisu": "흥분하게"
-      }
-    },
-    "sahni": {
-      "뜻": "희귀하다",
-      "sahni": {
-        "nu sahni": "희귀",
-        "la sahni": "희귀한",
-        "na sahni": "희귀하게"
-      }
-    },
-    "hinla": {
-      "뜻": "희생하다",
-      "hinla": {
-        "nu hinla": "희생",
-        "la hinla": "희생한",
-        "na hinla": "희생하게"
-      }
-    },
-    "nuclu": {
-      "뜻": "힘들다",
-      "nuclu": {
-        "na nuclu": "힘들게",
-        "la nuclu": "힘든"
-      }
-    },
-    "sunhi": {
-      "뜻": "도망가다",
-      "sunhi": {
-        "nu sunhi": "도망",
-        "la sunhi": "도망간",
-        "na sunhi": "도망가게"
-      }
-    },
-    "hanna": {
-      "뜻": "필기하다",
-      "henna": {
-        "nu hanna": "필기",
-        "la hanna": "필기한",
-        "na hanna": "필기하게",
-        "li hanna": "필기구",
-        "li halhan": "볼펜",
-        "li muihan": "연필"
-      }
-    },
-    "munna": {
-      "뜻": "퍼내다",
-      "munna": {
-        "la munna": "픈",
-        "na munna": "프게"
-      }
-    },
-    "hucli": {
-      "뜻": "찌르다",
-      "hucli": {
-        "nu hucli": "찌르는 것",
-        "la hucli": "찌른",
-        "na hucli": "찌르게"
-      }
-    },
-    "hacni": {
-      "뜻": "전화하다",
-      "hacni": {
-        "nu hacni": "전화",
-        "la hacni": "전화한",
-        "na hacni": "전화하게",
-        "li hacni": "휴대폰",
-        "li malhac": "편지"
-      }
-    },
-    "sachi": {
-      "뜻": "상징하다",
-      "sachi": {
-        "nu hachi": "상징",
-        "la hachi": "상징한",
-        "na hachi": "상징하게"
-      }
-    },
-    "hacla": {
-      "뜻": "비추다",
-      "hacla": {
-        "nu hacla": "비추는 것",
-        "la hacla": "비춘",
-        "na hacla": "비추게"
-      }
-    },
-    "clama": {
-      "뜻": "태어나다",
-      "clama": {
-        "nu clama": "탄생",
-        "la clama": "태어난",
-        "na clama": "태어나게"
-      }
-    },
-    "tlasa": {
-      "뜻": "게시하다",
-      "tlasa": {
-        "nu tlasa": "게시",
-        "la tlasa": "게시한",
-        "na tlasa": "게시한",
-        "li tlasa": "게시판"
-      }
-    },
-    "calca": {
-      "뜻": "다리다",
-      "calca": {
-        "nu calca": "다리는 것",
-        "la calca": "다린",
-        "na calca": "다리게",
-        "li calca": "다리미"
-      }
-    },
-    "clata": {
-      "뜻": "촬영하다",
-      "clata": {
-        "nu clata": "촬영",
-        "la clata": "촬영한",
-        "na clata": "촬영하게",
-        "li clata": "카메라"
-      }
-    },
-    "hallu": {
-      "뜻": "보다",
-      "hallu": {
-        "nu hallu": "보는 것",
-        "la hallu": "본",
-        "na hallu": "보게"
-      }
-    },
-    "stalu": {
-      "뜻": "강하다",
-      "stalu": {
-        "nu stalu": "강함",
-        "la stalu": "강한",
-        "na stalu": "강하게"
-      }
-    },
-    "hanta": {
-      "뜻": "흔들리다",
-      "hanta": {
-        "nu hanta": "흔들림",
-        "la hanta": "흔들린",
-        "na hanta": "흔들리게"
-      }
-    },
-    "nalla": {
-      "뜻": "해롭다",
-      "nalla": {
-        "nu nalla": "해로움",
-        "la nalla": "해로운",
-        "na nalla": "해롭게"
-      }
-    },
-    "malci": {
-      "뜻": "비어 있다",
-      "malci": {
-        "nu malci": "비어 있는 것",
-        "la malci": "비어 있는",
-        "na malci": "비어 있게"
-      }
-    },
-    "minni": {
-      "뜻": "존재하다",
-      "minni": {
-        "nu minni": "존재",
-        "la minni": "존재한",
-        "na minni": "존재하게"
+      "gecnu": {
+        "nu gecnu": "냉정",
+        "la gecnu": "냉정한",
+        "na gecnu": "냉정하게"
       }
     },
     "hacta": {
-      "뜻": "움직이다",
+      "뜻": "노력하다",
       "hacta": {
-        "nu hacta": "움직임",
-        "la hacta": "움직인",
-        "na hacta": "움직이게"
-      } 
+        "nu hacta": "노력",
+        "la hacta": "노력한",
+        "na hacta": "노력하게"
+      }
     },
-    "lacta": {
+    "rijsi": {
+      "뜻": "노래하다",
+      "rijsi": {
+        "nu rijsi": "노래",
+        "la rijsi": "노래한",
+        "na rijsi": "노래하게"
+      }
+    },
+    "gansi": {
+      "뜻": "녹이다",
+      "gansi": {
+        "la gansi": "녹인",
+        "na gansi": "녹이게"
+      }
+    },
+    "jegma": {
+      "뜻": "농사하다",
+      "jegma": {
+        "nu jegma": "농사",
+        "la jegma": "농사한",
+        "na jegma": "농사하게",
+        "li jegma": "농약",
+        "mu jegma": "농장"
+      }
+    },
+    "maghi": {
+      "뜻": "높다",
+      "maghi": {
+        "na maghi": "높게",
+        "la maghi": "높은"
+      }
+    },
+    "cetre": {
+      "뜻": "느끼다",
+      "cetre": {
+        "la cetre": "느낀",
+        "na cetre": "느끼게"
+      }
+    },
+    "bismu": {
+      "뜻": "느리다",
+      "bismu": {
+        "na bismu": "느리게",
+        "la bismu": "느린"
+      }
+    },
+    "hegbu": {
+      "뜻": "다양하다",
+      "hegbu": {
+        "nu hegbu": "다양",
+        "la hegbu": "다양한",
+        "na hegbu": "다양하게"
+      }
+    },
+    "bible": {
+      "뜻": "단단하다",
+      "bible": {
+        "nu bible": "단단",
+        "la bible": "단단한",
+        "na bible": "단단하게"
+      }
+    },
+    "cutlu": {
+      "뜻": "달성하다",
+      "cutlu": {
+        "nu cutlu": "달성",
+        "la cutlu": "달성한",
+        "na cutlu": "달성하게"
+      }
+    },
+    "manli": {
+      "뜻": "당황하다",
+      "manli": {
+        "nu manli": "당황",
+        "la manli": "당황한",
+        "na manli": "당황하게"
+      }
+    },
+    "gejga": {
+      "뜻": "대기하다",
+      "gejga": {
+        "nu gejga": "대기/기다림",
+        "mi gejga": "대기자",
+        "mu gejga": "대기실/정류장",
+        "na gejga": "대기하게",
+        "la gejga": "대기한"
+      }
+    },
+    "gintu": {
+      "뜻": "대단하다",
+      "gintu": {
+        "nu gintu": "대단",
+        "la gintu": "대단한",
+        "na gintu": "대단하게"
+      }
+    },
+    "nungu": {
+      "뜻": "대답하다",
+      "nungu": {
+        "nu nungu": "대답",
+        "la nungu": "대답한",
+        "na nungu": "대답하게"
+      }
+    },
+    "gerha": {
+      "뜻": "대립하다",
+      "gerha": {
+        "nu gerha": "대립",
+        "la gerha": "대립한",
+        "na gerha": "대립하게"
+      }
+    },
+    "barsa": {
+      "뜻": "대면하다",
+      "barsa": {
+        "nu barsa": "대면/미팅",
+        "mi barsa": "참석자",
+        "mu barsa": "회의실",
+        "na barsa": "대면하게",
+        "la barsa": "대면한"
+      }
+    },
+    "relru": {
+      "뜻": "대접하다",
+      "relru": {
+        "nu relru": "대접",
+        "la relru": "대접한",
+        "na relru": "대접하게"
+      }
+    },
+    "libli": {
+      "뜻": "대체하다",
+      "libli": {
+        "nu libli": "대체",
+        "la libli": "대체한",
+        "na libli": "대체하게",
+        "li libli": "대용품"
+      }
+    },
+    "nenju": {
+      "뜻": "대출하다",
+      "nenju": {
+        "nu nenju": "대출",
+        "la nenju": "대출한",
+        "na nenju": "대출하게"
+      }
+    },
+    "jugje": {
+      "뜻": "대표하다",
+      "jugje": {
+        "nu jugje": "대표",
+        "la jugje": "대표한",
+        "na jugje": "대표하게"
+      }
+    },
+    "ragle": {
+      "뜻": "도발하다",
+      "ragle": {
+        "nu ragle": "도발",
+        "la ragle": "도발한",
+        "na ragle": "도발하게"
+      }
+    },
+    "cetge": {
+      "뜻": "도약하다",
+      "cetge": {
+        "nu cetge": "도약/점프",
+        "mi cetge": "도약자",
+        "li cetge": "트램펄린",
+        "na cetge": "뛰게",
+        "la cetge": "뛴"
+      }
+    },
+    "tegma": {
+      "뜻": "도전하다",
+      "tegma": {
+        "nu tegma": "도전",
+        "la tegma": "도전한",
+        "na tegma": "도전하게",
+        "mi tegma": "도전자"
+      }
+    },
+    "remnu": {
+      "뜻": "도착하다",
+      "remnu": {
+        "nu remnu": "도착",
+        "la remnu": "도착한",
+        "na remnu": "도착하게"
+      }
+    },
+    "sublu": {
+      "뜻": "독립하다",
+      "sublu": {
+        "nu sublu": "독립",
+        "la sublu": "독립한",
+        "na sublu": "독립하게"
+      }
+    },
+    "lehre": {
+      "뜻": "돕다",
+      "lehre": {
+        "nu lehre": "조력/즈원",
+        "mi lehre": "조력자",
+        "li lehre": "보조기구",
+        "na lehre": "도와주게",
+        "la lehre": "도와준"
+      }
+    },
+    "sijra": {
+      "뜻": "동의하다",
+      "sijra": {
+        "nu sijra": "동의",
+        "la sijra": "동의한",
+        "na sijra": "동의하게"
+      }
+    },
+    "hijgi": {
+      "뜻": "동일하다",
+      "hijgi": {
+        "nu hijgi": "동일",
+        "la hijgi": "동일한",
+        "na hijgi": "동일하게"
+      }
+    },
+    "lungu": {
+      "뜻": "듣다",
+      "lungu": {
+        "nu lungu": "청취",
+        "mi lungu": "청취자",
+        "li lungu": "이어폰",
+        "na lungu": "듣게",
+        "la lungu": "들은"
+      }
+    },
+    "cejsi": {
+      "뜻": "등록하다",
+      "cejsi": {
+        "nu cejsi": "등록",
+        "la cejsi": "등록한",
+        "na cejsi": "등록하게"
+      }
+    },
+    "bumga": {
+      "뜻": "딱딱하다",
+      "bumga": {
+        "nu bumga": "딱딱",
+        "la bumga": "딱딱한",
+        "na bumga": "딱딱하게"
+      }
+    },
+    "rurla": {
+      "뜻": "때리다",
+      "rurla": {
+        "la rurla": "때린",
+        "na rurla": "때리게"
+      }
+    },
+    "hirje": {
+      "뜻": "똑똑하다",
+      "hirje": {
+        "la hirje": "똑똑한",
+        "na hirje": "똑똑하게"
+      }
+    },
+    "sagju": {
+      "뜻": "마시다",
+      "sagju": {
+        "nu sagju": "음용",
+        "mi sagju": "음용자",
+        "li sagju": "컵/음료수",
+        "mu sagju": "급수대",
+        "na sagju": "마시게",
+        "la sagju": "마신"
+      }
+    },
+    "hinmi": {
+      "뜻": "만족하다",
+      "hinmi": {
+        "nu hinmi": "만족",
+        "la hinmi": "만족한",
+        "na hinmi": "만족하게"
+      }
+    },
+    "hijgu": {
+      "뜻": "말하다",
+      "hijgu": {
+        "nu hijgu": "언어/말하기",
+        "mi hijgu": "화자",
+        "li hijgu": "마이크",
+        "na hijgu": "말하게",
+        "la hijgu": "말한"
+      }
+    },
+    "hurja": {
+      "뜻": "매끈하다",
+      "hurja": {
+        "nu hurja": "매끈",
+        "la hurja": "매끈한",
+        "na hurja": "매끈하게"
+      }
+    },
+    "tuslu": {
+      "뜻": "매장하다",
+      "tuslu": {
+        "nu tuslu": "매장",
+        "la tuslu": "매장한",
+        "na tuslu": "매장하게"
+      }
+    },
+    "hecni": {
+      "뜻": "맹세하다",
+      "hecni": {
+        "nu hecni": "맹세",
+        "la hecni": "맹세한",
+        "na hecni": "맹세하게"
+      }
+    },
+    "lacji": {
+      "뜻": "멸종하다",
+      "lacji": {
+        "nu lacji": "멸종",
+        "la lacji": "멸종한",
+        "na lacji": "멸종하게"
+      }
+    },
+    "surca": {
+      "뜻": "명령하다",
+      "surca": {
+        "nu surca": "명령",
+        "la surca": "명령한",
+        "na surca": "명령하게"
+      }
+    },
+    "migri": {
+      "뜻": "명백하다",
+      "migri": {
+        "nu migri": "명백",
+        "la migri": "명백한",
+        "na migri": "명백하게"
+      }
+    },
+    "lejcu": {
+      "뜻": "모방하다",
+      "lejcu": {
+        "nu lejcu": "모방/모조",
+        "mi lejcu": "모방자",
+        "li lejcu": "모조품",
+        "na lejcu": "모방하게",
+        "la lejcu": "모방한"
+      }
+    },
+    "tulce": {
+      "뜻": "모집하다",
+      "tulce": {
+        "nu tulce": "모집",
+        "la tulce": "모집한",
+        "na tulce": "모집하게"
+      }
+    },
+    "gegti": {
+      "뜻": "모호하다",
+      "gegti": {
+        "nu gegti": "모호",
+        "la gegti": "모호한",
+        "na gegti": "모호하게"
+      }
+    },
+    "gehna": {
+      "뜻": "목격하다",
+      "gehna": {
+        "nu gehna": "목격",
+        "la gehna": "목격한",
+        "na gehna": "목격하게"
+      }
+    },
+    "musli": {
+      "뜻": "목표하다",
+      "musli": {
+        "nu musli": "목표",
+        "la musli": "목표한",
+        "na musli": "목표하게"
+      }
+    },
+    "sejbu": {
+      "뜻": "묘사하다",
+      "sejbu": {
+        "nu sejbu": "묘사",
+        "la sejbu": "묘사한",
+        "na sejbu": "묘사하게"
+      }
+    },
+    "cehgi": {
+      "뜻": "무관심하다",
+      "cehgi": {
+        "nu cehgi": "무관심",
+        "la cehgi": "무관심한",
+        "na cehgi": "무관심하게"
+      }
+    },
+    "nujmu": {
+      "뜻": "무력하다",
+      "nujmu": {
+        "nu nujmu": "무력",
+        "la nujmu": "무력한",
+        "na nujmu": "무력하게"
+      }
+    },
+    "satmi": {
+      "뜻": "무섭다",
+      "satmi": {
+        "nu satmi": "공포",
+        "la satmi": "무섭운",
+        "na satmi": "무섭게"
+      }
+    },
+    "sajli": {
+      "뜻": "무시하다",
+      "sajli": {
+        "nu sajli": "무시",
+        "la sajli": "무시한",
+        "na sajli": "무시하게"
+      }
+    },
+    "melsa": {
+      "뜻": "묵살하다",
+      "melsa": {
+        "nu melsa": "묵살",
+        "la melsa": "묵살한",
+        "na melsa": "묵살하게"
+      }
+    },
+    "lumru": {
+      "뜻": "문의하다",
+      "lumru": {
+        "nu lumru": "문의",
+        "la lumru": "문의한",
+        "na lumru": "문의하게"
+      }
+    },
+    "sutgu": {
+      "뜻": "미묘하다",
+      "sutgu": {
+        "nu sutgu": "미묘",
+        "la sutgu": "미묘한",
+        "na sutgu": "미묘하게"
+      }
+    },
+    "timhu": {
+      "뜻": "미소 짓다",
+      "timhu": {
+        "nu timhu": "미소",
+        "la timhu": "미소 짓는",
+        "na timhu": "미소 짓게"
+      }
+    },
+    "jirgu": {
+      "뜻": "반대하다",
+      "jirgu": {
+        "nu jirgu": "반대",
+        "la jirgu": "반대한",
+        "na jirgu": "반대하게",
+        "mi jirgu": "반대자"
+      }
+    },
+    "nurha": {
+      "뜻": "반복하다",
+      "nurha": {
+        "nu nurha": "반복",
+        "la nurha": "반복한",
+        "na nurha": "반복하게"
+      }
+    },
+    "halnu": {
+      "뜻": "반사하다",
+      "halnu": {
+        "nu halnu": "반사",
+        "la halnu": "반사한",
+        "na halnu": "반사하게"
+      }
+    },
+    "lersi": {
+      "뜻": "반응하다",
+      "lersi": {
+        "na lersi": "반응",
+        "la lersi": "반응한"
+      }
+    },
+    "tatbe": {
+      "뜻": "발굴하다",
+      "tatbe": {
+        "nu tatbe": "발굴",
+        "la tatbe": "발굴한",
+        "na tatbe": "발굴하게"
+      }
+    },
+    "begle": {
+      "뜻": "발명하다",
+      "begle": {
+        "nu begle": "발명",
+        "la begle": "발명한",
+        "na begle": "발명하게"
+      }
+    },
+    "nutlu": {
+      "뜻": "발생하다",
+      "nutlu": {
+        "nu nutlu": "발생",
+        "la nutlu": "발생한",
+        "na nutlu": "발생하게"
+      }
+    },
+    "rimsu": {
+      "뜻": "발전하다",
+      "rimsu": {
+        "nu rimsu": "발전/발달",
+        "na rimsu": "발전하게",
+        "la rimsu": "발전한"
+      }
+    },
+    "nanhi": {
+      "뜻": "방송하다",
+      "nanhi": {
+        "nu nanhi": "방송",
+        "la nanhi": "방송한",
+        "na nanhi": "방송하게",
+        "mi nanhi": "방송인"
+      }
+    },
+    "cuhja": {
+      "뜻": "방어하다",
+      "cuhja": {
+        "nu cuhja": "방어",
+        "la cuhja": "방어한",
+        "na cuhja": "방어하게"
+      }
+    },
+    "tunsi": {
+      "뜻": "방출하다",
+      "tunsi": {
+        "nu tunsi": "방출",
+        "la tunsi": "방출한",
+        "na tunsi": "방출하게"
+      }
+    },
+    "buhna": {
+      "뜻": "방해하다",
+      "buhna": {
+        "nu buhna": "방해",
+        "la buhna": "방해한",
+        "na buhna": "방해하게"
+      }
+    },
+    "jajsu": {
+      "뜻": "배달하다",
+      "jajsu": {
+        "nu jajsu": "배달",
+        "la jajsu": "배달한",
+        "na jajsu": "배달하게"
+      }
+    },
+    "nucbe": {
+      "뜻": "배열하다",
+      "nucbe": {
+        "nu nucbe": "배열",
+        "la nucbe": "배열한",
+        "na nucbe": "배열하게"
+      }
+    },
+    "ribsi": {
+      "뜻": "배출하다",
+      "ribsi": {
+        "nu ribsi": "배출",
+        "la ribsi": "배출한",
+        "na ribsi": "배출하게"
+      }
+    },
+    "basli": {
+      "뜻": "배회하다",
+      "basli": {
+        "nu basli": "배회",
+        "la basli": "배회한",
+        "na basli": "배회하게"
+      }
+    },
+    "bebsi": {
+      "뜻": "번역하다",
+      "bebsi": {
+        "nu bebsi": "번역",
+        "la bebsi": "번역한",
+        "na bebsi": "번역하게"
+      }
+    },
+    "cunga": {
+      "뜻": "번영하다",
+      "cunga": {
+        "nu cunga": "번영",
+        "la cunga": "번영한",
+        "na cunga": "번영하게"
+      }
+    },
+    "cibta": {
+      "뜻": "변화하다",
+      "cibta": {
+        "nu cibta": "변화",
+        "la cibta": "변화한",
+        "na cibta": "변화하게"
+      }
+    },
+    "rurme": {
+      "뜻": "보살피다",
+      "rurme": {
+        "nu rurme": "보살핌/복지",
+        "mi rurme": "보호자",
+        "a rurme": "피보호자",
+        "mu rurme": "보호소",
+        "na rurme": "보호하게",
+        "la rurme": "보호한"
+      }
+    },
+    "habja": {
+      "뜻": "보상하다",
+      "habja": {
+        "nu habja": "보상",
+        "la habja": "보상한",
+        "na habja": "보상하게"
+      }
+    },
+    "jetru": {
+      "뜻": "보장하다",
+      "jetru": {
+        "nu jetru": "보장",
+        "la jetru": "보장한",
+        "na jetru": "보장하게"
+      }
+    },
+    "julta": {
+      "뜻": "보조하다",
+      "julta": {
+        "nu julta": "보조",
+        "la julta": "보조한",
+        "na julta": "보조하게"
+      }
+    },
+    "mucbu": {
+      "뜻": "보존하다",
+      "mucbu": {
+        "nu mucbu": "보존",
+        "la mucbu": "보존한",
+        "na mucbu": "보존하게"
+      }
+    },
+    "tirgu": {
+      "뜻": "보증하다",
+      "tirgu": {
+        "nu tirgu": "보증",
+        "la tirgu": "보증한",
+        "na tirgu": "보증하게"
+      }
+    },
+    "cirna": {
+      "뜻": "보충하다",
+      "cirna": {
+        "nu cirna": "보충",
+        "la cirna": "보충한",
+        "na cirna": "보충하게"
+      }
+    },
+    "lense": {
+      "뜻": "복용하다",
+      "lense": {
+        "nu lense": "복용",
+        "la lense": "복용한",
+        "na lense": "복용하게"
+      }
+    },
+    "gelna": {
+      "뜻": "복원하다",
+      "gelna": {
+        "nu gelna": "복원",
+        "la gelna": "복원한",
+        "na gelna": "복원하게"
+      }
+    },
+    "sagru": {
+      "뜻": "복잡하다",
+      "sagru": {
+        "nu sagru": "복잡",
+        "la sagru": "복잡한",
+        "na sagru": "복잡하게"
+      }
+    },
+    "titni": {
+      "뜻": "복종하다",
+      "titni": {
+        "nu titni": "복종",
+        "la titni": "복종한",
+        "na titni": "복종하게"
+      }
+    },
+    "rejci": {
+      "뜻": "부담하다",
+      "rejci": {
+        "nu rejci": "부담",
+        "la rejci": "부담한",
+        "na rejci": "부담하게"
+      }
+    },
+    "helgu": {
+      "뜻": "부정하다",
+      "helgu": {
+        "nu helgu": "부정",
+        "la helgu": "부정한",
+        "na helgu": "부정하게"
+      }
+    },
+    "cihju": {
+      "뜻": "부족하다",
+      "cihju": {
+        "nu cihju": "부족",
+        "la cihju": "부족한",
+        "na cihju": "부족하게"
+      }
+    },
+    "canbi": {
+      "뜻": "부화하다",
+      "canbi": {
+        "nu canbi": "부화",
+        "la canbi": "부화한",
+        "na canbi": "부화하게"
+      }
+    },
+    "sabcu": {
+      "뜻": "분노하다",
+      "sabcu": {
+        "nu sabcu": "분노",
+        "la sabcu": "분노한",
+        "na sabcu": "분노하게"
+      }
+    },
+    "rutja": {
+      "뜻": "분류하다",
+      "rutja": {
+        "nu rutja": "분류",
+        "la rutja": "분류한",
+        "na rutja": "분류하게"
+      }
+    },
+    "cecmu": {
+      "뜻": "분리하다",
+      "cecmu": {
+        "nu cecmu": "분리",
+        "la cecmu": "분리한",
+        "na cecmu": "분리하게"
+      }
+    },
+    "lacja": {
+      "뜻": "분명하다",
+      "lacja": {
+        "nu lacja": "분명",
+        "la lacja": "분명한",
+        "na lacja": "분명하게"
+      }
+    },
+    "bahtu": {
+      "뜻": "분배하다",
+      "bahtu": {
+        "nu bahtu": "분배",
+        "la bahtu": "분배한",
+        "na bahtu": "분배하게"
+      }
+    },
+    "tetra": {
+      "뜻": "분석하다",
+      "tetra": {
+        "nu tetra": "분석",
+        "la tetra": "분석한",
+        "na tetra": "분석하게"
+      }
+    },
+    "lejgi": {
+      "뜻": "불공평하다",
+      "lejgi": {
+        "nu lejgi": "불공평",
+        "la lejgi": "불공평한",
+        "na lejgi": "불공평하게"
+      }
+    },
+    "gajha": {
+      "뜻": "불안하다",
+      "gajha": {
+        "nu gajha": "불안",
+        "la gajha": "불안한",
+        "na gajha": "불안하게"
+      }
+    },
+    "satsu": {
+      "뜻": "불평하다",
+      "satsu": {
+        "nu satsu": "불평",
+        "la satsu": "불평한",
+        "na satsu": "불평하게"
+      }
+    },
+    "sujne": {
+      "뜻": "붕괴하다",
+      "sujne": {
+        "nu sujne": "붕괴",
+        "la sujne": "붕괴한",
+        "na sujne": "붕괴하게"
+      }
+    },
+    "jegna": {
+      "뜻": "비교하다",
+      "jegna": {
+        "nu jegna": "비교",
+        "la jegna": "비교한",
+        "na jegna": "비교하게"
+      }
+    },
+    "sibju": {
+      "뜻": "비난하다",
+      "sibju": {
+        "nu sibju": "비난",
+        "la sibju": "비난한",
+        "na sibju": "비난하게"
+      }
+    },
+    "cuglu": {
+      "뜻": "비슷하다",
+      "cuglu": {
+        "nu cuglu": "비슷",
+        "la cuglu": "비슷한",
+        "na cuglu": "비슷하게"
+      }
+    },
+    "temcu": {
+      "뜻": "비유하다",
+      "temcu": {
+        "nu temcu": "비유",
+        "la temcu": "비유한",
+        "na temcu": "비유하게"
+      }
+    },
+    "jarsi": {
+      "뜻": "비판하다",
+      "jarsi": {
+        "nu jarsi": "비판",
+        "la jarsi": "비판한",
+        "na jarsi": "비판하게"
+      }
+    },
+    "nasce": {
+      "뜻": "빠르다",
+      "nasce": {
+        "na nasce": "빠르게",
+        "la nasce": "빠른"
+      }
+    },
+    "guhbi": {
+      "뜻": "사과하다",
+      "guhbi": {
+        "nu guhbi": "사과",
+        "la guhbi": "사과한",
+        "na guhbi": "사과하게"
+      }
+    },
+    "lubhi": {
+      "뜻": "사랑하다",
+      "lubhi": {
+        "nu lubhi": "사랑",
+        "la lubhi": "사랑한",
+        "na lubhi": "사랑하게"
+      }
+    },
+    "sirja": {
+      "뜻": "사망하다",
+      "sirja": {
+        "nu sirja": "사망",
+        "mu sirja": "무덤",
+        "na sirja": "죽게",
+        "la sirja": "죽은"
+      }
+    },
+    "ticru": {
+      "뜻": "사육하다",
+      "ticru": {
+        "nu ticru": "사육",
+        "mi ticru": "사육자",
+        "a ticru": "사육 당하는 것",
+        "li ticru": "사육 도구",
+        "mu ticru": "사육장",
+        "na ticru": "사육하게",
+        "la ticru": "사육한"
+      }
+    },
+    "gibnu": {
+      "뜻": "산만하다",
+      "gibnu": {
+        "nu gibnu": "산만",
+        "la gibnu": "산만한",
+        "na gibnu": "산만하게"
+      }
+    },
+    "malsu": {
+      "뜻": "상당하다",
+      "malsu": {
+        "nu malsu": "상당",
+        "la malsu": "상당한",
+        "na malsu": "상당하게"
+      }
+    },
+    "sambu": {
+      "뜻": "상륙하다",
+      "sambu": {
+        "nu sambu": "상륙",
+        "la sambu": "상륙한",
+        "na sambu": "상륙하게"
+      }
+    },
+    "guhbu": {
+      "뜻": "상상하다",
+      "guhbu": {
+        "nu guhbu": "상상",
+        "la guhbu": "상상한",
+        "na guhbu": "상상하게",
+        "li guhbu": "사진"
+      }
+    },
+    "jetci": {
+      "뜻": "상속하다",
+      "jetci": {
+        "nu jetci": "상속",
+        "la jetci": "상속한",
+        "na jetci": "상속하게"
+      }
+    },
+    "jacre": {
+      "뜻": "상승하다",
+      "jacre": {
+        "nu jacre": "상승",
+        "la jacre": "상승한",
+        "na jacre": "상승하게"
+      }
+    },
+    "gujca": {
+      "뜻": "생각하다",
+      "gujca": {
+        "nu gujca": "생각",
+        "la gujca": "생각한",
+        "na gujca": "생각하게"
+      }
+    },
+    "gasba": {
+      "뜻": "생산하다",
+      "gasba": {
+        "nu gasba": "생산",
+        "la gasba": "생산한",
+        "na gasba": "생산하게"
+      }
+    },
+    "jehgu": {
+      "뜻": "생생하다",
+      "jehgu": {
+        "nu jehgu": "생생",
+        "la jehgu": "생생한",
+        "na jehgu": "생생하게"
+      }
+    },
+    "setha": {
+      "뜻": "생존하다",
+      "setha": {
+        "nu setha": "생존/삶",
+        "mi setha": "조상",
+        "li setha": "생존도구",
+        "na setha": "살게",
+        "la setha": "산"
+      }
+    },
+    "guhme": {
+      "뜻": "서술하다",
+      "guhme": {
+        "nu guhme": "서술",
+        "la guhme": "서술한",
+        "na guhme": "서술하게"
+      }
+    },
+    "luhga": {
+      "뜻": "서식하다",
+      "luhga": {
+        "nu luhga": "서식",
+        "la luhga": "서식한",
+        "na luhga": "서식하게"
+      }
+    },
+    "lalbi": {
+      "뜻": "석방하다",
+      "lalbi": {
+        "nu lalbi": "석방",
+        "la lalbi": "석방한",
+        "na lalbi": "석방하게"
+      }
+    },
+    "nulbe": {
+      "뜻": "선명하다",
+      "nulbe": {
+        "nu nulbe": "선명",
+        "la nulbe": "선명한",
+        "na nulbe": "선명하게"
+      }
+    },
+    "rebga": {
+      "뜻": "선물하다",
+      "rebga": {
+        "nu rebga": "선물",
+        "la rebga": "선물한",
+        "na rebga": "선물하게"
+      }
+    },
+    "lerji": {
+      "뜻": "설득하다",
+      "lerji": {
+        "nu lerji": "설득",
+        "la lerji": "설득한",
+        "na lerji": "설득하게"
+      }
+    },
+    "nerna": {
+      "뜻": "설립하다",
+      "nerna": {
+        "nu nerna": "설립",
+        "la nerna": "설립한",
+        "na nerna": "설립하게"
+      }
+    },
+    "cibja": {
+      "뜻": "설명하다",
+      "cibja": {
+        "nu cibja": "설명",
+        "la cibja": "설명한",
+        "na cibja": "설명하게"
+      }
+    },
+    "jimna": {
+      "뜻": "설치하다",
+      "jimna": {
+        "nu jimna": "설치",
+        "la jimna": "설치한",
+        "na jimna": "설치하게"
+      }
+    },
+    "mesja": {
+      "뜻": "섭취하다",
+      "mesja": {
+        "nu mesja": "식사",
+        "mi mesja": "식객",
+        "li mesja": "포크",
+        "mu mesja": "식당",
+        "na mesja": "먹게",
+        "la mesja": "먹은"
+      }
+    },
+    "cahbi": {
+      "뜻": "성공하다",
+      "cahbi": {
+        "nu cahbi": "성공",
+        "la cahbi": "성공한",
+        "na cahbi": "성공하게"
+      }
+    },
+    "cuhci": {
+      "뜻": "성숙하다",
+      "cuhci": {
+        "nu cuhci": "성숙",
+        "la cuhci": "성숙한",
+        "na cuhci": "성숙하게"
+      }
+    },
+    "micru": {
+      "뜻": "성장하다",
+      "micru": {
+        "nu micru": "성장/발전",
+        "li micru": "비료",
+        "na micru": "자라게",
+        "la micru": "자란"
+      }
+    },
+    "hetsi": {
+      "뜻": "성취하다",
+      "hetsi": {
+        "nu hetsi": "성취",
+        "la hetsi": "성취한",
+        "na hetsi": "성취하게"
+      }
+    },
+    "nibje": {
+      "뜻": "세척하다",
+      "nibje": {
+        "nu nibje": "세척",
+        "la nibje": "세척한",
+        "na nibje": "세척하게",
+        "li nibje": "세면대",
+        "mu nibje": "욕실"
+      }
+    },
+    "gimru": {
+      "뜻": "소리 지르다",
+      "gimru": {
+        "nu gimru": "고성/외침",
+        "mi gimru": "소리치는 자",
+        "na gimru": "소리치게",
+        "la gimru": "소리친"
+      }
+    },
+    "relhe": {
+      "뜻": "소박하다",
+      "relhe": {
+        "nu relhe": "소박",
+        "la relhe": "소박한",
+        "na relhe": "소박하게"
+      }
+    },
+    "habge": {
+      "뜻": "소비하다",
+      "habge": {
+        "nu habge": "소비",
+        "la habge": "소비한",
+        "na habge": "소비하게"
+      }
+    },
+    "jesge": {
+      "뜻": "소중하다",
+      "jesge": {
+        "nu jesge": "소중",
+        "la jesge": "소중한",
+        "na jesge": "소중하게"
+      }
+    },
+    "tisle": {
+      "뜻": "속삭이다",
+      "tisle": {
+        "nu tisle": "속삭임",
+        "mi tisle": "속삭이는 자",
+        "na tisle": "속삭이게",
+        "la tisle": "속삭인"
+      }
+    },
+    "sicla": {
+      "뜻": "손상하다",
+      "sicla": {
+        "nu sicla": "손상",
+        "la sicla": "손상한",
+        "na sicla": "손상하게"
+      }
+    },
+    "himja": {
+      "뜻": "손실하다",
+      "himja": {
+        "nu himja": "손실",
+        "la himja": "손실한",
+        "na himja": "손실하게"
+      }
+    },
+    "lugnu": {
+      "뜻": "수락하다",
+      "lugnu": {
+        "nu lugnu": "수락",
+        "la lugnu": "수락한",
+        "na lugnu": "수락하게"
+      }
+    },
+    "negbu": {
+      "뜻": "수령하다",
+      "negbu": {
+        "nu negbu": "수령/수신",
+        "mi negbu": "수신자",
+        "li negbu": "수신기/안테나",
+        "na negbu": "받게",
+        "la negbu": "받은"
+      }
+    },
+    "bagbu": {
+      "뜻": "수리하다",
+      "bagbu": {
+        "nu bagbu": "수리",
+        "mi bagbu": "수리자",
+        "li bagbu": "수리 도구",
+        "mu bagbu": "서비스 센터",
+        "na bagbu": "수리하게",
+        "la bagbu": "수리한"
+      }
+    },
+    "cagce": {
+      "뜻": "수사하다",
+      "cagce": {
+        "nu cagce": "수사",
+        "la cagce": "수사한",
+        "na cagce": "수사하게"
+      }
+    },
+    "rasji": {
+      "뜻": "수술하다",
+      "rasji": {
+        "nu rasji": "수술",
+        "la rasji": "수술한",
+        "na rasji": "수술하게"
+      }
+    },
+    "jutji": {
+      "뜻": "수여하다",
+      "jutji": {
+        "nu jutji": "수여",
+        "la jutji": "수여한",
+        "na jutji": "수여하게"
+      }
+    },
+    "nimha": {
+      "뜻": "수용하다/받아들이다",
+      "nimha": {
+        "nu nimha": "수용",
+        "la nimha": "수용한/받아들인",
+        "na nimha": "수용하게/받아들이게"
+      }
+    },
+    "cigra": {
+      "뜻": "수정하다",
+      "cigra": {
+        "nu cigra": "수정",
+        "la cigra": "수정한",
+        "na cigra": "수정하게"
+      }
+    },
+    "hunmu": {
+      "뜻": "수축하다",
+      "hunmu": {
+        "nu hunmu": "수축",
+        "la hunmu": "수축한",
+        "na hunmu": "수축하게"
+      }
+    },
+    "cubre": {
+      "뜻": "수출하다",
+      "cubre": {
+        "nu cubre": "수출",
+        "la cubre": "수출한",
+        "na cubre": "수출하게"
+      }
+    },
+    "lahca": {
+      "뜻": "수확하다",
+      "lahca": {
+        "nu lahca": "수확",
+        "la lahca": "수확한",
+        "na lahca": "수확하게"
+      }
+    },
+    "majle": {
+      "뜻": "순환하다",
+      "majle": {
+        "nu majle": "순환",
+        "la majle": "순환한",
+        "na majle": "순환하게"
+      }
+    },
+    "heche": {
+      "뜻": "시도하다",
+      "heche": {
+        "nu heche": "시도",
+        "la heche": "시도한",
+        "na heche": "시도하게"
+      }
+    },
+    "guhji": {
+      "뜻": "시원하다",
+      "guhji": {
+        "nu guhji": "시원",
+        "la guhji": "시원한",
+        "na guhji": "시원하게"
+      }
+    },
+    "nijli": {
+      "뜻": "시위하다",
+      "nijli": {
+        "nu nijli": "시위",
+        "la nijli": "시위한",
+        "na nijli": "시위하게"
+      }
+    },
+    "jabja": {
+      "뜻": "시작하다",
+      "jabja": {
+        "nu jabja": "시작/태초",
+        "la jabja": "시작한",
+        "na jabja": "시작하게"
+      }
+    },
+    "jushe": {
+      "뜻": "시청/관찰하다",
+      "jushe": {
+        "nu jushe": "시청/관찰",
+        "mi jushe": "관람객/관찰자",
+        "li jushe": "망원경/모니터",
+        "mu jushe": "관측소",
+        "na jushe": "보게",
+        "la jushe": "본"
+      }
+    },
+    "garce": {
+      "뜻": "신성하다",
+      "garce": {
+        "nu garce": "신성",
+        "la garce": "신성한",
+        "na garce": "신성하게"
+      }
+    },
+    "nulbi": {
+      "뜻": "신중하다",
+      "nulbi": {
+        "nu nulbi": "신중",
+        "la nulbi": "신중한",
+        "na nulbi": "신중하게"
+      }
+    },
+    "bamra": {
+      "뜻": "신청하다",
+      "bamra": {
+        "nu bamra": "신청",
+        "la bamra": "신청한",
+        "na bamra": "신청하게"
+      }
+    },
+    "metca": {
+      "뜻": "신호하다",
+      "metca": {
+        "nu metca": "신호",
+        "la metca": "신호한",
+        "na metca": "신호하게"
+      }
+    },
+    "jehba": {
+      "뜻": "실망하다",
+      "jehba": {
+        "nu jehba": "실망",
+        "la jehba": "실망한",
+        "na jehba": "실망하게"
+      }
+    },
+    "rihce": {
+      "뜻": "실수하다",
+      "rihce": {
+        "nu rihce": "실수",
+        "la rihce": "실수한",
+        "na rihce": "실수하게"
+      }
+    },
+    "gutri": {
+      "뜻": "실시하다",
+      "gutri": {
+        "nu gutri": "실시",
+        "la gutri": "실시한",
+        "na gutri": "실시하게"
+      }
+    },
+    "lunbu": {
+      "뜻": "실패하다",
+      "lunbu": {
+        "nu lunbu": "실패",
+        "la lunbu": "실패한",
+        "na lunbu": "실패하게"
+      }
+    },
+    "necbi": {
+      "뜻": "실험하다",
+      "necbi": {
+        "nu necbi": "실험",
+        "la necbi": "실험한",
+        "na necbi": "실험하게"
+      }
+    },
+    "bubru": {
+      "뜻": "실현하다",
+      "bubru": {
+        "nu bubru": "실현",
+        "la bubru": "실현한",
+        "na bubru": "실현하게"
+      }
+    },
+    "cacje": {
+      "뜻": "심다",
+      "cacje": {
+        "nu cacje": "식재/농경",
+        "mi cacje": "농부/정원사",
+        "li cacje": "모종/삽",
+        "mu cacje": "농장/화단",
+        "na cacje": "심게",
+        "la cacje": "심은"
+      }
+    },
+    "rarli": {
+      "뜻": "안내하다",
+      "rarli": {
+        "nu rarli": "안내",
+        "la rarli": "안내한",
+        "na rarli": "안내하게"
+      }
+    },
+    "mihba": {
+      "뜻": "애원하다",
+      "mihba": {
+        "nu mihba": "애원",
+        "la mihba": "애원한",
+        "na mihba": "애원하게"
+      }
+    },
+    "sagtu": {
+      "뜻": "약탈하다",
+      "sagtu": {
+        "nu sagtu": "약탈",
+        "la sagtu": "약탈한",
+        "na sagtu": "약탈하게"
+      }
+    },
+    "lihca": {
+      "뜻": "양치하다",
+      "lihca": {
+        "nu lihca": "양치",
+        "la lihca": "양치한",
+        "na lihca": "양치하게",
+        "li lihca": "치실"
+      }
+    },
+    "jebsa": {
+      "뜻": "어렵다",
+      "jebsa": {
+        "la jebsa": "어려운",
+        "na jebsa": "어렵게"
+      }
+    },
+    "mesji": {
+      "뜻": "언급하다",
+      "mesji": {
+        "nu mesji": "언급",
+        "la mesji": "언급한",
+        "na mesji": "언급하게"
+      }
+    },
+    "ratbi": {
+      "뜻": "얼리다",
+      "ratbi": {
+        "la ratbi": "얼린",
+        "na ratbi": "얼리게"
+      }
+    },
+    "janme": {
+      "뜻": "엄격하다",
+      "janme": {
+        "nu janme": "엄격",
+        "la janme": "엄격한",
+        "na janme": "엄격하게"
+      }
+    },
+    "bemle": {
+      "뜻": "없다",
+      "bemle": {
+        "na bemle": "없게",
+        "la bemle": "없는"
+      }
+    },
+    "cacbu": {
+      "뜻": "여가를 즐기다",
+      "cacbu": {
+        "nu cacbu": "놀이",
+        "mi cacbu": "놀이꾼",
+        "li cacbu": "장난감",
+        "mu cacbu": "놀이터/놀이공원",
+        "na cacbu": "놀게",
+        "la cacbu": "여가를 즐긴"
+      }
+    },
+    "gibgi": {
+      "뜻": "여행하다",
+      "gibgi": {
+        "nu gibgi": "여행",
+        "la gibgi": "여행한",
+        "na gibgi": "여행하게",
+        "mi gibgi": "여행자"
+      }
+    },
+    "tulha": {
+      "뜻": "연구하다",
+      "tulha": {
+        "nu tulha": "연구",
+        "la tulha": "연구한",
+        "na tulha": "연구하게",
+        "mu tulha": "연구실"
+      }
+    },
+    "tujbu": {
+      "뜻": "연설하다",
+      "tujbu": {
+        "nu tujbu": "연설",
+        "la tujbu": "연설한",
+        "na tujbu": "연설하게"
+      }
+    },
+    "banbu": {
+      "뜻": "연속하다",
+      "banbu": {
+        "nu banbu": "연속",
+        "la banbu": "연속한",
+        "na banbu": "연속하게"
+      }
+    },
+    "higli": {
+      "뜻": "연합하다",
+      "higli": {
+        "nu higli": "연합",
+        "la higli": "연합한",
+        "na higli": "연합하게"
+      }
+    },
+    "rehre": {
+      "뜻": "예민하다",
+      "rehre": {
+        "nu rehre": "예민",
+        "la rehre": "예민한",
+        "na rehre": "예민하게"
+      }
+    },
+    "melge": {
+      "뜻": "예방하다",
+      "melge": {
+        "nu melge": "예방",
+        "la melge": "예방한",
+        "na melge": "예방하게"
+      }
+    },
+    "senha": {
+      "뜻": "예배하다",
+      "senha": {
+        "nu senha": "예배",
+        "la senha": "예배한",
+        "na senha": "예배하게"
+      }
+    },
+    "sagsi": {
+      "뜻": "예약하다",
+      "sagsi": {
+        "nu sagsi": "예약",
+        "la sagsi": "예약한",
+        "na sagsi": "예약하게"
+      }
+    },
+    "lijma": {
+      "뜻": "예측하다",
+      "lijma": {
+        "nu lijma": "예측",
+        "la lijma": "예측한",
+        "na lijma": "예측하게"
+      }
+    },
+    "hajti": {
+      "뜻": "오다",
+      "hajti": {
+        "la hajti": "온",
+        "na hajti": "오게"
+      }
+    },
+    "lesri": {
+      "뜻": "오만하다",
+      "lesri": {
+        "nu lesri": "오만",
+        "la lesri": "오만한",
+        "na lesri": "오만하게"
+      }
+    },
+    "jisci": {
+      "뜻": "완수하다",
+      "jisci": {
+        "nu jisci": "완수",
+        "la jisci": "완수한",
+        "na jisci": "완수하게"
+      }
+    },
+    "nagje": {
+      "뜻": "완전하다",
+      "nagje": {
+        "nu nagje": "완전",
+        "la nagje": "완전한",
+        "na nagje": "완전하게"
+      }
+    },
+    "resra": {
+      "뜻": "요리하다",
+      "resra": {
+        "nu resra": "요리",
+        "la resra": "요리한",
+        "na resra": "요리하게",
+        "mi resra": "요리사"
+      }
+    },
+    "rehli": {
+      "뜻": "요약하다",
+      "rehli": {
+        "nu rehli": "요약",
+        "la rehli": "요약한",
+        "na rehli": "요약하게"
+      }
+    },
+    "bitsa": {
+      "뜻": "용서하다",
+      "bitsa": {
+        "nu bitsa": "용서",
+        "la bitsa": "용서한",
+        "na bitsa": "용서하게"
+      }
+    },
+    "tetnu": {
+      "뜻": "우려하다",
+      "tetnu": {
+        "nu tetnu": "우려",
+        "la tetnu": "우려한",
+        "na tetnu": "우려하게"
+      }
+    },
+    "nubmi": {
+      "뜻": "우세하다",
+      "nubmi": {
+        "nu nubmi": "우세",
+        "la nubmi": "우세한",
+        "na nubmi": "우세하게"
+      }
+    },
+    "habne": {
+      "뜻": "운동하다",
+      "habne": {
+        "nu habne": "운동",
+        "la habne": "운동한",
+        "na habne": "운동하게"
+      }
+    },
+    "guslu": {
+      "뜻": "운반하다",
+      "guslu": {
+        "nu guslu": "운반",
+        "la guslu": "운반한",
+        "na guslu": "운반하게"
+      }
+    },
+    "guhra": {
+      "뜻": "운송하다",
+      "guhra": {
+        "nu guhra": "운송",
+        "la guhra": "운송한",
+        "na guhra": "운송하게"
+      }
+    },
+    "richa": {
+      "뜻": "울다",
+      "richa": {
+        "nu richa": "눈물",
+        "la richa": "운(과거에 울었던)",
+        "na richa": "울게"
+      }
+    },
+    "bacme": {
+      "뜻": "울부짖다",
+      "bacme": {
+        "la bacme": "울부짖은",
+        "na bacme": "울부짖게"
+      }
+    },
+    "cirmi": {
+      "뜻": "울퉁불퉁하다",
+      "cirmi": {
+        "nu cirmi": "울퉁불퉁",
+        "la cirmi": "울퉁불퉁한",
+        "na cirmi": "울퉁불퉁하게"
+      }
+    },
+    "nugsu": {
+      "뜻": "웃다",
+      "nugsu": {
+        "nu nugsu": "웃음",
+        "na nugsu": "웃게",
+        "la nugsu": "웃은"
+      }
+    },
+    "lisce": {
+      "뜻": "위로하다",
+      "lisce": {
+        "nu lisce": "위로",
+        "la lisce": "위로한",
+        "na lisce": "위로하게"
+      }
+    },
+    "jecmi": {
+      "뜻": "위반하다",
+      "jecmi": {
+        "nu jecmi": "위반",
+        "la jecmi": "위반한",
+        "na jecmi": "위반하게"
+      }
+    },
+    "runhi": {
+      "뜻": "위장하다",
+      "runhi": {
+        "nu runhi": "위장",
+        "la runhi": "위장한",
+        "na runhi": "위장하게"
+      }
+    },
+    "tarhi": {
+      "뜻": "위협하다",
+      "tarhi": {
+        "nu tarhi": "위협",
+        "la tarhi": "위협한",
+        "na tarhi": "위협하게"
+      }
+    },
+    "lanmu": {
+      "뜻": "유도하다",
+      "lanmu": {
+        "nu lanmu": "유도",
+        "la lanmu": "유도한",
+        "na lanmu": "유도하게"
+      }
+    },
+    "cutla": {
+      "뜻": "유래하다",
+      "cutla": {
+        "nu cutla": "유래",
+        "la cutla": "유래한",
+        "na cutla": "유래하게"
+      }
+    },
+    "balte": {
+      "뜻": "유발하다",
+      "balte": {
+        "nu balte": "유발",
+        "la balte": "유발한",
+        "na balte": "유발하게"
+      }
+    },
+    "mimhi": {
+      "뜻": "유연하다",
+      "mimhi": {
+        "nu mimhi": "유연",
+        "la mimhi": "유연한",
+        "na mimhi": "유연하게"
+      }
+    },
+    "hanlu": {
+      "뜻": "유일하다",
+      "hanlu": {
+        "nu hanlu": "유일",
+        "la hanlu": "유일한",
+        "na hanlu": "유일하게"
+      }
+    },
+    "lihle": {
+      "뜻": "은폐하다",
+      "lihle": {
+        "nu lihle": "은폐/잠행",
+        "li lihle": "위장망",
+        "mu lihle": "은신처",
+        "na lihle": "숨게",
+        "la lihle": "숨은"
+      }
+    },
+    "hictu": {
+      "뜻": "응시하다",
+      "hictu": {
+        "nu hictu": "응시",
+        "la hictu": "응시한",
+        "na hictu": "응시하게"
+      }
+    },
+    "lisgu": {
+      "뜻": "의사소통하다",
+      "lisgu": {
+        "nu lisgu": "대화/소통",
+        "mi lisgu": "대화 상대",
+        "na lisgu": "대화하게",
+        "la lisgu": "대화한"
+      }
+    },
+    "muhge": {
+      "뜻": "의심하다",
+      "muhge": {
+        "nu muhge": "의심",
+        "la muhge": "의심한",
+        "na muhge": "의심하게"
+      }
+    },
+    "mirca": {
+      "뜻": "의존하다",
+      "mirca": {
+        "nu mirca": "의존",
+        "la mirca": "의존한",
+        "na mirca": "의존하게"
+      }
+    },
+    "licla": {
+      "뜻": "이동하다",
+      "licla": {
+        "nu licla": "이동",
+        "la licla": "이동한",
+        "na licla": "이동하게"
+      }
+    },
+    "jilja": {
+      "뜻": "이상하다",
+      "jilja": {
+        "nu jilja": "이상",
+        "la jilja": "이상한",
+        "na jilja": "이상하게"
+      }
+    },
+    "jejcu": {
+      "뜻": "이야기하다",
+      "jejcu": {
+        "nu jejcu": "이야기",
+        "la jejcu": "이야기한",
+        "na jejcu": "이야기하게"
+      }
+    },
+    "gelbu": {
+      "뜻": "익숙하다",
+      "gelbu": {
+        "nu gelbu": "익숙",
+        "la gelbu": "익숙한",
+        "na gelbu": "익숙하게"
+      }
+    },
+    "jerte": {
+      "뜻": "인용하다",
+      "jerte": {
+        "nu jerte": "인용",
+        "la jerte": "인용한",
+        "na jerte": "인용하게"
+      }
+    },
+    "nulga": {
+      "뜻": "인정하다",
+      "nulga": {
+        "nu nulga": "인정",
+        "la nulga": "인정한",
+        "na nulga": "인정하게"
+      }
+    },
+    "tujci": {
+      "뜻": "인지하다/눈치채다",
+      "tujci": {
+        "nu tujci": "인지/눈치",
+        "la tujci": "인지한/눈치챈",
+        "na tujci": "인지하게/눈치채게"
+      }
+    },
+    "rirlu": {
+      "뜻": "일정하다",
+      "rirlu": {
+        "nu rirlu": "일정",
+        "la rirlu": "일정한",
+        "na rirlu": "일정하게"
+      }
+    },
+    "jabme": {
+      "뜻": "일하다",
+      "jabme": {
+        "nu jabme": "일",
+        "la jabme": "일한",
+        "na jabme": "일하게"
+      }
+    },
+    "cunha": {
+      "뜻": "읽다",
+      "cunha": {
+        "nu cunha": "독해",
+        "mi cunha": "독자",
+        "na cunha": "읽게",
+        "la cunha": "읽은"
+      }
+    },
+    "jejhe": {
+      "뜻": "임기하다",
+      "jejhe": {
+        "nu jejhe": "임기",
+        "la jejhe": "임기한",
+        "na jejhe": "임기하게"
+      }
+    },
+    "surci": {
+      "뜻": "입력하다",
+      "surci": {
+        "nu surci": "입력",
+        "la surci": "입력한",
+        "na surci": "입력하게"
+      }
+    },
+    "nilci": {
+      "뜻": "입증하다",
+      "nilci": {
+        "nu nilci": "입증",
+        "la nilci": "입증한",
+        "na nilci": "입증하게"
+      }
+    },
+    "nugne": {
+      "뜻": "입학하다",
+      "nugne": {
+        "nu nugne": "입학",
+        "la nugne": "입학한",
+        "na nugne": "입학하게"
+      }
+    },
+    "majce": {
+      "뜻": "있다",
+      "majce": {
+        "na majce": "있게",
+        "la majce": "있는"
+      }
+    },
+    "necme": {
+      "뜻": "잊다",
+      "necme": {
+        "la necme": "잊은",
+        "na necme": "잊게"
+      }
+    },
+    "jitla": {
+      "뜻": "자극하다",
+      "jitla": {
+        "nu jitla": "자극",
+        "la jitla": "자극한",
+        "na jitla": "자극하게"
+      }
+    },
+    "harbe": {
+      "뜻": "자리하다(위치하다)",
+      "harbe": {
+        "nu harbe": "자리/위치",
+        "na harbe": "자리하게/위치하게",
+        "la harbe": "자리한/위치한"
+      }
+    },
+    "gatsi": {
+      "뜻": "작곡하다",
+      "gatsi": {
+        "nu gatsi": "작곡",
+        "la gatsi": "작곡한",
+        "na gatsi": "작곡하게"
+      }
+    },
+    "rehgu": {
+      "뜻": "작다",
+      "rehgu": {
+        "na rehgu": "작게",
+        "la rehgu": "작은"
+      }
+    },
+    "lasla": {
+      "뜻": "작동하다",
+      "lasla": {
+        "nu lasla": "작동",
+        "la lasla": "작동한",
+        "na lasla": "작동하게"
+      }
+    },
+    "silga": {
+      "뜻": "작성하다",
+      "silga": {
+        "nu silga": "작성/아기",
+        "mi silga": "작성자",
+        "na silga": "작성하게",
+        "la silga": "작성한"
+      }
+    },
+    "jumte": {
+      "뜻": "잔인하다",
+      "jumte": {
+        "nu jumte": "잔인",
+        "la jumte": "잔인한",
+        "na jumte": "잔인하게"
+      }
+    },
+    "sujli": {
+      "뜻": "장식하다",
+      "sujli": {
+        "nu sujli": "장식",
+        "la sujli": "장식한",
+        "na sujli": "장식하게"
+      }
+    },
+    "nubce": {
+      "뜻": "재배하다",
+      "nubce": {
+        "nu nubce": "재배",
+        "la nubce": "재배한",
+        "na nubce": "재배하게"
+      }
+    },
+    "tugru": {
+      "뜻": "재판하다",
+      "tugru": {
+        "nu tugru": "재판",
+        "la tugru": "재판한",
+        "na tugru": "재판하게"
+      }
+    },
+    "jagta": {
+      "뜻": "재현하다",
+      "jagta": {
+        "nu jagta": "재현",
+        "la jagta": "재현한",
+        "na jagta": "재현하게"
+      }
+    },
+    "buhgu": {
+      "뜻": "재활용하다",
+      "buhgu": {
+        "nu buhgu": "재활용",
+        "la buhgu": "재활용한",
+        "na buhgu": "재활용하게"
+      }
+    },
+    "jenji": {
+      "뜻": "저장하다",
+      "jenji": {
+        "nu jenji": "저장",
+        "la jenji": "저장한",
+        "na jenji": "저장하게"
+      }
+    },
+    "cimre": {
+      "뜻": "저항하다",
+      "cimre": {
+        "nu cimre": "저항",
+        "la cimre": "저항한",
+        "na cimre": "저항하게"
+      }
+    },
+    "misnu": {
+      "뜻": "적다",
+      "misnu": {
+        "la misnu": "적은",
+        "na misnu": "적게"
+      }
+    },
+    "gejsi": {
+      "뜻": "적응하다",
+      "gejsi": {
+        "nu gejsi": "적응",
+        "la gejsi": "적응한",
+        "na gejsi": "적응하게"
+      }
+    },
+    "nubti": {
+      "뜻": "적절하다",
+      "nubti": {
+        "nu nubti": "적절",
+        "la nubti": "적절한",
+        "na nubti": "적절하게"
+      }
+    },
+    "nurla": {
+      "뜻": "적합하다",
+      "nurla": {
+        "nu nurla": "적합",
+        "la nurla": "적합한",
+        "na nurla": "적합하게",
+        "mi nurla": "적합자"
+      }
+    },
+    "gestu": {
+      "뜻": "전공하다",
+      "gestu": {
+        "nu gestu": "전공",
+        "la gestu": "전공한",
+        "na gestu": "전공하게"
+      }
+    },
+    "hihgi": {
+      "뜻": "전달하다",
+      "hihgi": {
+        "nu hihgi": "전달",
+        "la hihgi": "전달한",
+        "na hihgi": "전달하게"
+      }
+    },
+    "culmi": {
+      "뜻": "전송하다",
+      "culmi": {
+        "nu culmi": "전송",
+        "la culmi": "전송한",
+        "na culmi": "전송하게"
+      }
+    },
+    "rucbu": {
+      "뜻": "전시하다",
+      "rucbu": {
+        "nu rucbu": "전시",
+        "la rucbu": "전시한",
+        "na rucbu": "전시하게"
+      }
+    },
+    "begsu": {
+      "뜻": "절단하다",
+      "begsu": {
+        "nu begsu": "절단",
+        "li begsu": "칼/가위",
+        "na begsu": "자르게",
+        "la begsu": "자른"
+      }
+    },
+    "tegru": {
+      "뜻": "절망하다",
+      "tegru": {
+        "nu tegru": "절망",
+        "la tegru": "절망한",
+        "na tegru": "절망하게"
+      }
+    },
+    "cerju": {
+      "뜻": "점령하다",
+      "cerju": {
+        "nu cerju": "점령",
+        "la cerju": "점령한",
+        "na cerju": "점령하게"
+      }
+    },
+    "catri": {
+      "뜻": "접근하다",
+      "catri": {
+        "nu catri": "접근",
+        "la catri": "접근한",
+        "na catri": "접근하게"
+      }
+    },
+    "lusle": {
+      "뜻": "접촉하다",
+      "lusle": {
+        "nu lusle": "접촉/연락",
+        "li lusle": "센서/터치패드",
+        "na lusle": "접촉하게",
+        "la lusle": "접촉한"
+      }
+    },
+    "rulsi": {
+      "뜻": "정돈하다",
+      "rulsi": {
+        "nu rulsi": "정돈",
+        "la rulsi": "정돈한",
+        "na rulsi": "정돈하게"
+      }
+    },
+    "jurme": {
+      "뜻": "정복하다",
+      "jurme": {
+        "nu jurme": "정복",
+        "la jurme": "정복한",
+        "na jurme": "정복하게"
+      }
+    },
+    "mamcu": {
+      "뜻": "정화하다",
+      "mamcu": {
+        "nu mamcu": "정화",
+        "la mamcu": "정화한",
+        "na mamcu": "정화하게"
+      }
+    },
+    "sulri": {
+      "뜻": "정확하다",
+      "sulri": {
+        "nu sulri": "정확",
+        "la sulri": "정확한",
+        "na sulri": "정확하게"
+      }
+    },
+    "rujna": {
+      "뜻": "제거하다",
+      "rujna": {
+        "nu rujna": "제거",
+        "la rujna": "제거한",
+        "na rujna": "제거하게"
+      }
+    },
+    "jetsa": {
+      "뜻": "제공하다",
+      "jetsa": {
+        "nu jetsa": "제공/기부",
+        "mi jetsa": "수혜자",
+        "li jetsa": "보급품/선물",
+        "na jetsa": "주게",
+        "la jetsa": "준"
+      }
+    },
+    "limbe": {
+      "뜻": "제외하다",
+      "limbe": {
+        "nu limbe": "제외",
+        "la limbe": "제외한",
+        "na limbe": "제외하게"
+      }
+    },
+    "lemga": {
+      "뜻": "제작하다",
+      "lemga": {
+        "nu lemga": "제작/제조",
+        "mi lemga": "제작자/엔지니어",
+        "li lemga": "제품/작품",
+        "mu lemga": "공장/작업실",
+        "na lemga": "만들게",
+        "la lemga": "만든"
+      }
+    },
+    "nebgu": {
+      "뜻": "제출하다",
+      "nebgu": {
+        "nu nebgu": "제출",
+        "la nebgu": "제출한",
+        "na nebgu": "제출하게"
+      }
+    },
+    "tumge": {
+      "뜻": "조각하다",
+      "tumge": {
+        "nu tumge": "조각",
+        "la tumge": "조각한",
+        "na tumge": "조각하게",
+        "li tumge": "조각품/조각상"
+      }
+    },
+    "bumba": {
+      "뜻": "조언하다",
+      "bumba": {
+        "nu bumba": "조언",
+        "la bumba": "조언한",
+        "na bumba": "조언하게"
+      }
+    },
+    "lurta": {
+      "뜻": "조직하다",
+      "lurta": {
+        "nu lurta": "조직",
+        "la lurta": "조직한",
+        "na lurta": "조직하게"
+      }
+    },
+    "birsi": {
+      "뜻": "조치하다",
+      "birsi": {
+        "nu birsi": "조치",
+        "la birsi": "조치한",
+        "na birsi": "조치하게"
+      }
+    },
+    "higtu": {
+      "뜻": "존경하다",
+      "higtu": {
+        "nu higtu": "존경",
+        "la higtu": "존경한",
+        "na higtu": "존경하게"
+      }
+    },
+    "rurca": {
+      "뜻": "졸업하다",
+      "rurca": {
+        "nu rurca": "졸업",
+        "la rurca": "졸업한",
+        "na rurca": "졸업하게"
+      }
+    },
+    "temra": {
+      "뜻": "좋다",
+      "temra": {
+        "la temra": "좋은",
+        "na temra": "좋게"
+      }
+    },
+    "ribcu": {
+      "뜻": "주도하다",
+      "ribcu": {
+        "nu ribcu": "주도",
+        "la ribcu": "주도한",
+        "na ribcu": "주도하게"
+      }
+    },
+    "nasbu": {
+      "뜻": "주문하다",
+      "nasbu": {
+        "nu nasbu": "주문",
+        "la nasbu": "주문한",
+        "na nasbu": "주문하게"
+      }
+    },
+    "gesni": {
+      "뜻": "주요하다",
+      "gesni": {
+        "nu gesni": "주요",
+        "la gesni": "주요한",
+        "na gesni": "주요하게"
+      }
+    },
+    "tance": {
+      "뜻": "주입하다",
+      "tance": {
+        "nu tance": "주입/삽입",
+        "mi tance": "주입기(사람)",
+        "li tance": "주사기/깔때기",
+        "na tance": "주입하게",
+        "la tance": "주입한"
+      }
+    },
+    "cicbu": {
+      "뜻": "주장하다",
+      "cicbu": {
+        "nu cicbu": "주장",
+        "la cicbu": "주장한",
+        "na cicbu": "주장하게"
+      }
+    },
+    "lasbi": {
+      "뜻": "중대하다",
+      "lasbi": {
+        "nu lasbi": "중대",
+        "la lasbi": "중대한",
+        "na lasbi": "중대하게"
+      }
+    },
+    "tutji": {
+      "뜻": "중요하다",
+      "tutji": {
+        "nu tutji": "중요",
+        "la tutji": "중요한",
+        "na tutji": "중요하게"
+      }
+    },
+    "memci": {
+      "뜻": "중지하다",
+      "memci": {
+        "nu memci": "중지",
+        "la memci": "중지한",
+        "na memci": "중지하게"
+      }
+    },
+    "nilnu": {
+      "뜻": "증가하다",
+      "nilnu": {
+        "nu nilnu": "증가",
+        "la nilnu": "증가한",
+        "na nilnu": "증가하게"
+      }
+    },
+    "sugsi": {
+      "뜻": "지시하다",
+      "sugsi": {
+        "nu sugsi": "지시",
+        "la sugsi": "지시한",
+        "na sugsi": "지시하게"
+      }
+    },
+    "tagbe": {
+      "뜻": "지출하다",
+      "tagbe": {
+        "nu tagbe": "지출",
+        "la tagbe": "지출한",
+        "na tagbe": "지출하게"
+      }
+    },
+    "tutse": {
+      "뜻": "지탱하다",
+      "tutse": {
+        "nu tutse": "지탱",
+        "la tutse": "지탱한",
+        "na tutse": "지탱하게"
+      }
+    },
+    "nuhti": {
+      "뜻": "지휘하다",
+      "nuhti": {
+        "nu nuhti": "지휘",
+        "la nuhti": "지휘한",
+        "na nuhti": "지휘하게"
+      }
+    },
+    "retme": {
+      "뜻": "진단하다",
+      "retme": {
+        "nu retme": "진단",
+        "la retme": "진단한",
+        "na retme": "진단하게"
+      }
+    },
+    "hetlu": {
+      "뜻": "진행하다",
+      "hetlu": {
+        "nu hetlu": "진행",
+        "la hetlu": "진행한",
+        "na hetlu": "진행하게"
+      }
+    },
+    "nuclu": {
+      "뜻": "진화하다",
+      "nuclu": {
+        "nu nuclu": "진화",
+        "la nuclu": "진화한",
+        "na nuclu": "진화하게"
+      }
+    },
+    "harmu": {
+      "뜻": "질문하다",
+      "harmu": {
+        "nu harmu": "질문/질의",
+        "mi harmu": "답변자",
+        "na harmu": "질문하게",
+        "la harmu": "질문한"
+      }
+    },
+    "cubju": {
+      "뜻": "질주하다(달리다)",
+      "cubju": {
+        "nu cubju": "질주/레이싱",
+        "mi cubju": "주자/레이서",
+        "li cubju": "경주차",
+        "mu cubju": "트랙/경기장",
+        "na cubju": "질주하게",
+        "la cubju": "질주한"
+      }
+    },
+    "silgu": {
+      "뜻": "질투하다",
+      "silgu": {
+        "nu silgu": "질투",
+        "la silgu": "질투한",
+        "na silgu": "질투하게"
+      }
+    },
+    "temtu": {
+      "뜻": "집중하다",
+      "temtu": {
+        "nu temtu": "집중",
+        "la temtu": "집중한",
+        "na temtu": "집중하게"
+      }
+    },
+    "getce": {
+      "뜻": "짧다",
+      "getce": {
+        "la getce": "짧은",
+        "na getce": "짧게"
+      }
+    },
+    "bijbu": {
+      "뜻": "차다",
+      "bijbu": {
+        "la bijbu": "찬",
+        "na bijbu": "차게"
+      }
+    },
+    "tamja": {
+      "뜻": "차단하다",
+      "tamja": {
+        "nu tamja": "차단",
+        "la tamja": "차단한",
+        "na tamja": "차단하게"
+      }
+    },
+    "hamse": {
+      "뜻": "차지하다",
+      "hamse": {
+        "nu hamse": "차지",
+        "la hamse": "차지한",
+        "na hamse": "차지하게"
+      }
+    },
+    "mumju": {
+      "뜻": "착석하다",
+      "mumju": {
+        "nu mumju": "착석",
+        "li mumju": "의자/좌석",
+        "na mumju": "앉게",
+        "la mumju": "앉은"
+      }
+    },
+    "bunju": {
+      "뜻": "착용하다",
+      "bunju": {
+        "nu bunju": "착용",
+        "li bunju": "옷/장비",
+        "na bunju": "입게",
+        "la bunju": "입은"
+      }
+    },
+    "nejci": {
+      "뜻": "찬성하다",
+      "nejci": {
+        "nu nejci": "찬성",
+        "la nejci": "찬성한",
+        "na nejci": "찬성하게",
+        "mi nejci": "찬성자"
+      }
+    },
+    "lemji": {
+      "뜻": "참신하다",
+      "lemji": {
+        "nu lemji": "참신",
+        "la lemji": "참신한",
+        "na lemji": "참신하게"
+      }
+    },
+    "hatbu": {
+      "뜻": "참하다",
+      "hatbu": {
+        "nu hatbu": "참",
+        "la hatbu": "참한",
+        "na hatbu": "참하게"
+      }
+    },
+    "lamci": {
+      "뜻": "창피하다",
+      "lamci": {
+        "nu lamci": "창피",
+        "la lamci": "창피한",
+        "na lamci": "창피하게"
+      }
+    },
+    "gahsi": {
+      "뜻": "채용하다",
+      "gahsi": {
+        "nu gahsi": "채용",
+        "la gahsi": "채용한",
+        "na gahsi": "채용하게"
+      }
+    },
+    "netsa": {
+      "뜻": "채택하다",
+      "netsa": {
+        "nu netsa": "채택",
+        "la netsa": "채택한",
+        "na netsa": "채택하게"
+      }
+    },
+    "bijra": {
+      "뜻": "처방하다",
+      "bijra": {
+        "nu bijra": "처방",
+        "la bijra": "처방한",
+        "na bijra": "처방하게"
+      }
+    },
+    "cagba": {
+      "뜻": "첨부하다",
+      "cagba": {
+        "nu cagba": "첨부",
+        "la cagba": "첨부한",
+        "na cagba": "첨부하게"
+      }
+    },
+    "sacre": {
+      "뜻": "청소하다",
+      "sacre": {
+        "nu sacre": "청소",
+        "la sacre": "청소한",
+        "na sacre": "청소하게"
+      }
+    },
+    "ringi": {
+      "뜻": "총명하다",
+      "ringi": {
+        "nu ringi": "총명",
+        "la ringi": "총명한",
+        "na ringi": "총명하게"
+      }
+    },
+    "hunje": {
+      "뜻": "추가하다",
+      "hunje": {
+        "nu hunje": "추가",
+        "la hunje": "추가한",
+        "na hunje": "추가하게"
+      }
+    },
+    "hersi": {
+      "뜻": "추구하다",
+      "hersi": {
+        "nu hersi": "추구",
+        "la hersi": "추구한",
+        "na hersi": "추구하게"
+      }
+    },
+    "buctu": {
+      "뜻": "추론하다",
+      "buctu": {
+        "nu buctu": "추론",
+        "la buctu": "추론한",
+        "na buctu": "추론하게"
+      }
+    },
+    "gajcu": {
+      "뜻": "추종/추적하다",
+      "gajcu": {
+        "nu gajcu": "추적/추종",
+        "mi gajcu": "추적자/팬",
+        "li gajcu": "추적기",
+        "na gajcu": "따라가게",
+        "la gajcu": "따라간"
+      }
+    },
+    "jahsa": {
+      "뜻": "추천하다",
+      "jahsa": {
+        "nu jahsa": "추천",
+        "la jahsa": "추천한",
+        "na jahsa": "추천하게"
+      }
+    },
+    "susma": {
+      "뜻": "추최하다",
+      "susma": {
+        "nu susma": "추최",
+        "la susma": "추최한",
+        "na susma": "추최하게"
+      }
+    },
+    "mucri": {
+      "뜻": "축소하다",
+      "mucri": {
+        "nu mucri": "축소",
+        "la mucri": "축소한",
+        "na mucri": "축소하게"
+      }
+    },
+    "ralca": {
+      "뜻": "출발하다",
+      "ralca": {
+        "nu ralca": "출발",
+        "la ralca": "출발한",
+        "na ralca": "출발하게"
+      }
+    },
+    "tarme": {
+      "뜻": "출시하다",
+      "tarme": {
+        "nu tarme": "출시",
+        "la tarme": "출시한",
+        "na tarme": "출시하게"
+      }
+    },
+    "lesta": {
+      "뜻": "출판하다",
+      "lesta": {
+        "nu lesta": "출판",
+        "la lesta": "출판한",
+        "na lesta": "출판하게"
+      }
+    },
+    "suhci": {
+      "뜻": "출현하다",
+      "suhci": {
+        "nu suhci": "출현",
+        "la suhci": "출현한",
+        "na suhci": "출현하게"
+      }
+    },
+    "tugme": {
+      "뜻": "춥다",
+      "tugme": {
+        "la tugme": "춥운",
+        "na tugme": "춥게"
+      }
+    },
+    "tugji": {
+      "뜻": "충돌하다",
+      "tugji": {
+        "nu tugji": "충돌",
+        "la tugji": "충돌한",
+        "na tugji": "충돌하게"
+      }
+    },
+    "sinsu": {
+      "뜻": "충실하다",
+      "sinsu": {
+        "nu sinsu": "충실",
+        "la sinsu": "충실한",
+        "na sinsu": "충실하게"
+      }
+    },
+    "merta": {
+      "뜻": "충전하다",
+      "merta": {
+        "nu merta": "충전",
+        "la merta": "충전한",
+        "na merta": "충전하게"
+      }
+    },
+    "mitra": {
+      "뜻": "취침하다",
+      "mitra": {
+        "nu mitra": "수면",
+        "li mitra": "침구",
+        "mu mitra": "침실",
+        "na mitra": "잠자게",
+        "la mitra": "잔"
+      }
+    },
+    "mebme": {
+      "뜻": "치료하다",
+      "mebme": {
+        "nu mebme": "치료",
+        "la mebme": "치료한",
+        "na mebme": "치료하게"
+      }
+    },
+    "sishi": {
+      "뜻": "칭찬하다",
+      "sishi": {
+        "nu sishi": "칭찬",
+        "la sishi": "칭찬한",
+        "na sishi": "칭찬하게"
+      }
+    },
+    "gujce": {
+      "뜻": "크다",
+      "gujce": {
+        "na gujce": "크게",
+        "la gujce": "큰"
+      }
+    },
+    "birtu": {
+      "뜻": "탐험하다",
+      "birtu": {
+        "nu birtu": "탐험",
+        "la birtu": "탐험한",
+        "na birtu": "탐험하게"
+      }
+    },
+    "nilca": {
+      "뜻": "탑승하다",
+      "nilca": {
+        "nu nilca": "탑승",
+        "la nilca": "탑승한",
+        "na nilca": "탑승하게"
+      }
+    },
+    "sucla": {
+      "뜻": "터득하다",
+      "sucla": {
+        "nu sucla": "터득",
+        "la sucla": "터득한",
+        "na sucla": "터득하게"
+      }
+    },
+    "gijhu": {
+      "뜻": "토론하다",
+      "gijhu": {
+        "nu gijhu": "토론",
+        "la gijhu": "토론한",
+        "na gijhu": "토론하게"
+      }
+    },
+    "tunba": {
+      "뜻": "통찰하다",
+      "tunba": {
+        "nu tunba": "통찰",
+        "la tunba": "통찰한",
+        "na tunba": "통찰하게"
+      }
+    },
+    "tirce": {
+      "뜻": "통합하다",
+      "tirce": {
+        "nu tirce": "통합",
+        "la tirce": "통합한",
+        "na tirce": "통합하게"
+      }
+    },
+    "cugla": {
+      "뜻": "투자하다",
+      "cugla": {
+        "nu cugla": "투자",
+        "la cugla": "투자한",
+        "na cugla": "투자하게"
+      }
+    },
+    "sahbi": {
+      "뜻": "투척하다",
+      "sahbi": {
+        "nu sahbi": "투척/발사",
+        "mi sahbi": "투수/발사자",
+        "li sahbi": "투사체/공",
+        "na sahbi": "던지게",
+        "la sahbi": "던진"
+      }
+    },
+    "mecge": {
+      "뜻": "튀기다",
+      "mecge": {
+        "la mecge": "튀긴",
+        "na mecge": "튀기게"
+      }
+    },
+    "timra": {
+      "뜻": "특별하다",
+      "timra": {
+        "nu timra": "특별",
+        "la timra": "특별한",
+        "na timra": "특별하게"
+      }
+    },
+    "malna": {
+      "뜻": "특정하다",
+      "malna": {
+        "nu malna": "특정",
+        "la malna": "특정한",
+        "na malna": "특정하게"
+      }
+    },
+    "rucsa": {
+      "뜻": "튼튼하다",
+      "rucsa": {
+        "la rucsa": "튼튼한",
+        "na rucsa": "튼튼하게"
+      }
+    },
+    "righi": {
+      "뜻": "파괴하다",
+      "righi": {
+        "nu righi": "파괴/철거",
+        "mi righi": "파괴자",
+        "li righi": "무기/분쇄기",
+        "mu righi": "유적",
+        "na righi": "부수게",
+        "la righi": "부순"
+      }
+    },
+    "rumri": {
+      "뜻": "파지하다",
+      "rumri": {
+        "nu rumri": "파지",
+        "li rumri": "손잡이/집게",
+        "na rumri": "잡게",
+        "la rumri": "잡은"
+      }
+    },
+    "tumlu": {
+      "뜻": "판단하다",
+      "tumlu": {
+        "nu tumlu": "판단",
+        "la tumlu": "판단한",
+        "na tumlu": "판단하게"
+      }
+    },
+    "majne": {
+      "뜻": "팔다",
+      "majne": {
+        "la majne": "판",
+        "na majne": "팔게"
+      }
+    },
+    "bilha": {
+      "뜻": "패배하다",
+      "bilha": {
+        "nu bilha": "패배",
+        "la bilha": "패배한",
+        "na bilha": "패배하게",
+        "mi bilha": "패배자"
+      }
+    },
+    "balma": {
+      "뜻": "팽창하다",
+      "balma": {
+        "nu balma": "팽창",
+        "la balma": "팽창한",
+        "na balma": "팽창하게"
+      }
+    },
+    "hecre": {
+      "뜻": "편리하다",
+      "hecre": {
+        "nu hecre": "편리",
+        "la hecre": "편리한",
+        "na hecre": "편리하게"
+      }
+    },
+    "mabsu": {
+      "뜻": "평가하다",
+      "mabsu": {
+        "nu mabsu": "평가",
+        "la mabsu": "평가한",
+        "na mabsu": "평가하게"
+      }
+    },
+    "taghi": {
+      "뜻": "평범하다",
+      "taghi": {
+        "nu taghi": "평범",
+        "la taghi": "평범한",
+        "na taghi": "평범하게"
+      }
+    },
+    "jihci": {
+      "뜻": "평평하다",
+      "jihci": {
+        "nu jihci": "평평",
+        "la jihci": "평평한",
+        "na jihci": "평평하게"
+      }
+    },
+    "tusne": {
+      "뜻": "폐쇄하다",
+      "tusne": {
+        "nu tusne": "폐쇄",
+        "li tusne": "자물쇠",
+        "mu tusne": "폐쇄 구역",
+        "na tusne": "폐쇄하게",
+        "la tusne": "폐쇄한"
+      }
+    },
+    "hetbi": {
+      "뜻": "포기하다",
+      "hetbi": {
+        "nu hetbi": "포기",
+        "la hetbi": "포기한",
+        "na hetbi": "포기하게"
+      }
+    },
+    "lisle": {
+      "뜻": "포식하다",
+      "lisle": {
+        "nu lisle": "포식",
+        "la lisle": "포식한",
+        "na lisle": "포식하게"
+      }
+    },
+    "cihmu": {
+      "뜻": "포함하다",
+      "cihmu": {
+        "nu cihmu": "포함",
+        "la cihmu": "포함한",
+        "na cihmu": "포함하게"
+      }
+    },
+    "bucse": {
+      "뜻": "포획하다",
+      "bucse": {
+        "nu bucse": "포획",
+        "mi bucse": "사냥꾼",
+        "a bucse": "사냥감",
+        "li bucse": "그물/덫",
+        "mu bucse": "사냥터",
+        "na bucse": "사냥하게",
+        "la bucse": "사냥한"
+      }
+    },
+    "rerbi": {
+      "뜻": "폭로하다",
+      "rerbi": {
+        "nu rerbi": "폭로",
+        "la rerbi": "폭로한",
+        "na rerbi": "폭로하게"
+      }
+    },
+    "runru": {
+      "뜻": "폭발하다",
+      "runru": {
+        "nu runru": "폭발",
+        "la runru": "폭발한",
+        "na runru": "폭발하게"
+      }
+    },
+    "nalci": {
+      "뜻": "표현하다",
+      "nalci": {
+        "nu nalci": "표현",
+        "la nalci": "표현한",
+        "na nalci": "표현하게"
+      }
+    },
+    "barlu": {
+      "뜻": "피곤하다",
+      "barlu": {
+        "na barlu": "피곤하게",
+        "la barlu": "피곤한"
+      }
+    },
+    "lucnu": {
+      "뜻": "피하다",
+      "lucnu": {
+        "nu lucnu": "회피",
+        "la lucnu": "피한",
+        "na lucnu": "피하게"
+      }
+    },
+    "jetja": {
+      "뜻": "필요하다",
+      "jetja": {
+        "na jetja": "필요하게",
+        "la jetja": "필요한"
+      }
+    },
+    "cusha": {
+      "뜻": "할당하다",
+      "cusha": {
+        "nu cusha": "할당",
+        "la cusha": "할당한",
+        "na cusha": "할당하게"
+      }
+    },
+    "ganbi": {
+      "뜻": "할인하다",
+      "ganbi": {
+        "nu ganbi": "할인",
+        "la ganbi": "할인한",
+        "na ganbi": "할인하게"
+      }
+    },
+    "canba": {
+      "뜻": "합성하다",
+      "canba": {
+        "nu canba": "합성",
+        "la canba": "합성한",
+        "na canba": "합성하게"
+      }
+    },
+    "sujla": {
+      "뜻": "항의하다",
+      "sujla": {
+        "nu sujla": "항의",
+        "la sujla": "항의한",
+        "na sujla": "항의하게"
+      }
+    },
+    "curgu": {
+      "뜻": "해결하다",
+      "curgu": {
+        "nu curgu": "해결",
+        "la curgu": "해결한",
+        "na curgu": "해결하게"
+      }
+    },
+    "gibha": {
+      "뜻": "해고하다",
+      "gibha": {
+        "nu gibha": "해고",
+        "la gibha": "해고한",
+        "na gibha": "해고하게"
+      }
+    },
+    "nuhga": {
+      "뜻": "해산하다",
+      "nuhga": {
+        "nu nuhga": "해산",
+        "la nuhga": "해산한",
+        "na nuhga": "해산하게"
+      }
+    },
+    "bahbe": {
+      "뜻": "행복하다",
+      "bahbe": {
+        "nu bahbe": "행복",
+        "la bahbe": "행복한",
+        "na bahbe": "행복하게"
+      }
+    },
+    "terhu": {
+      "뜻": "허락하다",
+      "terhu": {
+        "nu terhu": "허락",
+        "la terhu": "허락한",
+        "na terhu": "허락하게"
+      }
+    },
+    "lugbi": {
+      "뜻": "혁신하다",
+      "lugbi": {
+        "nu lugbi": "혁신",
+        "la lugbi": "혁신한",
+        "na lugbi": "혁신하게"
+      }
+    },
+    "hechu": {
+      "뜻": "혐오하다",
+      "hechu": {
+        "nu hechu": "혐오",
+        "la hechu": "혐오한",
+        "na hechu": "혐오하게"
+      }
+    },
+    "tebta": {
+      "뜻": "협력하다",
+      "tebta": {
+        "nu tebta": "협력",
+        "la tebta": "협력한",
+        "na tebta": "협력하게",
+        "mi tebta": "협력자"
+      }
+    },
+    "lajhu": {
+      "뜻": "협상하다",
+      "lajhu": {
+        "nu lajhu": "협상",
+        "la lajhu": "협상한",
+        "na lajhu": "협상하게"
+      }
+    },
+    "mugbu": {
+      "뜻": "호흡하다",
+      "mugbu": {
+        "nu mugbu": "호흡",
+        "la mugbu": "호흡한",
+        "na mugbu": "호흡하게"
+      }
+    },
+    "hejbe": {
+      "뜻": "화려하다",
+      "hejbe": {
+        "nu hejbe": "화려",
+        "la hejbe": "화려한",
+        "na hejbe": "화려하게"
+      }
+    },
+    "hambi": {
+      "뜻": "확산하다",
+      "hambi": {
+        "nu hambi": "확산",
+        "la hambi": "확산한",
+        "na hambi": "확산하게"
+      }
+    },
+    "letre": {
+      "뜻": "확실하다",
+      "letre": {
+        "nu letre": "확실",
+        "la letre": "확실한",
+        "na letre": "확실하게"
+      }
+    },
+    "hutmi": {
+      "뜻": "확정하다",
+      "hutmi": {
+        "nu hutmi": "확정",
+        "la hutmi": "확정한",
+        "na hutmi": "확정하게"
+      }
+    },
+    "cabju": {
+      "뜻": "환불하다",
+      "cabju": {
+        "nu cabju": "환불",
+        "la cabju": "환불한",
+        "na cabju": "환불하게"
+      }
+    },
+    "tenbu": {
+      "뜻": "활동하다",
+      "tenbu": {
+        "nu tenbu": "활동",
+        "la tenbu": "활동한",
+        "na tenbu": "활동하게"
+      }
+    },
+    "cimcu": {
+      "뜻": "회복하다",
+      "cimcu": {
+        "nu cimcu": "회복",
+        "la cimcu": "회복한",
+        "na cimcu": "회복하게"
+      }
+    },
+    "gabta": {
+      "뜻": "회상하다",
+      "gabta": {
+        "nu gabta": "회상",
+        "la gabta": "회상한",
+        "na gabta": "회상하게"
+      }
+    },
+    "nirhe": {
+      "뜻": "획득하다",
+      "nirhe": {
+        "nu nirhe": "획득",
+        "la nirhe": "획득한",
+        "na nirhe": "획득하게"
+      }
+    },
+    "genle": {
+      "뜻": "후회하다",
+      "genle": {
+        "nu genle": "후회",
+        "la genle": "후회한",
+        "na genle": "후회하게"
+      }
+    },
+    "basju": {
+      "뜻": "훈련하다",
+      "basju": {
+        "nu basju": "훈련",
+        "la basju": "훈련한",
+        "na basju": "훈련하게"
+      }
+    },
+    "tismi": {
+      "뜻": "훌륭하다",
+      "tismi": {
+        "nu tismi": "훌륭",
+        "la tismi": "훌륭한",
+        "na tismi": "훌륭하게"
+      }
+    },
+    "sarle": {
+      "뜻": "휴식하다",
+      "sarle": {
+        "nu sarle": "휴식",
+        "mu sarle": "휴게소/쉼터",
+        "na sarle": "쉬게",
+        "la sarle": "쉰"
+      }
+    },
+    "jetbi": {
+      "뜻": "흐르다",
+      "jetbi": {
+        "la jetbi": "흐른",
+        "na jetbi": "흐르게"
+      }
+    },
+    "sasna": {
+      "뜻": "흡수하다",
+      "sasna": {
+        "nu sasna": "흡수",
+        "la sasna": "흡수한",
+        "na sasna": "흡수하게"
+      }
+    },
+    "bagju": {
+      "뜻": "흥분하다",
+      "bagju": {
+        "nu bagju": "흥분",
+        "la bagju": "흥분한",
+        "na bagju": "흥분하게"
+      }
+    },
+    "gunra": {
+      "뜻": "희귀하다",
+      "gunra": {
+        "nu gunra": "희귀",
+        "la gunra": "희귀한",
+        "na gunra": "희귀하게"
+      }
+    },
+    "besba": {
+      "뜻": "희생하다",
+      "besba": {
+        "nu besba": "희생",
+        "la besba": "희생한",
+        "na besba": "희생하게"
+      }
+    },
+    "tuglu": {
+      "뜻": "힘들다",
+      "tuglu": {
+        "na tuglu": "힘들게",
+        "la tuglu": "힘든"
+      }
+    },
+    "hebni": {
+      "뜻": "도망가다",
+      "hebni": {
+        "nu hebni": "도망",
+        "la hebni": "도망간",
+        "na hebni": "도망가게"
+      }
+    },
+    "ritce": {
+      "뜻": "필기하다",
+      "ritce": {
+        "nu ritce": "필기",
+        "la ritce": "필기한",
+        "na ritce": "필기하게",
+        "li ritce": "연필"
+      }
+    },
+    "hagli": {
+      "뜻": "퍼내다",
+      "hagli": {
+        "la hagli": "픈",
+        "na hagli": "프게"
+      }
+    },
+    "mimte": {
+      "뜻": "찌르다",
+      "mimte": {
+        "nu mimte": "찌르는 것",
+        "la mimte": "찌른",
+        "na mimte": "찌르게"
+      }
+    },
+    "tatnu": {
+      "뜻": "전화하다",
+      "tatnu": {
+        "nu tatnu": "전화",
+        "la tatnu": "전화한",
+        "na tatnu": "전화하게",
+        "li tatnu": "전화기"
+      }
+    },
+    "gunte": {
+      "뜻": "상징하다",
+      "gunte": {
+        "nu gunte": "상징",
+        "la gunte": "상징한",
+        "na gunte": "상징하게"
+      }
+    },
+    "latci": {
+      "뜻": "비추다",
+      "latci": {
+        "nu latci": "비추는 것",
+        "la latci": "비춘",
+        "na latci": "비추게"
+      }
+    },
+    "salmi": {
+      "뜻": "태어나다",
+      "salmi": {
+        "nu salmi": "탄생",
+        "la salmi": "태어난",
+        "na salmi": "태어나게"
+      }
+    },
+    "munhe": {
+      "뜻": "게시하다",
+      "munhe": {
+        "nu munhe": "게시",
+        "la munhe": "게시한",
+        "na munhe": "게시한",
+        "li munhe": "게시판"
+      }
+    },
+    "cunru": {
+      "뜻": "다리다",
+      "cunru": {
+        "nu cunru": "다리는 것",
+        "la cunru": "다린",
+        "na cunru": "다리게",
+        "li cunru": "다리미"
+      }
+    },
+    "micmi": {
+      "뜻": "촬영하다",
+      "micmi": {
+        "nu micmi": "촬영",
+        "la micmi": "촬영한",
+        "na micmi": "촬영하게",
+        "li micmi": "카메라"
+      }
+    },
+    "nigbe": {
+      "뜻": "보다",
+      "nigbe": {
+        "nu nigbe": "보는 것",
+        "la nigbe": "본",
+        "na nigbe": "보게"
+      }
+    },
+    "nemri": {
+      "뜻": "강하다",
+      "nemri": {
+        "nu nemri": "강함",
+        "la nemri": "강한",
+        "na nemri": "강하게"
+      }
+    },
+    "sibmi": {
+      "뜻": "흔들리다",
+      "sibmi": {
+        "nu sibmi": "흔들림",
+        "la sibmi": "흔들린",
+        "na sibmi": "흔들리게"
+      }
+    },
+    "gemgi": {
+      "뜻": "해롭다",
+      "gemgi": {
+        "nu gemgi": "해로움",
+        "la gemgi": "해로운",
+        "na gemgi": "해롭게"
+      }
+    },
+    "hutge": {
+      "뜻": "비어 있다",
+      "hutge": {
+        "nu hutge": "비어 있는 것",
+        "la hutge": "비어 있는",
+        "na hutge": "비어 있게"
+      }
+    },
+    "jesce": {
+      "뜻": "존재하다",
+      "jesce": {
+        "nu jesce": "존재",
+        "la jesce": "존재한",
+        "na jesce": "존재하게"
+      }
+    },
+    "nutna": {
+      "뜻": "움직이다",
+      "nutna": {
+        "nu nutna": "움직임",
+        "la nutna": "움직인",
+        "na nutna": "움직이게"
+      }
+    },
+    "bahle": {
       "뜻": "(사건이) 일어나다",
-      "lacka": {
-        "nu lacta": "(사건이) 일어남",
-        "la lacta": "(사건이) 일어난",
-        "na lacta": "(사건이) 일어나게"
+      "bahle": {
+        "nu bahle": "(사건이) 일어남",
+        "la bahle": "(사건이) 일어난",
+        "na bahle": "(사건이) 일어나게"
       }
     },
-    "hatla": {
+    "janhi": {
       "뜻": "지루하다",
-      "hatla": {
-        "nu hatla": "지루함",
-        "la hatla": "지루한",
-        "na hatla": "지루하게"
+      "janhi": {
+        "nu janhi": "지루함",
+        "la janhi": "지루한",
+        "na janhi": "지루하게"
       }
-    } 
+    }
   }
-
 }
 
