@@ -15,20 +15,20 @@
       "6": "cinicl un a (나의 우주), cinicl uln nu lisnu (태초의 우주)",
       "7": "li linmi un a (나의 교과서)",
       "8": "cinicl uln nu lisnu (태초의 우주)",
-      "9": "su a icmihlis (나는 사람이다)",
+      "9": "a icmihlis (나는 사람이다)",
       "10": "si u hachi(그가 수리하다)",
-      "11": "su a ninhan sa ua (나는 그것을 재현할 것이다.)",
+      "11": "a ninhan ua (나는 그것을 재현할 것이다.)",
       "12": "ma u icmihlis (나도 사람이다.)",
       "13": "slan ma u icmihlis? (나도 사람입니까?)",
       "14": "slan ma u icmihlis taci? (왜 나도 사람입니까?)",
-      "15": "slan su a luca ahai nicli taci? (왜 나는 가면 안되나요?)",
+      "15": "slan a luca ahai nicli taci? (왜 나는 가면 안되나요?)",
       "16": "slan sca maci? (어떻게 하나요?)",
-      "17": "slan su a luca ahai nicli taci? inul, slan su a luca ahai mihlu taci? (왜 나는 갈 수 없고, 왜 나는 휴식할 수 없어요?)",
-      "18": "slan su a luca'ha nicli taci? inul, slan su a luca'ha mihlu taci (왜 나는 갈 수 없고, 왜 나는 휴식할 수 없어요?)",
-      "19": "sta hisni sa tha ichuc ninmuht na hasni! (저 불공평하게 작동하는 기계를 부숴라!)",
-      "20": "su a niclin ahai. (나는 가지 않을 것이다.)",
-      "21": "(su) a + isl = su aisl (나는 하고 있다.)",
-      "22": "su caisnlm a linmi (나는 학생이 되었다.)",
+      "17": "slan a luca ahai nicli taci? inul, slan a luca ahai mihlu taci? (왜 나는 갈 수 없고, 왜 나는 휴식할 수 없어요?)",
+      "18": "slan a luca'ha nicli taci? inul, slan a luca'ha mihlu taci (왜 나는 갈 수 없고, 왜 나는 휴식할 수 없어요?)",
+      "19": "sta hisni tha ichuc ninmuht na hasni! (저 불공평하게 작동하는 기계를 부숴라!)",
+      "20": "a niclin ahai. (나는 가지 않을 것이다.)",
+      "21": "a + isl = aisl (나는 하고 있다.)",
+      "22": "aisnlm a linmi (나는 학생이 되었다.)",
       "23": "ninmu + nl + m/n = ninmunlm/ninmunln(작동됐다/작동될 것이다)",
       "24": "ninmu + sl + m/n = ninmuslm/ninmusln(작동 하고 있었다/작동 할 것이다)"
   },
@@ -45,8 +45,8 @@
       "t": "[t']",
       "p": "ㅃ",
       "ph": "ㅍ",
-      "th": "ㅆ",
-      "ch": "ㅊ"
+      "th": "ㅌ",
+      "ch": "ㅋ"
   },
   "대명사": {
     "1": {
@@ -106,14 +106,8 @@
     "uln": {
       "뜻": "속성 (~의)"
     },
-    "su -": {
-      "뜻": "서술 조사 (~은/는)"
-    },
     "si -": {
       "뜻": "주격 (이/가)"
-    },
-    "sa -": {
-      "뜻": "목적어 (을/를)"
     },
     "ma -": {
       "뜻": "-도"
