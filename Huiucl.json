@@ -180,7 +180,7 @@
   },
   "기본명사": {
     "물건": {
-      "catuatl": {
+      "tuatl": {
         "뜻": "가구"
       },
       "hantl": {
@@ -213,7 +213,7 @@
       "cusantl": {
         "뜻": "부품"
       },
-      "nu hancultl la nusmu": {
+      "hancultl": {
         "뜻": "성냥"
       },
       "castl": {
@@ -255,9 +255,6 @@
       "ahilucaitl": {
         "뜻": "지폐"
       },
-      "casitl": {
-        "뜻": "우주선"
-      },
       "hihutl": {
         "뜻": "자동차"
       },
@@ -294,7 +291,7 @@
     },
     "자연": {
       "광물": {
-        "nu cual la stalu": {
+        "stalucual": {
           "뜻": "강철"
         },
         "cual": {
@@ -308,13 +305,13 @@
         }
       },
       "현상/에너지": {
-        "huisul": {
+        "huiul": {
           "뜻": "바람"
         },
-        "tansul": {
+        "tachul": {
           "뜻": "번개"
         },
-        "suicul": {
+        "shansul": {
           "뜻": "무지개"
         },
         "hancul": {
@@ -352,10 +349,10 @@
         "machu-hamucl": {
           "뜻": "가뭄"
         }, 
-        "nu hamucl la muina": {
+        "muhanal": {
           "뜻": "강"
         },
-        "nu hamucl la nusmu": {
+        "ushmual": {
           "뜻": "개울"
         },
         "nal": {
@@ -382,7 +379,7 @@
         "sahcal": {
           "뜻": "평원"
         },
-        "slamucal": {
+        "slamcal": {
           "뜻": "해변"
         },
         "samucal": {
@@ -391,10 +388,10 @@
         "uhunal": {
           "뜻": "호수"
         },
-        "nu mumsa na muina": {
+        "muimucl": {
           "뜻": "홍수"
         },
-        "haunal un hancul": {
+        "haunucl": {
           "뜻": "화산"
         },
         "tiamal": {
@@ -489,7 +486,7 @@
           "cisath": {
             "뜻": "돼지"
           },
-          "uhucth": {
+          "shiath": {
             "뜻": "뱀"
           },
           "asuth": {
@@ -504,7 +501,7 @@
           "unith": {
             "뜻": "오리"
           },
-          "nu umuch la nalla": {
+          "nalumucth": {
             "뜻": "해충"
           }
         },
@@ -535,80 +532,80 @@
           }
         },
         "장기/기관": {
-          "cucil": {
+          "cucn": {
             "뜻": "껍질"
           },
-          "ucil": {
+          "ucn": {
             "뜻": "뇌"
           },
-          "sincil": {
+          "lacn": {
             "뜻": "눈(동물의)"
           },
-          "hacil": {
+          "hacn": {
             "뜻": "다리(동물의)"
           },
-          "hicil": {
+          "hicn": {
             "뜻": "근육"
           },
-          "mihacil": {
+          "acn": {
             "뜻": "발"
           },
-          "uchacil": {
+          "hitacn": {
             "뜻": "뿌리"
           },
-          "unhacil": {
+          "macn": {
             "뜻": "손"
           },
-          "ucacil": {
+          "nulacn": {
             "뜻": "신경"
           },
-          "nacil": {
+          "sancn": {
             "뜻": "위"
           },
-          "macacil": {
+          "atlcn": {
             "뜻": "이빨"
           },
-          "mascil": {
+          "mascn": {
             "뜻": "장기(내장)"
           },
-          "muhucil": {
+          "nucn": {
             "뜻": "털"
           },
-          "ascil": {
+          "halascn": {
             "뜻": "피"
           },
-          "sacil": {
+          "calacn": {
             "뜻": "세포"
           }
         },
-        "inacil": {
+        "inacn": {
           "뜻": "생물",
           "변형": {
-            "ta inacil": "생물적"
+            "ta inacn": "생물적"
           }
         },
-        "ahucil": {
+        "ahucn": {
           "뜻": "유기체"
         },
-        "shicil": {
+        "shicn": {
           "뜻": "유전"
         },
-        "shicil-achicl": {
+        "shicn-achicl": {
           "뜻": "유전자"
         },
-        "ninicil": {
+        "nincn": {
           "뜻": "생태계"
         },
         "mu la nunhi": {
           "뜻": "서식시"
         },
-        "muncil": {
+        "muncn": {
           "뜻": "흙"
         },
-        "unacil": {
+        "unacn": {
           "뜻": "소화"
         },
-        "musucil": {
+        "musucn": {
           "뜻": "화석"
         }
       },
@@ -634,7 +631,7 @@
         "nicuchl": {
           "뜻": "원소"
         },
-        "hacchl": {
+        "hachl": {
           "뜻": "입자"
         },
         "unmichl": {
@@ -749,7 +746,7 @@
       "mu misuch": {
         "뜻": "병원"
       },
-      "mu hamucl la nalla": {
+      "mu nalhamucl": {
         "뜻": "술집"
       },
       "amis": {
@@ -1204,7 +1201,7 @@
     "munuc": {
       "뜻": "고무"
     },
-    "nacc": {
+    "nac": {
       "뜻": "공예"
     },
     "umnac": {
@@ -1252,7 +1249,7 @@
     "husc": {
       "뜻": "단어"
     },
-    "succ": {
+    "suc": {
       "뜻": "대안"
     },
     "masuc": {
@@ -1417,7 +1414,7 @@
     "uhmac": {
       "뜻": "과잉"
     },
-    "nicc": {
+    "nic": {
       "뜻": "교통"
     },
     "isnac": {
@@ -1477,7 +1474,7 @@
     "icmac": {
       "뜻": "배역"
     },
-    "suiiclt": {
+    "suiclt": {
       "뜻": "보라색"
     },
     "uihuc": {
@@ -1534,7 +1531,7 @@
     "iscac": {
       "뜻": "성과"
     },
-    "micc": {
+    "mic": {
       "뜻": "성별"
     },
     "nunuc": {
