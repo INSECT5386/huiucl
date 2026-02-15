@@ -3530,7 +3530,7 @@
       "malmu": {
         "nu malmu": "사육",
         "mi malmu": "사육자",
-        "a malmu": "사육 당하는 것",
+        "an malmu": "사육 당하는 것",
         "li malmu": "사육 도구",
         "mu malmu": "사육장",
         "na malmu": "사육하게",
@@ -5981,7 +5981,7 @@
     },
     "hanna": {
       "뜻": "필기하다",
-      "henna": {
+      "hanna": {
         "nu hanna": "필기",
         "la hanna": "필기한",
         "na hanna": "필기하게",
@@ -6018,9 +6018,9 @@
     "sachi": {
       "뜻": "상징하다",
       "sachi": {
-        "nu hachi": "상징",
-        "la hachi": "상징한",
-        "na hachi": "상징하게"
+        "nu sachi": "상징",
+        "la sachi": "상징한",
+        "na sachi": "상징하게"
       }
     },
     "hacla": {
@@ -6189,4 +6189,4 @@
       }
     }
   }
-}
+} 
