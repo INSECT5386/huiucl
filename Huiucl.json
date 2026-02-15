@@ -200,8 +200,8 @@
     },
     "-m": {"뜻":"과거"},
     "-n": {"뜻": "미래"},
-    "-umt": {"뜻": "객관형"},
-    "-hut": {"뜻": "주관형"}
+    "-um-": {"뜻": "객관형"},
+    "-hu-": {"뜻": "주관형"}
   },
   "명사/서술어 접사": {
     "-is": {
@@ -6084,9 +6084,9 @@
         "li clata": "카메라"
       }
     },
-    "hlasi": {
+    "hlasij": {
       "뜻": "그리다",
-      "hlasi": {
+      "파생": {
         "nu hlasi": "그리는 것",
         "la hlasi": "그린",
         "na hlasi": "그리게",
@@ -6094,97 +6094,97 @@
         "li tuahla": "그림"
       }
     },
-    "hallu": {
+    "halluj": {
       "뜻": "보다",
-      "hallu": {
+      "파생": {
         "nu hallu": "보는 것",
         "la hallu": "본",
         "na hallu": "보게"
       }
     },
-    "stalu": {
+    "staluj": {
       "뜻": "강하다",
-      "stalu": {
+      "파생": {
         "nu stalu": "강함",
         "la stalu": "강한",
         "na stalu": "강하게"
       }
     },
-    "hanta": {
+    "hantaj": {
       "뜻": "흔들리다",
-      "hanta": {
+      "파생": {
         "nu hanta": "흔들림",
         "la hanta": "흔들린",
         "na hanta": "흔들리게"
       }
     },
-    "nalla": {
+    "nallaj": {
       "뜻": "해롭다",
-      "nalla": {
+      "파생": {
         "nu nalla": "해로움",
         "la nalla": "해로운",
         "na nalla": "해롭게"
       }
     },
-    "anlla": {
+    "anllaj": {
       "뜻": "이롭다",
-      "anlla": {
+      "파생": {
         "nu anlla": "이로움",
         "la anlla": "이로운",
         "na anlla": "이롭게"
       }
     },
-    "malci": {
+    "malcij": {
       "뜻": "비어 있다",
-      "malci": {
+      "파생": {
         "nu malci": "비어 있는 것",
         "la malci": "비어 있는",
         "na malci": "비어 있게"
       }
     },
-    "minni": {
+    "minnij": {
       "뜻": "존재하다",
-      "minni": {
+      "파생": {
         "nu minni": "존재",
         "la minni": "존재한",
         "na minni": "존재하게"
       }
     },
-    "hacta": {
+    "hactaj": {
       "뜻": "움직이다",
-      "hacta": {
+      "파생": {
         "nu hacta": "움직임",
         "la hacta": "움직인",
         "na hacta": "움직이게"
       } 
     },
-    "lacta": {
+    "lactaj": {
       "뜻": "(사건이) 일어나다",
-      "lacta": {
+      "파생": {
         "nu lacta": "(사건이) 일어남",
         "la lacta": "(사건이) 일어난",
         "na lacta": "(사건이) 일어나게"
       }
     },
-    "hatla": {
+    "hatlahuj": {
       "뜻": "지루하다",
-      "hatla": {
+      "파생": {
         "nu hatla": "지루함",
         "la hatla": "지루한",
         "na hatla": "지루하게"
       }
     },
-    "lacna": {
+    "lacnaj": {
       "뜻": "버리다",
-      "lacna": {
+      "파생": {
         "nu lacna": "버림",
         "la lacna": "버린",
         "na lacna": "버리게"
       }
     },
-    "hasta": {
+    "hastaj": {
       "뜻": "약하다",
-      "hasta": {
+      "파생": {
         "nu hasta": "약함",
         "la hasta": "약한",
         "na hasta": "약하게"
@@ -6193,6 +6193,7 @@
   }
 
 } 
+
 
 
 
