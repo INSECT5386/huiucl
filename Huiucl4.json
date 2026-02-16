@@ -2977,21 +2977,20 @@
         "maui": "구매하게"
       }
     },
-    "sismi": {
-      "뜻": "여가를 즐기는 것",
+    "lainu": {
+      "뜻": "여가를 즐기는 것/장난치는 것",
       "파생": {
-        "nu micsis": "장난",
-        "mi sismi": "놀이꾼",
-        "li sismi": "장난감",
-        "mu sismi": "놀이터/놀이공원",
-        "na sismi": "놀게"
+        "lainuhl": "놀이꾼",
+        "lainutl": "장난감",
+        "lainus": "놀이터/놀이공원",
+        "lainui": "놀게"
       }
     },
-    "silmu": {
+    "lancu": {
       "뜻": "여행",
       "파생": {
-        "na silmu": "여행하게",
-        "mi silmu": "여행자"
+        "lancui": "여행하게",
+        "lancuhl": "여행자"
       }
     },
     "huina": {
