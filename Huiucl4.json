@@ -530,9 +530,6 @@
       "uatl": {
         "뜻": "망"
       },
-      "multl": {
-        "뜻": "무기"
-      },
       "huatl": {
         "뜻": "버튼"
       },
@@ -2769,35 +2766,35 @@
         "clatutl": "카메라"
       }
     },
-    "misni": {
-      "뜻": "취침",
+    "manu": {
+      "뜻": "취침/자는 것",
       "파생": {
-        "li misni": "침구",
-        "mu misni": "침실",
-        "na misni": "잠자게"
+        "manutl": "침구",
+        "manus": "침실",
+        "manui": "잠자게"
       }
     },
-    "munsi": {
-      "뜻": "탑승",
+    "atlu": {
+      "뜻": "탑승/타는 것",
       "파생": {
-        "na munsi": "탑승하게"
+        "atlui": "탑승하게"
       }
     },
-    "halsu": {
+    "pashu": {
       "뜻": "투척",
       "파생": {
-        "mi halsu": "투수/발사자",
-        "li halsu": "투사체/공",
-        "na halsu": "던지게"
+        "pashuhl": "투수/발사자",
+        "pashutl": "투사체",
+        "pashui": "던지게"
       }
     },
-    "hisni": {
-      "뜻": "파괴",
+    "hactacu": {
+      "뜻": "파괴/부수는 것",
       "파생": {
-        "mi hisni": "파괴자",
-        "li hisni": "무기/분쇄기",
-        "mu hisni": "유적",
-        "na hisni": "부수게"
+        "hactacuhl": "파괴자",
+        "hactacutl": "무기",
+        "hactacus": "유적",
+        "hactacui": "부수게"
       }
     },
     "muili": {
