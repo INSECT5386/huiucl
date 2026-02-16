@@ -2366,10 +2366,10 @@
         "na hulha": "비슷하게"
       }
     },
-    "nu luclu": {
+    "lucla": {
       "뜻": "빠른 것",
       "파생": {
-        "na luclu": "빠르게"
+        "luclai": "빠르게"
       }
     },
     "nu mismu": {
@@ -2864,7 +2864,7 @@
         "na malna": "질문하게"
       }
     },
-    "lunsu": {
+    "alu": {
       "뜻": "질주",
       "파생": {
         "mi lunsu": "주자/레이서",
@@ -2893,12 +2893,12 @@
         "lisiui": "청소하게"
       }
     },
-    "musli": {
+    "tilalu": {
       "뜻": "따라가는 것",
       "파생": {
-        "mi musli": "추적자/팬",
-        "li musli": "추적기",
-        "na musli": "따라가게"
+        "tilaluhl": "추적자",
+        "tilalutl": "추적기",
+        "tilalui": "따라가게"
       }
     },
     "canshu": {
