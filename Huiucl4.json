@@ -2935,50 +2935,44 @@
         "muisui": "압박하게"
       }
     },
-    "susla": {
+    "mau": {
       "뜻": "구매",
       "파생": {
-        "na susla": "구매하게"
+        "maui": "구매하게"
       }
     },
-    "lilhi": {
+    "pliau": {
       "뜻": "낙하",
       "파생": {
-        "mi lilhi": "낙하자",
-        "li lilhi": "낙하산",
-        "mu lilhi": "낙하지점",
-        "na lilhi": "떨어지게"
+        "pliauhl": "낙하자",
+        "pliautl": "낙하산",
+        "pliaus": "낙하지점",
+        "pliaui": "떨어지게"
       }
     },
-    "ninsu": {
+    "apitu": {
       "뜻": "비행",
       "파생": {
-        "mi ninsu": "비행기 조종자(=파일럿)",
-        "li ninsu": "비행기",
-        "mu ninsu": "활주로/공항",
-        "na ninsu": "비행하게"
+        "apituhl": "비행기 조종자(=파일럿)",
+        "apituichuc": "비행기",
+        "apitus": "활주로/공항",
+        "apitui": "비행하게"
       }
     },
-    "nuisi": {
-      "뜻": "녹이는 것",
-      "파생": {
-        "na nuisi": "녹이게"
-      }
-    },
-    "namhi": {
+    "halau": {
       "뜻": "농사",
       "파생": {
-        "na namhi": "농사하게",
-        "li namhi": "농사 도구",
+        "halaui": "농사하게",
+        "halautl": "농사 도구",
         "li luonam": "농산물",
         "li mahnam ": "농약",
-        "mu namhi": "농장"
+        "halaus": "농장"
       }
     },
-    "muihu": {
+    "pau": {
       "뜻": "느끼는 것",
       "파생": {
-        "na muihu": "느끼게"
+        "paui": "느끼게"
       }
     }
   },
@@ -2993,6 +2987,12 @@
       "뜻": "가해",
       "파생": {
         "na lusla": "가해하게"
+      }
+    },
+    "nuisi": {
+      "뜻": "녹이는 것",
+      "파생": {
+        "na nuisi": "녹이게"
       }
     },
     "halsa": {
