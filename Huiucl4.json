@@ -2797,40 +2797,40 @@
         "hactacui": "부수게"
       }
     },
-    "muili": {
+    "ultmu": {
       "뜻": "잡는 것",
       "파생": {
-        "li muili": "손잡이/집게",
-        "na muili": "잡게"
+        "ultmutl": "손잡이/집게",
+        "ultmui": "잡게"
       }
     },
-    "sumna": {
-      "뜻": "폐쇄",
+    "sultu": {
+      "뜻": "폐쇄/닫다",
       "파생": {
-        "li sumna": "자물쇠",
-        "mu sumna": "폐쇄 구역",
-        "na sumna": "폐쇄하게"
+        "sultutl": "자물쇠",
+        "sultus": "폐쇄 구역",
+        "sultui": "폐쇄하게"
       }
     },
-    "sahsi": {
+    "taucau": {
       "뜻": "활동",
       "파생": {
-        "na sahsi": "활동하게"
+        "taucaui": "활동하게"
       }
     },
-    "hanna": {
+    "hannu": {
       "뜻": "필기",
       "파생": {
-        "na hanna": "필기하게",
-        "li hanna": "필기구",
+        "hannui": "필기하게",
+        "hannutl": "필기구",
         "li halhan": "볼펜",
         "li muihan": "연필"
       }
     },
-    "clama": {
+    "clamu": {
       "뜻": "태어나는 것",
       "파생": {
-        "na clama": "태어나게"
+        "clamui": "태어나게"
       }
     }
   },
