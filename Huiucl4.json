@@ -2827,11 +2827,11 @@
         "clamui": "태어나게"
       }
     },
-    "huilu": {
+    "uilu": {
       "뜻": "접촉",
       "파생": {
-        "li huilu": "센서/터치패드",
-        "na huilu": "접촉하게"
+        "li uilu": "센서/터치패드",
+        "na uilu": "접촉하게"
       }
     },
     "lusli": {
@@ -2873,11 +2873,11 @@
         "na lunsu": "질주하게"
       }
     },
-    "hahmi": {
+    "ultmu aclac": {
       "뜻": "착석",
       "파생": {
-        "li hahmi": "의자/좌석",
-        "na hahmi": "앉게"
+        "ultmu aclactl": "의자/좌석",
+        "ultmu aclacti": "앉게"
       }
     },
     "miahu": {
