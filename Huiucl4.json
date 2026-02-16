@@ -16,12 +16,12 @@
         "~한 ([대상]은 [물체]이며, [대상]이 [목적/보어]를 [행위어] 했다)": "[대상] [물체]is aial, [대상] scam [행위어] [목적/보어]",
         "~할 ([대상]은 [물체]이며, [대상]이 [목적/보어]를 [행위어] 할 것이다)": "[대상] [물체]is aial, [대상] scan [행위어] [목적/보어]",
         "예문": {
-          "1": "A sca nu nunhi (나는 생존한다)",
-          "2": "A scam nu nunhi (나는 생존했다)",
-          "3": "A scan nu nunhi (나는 생존할 것이다)",
-          "4": "A icmihlis aial, a sca nu husmu huiuc (나는 사람이며, 나는 언어를 연구한다. | 나는 언어를 연구하는 사람이다.)",
-          "5": "A icmihlis aial, a scam nu husmu huiuc (나는 사람이며, 나는 언어를 연구했다. | 나는 언어를 연구한 사람이다.)",
-          "6": "A icmihlis aiai, a scan nu husmu huiuc (나는 사람이며, 나는 언어를 연구 할 것이다. | 나는 언어를 연구할 사람이다.)"
+          "1": "A sca nunhi (나는 생존한다)",
+          "2": "A scam nunhi (나는 생존했다)",
+          "3": "A scan nunhi (나는 생존할 것이다)",
+          "4": "A icmihlis aial, a sca husmu huiuc (나는 사람이며, 나는 언어를 연구한다. | 나는 언어를 연구하는 사람이다.)",
+          "5": "A icmihlis aial, a scam husmu huiuc (나는 사람이며, 나는 언어를 연구했다. | 나는 언어를 연구한 사람이다.)",
+          "6": "A icmihlis aiai, a scan husmu huiuc (나는 사람이며, 나는 언어를 연구 할 것이다. | 나는 언어를 연구할 사람이다.)"
         }
       },
       "2": {
@@ -32,12 +32,12 @@
         "~하게 ~ 한([대상]은 [물체]이며, [대상]이 [부사]하게 [행위어] 했다.)": "[대상] [물체]is aial, [대상] scam [행위어] [부사]",
         "~하게 ~ 할([대상]은 [물체]이며, [대상]이 [부사]하게 [행위어] 할 것이다)": "[대상] [물체]is aial, [대상] scan [행위어] [부사]",
         "예문": {
-          "1": "Ua sca nu ninmu na hasni (그것은 불공평하게 작동한다.)",
-          "2": "Ua scam nu ninmu na hasni (그것은 불공평하게 작동했다.)",
-          "3": "Ua scan nu ninmu na hasni (그것은 불공평하게 작동할 것이다.)",
-          "4": "Ua ichucis aial, ua sca nu ninmu na hasni (그것은 기계이며, 그것은 불공평하게 작동한다. | 그것은 불공평하게 작동하는 기계이다.)",
-          "5": "Ua ichucis aial, ua scam nu ninmu na hasni (그것은 기계이며, 그것은 불공평하게 작동했다. | 그것은 불공평하게 작동한 기계이다.)",
-          "6": "Ua ichucis aial, ua scan nu nunmu na hasni (그것은 기계이며, 그것은 불공평하게 작동할 것이다. | 그것은 불공평하게 작동할 기계이다.)"
+          "1": "Ua sca ninmu na hasni (그것은 불공평하게 작동한다.)",
+          "2": "Ua scam ninmu na hasni (그것은 불공평하게 작동했다.)",
+          "3": "Ua scan ninmu na hasni (그것은 불공평하게 작동할 것이다.)",
+          "4": "Ua ichucis aial, ua sca ninmu na hasni (그것은 기계이며, 그것은 불공평하게 작동한다. | 그것은 불공평하게 작동하는 기계이다.)",
+          "5": "Ua ichucis aial, ua scam ninmu na hasni (그것은 기계이며, 그것은 불공평하게 작동했다. | 그것은 불공평하게 작동한 기계이다.)",
+          "6": "Ua ichucis aial, ua scan ninmu na hasni (그것은 기계이며, 그것은 불공평하게 작동할 것이다. | 그것은 불공평하게 작동할 기계이다.)"
         }
       },
       "3": {
@@ -55,7 +55,7 @@
         "예문": {
           "1": "A icmihlis (나는 사람이다.)",
           "2": "A icmihlis ahai (나는 사람이 아니다.)",
-          "3": "A nu nunhisl (나는 살고 있다.)",
+          "3": "A nunhisl (나는 살고 있다.)",
           "4": "il Alth il icmihlisnl (동물이 사람이 되었다.)"
         }
       },
@@ -104,8 +104,8 @@
         "[대상]은 ~를 하지 않았다": "[대상] scam'ha ~",
         "[대상]은 ~하지 않을 것이다": "[대상] scan'ha ~",
         "예문": {
-          "1": "A sca nu misna isnuc (나는 음식이 필요하다.)",
-          "2": "A sca'ha nu misna isnuc (나는 음식을 필요하지 않는다.)"
+          "1": "A sca misna isnuc (나는 음식이 필요하다.)",
+          "2": "A sca'ha misna isnuc (나는 음식을 필요하지 않는다.)"
         }
       }
     },
@@ -326,8 +326,8 @@
       "뜻": "의문문을 시작함",
       "용법": "문장 맨 앞에 위치하며, 평서문을 의문문으로 바꿈",
       "예시": {
-        "1": "slan a niclin ahai?",
-        "2": "slan a luca ahai nicli taci?"
+        "1": "slan a scan'ha nicli?",
+        "2": "slan a luca'ha nicli taci?"
       }
     }
   },
