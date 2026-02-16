@@ -2976,6 +2976,191 @@
       "파생": {
         "maui": "구매하게"
       }
+    },
+    "sismi": {
+      "뜻": "여가를 즐기는 것",
+      "파생": {
+        "nu micsis": "장난",
+        "mi sismi": "놀이꾼",
+        "li sismi": "장난감",
+        "mu sismi": "놀이터/놀이공원",
+        "na sismi": "놀게"
+      }
+    },
+    "silmu": {
+      "뜻": "여행",
+      "파생": {
+        "na silmu": "여행하게",
+        "mi silmu": "여행자"
+      }
+    },
+    "huina": {
+      "뜻": "양치",
+      "파생": {
+        "na huina": "양치하게",
+        "li huina": "칫솔",
+        "li lamhui": "치약",
+        "li sihhui": "치실"
+      }
+    },
+    "huhlu": {
+      "뜻": "심는 것",
+      "파생": {
+        "mi huhlu": "농부/정원사",
+        "li huhlu": "모종/삽",
+        "mu huhlu": "농장/화단",
+        "na huhlu": "심게"
+      }
+    },
+    "hilsu": {
+      "뜻": "말",
+      "파생": {
+        "mi hilsu": "화자",
+        "li hilsu": "마이크",
+        "na hilsu": "말하게"
+      }
+    },
+    "nulha": {
+      "뜻": "마시는 것",
+      "파생": {
+        "mi nulha": "음용자",
+        "li nulha": "컵/음료수",
+        "mu nulha": "급수대",
+        "na nulha": "마시게"
+      }
+    },
+    "mumli": {
+      "뜻": "듣는 것",
+      "파생": {
+        "mi mumli": "청취자",
+        "li mumli": "이어폰",
+        "na mumli": "듣게"
+      }
+    },
+    "hinhi": {
+      "뜻": "돕는 것",
+      "파생": {
+        "mi hinhi": "조력자",
+        "li hinhi": "보조기구",
+        "na hinhi": "도와주게"
+      }
+    },
+    "sumli": {
+      "뜻": "도약",
+      "파생": {
+        "mi sumli": "도약자",
+        "li sumli": "트램펄린",
+        "na sumli": "뛰게"
+      }
+    },
+    "huhsu": {
+      "뜻": "대기",
+      "파생": {
+        "mi huhsu": "대기자",
+        "mu huhsu": "대기실/정류장",
+        "na huhsu": "대기하게"
+      }
+    },
+    "humsi": {
+      "뜻": "대답",
+      "파생": {
+        "na humsi": "대답하게"
+      }
+    },
+    "lumsi": {
+      "뜻": "기립",
+      "파생": {
+        "li lumsi": "받침대/스탠드",
+        "na lumsi": "서게"
+      }
+    },
+    "munhu": {
+      "뜻": "시청/관찰",
+      "파생": {
+        "mi munhu": "관람객/관찰자",
+        "li munhu": "망원경/모니터",
+        "mu munhu": "관측소",
+        "na munhu": "보게"
+      }
+    },
+    "lilnu": {
+      "뜻": "수령",
+      "파생": {
+        "mi lilnu": "수신자",
+        "li lilnu": "수신기/안테나",
+        "na lilnu": "받게"
+      }
+    },
+    "hachi": {
+      "뜻": "수리",
+      "파생": {
+        "mi hachi": "수리자",
+        "li hachi": "수리 도구",
+        "mu hachi": "서비스 센터",
+        "na hachi": "수리하게"
+      }
+    },
+    "milhi": {
+      "뜻": "보살피는 것",
+      "파생": {
+        "mi milhi": "보호자",
+        "a milhi": "피보호자",
+        "mu milhi": "보호소",
+        "na milhi": "보호하게"
+      }
+    },
+    "sismu": {
+      "뜻": "세척",
+      "파생": {
+        "na sismu": "세척하게",
+        "li sismu": "비누",
+        "li catsis": "세면대",
+        "mu sismu": "욕실"
+      }
+    },
+    "lilsu": {
+      "뜻": "성장",
+      "파생": {
+        "li lilsu": "비료",
+        "na lilsu": "자라게"
+      }
+    },
+    "nisnu": {
+      "뜻": "섭취",
+      "파생": {
+        "mi nisnu": "식객",
+        "li nisnu": "식기",
+        "li muinis": "젓가락",
+        "li munnis": "숟가락",
+        "li husnis": "포크",
+        "mu nisnu": "식당",
+        "na nisnu": "먹게"
+      }
+    },
+    "nunhi": {
+      "뜻": "생존",
+      "파생": {
+        "mi nunhi": "조상",
+        "li nunhi": "생존도구",
+        "na nunhi": "살게"
+      }
+    },
+    "mahli": {
+      "뜻": "사망",
+      "파생": {
+        "mu mahli": "무덤",
+        "na mahli": "죽게"
+      }
+    },
+    "malmu": {
+      "뜻": "사육",
+      "파생": {
+        "mi malmu": "사육자",
+        "an malmu": "사육 당하는 것",
+        "li malmu": "사육 도구",
+        "mu malmu": "사육장",
+        "na malmu": "사육하게"
+      }
     }
   },
   "행위어": {
