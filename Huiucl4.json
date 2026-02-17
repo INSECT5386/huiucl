@@ -2451,20 +2451,16 @@
   },
   "기초행위": {
     "alu": {
-      "뜻": "가는 것",
+      "뜻": "이동",
       "파생": {
-        "aluhl": "걷는 자",
+        "alu luclai'ha": "걷는 것",
+        "aluhl luclai'ha": "걷는 자",
+        "alu luclai": "질주",
+        "aluhl luclai": "주자/레이서",
+        "alutl luclai": "경주차",
+        "alus luclai": "트랙/경기장",
         "alus": "산책로/공원",
         "alui": "걷게/이동하게"
-      }
-    },
-    "alu luclai": {
-      "뜻": "질주/뛰는 것",
-      "파생": {
-        "alu luclaihl": "주자/레이서",
-        "alu luclaitl": "경주차",
-        "alu luclais": "트랙/경기장",
-        "alu luclaihi": "질주하게"
       }
     },
     "tilalu": {
