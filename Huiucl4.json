@@ -19,7 +19,7 @@
           "4": "An scav hesa (나는 빨랐다.)",
           "5": "An pupud (나는 생존할 것이다.)",
           "6": "An scad hesa (나는 빠를 것이다)",
-          "7": "An la icmihle kosug clu (나는 언어를 연구하는 사람이다.)",
+          "7": "An la icmihle kosug cul (나는 언어를 연구하는 사람이다.)",
           "8": "icmihle talaj (약한 사람)",
           "9": "icmihle alue (이동한 사람)"
         }
@@ -317,7 +317,7 @@
     "en": {
       "뜻": "그리고"
     },
-    "uial": {
+    "el": {
       "뜻": "그러면"
     },
     "al": {
@@ -560,7 +560,7 @@
         }
       },
       "행성/위성/항성": {
-        "ansl": {
+        "vesl": {
           "뜻": "태양/n년"
         },
         "tesl": {
@@ -578,10 +578,10 @@
         "hesl": {
           "뜻": "목성"
         },
-        "yasl": {
+        "yesl": {
           "뜻": "토성"
         },
-        "wasl": {
+        "wesl": {
           "뜻": "천왕성"
         },
         "nesl": {
@@ -1140,7 +1140,7 @@
       "파생": {
         "cumicili": "내일",
         "cumicivei": "어제",
-        "cumic ipn": "매일"
+        "cumic iln": "매일"
       }
     },
     "nasuc": {
@@ -1621,8 +1621,8 @@
         "aputle": "필기구/미술 도구",
         "apuvetle": "종이/기록물/책",
 
-        "li kiman": "볼펜",
-        "li muihan": "연필",
+        "genutle o aputle": "볼펜",
+        "tal o aputle": "연필",
         "apuve": "그림",
 
         "apuhle": "작성자",
@@ -1715,12 +1715,11 @@
       "파생": {
         "simuo": "세척하게",
         "simutle": "비누/수건",
-        "li catsis": "세면대",
-        "simus": "욕실",
+        "simus": "욕실/세면대",
         "simu atlecnm": "양치하다",
-        "li huina": "칫솔",
-        "li lamhui": "치약",
-        "li sihhui": "치실",
+        "simutle atlecnm": "이를 닦는 도구(칫솔)",
+        "cusantle o simul": "세척의 재료 (세제/치약)",
+        "simutlem atlecnm senug": "이를 닦는 (치실)",
         "simul": "세척/청소/정리/정돈"
       }
     },
@@ -1921,7 +1920,7 @@
       "뜻": "여가를 즐기다/장난치다",
       "파생": {
         "genuhle": "놀이꾼",
-        "genutle": "장난감",
+        "genutle": "장난감/공/게임기",
         "genus": "놀이터/놀이공원",
         "genuo": "놀게",
         "genul": "여가/장난/놀이"
@@ -1983,7 +1982,7 @@
     "cu": {
       "뜻": "말하다/의사소통하다/언급하다/주장하다/이야기하다/연설하다/토론하다",
       "파생": {
-        "cuhle": "화자",
+        "cuhle": "화자/언어학자",
         "cutle": "마이크",
         "cuo": "말하게",
         "slancu": "질문하다/문의하다",
@@ -1996,6 +1995,11 @@
         "cu titao": "소리 지르는 것/비명",
         "cu sutujo": "줄어들게 말하는 것(요약)",
         "cul": "말/의사소통/언급/주장/이야기/연설/언어",
+        "culo": "구두로/언어적으로",
+        "cujl": "무례한 말/욕",
+        "cunalu": "침묵하다",
+        "cunalul": "침묵",
+        "cunlauo": "침묵하게",
         "slancul": "질문/문의/의견",
         "slancujl": "대답/응답",
         "cul tinujao": "비난",
