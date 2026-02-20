@@ -47,7 +47,7 @@
         }
       },
       "3": {
-        "[대상] 의 ~ (소유격)": "~ o [대상]",
+        "[대상] 의 ~ (소유격)": "~'o [대상]",
         "[대상] 의 ~ (속성격)": "~ ol [대상]",
         "[대상] 이/가": "il [대상]"
       }
@@ -1335,9 +1335,9 @@
         "palug puo": "도약하는/비행하는/퍼내는",
         "palug pujuo": "낙하하는",
 
-        "petn": "움직이는 것/활동/작동/기능/운동/행동/힘",
-        "petn puo": "도약/비행/퍼내는 것",
-        "petn pujuo": "낙하",
+        "palul": "움직이는 것/활동/작동/기능/운동/행동/힘",
+        "palul puo": "도약/비행/퍼내는 것",
+        "palul pujuo": "낙하",
         "palutle puo": "숟가락/삽",
         "palus puo": "활주로/트램펄린/항공사",
         "palus pujuo": "낙하지점",
@@ -1382,8 +1382,8 @@
         "aputle": "필기구/미술 도구",
         "apuvetle": "종이/기록물/책",
 
-        "genutle o aputle": "볼펜",
-        "tal o aputle": "연필",
+        "genutle'o aputle": "볼펜",
+        "tal'o aputle": "연필",
         "apuve": "그림",
 
         "apuhle": "작성자",
@@ -1413,7 +1413,7 @@
 
         "limus": "학교",
         "limut": "학생",
-        "limul so apuvetle": "교과서",
+        "apuvetle'o limul": "교과서",
         "limul": "교육/가르침/강의",
         "limujul": "학습/공부/훈련/터득"
       }
@@ -1473,7 +1473,7 @@
         "simus": "욕실/세면대",
         "simu atlecnm": "양치하다",
         "simutle atlecnm": "이를 닦는 도구(칫솔)",
-        "cusantle o simul": "세척의 재료 (세제/치약)",
+        "cusantle'o simul": "세척의 재료 (세제/치약)",
         "simutlem atlecnm senug": "이를 닦는 (치실)",
         "simul": "세척/청소/정리/정돈"
       }
