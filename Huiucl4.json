@@ -1290,10 +1290,10 @@
         "alus": "산책로/공원/길/도로/거리",
         "alujus": "대기실/정류장",
 
-        "etn": "이동/감",
-        "etn hesajo": "걸음",
-        "etn hesao": "질주",
-        "limusetn": "통학"
+        "alul": "이동/감",
+        "alul hesajo": "걸음",
+        "alul hesao": "질주",
+        "limusalul": "통학"
       }
     },
     "atau": {
@@ -1457,9 +1457,9 @@
         "halu tayao": "길게 보다 (관찰하다)",
         "haluhle": "관람객/관찰자/감시자",
         "halutle": "망원경/CCTV",
-        "hetn": "보는 것/목격/감시",
-        "hetn tayao": "관찰",
-        "hetn catuvem ceyenug": "시청",
+        "halul": "보는 것/목격/감시",
+        "halul tayao": "관찰",
+        "halul catuvem ceyenug": "시청",
         "catlatm halutle": "시간을 보는 도구(시계)",
         "halutle catuvem ceyenug": "텔레비전"
       }
@@ -1603,7 +1603,7 @@
         "li mahnam ": "농약",
         "talus": "농장",
         "taluju": "재배하다/수확하다",
-        "tetn": "농사",
+        "talul": "농사",
         "talujul": "재배/수확"
       }
     },
@@ -2133,7 +2133,7 @@
       "파생": {
         "naluo": "막게/검열하게",
         "naluju": "수용하다/허락하다/동의하다/투항하다/항의하다/수락하다",
-        "netn": "못하게 함/막음/검열/저항/거절/금지/무시/묵살/차단/부정"
+        "nalul": "못하게 함/막음/검열/저항/거절/금지/무시/묵살/차단/부정"
       }
     },
     "nacu": {
