@@ -66,7 +66,7 @@
           "1": "An icmihle la (나는 사람이다.)",
           "2": "An icmihle laj (나는 사람이 아니다.)",
           "3": "An elu lage(나는 살고 있다.)",
-          "4": "Il alth icmihleng lave (동물이 사람이 되다.)"
+          "4": "althng icmihleng lave (동물이 사람이 되다.)"
         }
       },
       "2": {
@@ -1294,6 +1294,12 @@
         "alug hesao": "질주하는/달리는",
         "limusalug": "통학하는",
         "alujug": "대기하는",
+
+        "alue": "이동했던",
+        "alue hesajo": "걸었던",
+        "alue hesao": "질주했던/달렸던",
+        "limusalue": "통학했던/등교했던",
+        "alujue": "대기했던",
 
         "alus hesao": "트랙/경기장",
         "alus": "산책로/공원/길/도로/거리",
