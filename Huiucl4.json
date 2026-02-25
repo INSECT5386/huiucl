@@ -10,9 +10,9 @@
         "할": "[대상] [미래분사화 행위어]",
         "한": "[대상] [상태어] | [대상] [행위어] - [해당 품사를 나타내는 접사] + ach",
         "예문": {
-          "1": "An maqui | An huisaho (나는 생존한다. | 나는 빠르다.)",
-          "2": "An maqakl | An huisahakl  (나는 생존했다. | 나는 빨랐다.)",
-          "3": "An maqad | An huisahad (나는 생존할 것이다. | 나는 빠를 것이다.)",
+          "1": "An maqui | An huiso (나는 생존한다. | 나는 빠르다.)",
+          "2": "An maqakl | An huisakl  (나는 생존했다. | 나는 빨랐다.)",
+          "3": "An maqad | An huisad (나는 생존할 것이다. | 나는 빠를 것이다.)",
           "4": "An la ili maqui (나는 생존하는 사람이다.)",
           "5": "An la ili maqakl (나는 생존했던 사람이다.)",
           "6": "An la ili maqad (나는 생존할 사람이다.)",
