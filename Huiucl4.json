@@ -490,69 +490,63 @@
             "뜻": "새"
           }
         },
-        "장기/기관": {
-          "kari": {
-            "뜻": "다리(동물의)",
-            "파생": {
-              "kahari": "팔/잎"
-            }
+        "기관": {
+          "savzr (savzar | savzer | savzor)": {
+            "뜻": "다리/발/뿌리"
           },
-          "mari": {
-            "뜻": "손",
-            "파생": {
-              "mahari": "발/뿌리"
-            }
+          "kamzr (kamzar | kamzer | kamzor)": {
+            "뜻": "팔/손"
           },
-          "muari": {
+          "mazzr (mazzar | mazzer | mazzor)": {
             "뜻": "피/채액"
           }
         },
-        "shari": {
+        "shazn (shazan | shazen | shazon)": {
           "뜻": "유전/유전자"
         },
-        "nari": {
+        "nazn (nazan | nazen | nazon)": {
           "뜻": "생태계"
         }
       },
       "물질": {
-        "chacri": {
+        "chacn (chacan | chacen | chacon)": {
           "뜻": "물질"
         },
-        "comuarir": {
+        "comuarn (comuaran | comuaren | comuaron)": {
           "뜻": "분자"
         },
-        "omuarir": {
+        "omuarn (omuaran | omuaren | omuaron)": {
           "뜻": "원소"
         },
-        "tracri": {
+        "tracn (tracan | tracen | tracon)": {
           "뜻": "입자"
         },
-        "cuacacri": {
+        "cricn (crican | cricen | cricon)": {
           "뜻": "전자/전기/번개",
           "파생": {
-            "cuacacrinaid": "천둥"
+            "(cricannaid | cricanneid | cricannoid)": "천둥"
           }
         },
-        "cacri": {
+        "cacrn (cacran | cacren | cacron)": {
           "뜻": "원자"
         }
       },
       "이외": {
-        "uicr": {
+        "trirn (triran | triren | triron)": {
           "뜻": "대륙",
           "파생": {
-            "atadruicr": "아시아",
-            "adruicr": "유럽",
-            "hacadruicr": "아메리카",
-            "miruicr": "아프리카",
-            "hauacrir": "오세아니아",
-            "hacaradruicr": "남극"
+            "trirnadr (triranadr | trirenadr | trironadr)": "아시아",
+            "trirnaidr (triranaidr | trirenaidr | trironaidr)": "유럽",
+            "huatrirnaidr (huatriranaidr | huatrirenaidr | huatrironaidr)": "아메리카",
+            "babtrirn (babtriran | babtriren | babtriron)": "아프리카",
+            "huatrirn (huatriran | huatriren | huatriron)": "오세아니아",
+            "trirneidr (triraneidr | trireneidr | trironeidr)": "남극"
           }
         },
         "ticr (ticar | ticer | ticor)": {
           "뜻": "모래"
         },
-        "uinicr": {
+        "nicr (nicar | nicer | nicor)": {
           "뜻": "풍경/경치"
         }
       }
@@ -645,25 +639,22 @@
       }
     },
     "외부/내부/방향/위치": {
-      "sadr": {
+      "odr": {
         "뜻": "외부"
       },
-      "tadr": {
+      "udr": {
         "뜻": "내부"
       },
-      "cadr": {
-        "뜻": "측면"
-      },
-      "atadr": {
+      "adr": {
         "뜻": "동(동쪽)"
       },
-      "adr": {
+      "aidr": {
         "뜻": "서(서쪽)"
       },
-      "ahadr": {
+      "edr": {
         "뜻": "북(북쪽)"
       },
-      "aradr": {
+      "eidr": {
         "뜻": "남(남쪽)"
       }
     },
