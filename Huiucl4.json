@@ -355,42 +355,64 @@
   },
   "기본명사": {
     "자연": {
-      "광물": {
-        "cuari": {
-          "뜻": "철",
-          "파생": {
-            "taro cuari": "강철"
-          }
-        },
-        "tari": {
-          "뜻": "돌",
-          "파생": {
-            "tsrahua tari": "석탄"
-          }
-        }
+      "o": {
+        "뜻": "산소"
       },
-      "현상/에너지": {
-        "shansur": {
-          "뜻": "무지개"
-        },
-        "hamanur": {
-          "뜻": "에너지"
-        }
+      "h": {
+        "뜻": "수소"
+      },
+      "C": {
+        "뜻": "탄소"
+      },
+      "N": {
+        "뜻": "질소"
+      },
+      "Fe": {
+        "뜻": "철"
+      },
+      "Al": {
+        "뜻": "알루미늄"
+      },
+      "Ca": {
+        "뜻": "칼슘"
+      },
+      "Na": {
+        "뜻": "나트륨"
+      },
+      "Mag": {
+        "뜻": "마그네슘"
+      },
+      "He": {
+        "뜻": "헬륨"
+      },
+      "Cu": {
+        "뜻": "구리"
+      },
+      "Zon": {
+        "뜻": "아연"
+      },
+      "Au": {
+        "뜻": "금"
+      },
+      "Ag": {
+        "뜻": "은"
+      },
+      "Pab": {
+        "뜻": "납"
       },
       "환경": {
-        "dari": {
+        "vil (val | vel | vol)": {
           "뜻": "지형/지역/환경/날씨/기후/온도",
           "파생": {
-            "daro dari": "평평한 지형(평원)",
-            "huari dari": "나무 지형(산/숲)",
-            "tsrahua huari dari": "불타는 나무 지형(화산)",
-            "ticr dari": "모래 지형(사막/황무지/해변)",
-            "ictaur'o araka": "공기의 물(구름/비/눈)",
-            "arui araka": "흐르는 물(강/계곡/개울)",
-            "otano araka": "작은 물(저수지/호수)",
-            "tuito araka": "큰 물(바다)",
-            "tuito arui araka": "크게 흐르는 물(홍수)",
-            "arahua araka": "물이 흐르지 않음(가뭄)"
+            "dravil (draval | dravel | dravol)": "평원",
+            "curanvil (curanval | curanvel | curanvol)": "산/숲/돌/바위",
+            "caubvil (caubval | caubvel | caubvol)": "화산",
+            "ticarvil": "사막/황무지/해변",
+            "cavil (caval | cavel | cavol)": "구름/비/눈",
+            "netkavil (netkaval | netkavel | netkavol)": "강/계곡/개울",
+            "zehovil (zehoval | zehovel | zehovol)": "저수지/호수",
+            "chivil (chival | chivel | chivol)": "바다",
+            "cinvil (cinval | cinvel | cinvol)": "우주"
           }
         }
       },
@@ -433,12 +455,39 @@
         }
       },
       "생물": {
-        "식물": {
-          "huari": {
+        "동식물": {
+          "curn (curan | curen | curon)": {
             "뜻": "나무/막대기/덤불/줄기"
           },
-          "hari": {
+          "hrn (hran | hren | hron)": {
             "뜻": "씨앗"
+          },
+          "stz (staz | stez | stoz)": {
+            "뜻": "개/늑대"
+          },
+          "vatz (vataz | vatez | vatoz)": {
+            "뜻": "고양이"
+          },
+          "kratz (krataz | kratez | krotoz)": {
+            "뜻": "곤충"
+          },
+          "wirtz (wirtaz | wirtez | wirtoz)": {
+            "뜻" :"곰"
+          },
+          "kadz (kadaz | kadez | kadoz)": {
+            "뜻": "돼지"
+          },
+          "ratz (rataz | ratez | ratoz)": {
+            "뜻": "소"
+          },
+          "mrz (mraz | mrez | mroz)": {
+            "뜻": "양"
+          },
+          "krz (kraz | krez | kroz)": {
+            "뜻": "뱀/도마뱀"
+          },
+          "dartz (dartaz | dartez | dartoz)": {
+            "뜻": "새"
           }
         },
         "장기/기관": {
@@ -500,14 +549,11 @@
             "hacaradruicr": "남극"
           }
         },
-        "ticr": {
+        "ticr (ticar | ticer | ticor)": {
           "뜻": "모래"
         },
-        "cinicr": {
-          "뜻": "우주"
-        },
         "uinicr": {
-          "뜻": "풍경"
+          "뜻": "풍경/경치"
         }
       }
     },
@@ -641,7 +687,7 @@
       "뜻": "모습/외간/표면/껍질/가죽/털/세포/피부/얼굴",
       "파생": {
         "mirun (miraun | mireun | miroun)": "내면/장기",
-        "diromirun (diromiraun | diromireun | diromiroun)": "뇌/심장/폐/뼈/이빨/연골/위/소장-대장/신경/혈관",
+        "mramirun (mramiraun | mramireun | mramiroun)": "뇌/심장/폐/뼈/이빨/연골/위/소장-대장/신경/혈관",
         "tammirun (tammiraun | tammireun | tammiroun)": "근육",
         "patmirn (patmiran | patmiren | patmiron)": "눈",
         "rammirn (rammiran | rammiren | rammiron)": "코",
@@ -655,8 +701,7 @@
     "debn (deban | deben | debon)": {
       "뜻": "바닥/땅/흙",
       "파생": {
-        "debun (debaun | debeun | deboun)": "천장/하늘/공기/산소",
-        "mazdebn (mazdeban | mazdeben | mazdebon)": "흐르는 공기(바람)"
+        "debun (debaun | debeun | deboun)": "천장/하늘"
       }
     },
     "yern (yeran | yeren | yeron)": {
@@ -720,7 +765,8 @@
       "okorn (okoran | okoren | okoron)": "초록색",
       "okorun (okoraun | okoreun | okoroun)": "보라색",
       "sakorn (sakoran | sakoren | sakoron)": "빨간색",
-      "sakorun (sakoraun | sakoreun | sakoroun)": "청록색"
+      "sakorun (sakoraun | sakoreun | sakoroun)": "청록색",
+      "koravn tm (koravn tam | koravn tem | koravn tom)": "무지개"
     },
     "drn (dran | dren | dron)": {
       "뜻": "성격"
@@ -771,124 +817,124 @@
     }
   },
   "상태어": {
-    "omo": {
+    "gr (gra | gre | gro)": {
       "뜻": "간단한/편리한/쉬운 | 간단하게/편리하게/쉽게 | ",
       "파생": {
-        "omano": "엉망인/복잡한/산만한/어려운/힘든 | 엉망이게/복잡하게/산만하게/어렵게/힘들게"
+        "grau": "엉망인/복잡한/산만한/어려운/힘든 | 엉망이게/복잡하게/산만하게/어렵게/힘들게"
       }
     },
-    "oto": {
+    "kr (kra | kre | kro)": {
       "뜻": "큰/거대한/광범위한/많은/높은/긴 | 크게/거대하게/광범위하게/많게/높게/길게",
       "파생": {
-        "otano": "작은/미소한/적은/낮은/짧은 | 작게/미소하게/적게/낮게/짧게"
+        "(krau | kreu | krou)": "작은/미소한/적은/낮은/짧은 | 작게/미소하게/적게/낮게/짧게"
       }
     },
-    "oko": {
+    "ch (cha | che | cho)": {
       "뜻": "공평한 | 공평하게",
       "파생": {
-        "okano": "불공평한 | 불공평하게"
+        "(chau | cheu | chou)": "불공평한 | 불공평하게"
       }
     },
-    "caro": {
+    "th (tha | the | tho)": {
       "뜻": "귀중한 | 귀중하게",
       "파생": {
-        "carano": "하찮은 | 하찮게"
+        "(thau | theu | thou)": "하찮은 | 하찮게"
       }
     },
-    "taro": {
+    "br (bra | bre | bro)": {
       "뜻": "강한/강렬한/대단한/극심한 | 강하게/강렬하게/대단하게/극심하게 | 강한 것/강점",
       "파생": {
-        "tarano": "약한/미미한 | 약하게/미미하게 | 약한 것/약점"
+        "(brau | breu | brou)": "약한/미미한 | 약하게/미미하게 | 약한 것/약점"
       }
     },
     "tr (tra | tre | tro)": {
       "뜻": "빠른 | 빠르게",
       "파생": {
-        "tur (tura | ture | turo)": "느린 | 느리게"
+        "(trau | treu | trou)": "느린 | 느리게"
       }
     },
-    "mano": {
+    "pr (pra | pre | pro)": {
       "뜻": "다양한/전혀 다른 | 다양하게",
       "파생": {
-        "manano": "단조로운/동일한/비슷한 | 단조롭게/동일하게/비슷하게"
+        "(prau | preu | prou)": "단조로운/동일한/비슷한 | 단조롭게/동일하게/비슷하게"
       }
     },
-    "maro": {
+    "st (sta | ste | sto)": {
       "뜻": "똑똑한/총명한 | 똑똑하게/총명하게",
       "파생": {
-        "marano": "어리석은 | 어리석게/총명하게"
+        "(stau | steu | stou)": "어리석은 | 어리석게/총명하게"
       }
     },
-    "rano": {
+    "ct (cta | cte | cto)": {
       "뜻": "상당한/적절한/적합한/완전한/우세한 | 상당하게/적절하게/적합하게/완전하게/우세하게",
       "파생": {
-        "ranano": "부족한/부적절한/부족한/결핍한/가난한/열세한 | 부족하게/부적절하게/부족하게/결핍하게/가난하게/열세하게"
+        "(ctau | cteu | ctou)": "부족한/부적절한/부족한/결핍한/가난한/열세한 | 부족하게/부적절하게/부족하게/결핍하게/가난하게/열세하게"
       }
     },
-    "uiro": {
+    "sh (sha | she | sho)": {
       "뜻": "생생한 | 생생하게",
       "파생": {
-        "uirano": "희미한 | 희미하게"
+        "(shau | sheu | shou)": "희미한 | 희미하게"
       }
     },
-    "diro": {
+    "mr (mra | mre | mro)": {
       "뜻": "중요한/주요한/중대한 | 중요하게/주요하게/중대하게 | 기초/기본/중요",
       "파생": {
-        "dirano": "사소한 | 사소하게"
+        "(mrau | mreu | mrou)": "사소한 | 사소하게"
       }
     },
-    "anto": {
+    "nt (nta | nte | nto)": {
       "뜻": "위험한/긴급한/불안한/무서운 | 위험하게/긴급하게/불안하게/무섭게 | 위험/불안/공포/혼돈/혼란",
       "파생": {
-        "antano": "안전한/평온한 | 안전하게/평온하게"
+        "(ntau | nteu | ntou)": "안전한/평온한 | 안전하게/평온하게"
       }
     },
-    "riso": {
+    "sr (sra | sre | sro)": {
       "뜻": "소박한 | 소박하게",
       "파생": {
-        "risano": "사치스러운 | 사치스럽게"
+        "(srau | sreu | srou)": "사치스러운 | 사치스럽게"
       }
     },
-    "huro": {
+    "hr (hra | hre | hro)": {
       "뜻": "일정한/정확한/규칙적인 | 일정하게/정확하게/규칙적이게",
       "파생": {
-        "hurano": "불규칙한/이상한 | 불규칙하게/이상하게"
+        "(hrau | hreu | hrou)": "불규칙한/이상한 | 불규칙하게/이상하게"
       }
     },
-    "kimo": {
+    "mk (mka | mke | mko)": {
       "뜻": "참신한 | 참신하게",
       "파생": {
-        "kimano": "진부한 | 진부하게"
+        "(mkau | mkeu | mkou)": "진부한 | 진부하게"
       }
     },
-    "daso": {
+    "sd (sda | sde | sdo)": {
       "뜻": "특별한 | 특별하게",
       "파생": {
-        "dasano": "평범한 | 평범하게"
+        "(sdau | sdeu | sdou)": "평범한 | 평범하게"
       }
     },
-    "daro": {
+    "dr (dra | dre | dro)": {
       "뜻": "평평한/매끈한 | 평평하게/매끈하게",
       "파생": {
-        "darano": "기울어진/울퉁불퉁한 | 기울어지게/울퉁불퉁하게"
+        "(drau | dreu | drou)": "기울어진/울퉁불퉁한 | 기울어지게/울퉁불퉁하게"
       }
     },
-    "mato": {
+    "mt (mta | mte | mto)": {
       "뜻": "필요한 | 필요하게",
       "파생": {
-        "matano": "불필요한 | 불필요하게"
+        "(mtau | mteu | mtou)": "불필요한 | 불필요하게"
       }
     },
-    "qano": {
+    "nq (nqa | nqe | nqo)": {
       "뜻": "화려한 | 화려하게",
       "파생": {
-        "qanano": "초라한 | 초라하게"
+        "(nqau | nqeu | nqou)": "초라한 | 초라하게"
       }
     },
-    "nuno": {
+    "kt (kta | kte | kto)": {
       "뜻": "당당한 | 당당하게",
       "파생": {
-        "nunano": "창피한 | 창피하게"
+        "(ktau | kteu | ktou)": "창피한 | 창피하게"
       }
     }
   },
@@ -960,7 +1006,10 @@
         "dartam coran": "현재의 비행기",
         "dartem coran": "과거의 비행기",
         "dartom coran": "미래의 비행기",
-        "daurmatm": "낙하산"
+        "daurmatm": "낙하산",
+        "tibam": "에너지",
+        "tibem": "과거의 에너지",
+        "tibom": "미래의 에너지"
       }
     },
     "D-R (dar | der | dor)": {
@@ -1123,9 +1172,9 @@
         "cuatrim mamab": "칫솔/치실",
         "cuatrim mameb": "과거의 칫솔/치약 | 칫솔/치실이었던 것",
         "cuatrim mamob": "미래의 칫솔/치약 | 칫솔/치실이 될 것",
-        "mab'o cusantr": "세제/치약",
-        "meb'o cusantr": "과거의 세제/치약",
-        "mob'o cusantr": "미래의 세제/치약",
+        "mabmakas": "세제/치약",
+        "mebmakas": "과거의 세제/치약",
+        "mobmakas": "미래의 세제/치약",
         "bemab": "현재의 목욕실/세면대/화장실",
         "bemeb": "과거의 목욕실/세면대/화장실",
         "bemob": "미래의 목욕실/세면대/화장실"
@@ -1172,30 +1221,30 @@
     "K-M (kam | kem | kom)": {
       "뜻": "잡다/사냥하다/체포하다 | 잡게/사냥하게/체포하게 | 잡는/사냥하는/체포하는 | 잡는 것/사냥.체포",
       "파생": {
-        "cririm kum (cririm kaum | cririm keum | cririm koum)": "기립하다 | 기립하게 | 기립하는 | 기립",
-        "cririm km (cririm kam | cririm kem | cririm kom)": "착석하다/앉다 | 착석하게/앉게 | 착석하는/앉는 | 착석",
+        "deban kum (deban kaum | deban keum | deban koum)": "기립하다 | 기립하게 | 기립하는 | 기립",
+        "deban km (deban kam | deban kem | deban kom)": "착석하다/앉다 | 착석하게/앉게 | 착석하는/앉는 | 착석",
         "kum (kaum | keum | koum)": "놓다/사냥 당하다 | 놓게/사냥 당하게 | 놓는/사냥 당하는",
         "ekam": "현재의 사냥꾼/체포자",
         "ekem": "과거의 사냥꾼/체포자",
         "ekom": "미래의 사냥꾼/체포자",
-        "cririm ekaum": "현재의 기립자",
-        "cririm ekeum": "과거의 기립자",
-        "cririm ekoum": "미래의 기립자",
-        "cririm ekam": "현재의 앉은 자",
-        "cririm ekem": "과거의 앉은 자",
-        "cririm ekom": "미래에 앉을 자",
+        "deban ekaum": "현재의 기립자",
+        "deban ekeum": "과거의 기립자",
+        "deban ekoum": "미래의 기립자",
+        "deban ekam": "현재의 앉은 자",
+        "deban ekem": "과거의 앉은 자",
+        "deban ekom": "미래에 앉을 자",
         "ekaum": "현재의 놓는 자/사냥감",
         "ekeum": "과거의 놓은 자/사냥감",
         "ekoum": "미래의 놓을 자/사냠감",
         "makam": "손잡이/집게/그물/망",
         "makem": "과거의 손잡이/집게/그물/망",
         "makom": "미래의 손잡이/집게/그물/망",
-        "cririm makam": "의자/좌석",
-        "cririm makem": "과거의 의자/좌석",
-        "cririm makom": "미래의 의자/좌석",
-        "cririm makaum": "받침대/스탠드",
-        "cririm makeum": "과거의 받침대/스탠드",
-        "cririm makoum": "미래의 받침대/스탠드",
+        "deban makam": "의자/좌석",
+        "deban makem": "과거의 의자/좌석",
+        "deban makom": "미래의 의자/좌석",
+        "deban makaum": "받침대/스탠드",
+        "deban makeum": "과거의 받침대/스탠드",
+        "deban makoum": "미래의 받침대/스탠드",
         "bekam": "사냥터",
         "bekem": "과거의 사냥터",
         "bekom": "미래의 사냥터"
@@ -1288,8 +1337,7 @@
       "뜻": "제공하다/주다/선물하다/공급하다/할당하다/기증하다/전송하다/전달하다/수여하다 | 제공하게/주게/선물하게/공급하게/할당하게/기증하게/전송하게/전달하게/수여하게 | 제공하는/주는/선물하는/공급하는/할당하는/기증하는/전송하는/전달하는/수여하는 | 제공/주는 것/선물/공급/할당/기증/전송/전달/수여",
       "파생": {
         "mabatkb (mabatkab | mabatkeb | mabatkob)": "지불하다/지출하다 | 지불하게/지출하게 | 지불하는/지출하는 | 지출",
-        "kub (kaub | keub | koub)": "수령하다/받다 | 수령하게/받게 | 수령하는/받는 | 받는 것",
-        "stakb (stakab | stakeb |stakob)": "주문하다/배달시키다 | 주문하게/배달시키게 | 주문하는/배달시키는 | 주문/배달",
+        "kub (kaub | keub | koub)": "수령하다/받다/주문하다/배달시키다 | 수령하게/받게/주문하게/배달시키게 | 수령하는/받는/주문하는/배달시키는 | 받는 것/주문/배달",
         "ekab": "현재의 제공자/주는 자",
         "ekeb": "과거의 제공자/주는 자",
         "ekob": "미래의 제공자/주는 자",
@@ -1320,9 +1368,9 @@
         "bepas": "휴게소/쉼터",
         "bepes": "과거의 휴게소/쉼터",
         "bepos": "미래의 휴게소/쉼터",
-        "epaus'o mabat": "급여/월급/시급",
-        "epeus'o mabat": "과거의 급여/월급/시급",
-        "epous'o mabat": "미래의 급여/월급/시급",
+        "epauvs mabat": "급여/월급/시급",
+        "epeuvs mabat": "과거의 급여/월급/시급",
+        "epouvs mabat": "미래의 급여/월급/시급",
         "bepaus": "회사/일자리",
         "bepeus": "과거의 회사/일자리",
         "bepous": "미래의 회사/일자리"
@@ -1377,7 +1425,7 @@
         "epod": "미래의 느낄 자",
         "cabpd (cabpad | cabped | cabpod)": "냉정한 | 냉정하게 | 냉정함",
         "caubpd (caubpad | caubped | caubpod)": "열정적인/감정적인/심리적인 | 열정적이게/감정적이게/심리적이게 | 열정적임/감정적임/심리적인",
-        "taunpd (taunpad | taunped | taunpod)": "지루한/피곤한/끔찍한/화난 | 지루하게/피곤하게/끔찍하게/화나게 | 지루함/피곤함/끔찍함/화남",
+        "traupd (traupad | trauped | traupod)": "지루한/피곤한/끔찍한/화난 | 지루하게/피곤하게/끔찍하게/화나게 | 지루함/피곤함/끔찍함/화남",
         "trapd (trapad | traped | trapod)": "즐거운/기쁜 | 즐겁게/기쁘게 | 즐거움/기쁨",
         "mapad": "감정 도구/표현 수단",
         "maped": "과거의 감정 도구/표현 수단",
@@ -1494,22 +1542,31 @@
         "crinud (crinaud | crineud | crinoud)": "대답하다/응답하다 | 대답하게/응답하게 | 대답하는/응답하는 | 대답/응답",
         "crind (crinad | crined | crinod)": "질문하다/문의하다 | 질문하게/문의하게 | 질문하는/문의하는 | 질문/문의/의견",
         "nadbd (nadbad | nadbed | nadbod)": "번역하다/말을 바꾸다 | 번역하게/말을 바꾸게 | 번역하는/말을 바꾸는",
-        "akano ce": "비난하다 | 비난하게 | 비난하는 | 비난/무례한 말/욕",
-        "mato ce": "비판하다 | 비판하게 | 비판하는 | 비판",
+        "umauknd (umauknad | umaukned | umauknod)": "비난하다 | 비난하게 | 비난하는 | 비난/무례한 말/욕",
+        "mtand (mtanad | mtaned | mtanod)": "비판하다 | 비판하게 | 비판하는 | 비판",
         "nadruc (nadrauc | nadreuc | nadrouc)": "침묵하다 | 침묵하게 | 침묵하는 | 침묵",
-        "tura ce": "속삭이다 | 속삭이게 | 속삭이는 | 속삭임",
-        "oto ce": "소리 지르다 | 소리 지르게 | 소리 지르는 | 소리 지름/비명",
+        "kraund (kraunad | krauned | kraunod)": "속삭이다 | 속삭이게 | 속삭이는 | 속삭임",
+        "krand (kranad | kraned | kranod)": "소리 지르다 | 소리 지르게 | 소리 지르는 | 소리 지름/비명",
         "causnd (causnad | causned | causnod)": "요약하다 | 요약하게 | 요약하는 | 요약",
         "criund (criunad | criuned | criunod)": "궁금한 | 궁금하게 | 궁금증",
-        "amem ce": "농담하다 | 농담하게 | 농담하는 | 농담",
-        "irtem ce": "표현하다 | 표현하게 | 표현하는 | 표현",
+        "yapnd (yapnad | yapned | yapnod)": "농담하다 | 농담하게 | 농담하는 | 농담",
+        "nacnd (nacnad | nacned | nacnod)": "표현하다 | 표현하게 | 표현하는 | 표현",
         "nud (naud | neud | noud)": "듣다 | 듣게 | 듣는 | 듣는 것",
-
-        "canir": "청취자",
-        "canat": "이어폰",
-        "naid": "들려지는 것(소리)",
-        "cricir": "질문자/문의자",
-        "cricanir": "응답자",
+        "enaud": "청취자",
+        "eneud": "과거의 청취자",
+        "enoud": "미래의 청취자",
+        "manaud": "이어폰",
+        "maneud": "과거의 이어폰",
+        "manoud": "미래의 이어폰",
+        "naid": "소리",
+        "neid": "과거의 소리",
+        "noid": "미래의 소리",
+        "crinadir": "질문자/문의자",
+        "crinedir": "과거의 질문자/문의자",
+        "crinodir": "미래의 질문자/문의자",
+        "crinaudir": "응답자",
+        "crineudir": "과거의 응답자",
+        "crinoudir": "미래의 응답자",
         "enad": "화자/언어학자",
         "ened": "과거의 화자/언어학자",
         "enod": "미래의 화자/언어학자",
@@ -1603,36 +1660,6 @@
         "mazaz": "생존 도구",
         "mazez": "과거의 생존 도구",
         "mazoz": "미래의 생존 도구",
-        "maro zaz": "개",
-        "maro zez": "과거의 개",
-        "maro zoz": "미래의 개",
-        "gag zaz": "고양이",
-        "gag zez": "과거의 고양이",
-        "gag zoz": "미래의 고양이",
-        "tura zaz": "곤충",
-        "tura zez": "과거의 곤충",
-        "tura zoz": "미래의 곤충",
-        "endrano tura zaz": "해충",
-        "endrono tura zez": "과거의 해충",
-        "endrono tura zoz": "미래의 해충",
-        "irm gag zaz": "곰",
-        "irm gag zez": "과거의 곰",
-        "irm gag zoz": "미래의 곰",
-        "kad zaz": "돼지",
-        "kad zez": "과거의 돼지",
-        "kad zoz": "미래의 돼지",
-        "rat zaz": "소",
-        "rat zez": "과거의 소",
-        "rat zoz": "미래의 소",
-        "umaz zaz": "양",
-        "umaz zez": "과거의 양",
-        "umaz zoz": "미래의 양",
-        "oto zaz": "뱀/도마뱀",
-        "oto zez": "과거의 뱀/도마뱀",
-        "oto zoz": "미래의 뱀/도마뱀",
-        "dartam zaz": "새/닭/오리",
-        "dartam zez": "과거의 새/닭/오리",
-        "dartam zoz": "미래의 새/닭/오리",
         "bezauz": "무덤",
         "bezeuz": "과거의 무덤",
         "bezouz": "미래의 무덤",
@@ -1642,12 +1669,12 @@
         "bezaz": "서식시/거주구역/집/대피소/아파트/고향",
         "bezez": "과거의 서식시/거주구역/집/대피소/아파트/고향",
         "bezoz": "미래의 서식시/거주구역/집/대피소/아파트/고향",
-        "betrazaz": "도시",
-        "betrazez": "과거의 도시",
-        "betrazoz": "미래의 도시",
-        "beturazaz": "시골/마을",
-        "beturazez": "과거의 시골/마을",
-        "beturazoz": "미래의 시골/마을"
+        "bekrazaz": "도시",
+        "bekrazez": "과거의 도시",
+        "bekrazoz": "미래의 도시",
+        "bekrauzaz": "시골/마을",
+        "bekrauzez": "과거의 시골/마을",
+        "bekrauzoz": "미래의 시골/마을"
       }
     },
     "B-B (bab | beb |bob)": {
@@ -1678,16 +1705,16 @@
         "bezor": "미래의 회의실"
       }
     },
-    "G-G (gag | geg | gog)": {
+    "V-T (vat | vet | vot)": {
       "뜻": "때리다/가해하다/공격하다/약탈하다/갈취하다 | 때리게/가해하게/공격하게/약탈하게/갈취하게 | 때리는/가해하는/공격하는/약탈하는/갈취하는 | 때림/가해/공격/약탈/갈취/폭력",
       "파생": {
-        "gug (gaug | geug | goug)": "피해받다/방어하다/공격 받다 | 피해받게/방어하게/공격 받게 | 피해받는/방어하는/공격 받는 | 피해/방어/공격받는 것/고통/손해",
-        "egaug": "피해자",
-        "egeug": "과거의 피해자",
-        "egoug": "미래의 피해자",
-        "egag": "가해자",
-        "egeg": "과거의 가해자",
-        "egog": "미래의 가해자"
+        "vut (vaut | veut | vout)": "피해받다/방어하다/공격 받다 | 피해받게/방어하게/공격 받게 | 피해받는/방어하는/공격 받는 | 피해/방어/공격받는 것/고통/손해",
+        "evaut": "피해자",
+        "eveut": "과거의 피해자",
+        "evout": "미래의 피해자",
+        "evat": "가해자",
+        "evet": "과거의 가해자",
+        "evot": "미래의 가해자"
       }
     },
     "R-R (rar | rer | ror)": {
