@@ -234,19 +234,22 @@
     "dan": {
       "뜻": "~보다 ~"
     },
-    "kan": {
+    "en": {
+      "뜻": "그리고"
+    },
+    "in": {
       "뜻": "그러면"
     },
-    "ran": {
+    "on": {
       "뜻": "그러며"
     },
-    "tan": {
+    "un": {
       "뜻": "하지만"
     },
-    "han": {
+    "uen": {
       "뜻": "그러자"
     },
-    "tsan": {
+    "uon": {
       "뜻": "그래서"
     }
   },
@@ -293,7 +296,7 @@
   "기본명사": {
     "자연": {
       "환경": {
-        "vil (val | vel | vol)": {
+        "vil": {
           "뜻": "지형/지역/환경/날씨/기후/온도",
           "파생": {
             "dravil (draval | dravel | dravol)": "평원",
@@ -348,83 +351,83 @@
       },
       "생물": {
         "동식물": {
-          "culi (curan | curen | curon)": {
+          "culi": {
             "뜻": "나무/막대기/덤불/줄기"
           },
-          "hli (hran | hren | hron)": {
+          "hli": {
             "뜻": "씨앗"
           },
-          "stzli (staz | stez | stoz)": {
+          "stzli": {
             "뜻": "개/늑대"
           },
-          "vatzli (vataz | vatez | vatoz)": {
+          "vatzli": {
             "뜻": "고양이"
           },
-          "kratzli (krataz | kratez | krotoz)": {
+          "kratzli": {
             "뜻": "곤충"
           },
-          "pratzli (wirtaz | wirtez | wirtoz)": {
+          "pratzli": {
             "뜻" :"곰"
           },
-          "katzli (kataz | katez | katoz)": {
+          "katzli": {
             "뜻": "돼지"
           },
-          "ratzli (rataz | ratez | ratoz)": {
+          "ratzli": {
             "뜻": "소"
           },
-          "mrzli (mraz | mrez | mroz)": {
+          "mrzli": {
             "뜻": "양"
           },
-          "krzli (kraz | krez | kroz)": {
+          "krzli": {
             "뜻": "뱀/도마뱀"
           },
-          "tartzli (dartaz | dartez | dartoz)": {
+          "tartzli": {
             "뜻": "새"
           }
         },
         "기관": {
-          "savzli (savzar | savzer | savzor)": {
+          "savzli": {
             "뜻": "다리/발/뿌리"
           },
-          "kamzli (kamzar | kamzer | kamzor)": {
+          "kamzli": {
             "뜻": "팔/손"
           },
-          "mazzli (mazzar | mazzer | mazzor)": {
+          "mazzli": {
             "뜻": "피/채액"
           }
         },
-        "shaznli (shazan | shazen | shazon)": {
+        "shaznli": {
           "뜻": "유전/유전자"
         },
-        "naznli (nazan | nazen | nazon)": {
+        "naznli": {
           "뜻": "생태계"
         }
       },
       "물질": {
-        "chali (chacan | chacen | chacon)": {
+        "chali": {
           "뜻": "물질"
         },
-        "comuali (comuaran | comuaren | comuaron)": {
+        "comuali": {
           "뜻": "분자"
         },
-        "omuali (omuaran | omuaren | omuaron)": {
+        "vomuali": {
           "뜻": "원소"
         },
-        "trali (tracan | tracen | tracon)": {
+        "trali": {
           "뜻": "입자"
         },
-        "crili (crican | cricen | cricon)": {
+        "crili": {
           "뜻": "전자/전기/번개",
           "파생": {
-            "(cricannaid | cricanneid | cricannoid)": "천둥"
+            "crichueli": "천둥"
           }
         },
-        "cali (cacran | cacren | cacron)": {
+        "cali": {
           "뜻": "원자"
         }
       },
       "이외": {
-        "trili (triran | triren | triron)": {
+        "trili": {
           "뜻": "대륙",
           "파생": {
             "triliadr (triranadr | trirenadr | trironadr)": "아시아",
@@ -435,10 +438,10 @@
             "trilieidr (triraneidr | trireneidr | trironeidr)": "남극"
           }
         },
-        "ticr (ticar | ticer | ticor)": {
+        "ticr": {
           "뜻": "모래"
         },
-        "nicr (nicar | nicer | nicor)": {
+        "nicr": {
           "뜻": "풍경/경치"
         }
       }
@@ -550,13 +553,13 @@
         "뜻": "남(남쪽)"
       }
     },
-    "coli (cocl | coren | coron)": {
+    "coli": {
       "뜻": "기계/기관"
     },
-    "tili (tiran | tiren | tiron)": {
+    "tili": {
       "뜻": "기회"
     },
-    "mili (miran | miren | miron)": {
+    "mili": {
       "뜻": "모습/외간/표면/껍질/가죽/털/세포/피부/얼굴",
       "파생": {
         "mirun (miraun | mireun | miroun)": "내면/장기",
@@ -568,34 +571,34 @@
         "naudmili (naudmiran | naudmiren | naudmiron)": "귀"
       }
     },
-    "keli (keran | keren | keron)": {
+    "keli": {
       "뜻": "문/창문/벽"
     },
-    "debn (deban | deben | debon)": {
+    "venli": {
       "뜻": "바닥/땅/흙",
       "파생": {
-        "debun (debaun | debeun | deboun)": "천장/하늘"
+        "vuenli": "천장/하늘"
       }
     },
-    "muli (muran | muren | muron)": {
+    "muli": {
       "뜻": "실제"
     },
-    "kemli (kemran | kemren | kemron)": {
+    "kemli": {
       "뜻": "예시"
     },
-    "soli (soran | soren | soron)": {
+    "soli": {
       "뜻": "주제"
     },
-    "peli (peran | peren | peron)": {
+    "peli": {
       "뜻": "계절",
       "파생": {
-        "apeli (aperan | aperen | aperon)": "여름",
-        "aperun (aperaun | apereun | aperoun)": "겨울",
-        "ipeli (iperan | iperen | iperon)": "봄",
-        "iperun (iperaun | ipereun | iperoun)": "가을"
+        "apeli": "여름",
+        "aperun": "겨울",
+        "ipeli": "봄",
+        "iperun": "가을"
       }
     },
-    "kili (kiran | kiren | kiron)": {
+    "kili": {
       "뜻": "공간/시간",
       "파생": {
         "makiran": "시계",
@@ -603,53 +606,53 @@
         "makiron": "시계가 될 것|미래의 시계"
       }
     },
-    "tholi (thoran | thoren | thoron)": {
+    "tholi": {
       "뜻": "능력"
     },
-    "tamli (tamran | tamren | tamron)": {
+    "tamli": {
       "뜻": "모둠/단체/집단"
     },
-    "tali (taran | taren | taron)": {
+    "tali": {
       "뜻": "낮/아침/오전",
       "파생": {
         "tarun (taraun | tareun | taroun)": "밤/저녁/오후"
       }
     },
-    "koli (koran | koren | koron)": {
+    "koli": {
       "뜻": "색",
-      "akoli (akoran | akoren | akoron)": "검은색",
-      "akorun (akoraun | akoreun | akoroun)": "흰색",
-      "ikoli (ikoran | ikoren | ikoron)": "노란색",
-      "ikorun (ikoraun | ikoreun | ikoroun)": "남색",
-      "ukoli (ukoran | ukoren | ukoron)": "주황색",
-      "ukorun (ukoraun | ukoreun | ukoroun)": "파란색",
-      "yokoli (yokoran | yokoren | yokoron)": "연한 초록색",
-      "yokorun (yokoraun | yokoreun | yokoroun)": "붉은 보라색",
-      "okoli (okoran | okoren | okoron)": "초록색",
-      "okorun (okoraun | okoreun | okoroun)": "보라색",
-      "sakoli (sakoran | sakoren | sakoron)": "빨간색",
-      "sakorun (sakoraun | sakoreun | sakoroun)": "청록색",
-      "koravn tm (koravn tam | koravn tem | koravn tom)": "무지개"
+      "akoli": "검은색",
+      "akorun": "흰색",
+      "ikoli": "노란색",
+      "ikorun": "남색",
+      "ukoli": "주황색",
+      "ukorun": "파란색",
+      "yokoli": "연한 초록색",
+      "yokorun": "붉은 보라색",
+      "okoli": "초록색",
+      "okorun": "보라색",
+      "sakoli": "빨간색",
+      "sakorun": "청록색",
+      "koravn": "무지개"
     },
-    "necli (netran | netren | netron)": {
+    "necli": {
       "뜻": "방법/기술/방식"
     },
-    "subli (subran | subren | subron)": {
+    "subli": {
       "뜻": "부서/분야/범주"
     },
-    "temoli (temoran | temoren | temoron)": {
+    "temoli": {
       "뜻": "상태/상황"
     },
-    "dli (dran | dren | dron)": {
+    "dli": {
       "뜻": "성격"
     },
-    "buli (buran | buren | buron)": {
+    "buli": {
       "뜻": "성별"
     },
-    "hali (haran | haren | haron)": {
+    "hali": {
       "뜻": "세계"
     },
-    "kinli (kinran | kinren | kinron)": {
+    "kinli": {
       "뜻": "수도/중심지"
     },
     "tran": {
@@ -660,22 +663,22 @@
         "ili tri": "매일"
       }
     },
-    "yabli (yabran | yabren | yabron)": {
+    "yabli": {
       "뜻": "인기"
     },
-    "tekli (tekran | tekren | tekron)": {
+    "tekli": {
       "뜻": "조건",
       "파생": {
-        "tekrun (tekraun | tekreun | tekroun)": "무조건/반드시"
+        "tekrun": "무조건/반드시"
       }
     },
-    "bali (baran | baren | baron)": {
+    "bali": {
       "뜻": "주소"
     },
-    "henli (henran | henren | henron)": {
+    "henli": {
       "뜻": "최대",
       "파생": {
-        "henrun (henraun | henreun | henroun)": "최소"
+        "henrun": "최소"
       }
     }
   },
