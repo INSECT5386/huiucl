@@ -28,11 +28,8 @@
         }
       },
       "어떻게": {
-        "1": "[문장] mai? ([문장]을 어떻게 합니까?)",
-        "2": "sca mai (어떡해)"
-      },
-      "만약 ~ 라면?": {
-        "1": "ul[문장1], [문장2]? (만약 [문장1]한다면, [문장2]인가요?)"
+        "1": "[문장]nt mea? ([문장]을 어떻게 합니까?)",
+        "2": "sca mea (어떡해)"
       }
     }
   },
@@ -100,13 +97,13 @@
     }
   },
   "의문사": {
-    "hai": {
+    "hea": {
       "뜻": "무엇"
     },
-    "cai": {
+    "xea": {
       "뜻": "왜"
     },
-    "mai": {
+    "mea": {
       "뜻": "어떻게"
     }
   },
@@ -242,16 +239,13 @@
     },
     "uen": {
       "뜻": "그러자"
-    },
-    "uon": {
-      "뜻": "그래서"
     }
   },
   "특이요소": {
-    "ili": {
+    "ed": {
       "뜻": "모든",
       "변형": {
-        "nu ili": "모든 것"
+        "edli": "모든 것"
       }
     }
   },
@@ -293,15 +287,15 @@
         "vil": {
           "뜻": "지형/지역/환경/날씨/기후/온도",
           "파생": {
-            "dravil (draval | dravel | dravol)": "평원",
-            "curanvil (curanval | curanvel | curanvol)": "산/숲/돌/바위",
-            "caubvil (caubval | caubvel | caubvol)": "화산",
+            "dravil": "평원",
+            "curanvil": "산/숲/돌/바위",
+            "caubvil": "화산",
             "ticarvil": "사막/황무지/해변",
-            "cavil (caval | cavel | cavol)": "구름/비/눈",
-            "netkavil (netkaval | netkavel | netkavol)": "강/계곡/개울",
-            "zehovil (zehoval | zehovel | zehovol)": "저수지/호수",
-            "chivil (chival | chivel | chivol)": "바다",
-            "cinvil (cinval | cinvel | cinvol)": "우주"
+            "cavil": "구름/비/눈",
+            "netkavil": "강/계곡/개울",
+            "zehovil": "저수지/호수",
+            "chivil": "바다",
+            "cinvil": "우주"
           }
         }
       },
@@ -421,15 +415,15 @@
         }
       },
       "이외": {
-        "trili": {
+        "stan": {
           "뜻": "대륙",
           "파생": {
-            "triliadr (triranadr | trirenadr | trironadr)": "아시아",
-            "triliaidr (triranaidr | trirenaidr | trironaidr)": "유럽",
-            "huatriliaidr (huatriranaidr | huatrirenaidr | huatrironaidr)": "아메리카",
-            "babtrili (babtriran | babtriren | babtriron)": "아프리카",
-            "huatrili (huatriran | huatriren | huatriron)": "오세아니아",
-            "trilieidr (triraneidr | trireneidr | trironeidr)": "남극"
+            "stanostochli": "아시아",
+            "stanospochli": "유럽",
+            "hastanospochli": "아메리카",
+            "vastan": "아프리카",
+            "hestan": "오세아니아",
+            "stanospachli": "남극"
           }
         },
         "ticr": {
@@ -442,47 +436,47 @@
     },
     "학문": {
       "철학": {
-        "cichat": {
+        "cichali": {
           "뜻": "관점"
         },
-        "samahat": {
+        "samali": {
           "뜻": "가치"
         },
-        "nucuhat": {
+        "nuculi": {
           "뜻": "운명"
         },
-        "amict": {
+        "amictli": {
           "뜻": "의식",
           "파생": {
-            "amictahua": "본능"
+            "uamictli": "본능"
           }
         },
-        "cihat": {
+        "cili": {
           "뜻": "편견"
         }
       },
       "수학": {
-        "namr": {
+        "namli": {
           "뜻": "숫자/수학"
         },
-        "nichat": {
+        "nichli": {
           "뜻": "각도"
         },
-        "nuchat": {
+        "nuchli": {
           "뜻": "비율"
         },
-        "sacuchat": {
+        "sacuchli": {
           "뜻": "확률/가능성"
         },
-        "cuchat": {
+        "cuchli": {
           "뜻": "변수/함수"
         }
       },
       "이외 학문": {
-        "acsihat": {
+        "sihali": {
           "뜻": "역사"
         },
-        "hacahat": {
+        "hacahli": {
           "뜻": "논리"
         },
         "muhai-cunihat": {
@@ -491,13 +485,13 @@
             "ta muhai-cunihat": "역설적"
           }
         },
-        "suhat": {
+        "suhli": {
           "뜻": "이론/개념/가설"
         },
-        "uhsuhat": {
+        "suhatli": {
           "뜻": "원리"
         },
-        "sihat": {
+        "sihatli": {
           "뜻": "특성"
         }
       }
@@ -508,7 +502,7 @@
           "뜻": "사람/개인/인물",
           "파생": {
             "huaj": "군중/사람들",
-            "iln huaj": "인류"
+            "edhuaj": "인류"
           }
         },
         "krahua": {
@@ -522,7 +516,7 @@
         "kantrat": {
           "뜻": "국가/제국"
         },
-        "jirmakam": {
+        "huajxocl": {
           "뜻": "사회"
         }
       }
@@ -556,13 +550,13 @@
     "mili": {
       "뜻": "모습/외간/표면/껍질/가죽/털/세포/피부/얼굴",
       "파생": {
-        "mirun (miraun | mireun | miroun)": "내면/장기",
-        "mramirun (mramiraun | mramireun | mramiroun)": "뇌/심장/폐/뼈/이빨/연골/위/소장-대장/신경/혈관",
-        "tammirun (tammiraun | tammireun | tammiroun)": "근육",
-        "patmili (patmiran | patmiren | patmiron)": "눈",
-        "rammili (rammiran | rammiren | rammiron)": "코",
-        "kadmili (kadmiran | kadmiren | kadmiron)": "입",
-        "naudmili (naudmiran | naudmiren | naudmiron)": "귀"
+        "mirun": "내면/장기",
+        "mramirun": "뇌/심장/폐/뼈/이빨/연골/위/소장-대장/신경/혈관",
+        "tammirun": "근육",
+        "patmili": "눈",
+        "rammili": "코",
+        "kadmili": "입",
+        "naudmili": "귀"
       }
     },
     "keli": {
@@ -609,7 +603,7 @@
     "tali": {
       "뜻": "낮/아침/오전",
       "파생": {
-        "tarun (taraun | tareun | taroun)": "밤/저녁/오후"
+        "tarun": "밤/저녁/오후"
       }
     },
     "koli": {
@@ -654,7 +648,7 @@
       "파생": {
         "tron": "내일/미래",
         "tren": "어제/과거",
-        "ili tri": "매일"
+        "edtran": "매일"
       }
     },
     "yabli": {
