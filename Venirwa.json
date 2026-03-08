@@ -4,7 +4,8 @@
       "일반문 | [주어 수식 + 주어] [목적어 수식 + 목적어] [부사어 + 동사] [기타 부사구]": {
         "puecrni pecrkatzli suirpavexuarn haliospochlitn pecrcolivxuarmat.": "평범한 나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 특별한 톱으로",
         "wase chorkirvarli.": "사람은 이다 생각하는 동물",
-        "ni ti kiorns mitn.": "나는 그것을 줄 것이다 너에게"
+        "ni ti kiorns mitn.": "나는 그것을 줄 것이다 너에게",
+        "ni calvns 13 kiliqe.": "나는 놀 것이다 13시에"
       },
       "복합문 | [주어 수식 + 주어] [부사어 + 동사] [배경 정보] nu [하위 문장]": {
         "puecrni poarnk haliospochlitn nu petrwa xuarma kiorn titn.": "평범한 나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
@@ -18,8 +19,7 @@
         "mi xirnpi xirmat no tlarwaseti xorn.": "너는 이동해라 자동차로 (위해) 폭파범인 그를 체포하기 위해",
         "mi sorschorcpe, xuappi.": "너는 기절할 생각으로 일해라.",
         "mi kelsnpi varimtn 13 kilipe.": "너는 와라 집으로 13시까지.",
-        "mi ti teknpi 13 kiliqe.": "너는 그것을 시작해라 13시부터",
-        "ni calvns 13 kiliqe.": "나는 놀 것이다 13시에"
+        "mi ti teknpi 13 kiliqe.": "너는 그것을 시작해라 13시부터"
       },
       "이유/피동문 | [대상 수식 + 대상] len, [주어 수식 + 주어] [부사어 + 동사] [기타 부사구]": {
         "stuerti len, coarwaj coarwern varimtn.": "멍청한 그 때문에, 많은 사람들이 많이 다쳤다 집에서",
