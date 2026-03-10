@@ -2,28 +2,28 @@
   "문법": {
     "어순": {
       "일반문 | [주어 수식 + 주어] [목적어 수식 + 목적어] [부사어 + 동사] [기타 부사구]": {
-        "puecrni pecrkatzli suirpavexuarn haliospochlitn pecrcolivxuarmat.": "평범한 나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 특별한 톱으로",
+        "puecrni pecratzli spurpavrxuares haliospoxlitn pecrcolivxuarmat.": "평범한 나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 특별한 톱으로",
         "wase chorkirvarli.": "사람은 이다 생각하는 동물",
-        "ni ti kiorns mitn.": "나는 그것을 줄 것이다 너에게",
-        "ni calvns 13 kiliqe.": "나는 놀 것이다 13시에"
+        "ni ti kiores mitn.": "나는 그것을 줄 것이다 너에게",
+        "ni calvs 13 kiliqe.": "나는 놀 것이다 13시에"
       },
       "복합문 | [주어 수식 + 주어] [부사어 + 동사] [배경 정보] nu [하위 문장]": {
-        "puecrni poarnk haliospochlitn nu petrwa xuarma kiorn titn.": "평범한 나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
+        "puecrni poaros haliospoxlitn nu petrwa xuarma kior titn.": "평범한 나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
       },
       "목적문 | [주어 수식 + 주어] [목적어 수식1 + 목적어1] [부사어1 + 동사1] no [목적어 수식2 + 목적어2] [부사어2 + 동사2]": {
-        "suirpaveti stuerci spurzovrn no halirvatzli xuarns.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
+        "spurpavrti stuerci spurzovr no halirakli xuares.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
       },
       "명령문 | ([주어 수식 + 주어]) [목적어 수식 | 목적어] [부사어 + 동사]pi [기타 부사구]": {
-        "stuermi petrwa petrnpi perimtn.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서",
-        "stermi poarnpi stanospachlitn nu spurwa spurhakrc harn.": "똑똑한 너는 보아라. 남극에서 (nu 이하를) 미친 사람이 미친 물을 마시는 것을",
-        "mi xirnpi xirmat no tlarwaseti xorn.": "너는 이동해라 자동차로 (위해) 폭파범인 그를 체포하기 위해",
-        "mi sorschorcpe, xuappi.": "너는 기절할 생각으로 일해라.",
-        "mi kelsnpi varimtn 13 kilipe.": "너는 와라 집으로 13시까지.",
-        "mi ti teknpi 13 kiliqe.": "너는 그것을 시작해라 13시부터"
+        "stuermi petrwa petrpi perimtn.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서",
+        "stermi poarpi paxlistantn nu spurwa spurhakrc harn.": "똑똑한 너는 보아라. 남극에서 (nu 이하를) 미친 사람이 미친 물을 마시는 것을",
+        "mi xirpi xirmat no tlarwaseti xor.": "너는 이동해라 자동차로 (위해) 폭파범인 그를 체포하기 위해",
+        "mi soreschorcpe, xuappi.": "너는 기절할 생각으로 일해라.",
+        "mi kelspi varimtn 13 kilipe.": "너는 와라 집으로 13시까지.",
+        "mi ti tekpi 13 kiliqe.": "너는 그것을 시작해라 13시부터"
       },
       "이유/피동문 | [대상 수식 + 대상] len, [주어 수식 + 주어] [부사어 + 동사] [기타 부사구]": {
-        "stuerti len, coarwaz coarwern varimtn.": "멍청한 그 때문에, 많은 사람들이 많이 다쳤다 집에서",
-        "nise wa len, ni xirn perimtn.": "나는 이다 사람 때문에, 나는 간다 학교에"
+        "stuerti len, coarwaz coarweros varimtn.": "멍청한 그 때문에, 많은 사람들이 많이 다쳤다 집에서",
+        "nise wa len, ni xir perimtn.": "나는 이다 사람 때문에, 나는 간다 학교에"
       }
     },
     "의문법": {
@@ -1096,7 +1096,7 @@
         "varwa": "생존자",
         "varli": "생물/유기체",
         "kirvarli": "동물/균/버섯/고기/가축",
-        "kusqivarli": "식물/야채/잡초/꽃",
+        "lueirqivarli": "식물/야채/잡초/꽃",
         "varma": "생존 도구",
         "vuarim": "무덤",
         "vuarwa": "사망자",
