@@ -2,28 +2,28 @@
   "문법": {
     "어순": {
       "일반문 | [주어 수식 + 주어] [목적어 수식 + 목적어] [부사어 + 동사] [기타 부사구]": {
-        "puecrni pecratzli spurpabrxuares haliospoxlitn pectolibxuarmat.": "평범한 나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 특별한 톱으로",
-        "unse chorkirbarli.": "사람은 이다 생각하는 동물",
-        "ni ti kiores mitn.": "나는 그것을 줄 것이다 너에게",
-        "ni calbs 13 kiliqe.": "나는 놀 것이다 13시에"
+        "penanzalim penzalatzli xenanpalpavrxuares haliospoxlitn penzalcolivxuarmat.": "평범한 나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 특별한 톱으로",
+        "unse chorkirvarli.": "사람은 이다 생각하는 동물",
+        "im ti kiores mitn.": "나는 그것을 줄 것이다 너에게",
+        "im calvs 13 kiliqe.": "나는 놀 것이다 13시에"
       },
       "복합문 | [주어 수식 + 주어] [부사어 + 동사] [배경 정보] nu [하위 문장]": {
         "puecrni ptros haliospoxlitn nu petrun xuarma kior titn.": "평범한 나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
       },
       "목적문 | [주어 수식 + 주어] [목적어 수식1 + 목적어1] [부사어1 + 동사1] no [목적어 수식2 + 목적어2] [부사어2 + 동사2]": {
-        "spurpabrti stueti spurzobr no halirakli xuares.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
+        "xenanpalpavrti stueti xenanpalzovr no hemtalakli xuares.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
       },
       "명령문 | ([주어 수식 + 주어]) [목적어 수식 | 목적어] [부사어 + 동사]pi [기타 부사구]": {
-        "stuermi petrun petrpi perimtn.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서",
-        "stermi ptrpi paxlistantn nu spurun spurhakt harn.": "똑똑한 너는 보아라. 남극에서 (nu 이하를) 미친 사람이 미친 물을 마시는 것을",
-        "mi xirpi xirmat no tlarunseti xor.": "너는 이동해라 자동차로 (위해) 폭파범인 그를 체포하기 위해",
-        "mi soreschotpe, xuappi.": "너는 기절할 생각으로 일해라.",
-        "mi kelspi barimtn 13 kilipe.": "너는 와라 집으로 13시까지.",
+        "stuermi petrum petrpi pencuntn.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서",
+        "stermi ptrpi paxlistantn nu xenanpalun xenanpalhankil har.": "똑똑한 너는 보아라. 남극에서 (nu 이하를) 미친 사람이 미친 물을 마시는 것을",
+        "mi xirpi xirmat no xemxumseti xor.": "너는 이동해라 자동차로 (위해) 폭파범인 그를 체포하기 위해",
+        "mi ventaleschotpe, xananpinpi.": "너는 기절할 생각으로 일해라.",
+        "mi kelspi varimtn 13 kilipe.": "너는 와라 집으로 13시까지.",
         "mi ti tekpi 13 kiliqe.": "너는 그것을 시작해라 13시부터"
       },
       "이유/피동문 | [대상 수식 + 대상] len, [주어 수식 + 주어] [부사어 + 동사] [기타 부사구]": {
-        "stuerti len, ctrunz ctrweros barimtn.": "멍청한 그 때문에, 많은 사람들이 많이 다쳤다 집에서",
-        "nise un len, ni xir perimtn.": "나는 이다 사람 때문에, 나는 간다 학교에"
+        "stuerti len, cenvalumz cenvalweros varimtn.": "멍청한 그 때문에, 많은 사람들이 많이 다쳤다 집에서",
+        "imse un len, im xir pencuntn.": "나는 이다 사람 때문에, 나는 간다 학교에"
       }
     },
     "의문법": {
@@ -34,7 +34,7 @@
       "왜": {
         "1": "[문장]nt xea? (왜 [문장]입니까?)",
         "2": "xea? (왜?)",
-        "3": "buartn chorn mea? (죽음에 대해 어떻게 생각하나요?)"
+        "3": "vuartn chornt mea? (죽음에 대해 어떻게 생각하나요?)"
       },
       "어떻게": {
         "1": "[문장]nt mea? ([문장]을 어떻게 합니까?)",
@@ -147,7 +147,7 @@
     "_z": {
       "뜻": "복수형"
     },
-    "_un": {
+    "_um": {
       "뜻": "사람"
     },
     "_o": {
@@ -238,18 +238,18 @@
   "기본명사": {
     "자연": {
       "환경": {
-        "bl": {
+        "vl": {
           "뜻": "지형/지역/환경/날씨/기후/온도",
           "파생": {
-            "trabl": "평원",
-            "canbl": "산/숲/돌/바위",
-            "caubl": "화산",
-            "carbl": "사막/황무지/해변/모래",
-            "cabl": "구름/비/눈",
-            "kabl": "강/계곡/개울",
-            "hobl": "저수지/호수",
-            "chibl": "바다",
-            "cinbl": "우주"
+            "travl": "평원",
+            "canvl": "산/숲/돌/바위",
+            "cauvl": "화산",
+            "carvl": "사막/황무지/해변/모래",
+            "cavl": "구름/비/눈",
+            "kavl": "강/계곡/개울",
+            "hovl": "저수지/호수",
+            "chivl": "바다",
+            "cinvl": "우주"
           }
         }
       },
@@ -375,7 +375,7 @@
             "stoxlistan": "아시아",
             "spoxlistan": "유럽",
             "haspoxlistan": "아메리카",
-            "bastan": "아프리카",
+            "vastan": "아프리카",
             "hestan": "오세아니아",
             "paxlistan": "남극"
           }
@@ -387,10 +387,10 @@
       "witlat": {
         "뜻": "금"
       },
-      "baimt": {
+      "vaimt": {
         "뜻": "나트륨"
       },
-      "pabiat": {
+      "paviat": {
         "뜻": "납"
       },
       "kamet": {
@@ -399,7 +399,7 @@
       "holat": {
         "뜻": "산소"
       },
-      "betot": {
+      "vetot": {
         "뜻": "수소"
       },
       "tonit": {
@@ -451,7 +451,7 @@
             "kruaun": "어린이/청소년/아기"
           }
         },
-        "bebun": {
+        "vevun": {
           "뜻": "어머니"
         },
         "kankrun": {
@@ -460,7 +460,7 @@
             "kuankrun": "시민/국민/주민"
           }
         },
-        "habebun": {
+        "havevun": {
           "뜻": "할머니"
         },
         "hanekun": {
@@ -532,7 +532,7 @@
         "uili": "내면/장기",
         "thui": "뇌/신경",
         "tlui": "심장/혈관",
-        "blui": "폐/기관지",
+        "vlui": "폐/기관지",
         "chlui": "뼈/이빨/연골",
         "thlui": "위/소장-대장",
         "tamui": "근육",
@@ -619,20 +619,19 @@
     "pencin | pencal | pencil": {
       "뜻": "가르치다/강의하다/교육하다 | (가르치게/강의하게/교육하게 | 가르치는/강의하는/교육하는) | 교육/가르침/강의",
       "파생": {
-        "pentcin | pentcal | pentcil": "학습하다/공부하다/훈련하다/터득하다 | (학습하게/공부하게/훈련하게/터득하게 | 학습하는/공부하는/훈련하는/터득하는) | 학습/공부/훈련/터득",
+        "penancin | penancal | penancil": "학습하다/공부하다/훈련하다/터득하다 | (학습하게/공부하게/훈련하게/터득하게 | 학습하는/공부하는/훈련하는/터득하는) | 학습/공부/훈련/터득",
         "penct": "선생님/교수",
-        "pentct": "학생/제자",
+        "penanct": "학생/제자",
         "pencun": "학교",
-        "pencal tarlt": "교과서"
+        "pencaltammelt": "교과서"
       }
     },
     "pomxin | pomxal | pomxil": {
       "뜻": "가압하다/누르다/찌르다/압박하다 | (가압하게/누르게/찌르게/압박하게 | 가압하는/누르는/찌르는/압박하는) | 가압/누르는 것/찌르는 것",
       "파생": {
-        "pomtxin | pomtxal | pomtxil": "당기다/빼다 | (당기게/빼게 | 당기는/빼는) | 당김",
+        "pomanxin | pomanxal | pomanxil": "당기다/빼다 | (당기게/빼게 | 당기는/빼는) | 당김",
         "pomxum": " 누르는 자/압박자",
-        "pomtxum": " 당기는 자",
-        "pomxal coma": "압축기/펌프",
+        "pomanxum": " 당기는 자",
         "pomxilt": "포크/창",
         "pomxun": "압력실"
       }
@@ -640,13 +639,13 @@
     "mentin | mental | mentil": {
       "뜻": "가져오다 | (가져오게 | 가져오는) | 가져옴",
       "파생": {
-        "menttin | menttal | menttil": "빌려주다 | (빌려주게 | 빌려주는) | 빌려옴"
+        "menantin | menantal | menantil": "빌려주다 | (빌려주게 | 빌려주는) | 빌려옴"
       }
     },
     "xonsin | xonsal | xonsil": {
       "뜻": "간단하다/편리하다/쉽다 | (간단한/편리한/쉬운 | 간단하게/편리하게/쉽게) | 간단함/편리함/쉬움",
       "파생": {
-        "xontsin | xontsal | xontsil": "엉망이다/복잡하다/산만하다/어렵다/힘들다 | (엉망인/복잡한/산만한/어려운/힘든 | 엉망이게/복잡하게/산만하게/어렵게/힘들게) | 엉망임/복잡함/산만함/어려움/힘드는 것"
+        "xonansin | xonansal | xonansil": "엉망이다/복잡하다/산만하다/어렵다/힘들다 | (엉망인/복잡한/산만한/어려운/힘든 | 엉망이게/복잡하게/산만하게/어렵게/힘들게) | 엉망임/복잡함/산만함/어려움/힘드는 것"
       }
     },
     "samcin | samcal | samcil": {
@@ -664,26 +663,26 @@
     "pancin | pancal | pancil": {
       "뜻": "강하다/강렬하다/대단하다/극심하다 | (강한/강렬한/대단한/극심한 | 강하게/강렬하게/대단하게/극심하게) | 강한 것/강점",
       "파생": {
-        "pantcin | pantcal | pantcil": "약하다/미미하다 | (약한/미미한 | 약하게/미미하게) | 약한 것/약점"
+        "panancin | panancal | panancil": "약하다/미미하다 | (약한/미미한 | 약하게/미미하게) | 약한 것/약점"
       }
     },
     "zenpin | zenpal | zenpil": {
       "뜻": "개방하다/주최하다/열다 | (개방하게/주최하게/열게 | 개방하는/주최하는/여는) | 개방/주최",
       "파생": {
-        "zentpin | zentpal | zentpil": "폐쇄하다/닫다/격리하다 | (폐쇄하게/닫게/격리하게 | 폐쇄하는/닫는/격리하는) | 폐쇠/격리",
+        "zenanpin | zenanpal | zenanpil": "폐쇄하다/닫다/격리하다 | (폐쇄하게/닫게/격리하게 | 폐쇄하는/닫는/격리하는) | 폐쇠/격리",
         "zenpt": " 개최자/진행자",
-        "zentpum": " 폐쇄자",
+        "zenanpum": " 폐쇄자",
         "zenpilt": "열쇠/오프너",
-        "zentpilt": "자물쇠",
+        "zenanpilt": "자물쇠",
         "zenpun": " 개방 공간/주최장/문/창문",
-        "zentpun": "폐쇄 구역/격리 구역/벽"
+        "zenanpun": "폐쇄 구역/격리 구역/벽"
       }
     },
-    "bemtin | bemtal | bemtil": {
+    "vemtin | vemtal | vemtil": {
       "뜻": "거래하다/협상하다/무역하다/교류하다 | (거래하게/협상하게/무역하게/교류하게 | 거래하는/협상하는/무역하는/교류하는) | 거래/협상/무역/교류",
       "파생": {
-        "bemtilt": "거래하는 도구 (돈/지폐/동전/재산)",
-        "bemtun": "거래소"
+        "vemtilt": "거래하는 도구 (돈/지폐/동전/재산)",
+        "vemtun": "거래소"
       }
     },
     "pomtin | pomtal | pomtil": {
@@ -692,7 +691,7 @@
     "cansin | cansal | cansil": {
       "뜻": "건강하다 | (건강한 | 건강하게) | 건강"
     },
-    "xenbin | xenbal | xenbil": {
+    "xenvin | xenval | xenvil": {
       "뜻": "격려하다/위로하다/조언하다/ | (격려하게/위로하게/조언하게 | 격려하는/위로하는/조언하는) | 격려/위로/조언"
     },
     "kentin | kental | kentil": {
@@ -710,13 +709,13 @@
     "tenhin | tenhal | tenhil": {
       "뜻": "고귀하다/신성하다 | (고귀한/신성한 | 고귀하게/신성하게) | 고귀함/신성함",
       "파생": {
-        "tenthin | tenthal | tenthil": "(천한 | 천하게) | 천함"
+        "tenanhin | tenanhal | tenanhil": "(천한 | 천하게) | 천함"
       }
     },
     "konzin | konzal | konzil": {
       "뜻": "고려하다 | (고려하게 | 고려하는) | 고려하는 것",
       "파생": {
-        "kontzin | kontzal | kontzil": "간과하다 | (간과하게 | 간과하는) | 간과"
+        "konanzin | konanzal | konanzil": "간과하다 | (간과하게 | 간과하는) | 간과"
       }
     },
     "pammin | pammal | pammil": {
@@ -725,27 +724,27 @@
     "semtin | semtal | semtil": {
       "뜻": "공손하다/겸손하다 | (공손한/겸손한 | 공손하게/겸손하게) | 공손함/겸손함",
       "파생": {
-        "semttin | semttal | semttil": "오만하다/난폭하다/무례하다/둔감하다/무관심하다 | (오만한/난폭한/무례한/둔감한/무관심한 | 오만하게/난폭하게/무례하게/둔감하게/무관심하게) | 오만함/난폭함/무례함/둔감함/무관심함"
+        "semantin | semantal | semantil": "오만하다/난폭하다/무례하다/둔감하다/무관심하다 | (오만한/난폭한/무례한/둔감한/무관심한 | 오만하게/난폭하게/무례하게/둔감하게/무관심하게) | 오만함/난폭함/무례함/둔감함/무관심함"
       }
     },
-    "sanbin | sanbal | sanbil": {
+    "sanvin | sanval | sanvil": {
       "뜻": "공유하다/게시하다 | (공유하게/게시하게 | 공유하는/게시하는) | 공유/게시",
       "파생": {
-        "sanbilt": "게시판/SNS"
+        "sanvilt": "게시판/SNS"
       }
     },
     "henpin | henpal | henpil": {
       "뜻": "공평하다 | (공평한 | 공평하게) | 공평함",
       "파생": {
-        "hentpin | hentpal | hentpil": "불공평하다 | (불공평한 | 불공평하게) | 불공평함"
+        "henanpin | henanpal | henanpil": "불공평하다 | (불공평한 | 불공평하게) | 불공평함"
       }
     },
-    "bemnin | bemnal | bemnil": {
+    "vemnin | vemnal | vemnil": {
       "뜻": "구매하다/수입하다 | (구매하게/수입하게 | 구매하는/수입하는) | 구매/수입",
       "파생": {
-        "bemtnin | bemtnal | bemtnil": "팔다/수출하다 | (팔게/수출하게 | 파는/수출하는) | 수출/판매",
-        "bemnum": "구매자",
-        "bemtnum": "판매자"
+        "vemannin | vemannal | vemannil": "팔다/수출하다 | (팔게/수출하게 | 파는/수출하는) | 수출/판매",
+        "vemnum": "구매자",
+        "vemannum": "판매자"
       }
     },
     "hemtin | hemtal | hemtil": {
@@ -754,26 +753,26 @@
     "temcin | temcal | temcil": {
       "뜻": "귀중하다 | (귀중한 | 귀중하게) | 귀중함",
       "파생": {
-        "temtcin | temtcal | temtcil": "하찮다 | (하찮은 | 하찮게) | 하찮음"
+        "temancin | temancal | temancil": "하찮다 | (하찮은 | 하찮게) | 하찮음"
       }
     },
     "mansin | mansal | mansil": {
       "뜻": "근거하다 | (근거하게 | 근거하는) | 근거/이유/계기/원리"
     },
-    "zombin | zombal | zombil": {
+    "zomvin | zomval | zomvil": {
       "뜻": "기대하다/흥분하다 | (기대하게/흥분하게 | 기대하는/흥분하는) | 기대/흥분",
       "파생": {
-        "zomtbin | zomtbal | zomtbil": "실망하다/당황하다/절망하다 | (실망하게/당황하게/절망하게 | 실망하는/당황하는/절망하는) | 실망/당황/절망",
-        "zombum": "이웃/동료"
+        "zomanvin | zomanval | zomanvil": "실망하다/당황하다/절망하다 | (실망하게/당황하게/절망하게 | 실망하는/당황하는/절망하는) | 실망/당황/절망",
+        "zomvum": "이웃/동료"
       }
     },
     "senpin | senpal | senpil": {
       "뜻": "기립하다 | (기립하게 | 기립하는) | 기립",
       "파생": {
-        "sentpin | sentpal | sentpil": "착석하다/앉다 | (착석하게/앉게 | 착석하는/앉는) | 착석",
-        "sentpum": " 앉은 자",
+        "senanpin | senanpal | senanpil": "착석하다/앉다 | (착석하게/앉게 | 착석하는/앉는) | 착석",
+        "senanpum": " 앉은 자",
         "senpum": " 기립자",
-        "sentpilt": "의자/좌석",
+        "senanpilt": "의자/좌석",
         "senpilt": "받침대/스탠드"
       }
     },
@@ -789,19 +788,19 @@
         "cennun": "저장소/보관소"
       }
     },
-    "kenbin | kenbal | kenbil": {
+    "kenvin | kenval | kenvil": {
       "뜻": "남성적이다 | (남성적인 | 남성적이게) | 남성적임/남성",
       "파생": {
-        "kentbin | kentbal | kentbil": "여성적이다 | (여성적인 | 여성적이게) | 여성적임/여성",
-        "kenbelt": "성별"
+        "kenanvin | kenanval | kenanvil": "여성적이다 | (여성적인 | 여성적이게) | 여성적임/여성",
+        "kenvelt": "성별"
       }
     },
     "comcin | comcal | comcil": {
       "뜻": "냄새를 맡다 | (냄새를 맡게 | 냄새를 맡는) | 냄새",
       "파생": {
-        "comtcin | comtcal | comtcil": "냄새를 풍기다/냄새나다 | (냄새를 풍기게/냄새나게 | 냄새를 풍기는/냄새나는) | 냄새를 풍기는 것",
+        "comancin | comancal | comancil": "냄새를 풍기다/냄새나다 | (냄새를 풍기게/냄새나게 | 냄새를 풍기는/냄새나는) | 냄새를 풍기는 것",
         "comcum": " 냄새 맡는 자",
-        "comtcum": " 냄새 풍기는 것",
+        "comancum": " 냄새 풍기는 것",
         "comcilt": "냄새 도구/향수 분사기",
         "comcun": " 냄새의 원천/냄새나는 곳"
       }
@@ -827,15 +826,15 @@
         "suaprin": "재배지/수확지"
       }
     },
-    "pabr | pabc": {
+    "pavr | pavc": {
       "뜻": "느끼다/경험하다 | (느끼게/경험하게 | 느끼는/경험하는) | 느낌/경험/태도/자세",
       "파생": {
-        "pabrun": " 느끼는 자",
-        "suirpabr | suirpabt": "지루하다/피곤하다 | (지루한/피곤한 | 지루하게/피곤하게) | 지루함/피곤함",
-        "sirpabr | sirpabt": "즐겁다/기쁘다 | (즐거운/기쁜 | 즐겁게/기쁘게) | 즐거움/기쁨",
-        "spurpabr | spurpabt": "끔찍하다/화나다 | (끔찍한/화나는 | 끔찍하게/화나게) | 끔찍함/화남",
-        "pabrma": "감정 도구/표현 수단",
-        "pabrin": "감정의 장소/분위기 있는 곳"
+        "pavrun": " 느끼는 자",
+        "suirpavr | suirpavt": "지루하다/피곤하다 | (지루한/피곤한 | 지루하게/피곤하게) | 지루함/피곤함",
+        "sirpavr | sirpavt": "즐겁다/기쁘다 | (즐거운/기쁜 | 즐겁게/기쁘게) | 즐거움/기쁨",
+        "xenanpalpavr | xenanpalpavt": "끔찍하다/화나다 | (끔찍한/화나는 | 끔찍하게/화나게) | 끔찍함/화남",
+        "pavrma": "감정 도구/표현 수단",
+        "pavrin": "감정의 장소/분위기 있는 곳"
       }
     },
     "par | pat": {
@@ -899,12 +898,12 @@
         "kelsma": "추적기"
       }
     },
-    "zobr | zobt": {
+    "zovr | zovt": {
       "뜻": "때리다/가해하다/공격하다/약탈하다/갈취하다 | (때리게/가해하게/공격하게/약탈하게/갈취하게 | 때리는/가해하는/공격하는/약탈하는/갈취하는) | 때림/가해/공격/약탈/갈취/폭력",
       "파생": {
-        "zuobr | zuobt": "피해받다/방어하다/공격 받다 | (피해받게/방어하게/공격 받게 | 피해받는/방어하는/공격 받는) | 피해/방어/공격받는 것/고통/손해",
-        "zuobrun": "피해자",
-        "zobrun": "가해자"
+        "zuovr | zuovt": "피해받다/방어하다/공격 받다 | (피해받게/방어하게/공격 받게 | 피해받는/방어하는/공격 받는) | 피해/방어/공격받는 것/고통/손해",
+        "zuovrun": "피해자",
+        "zovrun": "가해자"
       }
     },
     "ster | stet": {
@@ -997,7 +996,7 @@
         "chekeirma": "번역기"
       }
     },
-    "bob | bobc": {
+    "vov | vovc": {
       "뜻": "배고프다 | (배고프게 | 배고픈) | 허기"
     },
     "zes | zesc": {
@@ -1007,7 +1006,7 @@
       "뜻": "보다/목격하다/감시하다/관찰하다/시청하다 | (보게/목격하게/감시하게/관찰하게/시청하게 | 보는/목격하는/감시하는/관찰하는/시청하는) | 보는 것/목격/감시/관찰/시청",
       "파생": {
         "ptrun": "관람객/관찰자/감시자",
-        "ptrma": "망원경/CCTb/텔레비전",
+        "ptrma": "망원경/CCTv/텔레비전",
         "ptrli": "관점/시점"
       }
     },
@@ -1047,10 +1046,10 @@
         "xuilari | xuilare": "있다 | (있는/있게) | 있음"
       }
     },
-    "zalb (zalb) | zalbc": {
+    "zalv (zalv) | zalvc": {
       "뜻": "사랑하다 | (사랑하게 | 사랑하는) | 사랑",
       "파생": {
-        "zalbi | zalbic": "호감이다 | (호감인 | 호감이게) | 호감"
+        "zalvi | zalvic": "호감이다 | (호감인 | 호감이게) | 호감"
       }
     },
     "mocr | moct": {
@@ -1088,19 +1087,19 @@
         "xuaq | xuaqc": "희미하다 | (희미한 | 희미하게) | 희미함"
       }
     },
-    "bar | bat": {
+    "var | vat": {
       "뜻": "생존하다/호흡하다/거주하다/생활하다/살다 | (생존하게/호흡하게/거주하게/생활하게/살게 | 생존하는/호흡하는/거주하는/생활하는/사는) | 생존/호흡/거주/생활",
       "파생": {
-        "buar | buat": "죽다 | (죽게 | 죽는) | 죽음",
-        "bartkr | bartkt": "태어나다 | (태어나게 | 태어나는) | 태어남",
-        "barun": "생존자",
-        "barli": "생물/유기체",
-        "kirbarli": "동물/균/버섯/고기/가축",
-        "lueirqibarli": "식물/야채/잡초/꽃",
-        "barma": "생존 도구",
-        "buarin": "무덤",
-        "buarun": "사망자",
-        "barin": "서식시/거주구역/집/대피소/아파트/고향"
+        "vuar | vuat": "죽다 | (죽게 | 죽는) | 죽음",
+        "vartkr | vartkt": "태어나다 | (태어나게 | 태어나는) | 태어남",
+        "varun": "생존자",
+        "varli": "생물/유기체",
+        "kirvarli": "동물/균/버섯/고기/가축",
+        "lueirqivarli": "식물/야채/잡초/꽃",
+        "varma": "생존 도구",
+        "vuarin": "무덤",
+        "vuarun": "사망자",
+        "varin": "서식시/거주구역/집/대피소/아파트/고향"
       }
     },
     "saz | sazc": {
@@ -1159,7 +1158,7 @@
         "siarli": "본능"
       }
     },
-    "bir | bit": {
+    "vir | vit": {
       "뜻": "싫다 | (싫은 | 싫게) | 싫음/적의"
     },
     "pier | piet": {
@@ -1173,14 +1172,14 @@
     "pamkin | pamkal | pamkil": {
       "뜻": "싸우다/충돌하다 | (싸우게/충돌하게 | 싸우는/충돌하는) | 싸움/충돌",
       "파생": {
-        "pamtkin | pamtkal | pamtkil": "용서하다 | (용서하게 | 용서하는) | 용서"
+        "pamankin | pamankal | pamankil": "용서하다 | (용서하게 | 용서하는) | 용서"
       }
     },
-    "bexr | bext": {
+    "vexr | vext": {
       "뜻": "아름답다/예쁘다/잘생기다 | (아름다운/예쁜/잘생긴 | 아름답게/예쁘게/잘생기게) | 아름다움/예쁨/잘생김",
       "파생": {
-        "bexrli": "풍경/경치",
-        "buexr | buext": "못생기다 | (못생긴 | 못생기게) | 못생김"
+        "vexrli": "풍경/경치",
+        "vuexr | vuext": "못생기다 | (못생긴 | 못생기게) | 못생김"
       }
     },
     "pner | pnet": {
@@ -1215,9 +1214,9 @@
         "wirunz": "학회",
         "wirpetr": "과학",
         "kowirtz": "물리학/양자역학",
-        "barwirtz": "생물학/화학",
+        "varwirtz": "생물학/화학",
         "wirun": "과학자/학자/연구자",
-        "wirtarlt": "논문"
+        "wirtammelt": "논문"
       }
     },
     "ks | ksc": {
@@ -1270,7 +1269,7 @@
         "cearin": "장소"
       }
     },
-    "leb | lebc": {
+    "lev | levc": {
       "뜻": "위험하다/긴급하다/불안하다/무섭다 | (위험한/긴급한/불안한/무서운 | 위험하게/긴급하게/불안하게/무섭게) | 위험/불안/공포/혼돈/혼란",
       "파생": {
         "luek | luek": "안전하다/평온하다 | (안전한/평온한 | 안전하게/평온하게) | 안전함/평온함"
@@ -1311,19 +1310,19 @@
     "tiar | tiat": {
       "뜻": "이름 붙이다 | (이름 붙이게 | 이름 붙이는) | 이름"
     },
-    "hab | habc": {
+    "hav | havc": {
       "뜻": "인기있다 | (인기있는 | 인기있게) | 인기"
     },
-    "tlab | tlabc": {
+    "tlav | tlavc": {
       "뜻": "일정하다/정확하다/규칙적이다 | (일정한/정확한/규칙적인 | 일정하게/정확하게/규칙적이게) | 일정함/정확함/규칙적임",
       "파생": {
-        "tluab | tluab | tluabc": "불규칙하다/이상하다 | (불규칙한/이상한 | 불규칙하게/이상하게) | 불규칙함/이상함"
+        "tluav | tluav | tluavc": "불규칙하다/이상하다 | (불규칙한/이상한 | 불규칙하게/이상하게) | 불규칙함/이상함"
       }
     },
-    "spr | spt": {
+    "xenpin | xenpal | xenpil": {
       "뜻": "자비롭다/관대하다/너그럽다 | (자비로운/관대한/너그러운 | 자비롭게/관대하게/너그럽게) | 자비로움/관대함/너그러움",
       "파생": {
-        "spur | sput": "미치다/잔인하다 | (미친/잔인한 | 미치게/잔인하게) | 미침/잔인함"
+        "xenanpin | xenanpal | xenanpil": "미치다/잔인하다 | (미친/잔인한 | 미치게/잔인하게) | 미침/잔인함"
       }
     },
     "pler | plet": {
@@ -1339,23 +1338,23 @@
         "xorin": "사냥터"
       }
     },
-    "calb | calbc": {
+    "calv | calvc": {
       "뜻": "장난치다/놀다/농담하다 | (장난치게/놀게/농담하게 | 장난치는/노는/농담하는) | 여가/장난/놀이/농담",
       "파생": {
-        "calbun": "놀이꾼/광대/노는 사람",
-        "calbma": "장난감/공/게임기",
-        "calbin": "놀이터/놀이공원/오락시설"
+        "calvun": "놀이꾼/광대/노는 사람",
+        "calvma": "장난감/공/게임기",
+        "calvin": "놀이터/놀이공원/오락시설"
       }
     },
     "telz | telzc": {
       "뜻": "재생하다/회복하다/치료하다/처방하다 | (재생하게/회복하게/치료하게/처방하게 | 재생하는/회복하는/치료하는/처방하는) | 재생/회복/치료/처방"
     },
-    "colib | colibc": {
+    "coliv | colivc": {
       "뜻": "절단하다/자르다 | (절단하게/자르게 | 절단하는/자르는) | 절단/자름",
       "파생": {
-        "cuolib | cuolibc": "붙이다 | (붙이게 | 붙이는) | 붙이는 것",
-        "colibma": "칼/가위",
-        "cuolibma": "접착제/용접"
+        "cuoliv | cuolivc": "붙이다 | (붙이게 | 붙이는) | 붙이는 것",
+        "colivma": "칼/가위",
+        "cuolivma": "접착제/용접"
       }
     },
     "noir | noit": {
@@ -1407,7 +1406,7 @@
         "xarin": "공장/작업실/서비스 센터/건축물/건물/시설",
         "xartz": "건축학",
         "xuarma": "무기",
-        "colibxuarma": "톱",
+        "colivxuarma": "톱",
         "xuarin": "폐허/유적"
       }
     },
@@ -1499,10 +1498,10 @@
         "nuoz | nuozc": "빼다/축소하다 | (빼게/축소하게 | 빼는/축소하는) | 뺌/축소"
       }
     },
-    "bentin | bental | bentil": {
+    "ventin | vental | ventil": {
       "뜻": "취침하다/자다/기절하다 | (취침하게/자게/기절하게 | 취침하는/자는/기절하는) | 취침/자는 것/기절하는 것/꿈/환각/기절/장래/진로",
       "파생": {
-        "benttin | benttal | benttil": "기상하다 | (기상하게 | 기상하는) | 잠에서 깨는 것",
+        "venantin | venantal | venantil": "기상하다 | (기상하게 | 기상하는) | 잠에서 깨는 것",
         "sorplt": "직업",
         "sorun": " 수면자",
         "suorun": " 기상자",
@@ -1512,16 +1511,16 @@
         "suorin": " 깨우는 장소/알람 영역"
       }
     },
-    "cenbin | cenbal | cenbil": {
+    "cenvin | cenval | cenvil": {
       "뜻": "크다/거대하다/광범위하다/많다/높다/길다 (큰/거대한/광범위한/많은/높은/긴 | 크게/거대하게/광범위하게/많게/높게/길게) | 큼/거대함/광범위함/많음/높음/김",
       "파생": {
-        "centbin | centbal | centbil": "작다/미소하다/적다/낮다/짧다 | (작은/미소한/적은/낮은/짧은 | 작게/미소하게/적게/낮게/짧게) | 작음/미소함/적음/낮음/짧음"
+        "cenanvin | cenanval | cenanvil": "작다/미소하다/적다/낮다/짧다 | (작은/미소한/적은/낮은/짧은 | 작게/미소하게/적게/낮게/짧게) | 작음/미소함/적음/낮음/짧음"
       }
     },
     "kompin | kompal | kompil": {
       "뜻": "탑승하다/타다/환승하다 | (탑승하게/환승하게 | 탑승하는/환승하는) | 탑승/타는 것/환승",
       "파생": {
-        "komtpin | komtpal | komtpil": "내리다 | (내리게 | 내리는) | 내림",
+        "komanpin | komanpal | komanpil": "내리다 | (내리게 | 내리는) | 내림",
         "kompum": "승객"
       }
     },
@@ -1539,13 +1538,13 @@
     "penzin | penzal | penzil": {
       "뜻": "특별하다 (특별한 | 특별하게) | 특별함",
       "파생": {
-        "pentzin | pentzal | pentzil": "평범하다 | (평범한 | 평범하게) | 평범함"
+        "penanzin | penanzal | penanzil": "평범하다 | (평범한 | 평범하게) | 평범함"
       }
     },
     "cenmin | cenmal | cenmil": {
       "뜻": "평균 조작하다/왜곡하다/거짓말하다/기만하다 | (평균 조작하게/왜곡하게/거짓말하게/기만하게 | 평균 조작하는/왜곡하는/거짓말하는/기만하는) | 평균 조작/왜곡/거짓말/기만",
       "파생": {
-        "centmin | centmal | centmil": "평균하다/진실을 말하다 | (평균하게/진실을 말하게 | 평균하는/진실하는) | 평균/진실/기준/표준",
+        "cenanmin | cenanmal | cenanmil": "평균하다/진실을 말하다 | (평균하게/진실을 말하게 | 평균하는/진실하는) | 평균/진실/기준/표준",
         "cenmum": "거짓말쟁이",
         "tir cenmin | tir cenmal | tir cenmil": "평균 상승하다 | (평균 상승하게 | 평균 상승하는) | 평균 상승/신격화/미화",
         "tuir cenmin | tuir cenmal | tuir cenmil": "평균 하락하다/차별하다/편견을 가지다 | (평균 하락하게/차별하게/편견을 가지게 | 평균 하락하는/차별하는/편견을 가지는) | 평균 하락/차별/편견을 가짐"
@@ -1554,8 +1553,8 @@
     "tontin | tontal | tontil": {
       "뜻": "평평하다/매끈하다 (평평한/매끈한 | 평평하게/매끈하게) | 평평함/매끈함",
       "파생": {
-        "tonttin | tonttal | tonttil": "기울어지다/울퉁불퉁하다 | (기울어진/울퉁불퉁한 | 기울어지게/울퉁불퉁하게) | 기울어짐/울퉁불퉁함",
-        "tonttelt": "각도"
+        "tonantin | tonantal | toanttil": "기울어지다/울퉁불퉁하다 | (기울어진/울퉁불퉁한 | 기울어지게/울퉁불퉁하게) | 기울어짐/울퉁불퉁함",
+        "tonantelt": "각도"
       }
     },
     "cancin | cancal | cancil": {
@@ -1564,8 +1563,8 @@
     "xemxin | xemxal | xemxil": {
       "뜻": "폭발하다/테러하다 | (폭발하게/테러하는 | 폭발하는/테러하는) | 폭발/테러",
       "파생": {
-        "xemx": "테러범",
-        "tlarma": "화약/폭탄"
+        "xemxum": "테러범",
+        "xemxilt": "화약/폭탄"
       }
     },
     "temxin | temxal | temxil": {
@@ -1578,8 +1577,8 @@
         "tammilt": "필기구/미술 도구",
         "tammelt": "그림/종이/기록물/책/메모",
         "tammum": "작성자",
-        "tamtmum": "독자",
-        "tamtun": "도서관/미술관/박물관"
+        "tamanmum": "독자",
+        "tamanun": "도서관/미술관/박물관"
       }
     },
     "pemzin | pemzal | pemzil": {
@@ -1594,7 +1593,7 @@
         "zimantin | zimantal | zimantil": "이해하다 | (이해하는 | 이해하게) | 이해"
       }
     },
-    "bennin | bennal | bennil": {
+    "vennin | vennal | vennil": {
       "뜻": "행복하다 | (행복하게 | 행복한) | 행복"
     },
     "himtin | himtal | himtil": {
@@ -1648,7 +1647,7 @@
     "hankin | hankal | hankil": {
       "뜻": "흐르다 | (흐르게 | 흐르는) | 흐름/흐르는 것/액체",
       "파생": {
-        "spurhankil": "미친 물(술)",
+        "xenanpalhankil": " 물(술)",
         "hankun": "항구"
       }
     },
