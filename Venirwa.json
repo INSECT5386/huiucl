@@ -1,29 +1,27 @@
 {
   "문법": {
     "어순": {
-      "일반문 [주어 수식 + 주어] [목적어 수식 + 목적어] [부사어 + 동사] [기타 부사구]": {
-        "mapli en benlipati xemles mape atzli haliospoxlitn coberxemlebot": "평범한 나는 특별한 돼지를 끔찍  죽일 것이다 세계의 왼쪽에서 톱으로",
-        "it se chorkirbarli.": "사람은 이다 생각하는 동물",
-        "it kiores ti mitn.": "나는 그것을 줄 것이다 너에게",
-        "it calbs 13 kiliqe.": "나는 놀 것이다 13시에"
+      "일반문 [주어 수식 + 주어] [부사어 + 행위 명사] [목적어 수식 + 목적어] [기타 부사구]": {
+        "en uthadeum av uxem o mapem as atzli haliospoxlit fu coxet": "나는 특별한 돼지를 끔찍하게 죽일 것이다 세계의 왼쪽에서 톱으로",
+        "it sa chosem an ali.": "사람은 이다 생각하는 동물",
+        "en koim o ti seu mi.": "나는 그것을 줄 것이다 너에게",
+        "en cabram o 13 kilite.": "나는 놀 것이다 13시에"
       },
-      "복합문 [주어 수식 + 주어] [부사어 + 동사] [배경 정보] nu [하위 문장]": {
-        "maple en ptros haliospoxlitn nu petrun xemlebo kior titn.": "평범한 나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
+      "복합문 [주어 수식 + 주어] [부사어 + 행위 명사] [배경 정보] nu [하위 문장]": {
+        "en brum e haliospoxlit nu tam as it koim a uxet seu ti.": "나는 보았다 세상의 왼쪽에서 (nu 이하를) 뚱뚱한 사람이 무기를 주다 그에게"
       },
-      "목적문 [주어 수식 + 주어] [목적어 수식1 + 목적어1] [부사어1 + 동사1] no [목적어 수식2 + 목적어2] [부사어2 + 동사2]": {
-        "benlipati ti stueti xenanpalzobr no clerakli xuares.": "끔찍한 그는 멍청한 그것을 잔인  때리다 (위해) 귀여운 고양이를 죽일 것이다."
+      "목적문 [주어 수식 + 주어] [부사어1 + 행위 명사1] [목적어 수식1 + 목적어1] no [목적어 수식2 + 목적어2] [부사어2 + 동사2]": {
+        "uthadeum as ti utham av kobrum a ti no uxem e pecam as akli.": "끔찍한 그는 멍청한 그것을 잔인하게 때리다 (위해) 귀여운 고양이를 죽일 것이다."
       },
-      "명령문 ([주어 수식 + 주어]) [목적어 수식 목적어] [부사어 + 동사]pi [기타 부사구]": {
-        "stuermi petrum petrpi pencuntn.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서",
-        "stermi ptrpi paxlistantn nu benli it benlihako hake.": "똑똑한 너는 보아라. 남극에서 (nu 이하를) 미친 사람이 미친 물을 마시는 것을",
-        "mi xirpi xirmat no xemxumseti xor.": "너는 이동해라 자동차로 (위해) 폭파범인 그를 체포하기 위해",
-        "mi bentaleschotpe, xananpinpi.": "너는 기절할 생각으로 일해라.",
-        "mi kelspi barimtn 13 kilipe.": "너는 와라 집으로 13시까지.",
-        "mi ti tekpi 13 kiliqe.": "너는 그것을 시작해라 13시부터"
+      "명령문 ([주어 수식 + 주어]) [목적어 수식 목적어] [부사어 + 동사]mt [기타 부사구]": {
+        "ustram as mi berum amt tam as it teumat.": "멍청한 너는 뚱뚱한 사람을 도와라. 학교에서"
       },
       "이유/피동문 [대상 수식 + 대상] len, [주어 수식 + 주어] [부사어 + 동사] [기타 부사구]": {
-        "stuerti len, cenbalumz cenbalweros barimtn.": "멍청한 그 때문에, 많은 사람들이 많이 다쳤다 집에서",
-        "en se it len, en xir zameltotn.": "나는 이다 사람 때문에, 나는 간다 학교에"
+        "ti len, dram as itz dram av betem e.": "그 때문에, 많은 사람들이 많이 다쳤다 집에서",
+        "en se it len, en xam a teumat.": "나는 이다 사람 때문에, 나는 간다 학교에"
+      },
+      "이외 문법": {
+        "mi srem amt chosem ellet uxem a atzli fu coxet, no haim a ali": "너는 생각을 말해라 에 대하여 돼지를 죽이는 것, 고기를 먹기 위해"
       }
     },
     "의문법": {
@@ -34,7 +32,7 @@
       "왜": {
         "1": "[문장]nt xea? (왜 [문장]입니까?)",
         "2": "xea? (왜?)",
-        "3": "buartn chornt mea? (죽음에 대해 어떻게 생각하나요?)"
+        "3": "chornt mea ellet ubamim? (죽음에 대해 어떻게 생각하나요?)"
       },
       "어떻게": {
         "1": "[문장]nt mea? ([문장]을 어떻게 합니까?)",
@@ -101,17 +99,17 @@
     }
   },
   "조동사": {
-    "qar qer qor": "할 수 있다 할 수 있었다 할 수 있을 것이다",
-    "thar ther thor": "해야 한다 해야 했다 해야 할 것이다",
-    "colr": "하는 것이 좋겠다",
-    "se sek ses": {
+    "ka ke ko": "할 수 있다 할 수 있었다 할 수 있을 것이다",
+    "tha the tho": "해야 한다 해야 했다 해야 할 것이다",
+    "ca ce co": "하는 것이 좋겠다 | 하는 것이 좋았겠다 | 하는 것이 좋을 것이다",
+    "sa se so": {
       "뜻": "이다 였다 일 것이다",
       "변형": {
-        "sepli sekpli sespli": "되다 됐다 될 것이다",
-        "sezi sezi seszi": "하고 있다 하고 있었다 하고 있을 것이다"
+        "sutla sulte sulto ": "되다 됐다 될 것이다",
+        "sazi sezi sozi": "하고 있다 하고 있었다 하고 있을 것이다"
       }
     },
-    "ar er or": {
+    "a e o": {
       "뜻": "하다 했다 할 것이다"
     }
   },
@@ -130,25 +128,13 @@
     "len": {
       "뜻": "-아니/때문에/의해"
     },
-    "_pi": {
+    "_mt": {
       "뜻": "-해라"
-    },
-    "_elt_": {
-      "뜻": "건물/구조물"
-    },
-    "_ebo_": {
-      "뜻": "도구"
-    },
-    "_it_": {
-      "뜻": "(~하는)사람"
-    },
-    "_l_": {
-      "뜻": "반의어"
     },
     "_pe": {
       "뜻": "까지(시간)/~ (으로)"
     },
-    "_t": {
+    "fu": {
       "뜻": "도구격, ~으로"
     },
     "_z": {
@@ -157,13 +143,22 @@
     "_o": {
       "뜻": "소유격/속성격"
     },
-    "_tn": {
-      "뜻": "에게/으로/에서(공간)/부터(공간/물체)/까지(공간)/~동안/에 대해"
+    "seu": {
+      "뜻": "에게/으로/까지(공간)"
+    },
+    "alut": {
+      "뜻": "~동안"
+    },
+    "ellet": {
+      "뜻": "에 대하여"
+    },
+    "-t": {
+      "뜻": "(공간/물체)에서/부터"
     },
     "no": {
       "뜻": "위해"
     },
-    "qe": {
+    "te": {
       "뜻": "에서(시간)/부터(시간)"
     },
     "_zi": {
@@ -171,6 +166,15 @@
     },
     "_ult_": {
       "뜻": "피동형"
+    },
+    "-n": {
+      "뜻": "수식형 1 (~는) # 조동사 한정"
+    },
+    "-s": {
+      "뜻": "수식형 2 (~한) # 조동사 한정"
+    },
+    "-v": {
+      "뜻": "부사화 1 (~게) # 조동사 한정"
     }
   },
   "연결어미 및 구성요소": {
@@ -332,6 +336,12 @@
           },
           "aztli": {
             "뜻": "양"
+          },
+          "ali": {
+            "뜻": "동물/균/버섯/고기/가축"
+          },
+          "uili": {
+            "뜻": "식물/야채/잡초/꽃"
           }
         },
         "기관": {
@@ -637,7 +647,7 @@
       "파생": {
         "teul": "선생님/교수",
         "teuma": "학교",
-        "teumxailt": "교과서",
+        "teuxailt": "교과서",
         "uteum": "학습/공부/훈련/터득",
         "uteul ": "학생/제자"
       }
@@ -1099,8 +1109,6 @@
         "bamitrim": "태어남",
         "bamil": "생존자",
         "bamilt": "생물/유기체",
-        "frebamilt": "동물/균/버섯/고기/가축",
-        "uraubamilt": "식물/야채/잡초/꽃",
         "bamit": "생존 도구",
         "ubamima": "무덤",
         "ubamil": "사망자",
