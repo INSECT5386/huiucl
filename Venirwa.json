@@ -675,22 +675,22 @@
     }
   },
   "행위 명사": {
-    "elecsata | _csa_": {
+    "spret": {
       "뜻": "사건(일어남)"
     },
-    "itakrum | ikrut | ekrun | _kru_": {
+    "alekrnue | elkrnut | ekrnui | _krnu_": {
       "뜻": "교과서|선생님/교수|학교|(교육/가르침/강의)",
       "파생": {
-        "welekruta | wikrut | w_kru_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
+        "welekrnuta | welkrnut | w_krnu_": "뇌/신경망|학생/제자|(학습/공부/훈련/터득)"
       }
     },
-    "itafram | elefrata | _fra_": {
+    "alefrae | elefrata | _fra_": {
       "뜻": "포크/창|중력|(가압/누르는 것/찌르는 것)",
       "파생": {
         "w_fra_": "(당김/뺌)"
       }
     },
-    "itaprem | _pre_": {
+    "alepree | _pre_": {
       "뜻": "도난품(가져옴/훔침)",
       "파생": {
         "w_pre_": "(돌려줌/반환)"
@@ -702,13 +702,13 @@
         "w_cra_": "엉망임/복잡함/산만함/어려움/힘든 것"
       }
     },
-    "_tya_": {
+    "_tira_": {
       "뜻": "간섭/관여"
     },
-    "_pta_": {
+    "_pata_": {
       "뜻": "갈등"
     },
-    "_rbu_": {
+    "_bu_": {
       "뜻": "감동/감명"
     },
     "elespita | _spi_": {
@@ -717,22 +717,22 @@
         "welespita | w_spi_": "약점(미미함/약한 것)"
       }
     },
-    "itaspom | ispot | espon | _spo_": {
+    "alespoe | elspot | elspoi | _spo_": {
       "뜻": "열쇠/오프너|개최자/진행자|개방 공간/주최장/문/창문|(개방/염/주최)",
       "파생": {
-        "witaspom | wispot | wespon | w_spo_": "자물쇠|폐쇄자|폐쇄 구역/격리 구역/벽|(폐쇠/격리/닫음)"
+        "walespoe | welspot | welspoi | w_spo_": "자물쇠|폐쇄자|폐쇄 구역/격리 구역/벽|(폐쇠/격리/닫음)"
       }
     },
-    "itabrim | ebrin | _bri_": {
+    "alebie | ebii | _eb_": {
       "뜻": "돈/지폐/동전|거래소|(거래/협상/무역/교류)"
     },
     "_sla_": {
       "뜻": "(걱정/우려)"
     },
-    "_cfa_": {
+    "_cafa_": {
       "뜻": "(건강)"
     },
-    "_sbe_": {
+    "_sebe_": {
       "뜻": "(격려/위로/조언/공감)"
     },
     "elezita | _zi_": {
@@ -1441,22 +1441,22 @@
         "w_ses_": "불성실함/변덕스러움/간헐적임"
       }
     },
-    "elehsata | ehsai | _hsa_": {
+    "elehasta | ehasi | _has_": {
       "뜻": "액체|항구|(흐름)",
       "파생": {
         "wthahram": "술 "
       }
     },
-    "elecesta | _cse_": {
+    "elecesta | _ces_": {
       "뜻": "고체|(견고함)",
       "파생": {
         "w_ces_": "부드러움/물렁함"
       }
     },
-    "_zse_": {
+    "_zes_": {
       "뜻": "흥미"
     },
-    "_pse_": {
+    "_pes_": {
       "뜻": "희망/원함/소망"
     }
   }
