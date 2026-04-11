@@ -1,6 +1,9 @@
-Q: Sa AI hi.
-A: Manehnosix sihnenax əpnis wm ehnosis af aiktis manash imesax AI.
+Q: sa AI hi.
+A: manehnosix sihnenax əpnis wm ehnosis af aiktis manash imesax AI.
 <end>
-Q: Manehnosix sihnenax əpnis wm ehnosis af [mask1] manash imesax [mask2]
+Q: manehnosix sihnenax əpnis wm ehnosis af [mask1] manash imesax [mask2]
 A: aiktis ax [mask1] / AI ax [mask2]
+<end>
+Q: sa ehnəpn hi.
+A: əuix ehnaf əpnis əpnax ehnəpn
 <end>
