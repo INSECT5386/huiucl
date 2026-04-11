@@ -2,7 +2,7 @@
   "문법": {
     "어순": {
       "일반문 | [기타 부사구] [목적어 수식] [목적어]af [어근 + 하는/했던/한] [주어]": {
-        "Isix Ehnəpnothaf Ehnomisix Et.": "냉정한 심리학을 이해한 나",
+        "Isix Ehnəpnaf Ehnomisix Et.": "냉정한 심리학을 이해한 나",
         "Axaf Efsix Exaf Uthis Et.": "그것을 먹은 그를 보는 나",
         "Manehnosix sihnenax əpnis wm ehnosis af aiktis manash imesax AI": "인공지능의 약자이며, 학습, 추론 능력을 모방하는 컴퓨터 기술인 AI"
       },
@@ -397,7 +397,7 @@
       "한/의": "학문적임|궁금함",
       "장소": "연구실|학교|도서관",
       "신체": "뇌|신경",
-      "ehnəpnoth": {
+      "ehnəpn": {
         "명사": "심리학"
       },
       "əpnənd": {
