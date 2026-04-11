@@ -10,3 +10,702 @@ A: əuix ehnaf əpnis əpnax ehnəpn
 Q: əuix ehnaf [mask] əpnax [mask1]
 A: əpnis ax [mask] / ehnəpn ax [mask1]
 <end>
+Q: sa ex hi?
+A: ixaf uthis ex.
+<end>
+Q: ixaf [mask] ex.
+A: uthis ax [mask]
+<end>
+
+Q: sa osn hi?
+A: ctz ea tzr ia osnis osn.
+<end>
+Q: ctz ea tzr ia [mask] osn.
+A: osnis ax [mask]
+<end>
+
+Q: sa sushn hi?
+A: ushnis sinpt ea sushnis ax.
+<end>
+Q: ushnis sinpt ea [mask] ax.
+A: sushnis ax [mask]
+<end>
+
+Q: sa saipn hi?
+A: aipnis axaf saipnis it.
+<end>
+Q: aipnis axaf [mask] it.
+A: saipnis ax [mask]
+<end>
+
+Q: sa imes hi?
+A: os af imesax imes.
+<end>
+Q: os af [mask] imes.
+A: imesax ax [mask]
+<end>
+
+Q: sa pidi hi?
+A: dipiaf əfsis pidi.
+<end>
+Q: dipiaf [mask] pidi.
+A: əfsis ax [mask]
+<end>
+
+Q: sa sish hi?
+A: ishis ixaf sishis ex.
+<end>
+Q: ishis ixaf [mask] ex.
+A: sishis ax [mask]
+<end>
+
+Q: sa efsahn hi?
+A: efsaf ahnis efsahn.
+<end>
+Q: efsaf [mask] efsahn.
+A: ahnis ax [mask]
+<end>
+
+Q: sa sapnt hi?
+A: apntaf saipnis sapnt.
+<end>
+Q: apntaf [mask] sapnt.
+A: saipnis ax [mask]
+<end>
+
+Q: sa is hi?
+A: sis ea isix is.
+<end>
+Q: sis ea [mask] is.
+A: isix ax [mask]
+<end>
+
+Q: sa pnais hi?
+A: spnaisiaf pnaisis ax.
+<end>
+Q: spnaisiaf [mask] ax.
+A: pnaisis ax [mask]
+<end>
+
+Q: sa ah hi?
+A: ett ea ahnis ah.
+<end>
+Q: ett ea [mask] ah.
+A: ahnis ax [mask]
+<end>
+
+Q: sa simikt hi?
+A: imikt ea simiktis am.
+<end>
+Q: imikt ea [mask] am.
+A: simiktis ax [mask]
+<end>
+
+Q: sa əpnis hi?
+A: ehnaf əpnis əpn.
+<end>
+Q: ehnaf [mask] əpn.
+A: əpnis ax [mask]
+<end>
+
+Q: sa əpnais hi?
+A: sichix əpnaisis it.
+<end>
+Q: sichix [mask] it.
+A: əpnaisis ax [mask]
+<end>
+
+Q: sa ahnan hi?
+A: am ea ahnanis ahnanu.
+<end>
+Q: am ea [mask] ahnanu.
+A: ahnanis ax [mask]
+<end>
+
+Q: sa inend hi?
+A: ettix inendis et.
+<end>
+Q: ettix [mask] et.
+A: inendis ax [mask]
+<end>
+
+Q: sa sinis hi?
+A: axaf inisis sinis.
+<end>
+Q: axaf [mask] sinis.
+A: inisis ax [mask]
+<end>
+
+Q: sa sishən hi?
+A: sishənitix sishənis ex.
+<end>
+Q: sishənitix [mask] ex.
+A: sishənis ax [mask]
+<end>
+
+Q: sa anən hi?
+A: anəbt sish ixaf anənis anən.
+<end>
+Q: anəbt sish ixaf [mask] anən.
+A: anənis ax [mask]
+<end>
+
+Q: sa ich hi?
+A: əshaf ichis ich.
+<end>
+Q: əshaf [mask] ich.
+A: ichis ax [mask]
+<end>
+
+Q: sa əbt hi?
+A: abtix əbtis əbt.
+<end>
+Q: abtix [mask] əbt.
+A: əbtis ax [mask]
+<end>
+
+Q: sa thon hi?
+A: ainan ea thonis thon.
+<end>
+Q: ainan ea [mask] thon.
+A: thonis ax [mask]
+<end>
+
+Q: sa eksin hi?
+A: opnisaf eksinis ex.
+<end>
+Q: opnisaf [mask] ex.
+A: eksinis ax [mask]
+<end>
+
+Q: sa ifsin hi?
+A: imikt ea ifsinis et.
+<end>
+Q: imikt ea [mask] et.
+A: ifsinis ax [mask]
+<end>
+
+Q: sa am hi?
+A: ptiu am ia am.
+<end>
+Q: ptiu am ia [mask].
+A: am ax [mask]
+<end>
+
+Q: sa sabt hi?
+A: əbtix sabtis et.
+<end>
+Q: əbtix [mask] et.
+A: sabtis ax [mask]
+<end>
+
+Q: sa səs hi?
+A: əsix səs ixaf səs.
+<end>
+Q: əsix səs ixaf [mask].
+A: səs ax [mask]
+<end>
+
+Q: sa suth hi?
+A: uth sish ixaf suth.
+<end>
+Q: uth sish ixaf [mask].
+A: suth ax [mask]
+<end>
+
+Q: sa osnən hi?
+A: osn ea osnənis osnit.
+<end>
+Q: osn ea [mask] osnit.
+A: osnənis ax [mask]
+<end>
+
+Q: sa sasn hi?
+A: vlsc ea sasnis ex.
+<end>
+Q: vlsc ea [mask] ex.
+A: sasnis ax [mask]
+<end>
+
+Q: sa əhn hi?
+A: ainan ea əhnis əhnəu.
+<end>
+Q: ainan ea [mask] əhnəu.
+A: əhnis ax [mask]
+<end>
+
+Q: sa ebtos hi?
+A: sebtos ea ebtosix ebtos.
+<end>
+Q: sebtos ea [mask] ebtos.
+A: ebtosix ax [mask]
+<end>
+
+Q: sa chttos hi?
+A: chttositou chttosis ex.
+<end>
+Q: chttositou [mask] ex.
+A: chttosis ax [mask]
+<end>
+
+Q: sa indes hi?
+A: hnainix indesaf indes.
+<end>
+Q: hnainix indesaf [mask] indes.
+A: indesax ax [mask]
+<end>
+
+Q: sa fsoh hi?
+A: efsaf id efsis fsohit.
+<end>
+Q: efsaf id [mask] fsoit.
+A: efsis ax [mask]
+<end>
+
+Q: sa expen hi?
+A: tzk ea expenis ax.
+<end>
+Q: tzk ea [mask] ax.
+A: expenis ax [mask]
+<end>
+
+Q: sa scvl hi?
+A: vlscex scvlis scvl.
+<end>
+Q: vlscex [mask] scvl.
+A: scvlis ax [mask]
+<end>
+
+Q: sa rtsvl hi?
+A: vlrts sish ixaf rtsvlis ex.
+<end>
+Q: vlrts sish ixaf [mask] ex.
+A: rtsvlis ax [mask]
+<end>
+
+Q: sa vdrt hi?
+A: pt ea vdrtis vdrt.
+<end>
+Q: pt ea [mask] vdrt.
+A: vdrtis ax [mask]
+<end>
+
+Q: sa grlrs hi?
+A: spnais ea grlrsis it.
+<end>
+Q: spnais ea [mask] it.
+A: grlrsis ax [mask]
+<end>
+
+Q: sa mlst hi?
+A: mlnstis itaf mlstis ex.
+<end>
+Q: mlnstis itaf [mask] ex.
+A: mlstis ax [mask]
+<end>
+
+Q: sa vdst hi?
+A: stvd twn vdstis ax.
+<end>
+Q: stvd twn [mask] ax.
+A: vdstis ax [mask]
+<end>
+
+Q: sa vrlxp hi?
+A: axaf vrlxpis et.
+<end>
+Q: axaf [mask] et.
+A: vrlxpis ax [mask]
+<end>
+
+Q: sa esəs hi?
+A: sasn ea esəsis ax.
+<end>
+Q: sasn ea [mask] ax.
+A: esəsis ax [mask]
+<end>
+
+Q: sa emehn hi?
+A: semehn sish ixaf emehnis pidi.
+<end>
+Q: semehn sish ixaf [mask] pidi.
+A: emehnis ax [mask]
+<end>
+
+Q: sa ash hi?
+A: ashix ashis et.
+<end>
+Q: ashix [mask] et.
+A: ashis ax [mask]
+<end>
+
+Q: sa ahnah hi?
+A: imikt ea simikt ia ahnahis ax.
+<end>
+Q: imikt ea simikt ia [mask] ax.
+A: ahnahis ax [mask]
+<end>
+
+Q: sa unan hi?
+A: osnən am ia unanis unan.
+<end>
+Q: osnən am ia [mask] unan.
+A: unanis ax [mask]
+<end>
+
+Q: sa aifs hi?
+A: chspn ea aifsis aifs.
+<end>
+Q: chspn ea [mask] aifs.
+A: aifsis ax [mask]
+<end>
+
+Q: sa əchn hi?
+A: pnaisis exaf əchnis et.
+<end>
+Q: pnaisis exaf [mask] et.
+A: əchnis ax [mask]
+<end>
+
+Q: sa ihən hi?
+A: sihən sish ixaf ihənis ax.
+<end>
+Q: sihən sish ixaf [mask] ax.
+A: ihənis ax [mask]
+<end>
+
+Q: sa asn hi?
+A: ushix asnis et.
+<end>
+Q: ushix [mask] et.
+A: asnis ax [mask]
+<end>
+
+Q: sa akt hi?
+A: it ea aktis et.
+<end>
+Q: it ea [mask] et.
+A: aktis ax [mask]
+<end>
+
+Q: sa amihn hi?
+A: os af amihnis it.
+<end>
+Q: os af [mask] it.
+A: amihnis ax [mask]
+<end>
+
+Q: sa apnəs hi?
+A: sapnəs sish ixaf apnəsix ett.
+<end>
+Q: sapnəs sish ixaf [mask] ett.
+A: apnəsix ax [mask]
+<end>
+
+Q: sa itt hi?
+A: ish ea ittis əpnəu.
+<end>
+Q: ish ea [mask] əpnəu.
+A: ittis ax [mask]
+<end>
+
+Q: sa afsin hi?
+A: uhnas ea afsinis ex.
+<end>
+Q: uhnas ea [mask] ex.
+A: afsinis ax [mask]
+<end>
+
+Q: sa əsis hi?
+A: nidpt ixaf əsisis əsis.
+<end>
+Q: nidpt ixaf [mask] əsis.
+A: əsisis ax [mask]
+<end>
+
+Q: sa ets hi?
+A: sets sish ixaf etsix ax.
+<end>
+Q: sets sish ixaf [mask] ax.
+A: etsix ax [mask]
+<end>
+
+Q: sa ichəs hi?
+A: prs axaf ichəsis et.
+<end>
+Q: prs axaf [mask] et.
+A: ichəsis ax [mask]
+<end>
+
+Q: sa ipn hi?
+A: rtz ia ipnis it.
+<end>
+Q: rtz ia [mask] it.
+A: ipnis ax [mask]
+<end>
+
+Q: sa abt hi?
+A: hnain ea abtis ex.
+<end>
+Q: hnain ea [mask] ex.
+A: abtis ax [mask]
+<end>
+
+Q: sa esh hi?
+A: et wm itaf eshis ax.
+<end>
+Q: et wm itaf [mask] ax.
+A: eshis ax [mask]
+<end>
+
+Q: sa sahn hi?
+A: os ea sahnis ex.
+<end>
+Q: os ea [mask] ex.
+A: sahnis ax [mask]
+<end>
+
+Q: sa əts hi?
+A: ptiu ətsis əts.
+<end>
+Q: ptiu [mask] əts.
+A: ətsis ax [mask]
+<end>
+
+Q: sa imis hi?
+A: axaf imisis et.
+<end>
+Q: axaf [mask] et.
+A: imisis ax [mask]
+<end>
+
+Q: sa ihnen hi?
+A: səh ea ihnenis ax.
+<end>
+Q: səh ea [mask] ax.
+A: ihnenis ax [mask]
+<end>
+
+Q: sa ashn hi?
+A: tzl ia ashnis ax.
+<end>
+Q: tzl ia [mask] ax.
+A: ashnis ax [mask]
+<end>
+
+Q: sa sopnis hi?
+A: opnisaf sopnis ex.
+<end>
+Q: opnisaf [mask] ex.
+A: sopnis ax [mask]
+<end>
+
+Q: sa sen hi?
+A: sasn ea senis it.
+<end>
+Q: sasn ea [mask] it.
+A: senis ax [mask]
+<end>
+
+Q: sa sən hi?
+A: ənis sish ixaf sənis ex.
+<end>
+Q: ənis sish ixaf [mask] ex.
+A: sənis ax [mask]
+<end>
+
+Q: sa ihn hi?
+A: ettiaf ihnis et.
+<end>
+Q: ettiaf [mask] et.
+A: ihnis ax [mask]
+<end>
+
+Q: sa sokt hi?
+A: okt sish ixaf soktis ex.
+<end>
+Q: okt sish ixaf [mask] ex.
+A: soktis ax [mask]
+<end>
+
+Q: sa ekt hi?
+A: ptiu ektis divi.
+<end>
+Q: ptiu [mask] divi.
+A: ektis ax [mask]
+<end>
+
+Q: sa əsnən hi?
+A: ichaf əsnənis et.
+<end>
+Q: ichaf [mask] et.
+A: əsnənis ax [mask]
+<end>
+
+Q: sa sech hi?
+A: ech sish ixaf sechis ax.
+<end>
+Q: ech sish ixaf [mask] ax.
+A: sechis ax [mask]
+<end>
+
+Q: sa ithn hi?
+A: sainan ea ithnis ithnəu.
+<end>
+Q: sainan ea [mask] ithnəu.
+A: ithnis ax [mask]
+<end>
+
+Q: sa attas hi?
+A: tzk ia attasis ex.
+<end>
+Q: tzk ia [mask] ex.
+A: attasis ax [mask]
+<end>
+
+Q: sa sumoh hi?
+A: umoh sish ixaf umohis ex.
+<end>
+Q: umoh sish ixaf [mask] ex.
+A: umohis ax [mask]
+<end>
+
+Q: sa sis hi?
+A: is sish ixaf sisis sis.
+<end>
+Q: is sish ixaf [mask] sis.
+A: sisis ax [mask]
+<end>
+
+Q: sa ehnos hi?
+A: in ea ehnosis et.
+<end>
+Q: in ea [mask] et.
+A: ehnosis ax [mask]
+<end>
+
+Q: sa somis hi?
+A: indesaf somis ex.
+<end>
+Q: indesaf [mask] ex.
+A: somis ax [mask]
+<end>
+
+Q: sa əpndənd hi?
+A: əpn ea əpndəndis əpndənd.
+<end>
+Q: əpn ea [mask] əpndənd.
+A: əpndəndis ax [mask]
+<end>
+
+Q: sa sind hi?
+A: ind sish ixaf sindix ax.
+<end>
+Q: ind sish ixaf [mask] ax.
+A: sindix ax [mask]
+<end>
+
+Q: sa ehnebt hi?
+A: in ea ehnebtis et.
+<end>
+Q: in ea [mask] et.
+A: ehnebtis ax [mask]
+<end>
+
+Q: sa sutt hi?
+A: utt sish ixaf suttix ax.
+<end>
+Q: utt sish ixaf [mask] ax.
+A: suttix ax [mask]
+<end>
+
+Q: sa sathn hi?
+A: athn sish ixaf sathnix ax.
+<end>
+Q: athn sish ixaf [mask] ax.
+A: sathnix ax [mask]
+<end>
+
+Q: sa sashs hi?
+A: ashs sish ixaf sashsis ax.
+<end>
+Q: ashs sish ixaf [mask] ax.
+A: sashsis ax [mask]
+<end>
+
+Q: sa səh hi?
+A: əh sish ixaf səhix ax.
+<end>
+Q: əh sish ixaf [mask] ax.
+A: səhix ax [mask]
+<end>
+
+Q: sa saim hi?
+A: aim sish ixaf saimix ax.
+<end>
+Q: aim sish ixaf [mask] ax.
+A: saimix ax [mask]
+<end>
+
+Q: sa sin hi?
+A: in sish ixaf sinix ax.
+<end>
+Q: in sish ixaf [mask] ax.
+A: sinix ax [mask]
+<end>
+
+Q: sa sats hi?
+A: ats sish ixaf satsix ax.
+<end>
+Q: ats sish ixaf [mask] ax.
+A: satsix ax [mask]
+<end>
+
+Q: sa suthənd hi?
+A: uth ea uthəndis suthənd.
+<end>
+Q: uth ea [mask] suthənd.
+A: uthəndis ax [mask]
+<end>
+
+Q: sa apn hi?
+A: apnix apnis et.
+<end>
+Q: apnix [mask] et.
+A: apnis ax [mask]
+<end>
+
+Q: sa efs hi?
+A: efsix efsis it.
+<end>
+Q: efsix [mask] it.
+A: efsis ax [mask]
+<end>
+
+Q: sa its hi?
+A: itsix itsis ex.
+<end>
+Q: itsix [mask] ex.
+A: itsis ax [mask]
+<end>
+
+Q: sa kid hi?
+A: id twn kidis ax.
+<end>
+Q: id twn [mask] ax.
+A: kidis ax [mask]
+<end>
+
+Q: sa find hi?
+A: trs ea findis ax.
+<end>
+Q: trs ea [mask] ax.
+A: findis ax [mask]
+<end>
+
+Q: sa din hi?
+A: nid sish ixaf dinis am.
+<end>
+Q: nid sish ixaf [mask] am.
+A: dinis ax [mask]
+<end>
