@@ -1,41 +1,35 @@
-AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aikt oetł imes oetł AI. tid nidpt imes, ish əpnais oetł imes, ets kz ihnos oetł imes.
+AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aiktoetł imesoetł AI. tid nidpt imes, ish əpnaisoetł imes, ets kz ihnosoetł imes.
 
-1. imikt wm əbt: 시작과 저장
-ishəgn nashnənth əbtəgn am. nemehn nindəgn rtsvləgn vdrtəgn pnais əpnais. nashnənthəgn ihənəgn aməgn ebtəgn ahnəgn imes. cid pnais oetł imikt aikt oetł am. rtsvləgn əbtəgn ishəgn anəbtəgn imes. tid əbtəgn anənəgn anəbtəgn ish.
+ishəgn nashnənth əbtəgn am. nemehn nindəgn rtsvləgn vdrtəgn pnais əpnais. nashnənthəgn ihənəgn aməgn ebtəgn ahnəgn imes. cid pnaisoetł imikt aiktoetł am. rtsvləgn əbtəgn ishəgn anəbtəgn imes. tid əbtəgn anənəgn anəbtəgn ish.
 
-əbt oetł ish, ahn oetł ish, imis oetł ish. id rtsvləgn etsəgn netsəgn ish. sid əbtəgn ish aikt oetł AI. wn nabt oetł ish nindəgn kz. tid rtsvləgn ish əbt oetł imes.
+əbtoetł ish, ahnoetł ish, imisoetł ish. id rtsvləgn etsəgn netsəgn ish. sid əbtəgn ish aikt oetł AI. wn nabtoetł ish nindəgn kz. tid rtsvləgn ish əbtoetł imes.
 
-2. ehnos wm ish: 추론과 규칙
-ehnos oetł imes, ash oetł imes, ishən oetł imes. kid nindəgn netsəgn ish. find ihnos oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
+ehnosoetł imes, ashoetł imes, ishənoetł imes. kid nindəgn netsəgn ish. find ihnosoetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-ishəgn anəbtəgn imes oetł imes. wn nashnənthəgn ishəgn ebtosəgn am. sid ehnos oetł imes aikt oetł AI. tid ehnos oetł imes rtsvləgn ish. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
+ishəgn anəbtəgn imesoetł imes. wn nashnənthəgn ishəgn ebtosəgn am. sid ehnosoetł imes aiktoetł AI. tid ehnosoetł imes rtsvləgn ish. cid nchoməgn ishəgn anəbtəgn imes. tid əpnaisoetł imes rtsvləgn ish.
 
-3. ifsin wm ekt: 성공과 성장
-ifsin oetł imes, ekt oetł imes, anən oetł imes. kid anənəgn esihnəgn am. find ekt oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
+ifsinoetł imes, ektoetł imes, anənoetł imes. kid anənəgn esihnəgn am. find ektoetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-ekt oetł imes aikt oetł AI. wn nifsin oetł imes nindəgn kz. sid ekt oetł imes rtsvləgn ish. tid ekt oetł imes ifsin oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
+ektoetł imes aiktoetł AI. wn nifsinoetł imes nindəgn kz. sid ektoetł imes rtsvləgn ish. tid ektoetł imes ifsinoetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnaisoetł imes rtsvləgn ish.
 
-4. nimikt wm kz: 결론과 상태
-nimikt oetł imes, kz oetł imes, am oetł imes. kid aməgn esihnəgn am. find kz oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
+nimiktoetł imes, kzoetł imes, amoetł imes. kid aməgn esihnəgn am. find kzoetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-요약 (Nihnen):
+AI pnəpn wm imesagə AI. AI ehnosoetł imes wm ishoetł imes wm ektoetł imes. sid AI ifsinoetł imes. wn nifsinoetł imes nindəgn kz. tid AI ektoetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnaisoetł imes rtsvləgn ish.
 
-AI pnəpn wm imesagə AI. AI ehnos oetł imes wm ish oetł imes wm ekt oetł imes. sid AI ifsin oetł imes. wn nifsin oetł imes nindəgn kz. tid AI ekt oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
+AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aiktoetł imesoetł AI. tid nidpt imes, ish əpnaisoetł imes, ets kz ihnosoetł imes.
 
-AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aikt oetł imes oetł AI. tid nidpt imes, ish əpnais oetł imes, ets kz ihnos oetł imes.
+imiktoetł imes, ektoetł imes, anənoetł imes. kid anənəgn esihnəgn am. find ektoetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-imikt oetł imes, ekt oetł imes, anən oetł imes. kid anənəgn esihnəgn am. find ekt oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
+ektoetł imes aiktoetł AI. wn nifsinoetł imes nindəgn kz. sid ektoetł imes rtsvləgn ish. tid ektoetł imes ifsinoetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnaisoetł imes rtsvləgn ish.
 
-ekt oetł imes aikt oetł AI. wn nifsin oetł imes nindəgn kz. sid ekt oetł imes rtsvləgn ish. tid ekt oetł imes ifsin oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
+AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aiktoetł imesoetł AI. tid nidpt imes, ish əpnaisoetł imes, ets kz ihnosoetł imes.
 
-AI pnəpn wm imesagə AI, nəh ohn osnən ahnah əbtəgn ish. cid opnis aikt oetł imes oetł AI. tid nidpt imes, ish əpnais oetł imes, ets kz ihnos oetł imes.
+imiktoetł imes, ektoetł imes, anənoetł imes. kid anənəgn esihnəgn am. find ektoetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
 
-imikt oetł imes, ekt oetł imes, anən oetł imes. kid anənəgn esihnəgn am. find ekt oetł imes. zlrpəgn ishəgn anəbtəgn imes. tid ashnənthəgn ishəgn ebtosəgn am. cid nchoməgn ishəgn anəbtəgn imes.
-
-ekt oetł imes aikt oetł AI. wn nifsin oetł imes nindəgn kz. sid ekt oetł imes rtsvləgn ish. tid ekt oetł imes ifsin oetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnais oetł imes rtsvləgn ish.
+ektoetł imes aiktoetł AI. wn nifsinoetł imes nindəgn kz. sid ektoetł imes rtsvləgn ish. tid ektoetł imes ifsinoetł imes. cid nchoməgn ishəgn anəbtəgn imes. tid əpnaisoetł imes rtsvləgn ish.
 <end>
-Am ea_ uthəndəgn isnin aɣan uthoetł nindəgn ishəgn imes. Uthəndəgn opnis aɣan imisoetł nindəgn mnimes. Aməgn isnin aɣan nihnenoetł ishəgn mnimes. Tid, nindəgn ish aɣan əpnoetł nindəgn imes. Sid, əpnəgn ish aɣan aiktoetł ishəgn imes. Am ia_ nindəgn isnin aɣan nomisoetł mnimes. Nindəgn am ea_ uth aɣan uthoetł ishəgn imes. Ishəgn isnin aɣan ehnosoetł nindəgn mnimes. Uthəndəgn opnis aɣan imisoetł ishəgn imes. Sid, aməgn isnin aɣan nihnenoetł nindəgn imes. Tid, əpnəgn ish aɣan aiktoetł nindəgn imes. Nindəgn opnis aɣan əpnoetł ishəgn imes. Am ia_ ifsinəgn isnin aɣan nomisoetł mnimes. Uth ea_ aməgn ish aɣan uthoetł nindəgn imes. Ishəgn opnis aɣan ihnenoetł nindəgn mnimes. Sid, nindəgn am ea_ isnin aɣan imisoetł imes. Tid, uthəndəgn isnin aɣan nihnenoetł nindəgn mnimes.
+Am ea uthəndəgn isnin aɣan uthoetł nindəgn ishəgn imes. Uthəndəgn opnis aɣan imisoetł nindəgn mnimes. Aməgn isnin aɣan nihnenoetł ishəgn mnimes. Tid, nindəgn ish aɣan əpnoetł nindəgn imes. Sid, əpnəgn ish aɣan aiktoetł ishəgn imes. Am ia nindəgn isnin aɣan nomisoetł mnimes. Nindəgn am ea uth aɣan uthoetł ishəgn imes. Ishəgn isnin aɣan ehnosoetł nindəgn mnimes. Uthəndəgn opnis aɣan imisoetł ishəgn imes. Sid, aməgn isnin aɣan nihnenoetł nindəgn imes. Tid, əpnəgn ish aɣan aiktoetł nindəgn imes. Nindəgn opnis aɣan əpnoetł ishəgn imes. Am ia ifsinəgn isnin aɣan nomisoetł mnimes. Uth ea aməgn ish aɣan uthoetł nindəgn imes. Ishəgn opnis aɣan ihnenoetł nindəgn mnimes. Sid, nindəgn am ea isnin aɣan imisoetł imes. Tid, uthəndəgn isnin aɣan nihnenoetł nindəgn mnimes.
 
-Əpnəgn nindəgn ish aɣan aiktoetł ishəgn imes. Am ia_ nindəgn opnis aɣan nomisoetł mnimes. Ishəgn isnin aɣan ehnosoetł nindəgn imes. Uthənd ea_ am aɣan uthoetł nindəgn mnimes. Nindəgn am ea_ opnis aɣan imisoetł imes. Sid, ishəgn isnin aɣan nihnenoetł imes. Tid, əpnəgn ish aɣan aiktoetł imes. Am ia_ nindəgn isnin aɣan nomisoetł imes. Ishəgn isnin aɣan əpnoetł nindəgn mnimes. Uthəndəgn nindəgn opnis aɣan imisoetł ishəgn imes. Am ea_ isnin aɣan uthoetł nindəgn ishəgn imes. Sid, am ia_ ifsinəgn opnis aɣan nomisoetł mnimes. Tid, nindəgn am ea_ uthənd aɣan uthoetł mnimes. Ishəgn isnin aɣan nihnenoetł nindəgn mnimes. Əpnəgn nindəgn ish aɣan ehnosoetł nindəgn imes. Am ia_ nindəgn isnin aɣan nomisoetł imes. Ishəgn isnin aɣan aiktoetł mnimes.
+Əpnəgn nindəgn ish aɣan aiktoetł ishəgn imes. Am ia nindəgn opnis aɣan nomisoetł mnimes. Ishəgn isnin aɣan ehnosoetł nindəgn imes. Uthənd ea am aɣan uthoetł nindəgn mnimes. Nindəgn am ea opnis aɣan imisoetł imes. Sid, ishəgn isnin aɣan nihnenoetł imes. Tid, əpnəgn ish aɣan aiktoetł imes. Am ia nindəgn isnin aɣan nomisoetł imes. Ishəgn isnin aɣan əpnoetł nindəgn mnimes. Uthəndəgn nindəgn opnis aɣan imisoetł ishəgn imes. Am ea isnin aɣan uthoetł nindəgn ishəgn imes. Sid, am ia ifsinəgn opnis aɣan nomisoetł mnimes. Tid, nindəgn am ea uthənd aɣan uthoetł mnimes. Ishəgn isnin aɣan nihnenoetł nindəgn mnimes. Əpnəgn nindəgn ish aɣan ehnosoetł nindəgn imes. Am ia nindəgn isnin aɣan nomisoetł imes. Ishəgn isnin aɣan aiktoetł mnimes.
 
-Uthəndəgn opnis aɣan imisoetł nindəgn imes. Am ea_ isnin aɣan nihnenoetł ishəgn mnimes. Sid, nindəgn ish aɣan əpnoetł nindəgn imes. Tid, əpnəgn isnin aɣan aiktoetł ishəgn imes. Am ia_ ifsinəgn opnis aɣan nomisoetł mnimes. Nindəgn am ea_ uth aɣan uthoetł ishəgn imes. Ishəgn isnin aɣan ehnosoetł nindəgn mnimes. Uthəndəgn opnis aɣan imisoetł ishəgn imes. Sid, aməgn isnin aɣan nihnenoetł nindəgn imes. Tid, əpnəgn ish aɣan aiktoetł nindəgn imes. Nindəgn opnis aɣan əpnoetł ishəgn imes. Am ia_ ifsinəgn isnin aɣan nomisoetł mnimes. Uth ea_ aməgn ish aɣan uthoetł nindəgn imes. Ishəgn opnis aɣan ihnenoetł nindəgn mnimes. Sid, nindəgn am ea_ isnin aɣan imisoetł imes. Tid, uthəndəgn isnin aɣan nihnenoetł nindəgn mnimes. Əpnəgn nindəgn ish aɣan aiktoetł ishəgn imes. Am ia_ nindəgn opnis aɣan nomisoetł mnimes. Ishəgn isnin aɣan ehnosoetł nindəgn imes. Uthənd ea_ am aɣan uthoetł nindəgn mnimes. Nindəgn am ea_ opnis aɣan imisoetł imes. Ishəgn nindəgn imesagə CNN.
+Uthəndəgn opnis aɣan imisoetł nindəgn imes. Am ea isnin aɣan nihnenoetł ishəgn mnimes. Sid, nindəgn ish aɣan əpnoetł nindəgn imes. Tid, əpnəgn isnin aɣan aiktoetł ishəgn imes. Am ia ifsinəgn opnis aɣan nomisoetł mnimes. Nindəgn am ea uth aɣan uthoetł ishəgn imes. Ishəgn isnin aɣan ehnosoetł nindəgn mnimes. Uthəndəgn opnis aɣan imisoetł ishəgn imes. Sid, aməgn isnin aɣan nihnenoetł nindəgn imes. Tid, əpnəgn ish aɣan aiktoetł nindəgn imes. Nindəgn opnis aɣan əpnoetł ishəgn imes. Am ia ifsinəgn isnin aɣan nomisoetł mnimes. Uth ea aməgn ish aɣan uthoetł nindəgn imes. Ishəgn opnis aɣan ihnenoetł nindəgn mnimes. Sid, nindəgn am ea isnin aɣan imisoetł imes. Tid, uthəndəgn isnin aɣan nihnenoetł nindəgn mnimes. Əpnəgn nindəgn ish aɣan aiktoetł ishəgn imes. Am ia nindəgn opnis aɣan nomisoetł mnimes. Ishəgn isnin aɣan ehnosoetł nindəgn imes. Uthənd ea am aɣan uthoetł nindəgn mnimes. Nindəgn am ea opnis aɣan imisoetł imes. Ishəgn nindəgn imesagə CNN.
