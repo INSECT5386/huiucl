@@ -8,6 +8,10 @@
         "Ɣmnexeiso eɣoespən pnəxə wm pnexeiso aɣan tłaki mnano eɣime ax": "생각하는 도구의 약자임, 학습, 추론 능력을 모방하는 컴퓨터 기술임 AI"
       }
     },
+    "음소": {
+      "C": "k, g, t, d, p, b, m, n, r, l, j, s, h, w",
+      "V": "a, e, i, o, u"
+    }
     "문법적": {
       "[단어]oe": "[단어]한|[단어]의",
       "[단어]uima": "[단어]하는",
