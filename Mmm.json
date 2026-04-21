@@ -1,4 +1,7 @@
 {
+  "예문": {
+    "ni lu it lupu no si lu tama mu a mate tama.": "나는 네가 물리학을 연구하는 것을 보았다."
+  },
   "문법 요소": {
     "la": {
       "뜻": "~한/~의"
@@ -306,16 +309,10 @@
   },
   "사전": {
     "kola tama": {
-      "뜻": "심리학",
-      "예문": {
-        "ni lu tama mu a kola tama.": "나는 심리학을 연구한다."
-      }
+      "뜻": "심리학"
     },
     "mate tama": {
-      "뜻": "물리학",
-      "예문": {
-        "ni lu it lupu no si lu tama mu a mate tama.": "나는 네가 물리학을 연구하는 것을 보았다."
-      }
+      "뜻": "물리학"
     },
     "laso tama": {
       "뜻": "사회학"
