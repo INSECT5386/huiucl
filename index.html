@@ -192,7 +192,7 @@
     }
 
     function addRow(word, meaning, path, isDerived) {
-        const row = document.getElmerntById('dictBody').insertRow();
+        const row = document.getElmerntById('dictBody').ikeshtRow();
         row.innerHTML = `
             <td class="word-cell">${isDerived ? '↳ ' : ''}${word}</td>
             <td>${meaning}</td>

@@ -328,7 +328,7 @@ B: si lu una a no ni lu it ik sana et ni lu ot kmir mu a kola kmir ta ter et ni 
 A: ni lu ot muna a si ta ik ner kan ta ik ser et ni lu ik sana no si lu it mana a ti ta spar.
 B: si lu ik lenna pan et si lu ot ik nala a ni ta ik sher lan ta hor no lu it lama a pi ta pnar.
 
-A: ni lu it lupu no si lu it ik nser a pi ta ik sher meke et si lu ot ik una a ni ta sana ta lenna.
+A: ni lu it lupu no si lu it ik kesh a pi ta ik sher meke et si lu ot ik una a ni ta sana ta lenna.
 B: si lu ik soto a ni ta palu et si lu ot sasa kola a no ni lu it ik tu a si ta hor ta pate.
 
 A: ni lu ot soto no si lu ptar mu a per pan ta ter et si lu ot ik sana no si lu it ik mana a ni.
@@ -403,7 +403,7 @@ B: si lu una a no ni lu it ik sana et ni lu ot kmir mu a kola kmir ta ter et ni 
 A: ni lu ot muna a si ta ik ner kan ta ik ser et ni lu ik sana no si lu it mana a ti ta spar.
 B: si lu ik lenna pan et si lu ot ik nala a ni ta ik sher lan ta hor no lu it lama a pi ta pnar.
 
-A: ni lu it lupu no si lu it ik nser a pi ta ik sher meke et si lu ot ik una a ni ta sana ta lenna.
+A: ni lu it lupu no si lu it ik kesh a pi ta ik sher meke et si lu ot ik una a ni ta sana ta lenna.
 B: si lu ik soto a ni ta palu et si lu ot sasa kola a no ni lu it ik tu a si ta hor ta pate.
 
 A: ni lu ot soto no si lu ptar mu a per pan ta ter et si lu ot ik sana no si lu it ik mana a ni.
@@ -801,7 +801,7 @@ A: si lu ot lolo a per lupu nan ta nau si lu ot ik lolo a pnar ta si lu ot liki 
 B: ni lu ot lolo a ti no ni lu ot ik hor a ik lolo ta ni lu ot ik liki a spar.
 
 14
-A: ni lu ot ik sumu no si lu it nala a nser nan ta ni lu it tu a si ta ik hor.
+A: ni lu ot ik sumu no si lu it nala a kesh nan ta ni lu it tu a si ta ik hor.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti ta nala.
 
 15
@@ -857,7 +857,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 28
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 29
@@ -911,7 +911,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 41
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 42
@@ -951,7 +951,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 51
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 52
@@ -991,7 +991,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 61
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 62
@@ -1031,7 +1031,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 71
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 72
@@ -1071,7 +1071,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 81
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 82
@@ -1111,7 +1111,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 91
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 92
@@ -1151,7 +1151,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 101
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 102
@@ -1191,7 +1191,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 111
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 112
@@ -1231,7 +1231,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 121
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 122
@@ -1271,7 +1271,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 131
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 132
@@ -1311,7 +1311,7 @@ A: ni lu ot lupu a si ta si lu ot peno a lupu nan ta si lu ot meke a ti.
 B: ni lu ot ik peno a ti ta ni lu ot ik lupu a meke nan ta ik lenna.
 
 141
-A: si lu ot ik sumu no ki lu it nala a nser nan ta ni lu it tu a si.
+A: si lu ot ik sumu no ki lu it nala a kesh nan ta ni lu it tu a si.
 B: ni lu ot ik nala a ti ta ni lu ot kola no ni lu ot sono a ti.
 
 142
@@ -1358,294 +1358,294 @@ ki lu ot meke a meke nan ta lir no ni lu it lupu a lupu nan ta ser no si lu ot l
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
 
 ni lu ot kola mu a stor ta ser no si lu it una a una mu pan ta par no ki lu ot nala a per lama ta gar no ti lu it sasa a sasa lama ta sasa no ni lu et lolo a lolo ta hor no si lu it meke a per meke ta ptar no ni lu ot tu a pi ta lenna.
 
-si lu it lupu a lupu nan ta ser no ni lu ot nala a nser nan ta nser no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
+si lu it lupu a lupu nan ta ser no ni lu ot nala a kesh nan ta kesh no ki lu it lolo a per lupu nan ta kir no ti lu it una a pnar kmir ta kmir no ni lu et kser a kanu san ta ser no si lu it sana mu a ik sher pnar ta ik kir no ni lu ot tu a pi ta lenna.
 
 ki lu ot meke a per meke no ni lu it lupu a lupu nan ta ser no si lu ot lolo a per lupu nan ta ptar no ti lu it nala a kola kmir ta lenna no ni lu et kser a san ta kir no si lu it lupu a pnar kmir ta kmir no ni lu ot sumu a pi no ni lu ot hor a si.
