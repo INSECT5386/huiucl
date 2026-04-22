@@ -1,6 +1,6 @@
 {
   "예문": {
-    "ni lu it lupu no si lu kmir mu a mate kmir.": "나는 네가 물리학을 연구하는 것을 보았다."
+    "ni lu it lupu no si lu kmir mu a pnar kmir.": "나는 네가 물리학을 연구하는 것을 보았다."
   },
   "문법 요소": {
     "ta": {
@@ -138,13 +138,13 @@
     "kola": {
       "뜻": "느끼다|정신적인|정신"
     },
-    "oka": {
+    "sher": {
       "뜻": "깨끗한|빛",
-      "ik oka": {
+      "ik sher": {
         "뜻": "더러운|어둠"
       }
     },
-    "mate": {
+    "pnar": {
       "뜻": "물리적인|물질적인|물리|물질"
     },
     "spar": {
@@ -240,8 +240,8 @@
         "뜻": "벗다|떼다"
       }
     },
-    "kiki": {
-      "뜻": "전기|전자"
+    "per": {
+      "뜻": "전기적인|전기|전자"
     },
     "pita": {
       "뜻": "협상하다|화해하다",
@@ -249,9 +249,9 @@
         "뜻": "싸우다"
       }
     },
-    "alo": {
-      "뜻": "사랑하다|귀여운",
-      "ik alo": {
+    "ner": {
+      "뜻": "귀여운|사랑하다",
+      "ik ner": {
         "뜻": "끔찍한|기괴한"
       }
     },
@@ -311,19 +311,19 @@
     "kola kmir": {
       "뜻": "심리학"
     },
-    "mate kmir": {
+    "pnar kmir": {
       "뜻": "물리학"
     },
     "stor kmir": {
       "뜻": "사회학"
     },
-    "kiki meke": {
+    "per meke": {
       "뜻": "코드를 짜다|타자를 치다",
-      "kiki meke nan": {
+      "per meke nan": {
         "뜻": "타자기"
       }
     },
-    "kiki pan": {
+    "per pan": {
       "뜻": "인공 지능"
     },
     "kola tu": {
@@ -335,7 +335,7 @@
         "뜻": "계산기"
       }
     },
-    "oka mu": {
+    "sher mu": {
       "뜻": "비추다|청소하다"
     },
     "kmir mu": {
@@ -362,10 +362,10 @@
     "sasa lama": {
       "뜻": "얼음물"
     },
-    "kiki lama": {
+    "per lama": {
       "뜻": "전류"
     },
-    "ik oka mate": {
+    "ik sher pnar": {
       "뜻": "그림자|암흑 물질"
     },
     "kapan lama": {
@@ -392,13 +392,13 @@
     "nser nan": {
       "뜻": "칼|가위"
     },
-    "kiki lupu nan": {
+    "per lupu nan": {
       "뜻": "모니터|TV"
     },
     "meke nan": {
       "뜻": "필기구"
     },
-    "kiki lama nan": {
+    "per lama nan": {
       "뜻": "세탁기"
     }
   }
