@@ -1,10 +1,10 @@
 {
   "예문": {
     "nai tu luktnt no sai lustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
-    "thks pan, upstr pan. tai lua ika sh pan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
+    "lathks pan, laupstr pan. tai lua laik lash pan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
   },
   "문법 요소": {
-    "_a": {
+    "la_": {
       "뜻": "~한/~의"
     },
     "lu_": {
