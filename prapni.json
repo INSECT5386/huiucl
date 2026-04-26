@@ -1,6 +1,6 @@
 {
   "예문": {
-    "netuluktent no setolustemt musmest.": "나는 네가 물리학을 연구하는 것을 보았다.",
+    "netuluktent no setolustemt esmest.": "나는 네가 물리학을 연구하는 것을 보았다.",
     "latheks pan, lapsetri pan. tetolua laik shepan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
   },
   "문법 요소": {
@@ -10,7 +10,7 @@
     "lu_": {
       "뜻": "서술어 표시"
     },
-    "mu_": {
+    "o_": {
       "뜻": "명사 표시"
     },
     "_i": {
