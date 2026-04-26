@@ -1,7 +1,7 @@
 {
   "예문": {
-    "netuluktnt no selustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
-    "lathks pan, laupstr pan. telua laik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
+    "ne tuluktnt no se tolustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
+    "lathks pan, laupstr pan. te tolua laik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
   },
   "문법 요소": {
     "la_": {
@@ -19,13 +19,13 @@
     "lua": {
       "뜻": "이다"
     },
-    "ti": {
+    "ti_": {
       "뜻": "이후에"
     },
-    "to": {
+    "to_": {
       "뜻": "지금"
     },
-    "tu": {
+    "tu_": {
       "뜻": "이전에"
     },
     "no": {
