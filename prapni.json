@@ -1,7 +1,7 @@
 {
   "예문": {
-    "nai tu luktnt no sai lustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
-    "lathks pan, laupstr pan. tai lua laik lash pan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
+    "netuluktnt no selustmt musmst.": "나는 네가 물리학을 연구하는 것을 보았다.",
+    "lathks pan, laupstr pan. telua laik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?"
   },
   "문법 요소": {
     "la_": {
@@ -47,26 +47,26 @@
     }
   },
   "대명사": {
-    "nai": {
+    "ne": {
       "뜻": "나"
     },
-    "sai": {
+    "se": {
       "뜻": "너"
     },
-    "kai": {
+    "ke": {
       "뜻": "그"
     },
-    "tai": {
+    "te": {
       "뜻": "그것"
     },
-    "pai": {
+    "pe": {
       "뜻": "이것|저것"
     }
   },
   "어근": {
     "pan": {
       "뜻": "사람",
-      "lash pan": "기계|노예"
+      "shpan": "기계|노예"
     },
     "nan": {
       "뜻": "도구"
