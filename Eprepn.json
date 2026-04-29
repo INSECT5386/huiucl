@@ -1,6 +1,6 @@
 {
   "예문": {
-    "adion ioniami no lauame.": "나는 네가 물리학을 연구하는 것을 보았다.",
+    "adyon yoniami no lauame.": "나는 네가 물리학을 연구하는 것을 보았다.",
     "ethks pan, epstri pan. taia eik shpan?": "자유를 찢는 자, 가치 없게 던진 자. 그것은 무엇의 노예인가?",
     "nuiqrnt no kuistmt krst oe stmtsan": "나는 그가 도서관에서 심리학을 연구했던 것을 들었다."
   },
@@ -119,18 +119,18 @@
     },
     "ia": {
       "뜻": "행동",
-      "ionia": "연구|배움",
+      "yonia": "연구|배움",
       "aqia": "생각|계산",
       "apia": "말|언어"
     },
-    "ion": {
+    "yon": {
       "뜻": "학문",
-      "esion": "사회학",
-      "adion": "물리학",
-      "elion": "전기공학",
-      "apion": "언어학",
-      "aqion": "심리학",
-      "adelion": "반도체 공학"
+      "esyon": "사회학",
+      "adyon": "물리학",
+      "elyon": "전기공학",
+      "apyon": "언어학",
+      "aqyon": "심리학",
+      "adelyon": "반도체 공학"
     },
     "ua": {
       "뜻": "수용|받음",
