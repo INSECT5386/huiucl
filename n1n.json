@@ -21,41 +21,56 @@
     "bai": "밈/상승/장소"
   },
   "복합어": {
-    "yashi": "꿈꾸다",
-    "washi": "빛나다",
-    "yishi": "살다",
-    "wishi": "이동하다/움직이다",
-    "yushi": "말하다",
-    "wushi": "제작하다/치료하다",
-    "yeshi": "사용하다",
-    "weshi": "생각하다|계산하다",
-    "zaishi": "시작하다",
-    "laishi": "선호하다",
-    "paishi": "명령하다/부탁하다/제안하다",
-    "daishi": "던지다/날리다",
-    "gaishi": "바꾸다/교환하다/거래하다",
-    "kaishi": "일하다",
-    "baishi": "밀다/상승하다",
-    "wachi": "보다",
-    "yichi": "먹다",
-    "wichi": "듣다",
-    "wuchi": "맡다",
-    "wechi": "이해하다",
-    "yuthi": "언어학",
-    "wethi": "심리학",
-    "zaithi": "전기공학",
-    "laithi": "물리학",
-    "yeyi": "사회",
-    "yeyithi": "사회학",
-    "thibai": "연구실/학교",
-    "yibai": "거주지",
-    "gaibai": "거래소/교환소",
-    "zaibai": "발전소",
-    "yikai": "건강",
-    "yigai": "삶의 의미/가치관",
-    "wekai": "성격",
-    "wegai": "의도",
-    "paidai": "투표",
-    "zaigai": "혁명"
+    "shi 계열 복합어": {
+      "yashi": "꿈꾸다",
+      "washi": "빛나다",
+      "yishi": "살다",
+      "wishi": "이동하다/움직이다",
+      "yushi": "말하다",
+      "wushi": "제작하다/치료하다",
+      "yeshi": "사용하다",
+      "weshi": "생각하다|계산하다",
+      "zaishi": "시작하다",
+      "laishi": "선호하다",
+      "paishi": "명령하다/부탁하다/제안하다",
+      "daishi": "던지다/날리다",
+      "gaishi": "바꾸다/교환하다/거래하다",
+      "kaishi": "일하다",
+      "baishi": "밀다/상승하다"
+    },
+    "chi 계열 복합어": {
+      "wachi": "보다",
+      "yichi": "먹다",
+      "wichi": "듣다",
+      "wuchi": "맡다",
+      "wechi": "이해하다"
+    },
+    "thi 계열 복합어": {
+      "yuthi": "언어학",
+      "wethi": "심리학",
+      "zaithi": "전기공학",
+      "laithi": "물리학",
+      "yeyithi": "사회학"
+    },
+    "bai 계열 복합어": {
+      "thibai": "연구실/학교",
+      "yibai": "거주지",
+      "gaibai": "거래소/교환소",
+      "zaibai": "발전소"
+    },
+    "kai 계열 복합어": {
+      "yikai": "건강",
+      "wekai": "성격"
+    },
+    "gai 계열 복합어": {
+      "yigai": "삶의 의미/가치관",
+      "wegai": "의도",
+      "zaigai": "혁명"
+    },
+    "dai 계열 복합어": {
+      "paidai": "투표",
+      "laidai": "포기"
+    },
+    "yeyi": "사회"
   }
 }
