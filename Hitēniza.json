@@ -1,7 +1,7 @@
 {
   "예문": {
-    "1": "Tu tev bhepja e, fu, hyten o tu.",
-    "2": "Xafy e, tu, yudu o redu"
+    "1": "dhi tev bhepja e, bhi, hyten o tu.",
+    "2": "Xafy e, dhi, yudu o redu"
   },
   "": {
     "자음" : "dh, bh, gh, p, t, k, cl[tshł], ql[kyul], h, n, m, ng[ŋ]",
@@ -23,7 +23,7 @@
     "_t" : "부정",
     "_p": "긍정",
     "대명사": {
-      "fu": "나",
+      "bhi": "나",
       "cu": "너",
       "mu": "그것",
       "dhi": "그",
