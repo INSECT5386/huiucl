@@ -1,13 +1,13 @@
 {
   "예문": {
-    "1": "Tu tev weuja e fu, hyten o Tu.",
-    "2": "Xafy tu, yudu o redu"
+    "1": "Tu tev weuja e, fu, hyten o Tu.",
+    "2": "Xafy e, tu, yudu o redu"
   },
   "문법 요소": {
     "_ho": "이후에",
     "_ha": "지금",
     "_hu": "이전에",
-    "X e Y": "X 로 인해 Y 가 발생",
+    "X e, Y": "X 로 인해 Y 가 발생",
     "X, Z o Y": "X가 Y를 대상으로 Z라는 행위",
     "X, Z": "X가 Z하다",
     "[X] tev [Y]": "Y라는 사실/상태를 가진 X (속성 규정)",
