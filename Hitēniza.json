@@ -3,6 +3,10 @@
     "1": "Cthuhawie, yahkentawi.",
     "2": "Cnete, wizittilt."
   },
+  "음소": {
+    "C": "ph, th, s, t, h, c[ts], q[kr], m, n, g, z, l",
+    "V": "a, i, u, o, e"
+  },
   "문법 요소": {
     "ta": "이후에",
     "ti": "지금",
