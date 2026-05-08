@@ -1,10 +1,10 @@
 {
   "예문": {
-    "1": "Ya, ta opsis hu sai opsizo. [jai tai oep.sie.s hua saie oep.saizoe]"
+    "1": "Ya, ta opsis hu sai opsizo."
   },
   "음소": {
     "C": "(h, s, z, c, y, w, z), (m, n, t, k, p), (pk, ps, pz)",
-    "V": "a[ai], i[ie], u[ua], o[oe], e[ei]"
+    "V": "a, i, u, o, e"
   },
   "문법 요소": {
     "ta": "이후에",
