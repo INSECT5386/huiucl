@@ -1,6 +1,7 @@
 {
   "예문": {
-    "1": "Ya, ta opsis hu sai opsizo."
+    "1": "Ya, ta opsis hu sai opsizo.",
+    "2": "Wi, tu na 10pezokl."
   },
   "음소": {
     "C": "(h, s, c, y, w, z), (m, n, t, k, p), (pk, ps, pz)",
@@ -15,6 +16,7 @@
     "[X], [Z]": "X가 Z하다",
     "[Y] [X]": "Y라는 사실/상태를 가진 X (속성 규정)",
     "i_": "복수",
+    "_kl": "함께, 전체",
     "coi X": "X를 사용해서",
     "sai X": "X에게/X에서",
     "koi X": "X와 함께",
@@ -116,6 +118,7 @@
     "zo 계열 복합어": {
       "omzo": "연구실/학교",
       "pezo": "거주지",
+      "pezokl": "공용주택",
       "opsizo": "거래소/교환소",
       "mazo": "발전소",
       "sizo": "휴게소/숙소",
