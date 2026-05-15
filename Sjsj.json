@@ -1,6 +1,6 @@
 {
   "음소": {
-    "C": "t(str), tl(stl), p(spr), pl(spl), k(skr), kl(skl), f(fr), fl(fl), m(m), n(n), g(g), b(b), d(d), s(s), c(ts), h(hr), hl(hl)",
+    "C": "t(st), tl(stl), p(sp), pl(spl), k(sk), kl(skl), f(sf), fl(fl), s(s), c(ts), h(h), hl(hl), m(m), n(n), g(g), b(b), d(d)",
     "V": "a, e, i, o, u"
   },
   "상태 어근": {
