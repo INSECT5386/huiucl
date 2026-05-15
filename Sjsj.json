@@ -1,4 +1,8 @@
 {
+  "음소": {
+    "C": "t(str), tl(stl), p(spr), pl(spl), k(skr), kl(skl), g(gr), gl(gl), f(fr), fl(fl), m(m), n(n), s(sl), c(ts), h(hr), hl(hl)",
+    "V": "a, e, i, o, u"
+  },
   "상태 어근": {
     "tu": "힘",
     "ka": "전기",
