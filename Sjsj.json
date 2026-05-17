@@ -1,11 +1,11 @@
 {
   "예문": {
-    "1": ".s ci'o pre qu'e icto ci'a hnocto zi li apret ci ctopie.",
-    "2": ".s ci'o pre qu'i ctogea li clori ci'a clipie.",
-    "3": ".s ci'o pre qu'u hloila ci'a boa."
+    "1": "s. ci'o pre qu'e icto ci'a hnocto zi li apret ci ctopie.",
+    "2": "s. ci'o pre qu'i ctogea li clori ci'a clipie.",
+    "3": "s. ci'o pre qu'u hloila ci'a boa."
   },
   "문법 요소": {
-    ".s -": "문장 시작",
+    "s. -": "문장 시작",
     "qu'[시제] A": "A 하다",
     "li A": "A 한 / A 적인",
     "ci A": "A 는 명사이다",
