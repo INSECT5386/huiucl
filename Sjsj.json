@@ -1,8 +1,9 @@
 {
   "예문": {
-    "1": "co'pre'o .ma'icto e'co'hnocto ter .li'apret co'ctopie."
+    "1": ".s co'pre'o .ma'icto e'co'hnocto ter .li'apret co'ctopie."
   },
   "문법 요소": {
+    ".s -": "문장 시작",
     ".ma'A": "A 하다",
     ".li'A": "A 한 / A 적인",
     "co'A": "A 는 명사이다",
