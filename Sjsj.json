@@ -1,19 +1,24 @@
 {
   "예문": {
-    "1": ".s co'pre'o .ma'icto co'e'hnocto ter .li'apret co'ctopie.",
-    "2": ".s co'pre'o .ma'ctogea .li'clori co'e'clipie.",
-    "3": ".s co'pre'o .ma'hloila co'e'boa."
+    "1": ".s ci'o pre qu'e icto ci'a hnocto ter li apret ci ctopie.",
+    "2": ".s ci'o pre qu'i ctogea li clori ci'a clipie.",
+    "3": ".s ci'o pre qu'u hloila ci'a boa."
   },
   "문법 요소": {
     ".s -": "문장 시작",
-    ".ma'A": "A 하다",
-    ".li'A": "A 한 / A 적인",
-    "co'A": "A 는 명사이다",
-    "co'e'A": "A 를",
-    "A'o": "A 는",
+    "qu'[시제] A": "A 하다",
+    "li A": "A 한 / A 적인",
+    "ci A": "A 는 명사이다",
+    "ci'a A": "A 를",
+    "ci'o A": "A 는",
     "ter A": "A 에게 / A 으로",
     "mor A": "A 에 대하여 / A 라는 것을",
-    "cor A": "A 에서"
+    "cor A": "A 에서",
+    "시제": {
+      "i": "미래",
+      "e": "현재",
+      "u": "과거"
+    }
   },
   "접사": {
     "_la": "긍정",
