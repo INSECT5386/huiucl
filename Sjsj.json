@@ -1,15 +1,15 @@
 {
   "예문": {
-    "1": ".s co'pre'o .ma'icto e'co'hnocto ter .li'apret co'ctopie.",
-    "2": ".s co'pre'o .ma'ctogea .li'clori e'co'clipie.",
-    "3": ".s co'pre'o .ma'hloila e'co'boa."
+    "1": ".s co'pre'o .ma'icto co'e'hnocto ter .li'apret co'ctopie.",
+    "2": ".s co'pre'o .ma'ctogea .li'clori co'e'clipie.",
+    "3": ".s co'pre'o .ma'hloila co'e'boa."
   },
   "문법 요소": {
     ".s -": "문장 시작",
     ".ma'A": "A 하다",
     ".li'A": "A 한 / A 적인",
     "co'A": "A 는 명사이다",
-    "e'A": "A 를",
+    "co'e'A": "A 를",
     "A'o": "A 는",
     "ter A": "A 에게 / A 으로",
     "mor A": "A 에 대하여 / A 라는 것을",
