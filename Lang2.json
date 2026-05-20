@@ -1,17 +1,17 @@
 {
     "음소":{
-        "C":"c[k] q[kw] p[p] t[t] s[s] r[r] l[ɬ] m[m] n[n]",
+        "C":"c[k] p[p] t[t] s[s] r[r] l[ɬ] m[m] n[n]",
         "V":"a[a] e[e] i[i] o[o] u[u]"
     },
     "예문":{
-        "1":"qicouoitlihaco.",
-        "2":"qitlanharoitlimupatha.",
-        "3":"qiceroitlita."
+        "1":"pnicouoitlihaco.",
+        "2":"pnitlanharoitlimupatha.",
+        "3":"pniceroitlita."
     },
     "대명사": {
-        "qi":"나",
-        "qe":"내가 아닌 사람",
-        "qa":"사람이 아닌 것"
+        "pni":"나",
+        "pne":"내가 아닌 사람",
+        "pna":"사람이 아닌 것"
     },
     "접사": {
         "n":"-하게, -이게",
