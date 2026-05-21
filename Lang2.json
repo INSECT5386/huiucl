@@ -1,4 +1,9 @@
 {
+    "음소": {
+        "C1 (클릭음)": "똑, 딱, 쯧, 쪽",
+        "C2": "ch, s, h, ng, n, m, l",
+        "V": "a, i, u, o"
+    },
     "예문": {
         "1": "pis tehosas cola sume nut"
     },
